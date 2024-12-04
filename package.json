@@ -21,7 +21,7 @@
   "dependencies": {
     "leaflet": "^1.9.4",
     "leaflet-overpass-layer": "^2.9.0",
-    "leaflet.locatecontrol": "^0.82.0",
+    "leaflet.locatecontrol": "^0.81.1",
     "sirv-cli": "^3.0.0"
   }
 }
