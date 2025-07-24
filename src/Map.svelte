@@ -4,6 +4,9 @@
     import "leaflet.locatecontrol";
     import "leaflet.locatecontrol/dist/L.Control.Locate.min.css"; // Import styles
     import { LocateControl } from "leaflet.locatecontrol";
+    import { renderPopup } from "./components/Popup";
+    import type { MarkupPreprocessor } from "svelte/compiler";
+    import type { Marker } from "./components/Marker";
 
     export var lat=48.783;
 	export var lon=9.183;
@@ -84,55 +87,21 @@
                         layer.remove();
                     }
                 });
-                parsedResponse.elements.forEach(element => {
-                    if(element.tags.drinking_water == "no"){
+                parsedResponse.elements.forEach((m: Marker) => {
+                    if(m.tags.drinking_water == "no"){
                         return; //skip if no drinking water
                     }
-                    if(element.type == "node"){    //render if element is point
-                        var marker = L.marker([element.lat, element.lon], {icon: marker_image}).addTo(map)
-                        .bindPopup(renderPopup(element));
-                    }else if(element.type == "way"){
-                        var marker = L.marker([element.geometry[0].lat, element.geometry[0].lon], {icon: marker_image}).addTo(map)
-                        .bindPopup(renderPopup(element));
+                    if(m.type == "node"){    //render if element is point
+                        var marker = L.marker([m.lat, m.lon], {icon: marker_image}).addTo(map)
+                        .bindPopup(renderPopup(m));
+                    }else if(m.type == "way" && m.geometry){
+                        var marker = L.marker([m.geometry[0].lat, m.geometry[0].lon], {icon: marker_image}).addTo(map)
+                        .bindPopup(renderPopup(m));
                     }
                 });
             });
         }
     };
-
-function renderPopup(element){
-    return renderPopupLine("name", element.tags.name) +
-    renderPopupLine("amenity", element.tags.amenity) +
-    renderPopupLine("drinking_water", element.tags.drinking_water) +
-    renderPopupLine("fountain", element.tags.fountain) +
-    renderPopupLine("tourism", element.tags.tourism) +
-    renderPopupLine("man_made", element.tags.man_made) +
-    renderPopupLine("natural", element.tags.natural) +
-    renderPopupLine("description", element.tags.description) +
-    renderWikidataLink( element.tags.wikidata) +
-    renderLink( element.tags.website);
-}
-
-function renderPopupLine(label:string, value:string){
-    if(value){
-        return label + ": " + value + "<br/>"
-    }
-    return "";
-}
-
-function renderWikidataLink( value:string){
-    if(value){
-        return "wikidata: <a href='https://www.wikidata.org/wiki/" + value + "' target='_blanc'>Link</a><br/>"
-    }
-    return "";
-}
-
-function renderLink( value: string ){
-    if(value){
-        return "website: <a href='" + value + "' target='_blanc'>Link</a><br/>"
-    }
-    return "";
-}
 
 </script>
 
