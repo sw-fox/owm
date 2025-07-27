@@ -1,15 +1,16 @@
 <script lang="ts">
     import L from "leaflet";
     import "leaflet/dist/leaflet.css";  //needs to be imported for proper rendering!
-    import "leaflet.locatecontrol"; // Import plugin
+    import "leaflet.locatecontrol";
     import "leaflet.locatecontrol/dist/L.Control.Locate.min.css"; // Import styles
+    import { LocateControl } from "leaflet.locatecontrol";
+    import { renderPopup } from "./components/Popup";
+    import type { MarkupPreprocessor } from "svelte/compiler";
+    import type { Marker } from "./components/Marker";
 
     export var lat=48.783;
 	export var lon=9.183;
 	export var zoom=13;
-    export function changeView(new_lat,new_lon,new_zoom){
-		console.log("function not injected");
-	};
 
     const marker_image = L.icon({
         iconUrl: 'images/marker-icon.png',
@@ -22,14 +23,23 @@
         popupAnchor:  [0, -30] // point from which the popup should open relative to the iconAnchor
     });
 
-    function createMap(container){
+    function createMap(container: HTMLDivElement){
         var map = L.map(container).setView([lat, lon], zoom);
-        //map.locate({setView: true, maxZoom: 16}); //manual go to user location
+        map.locate({setView: true, maxZoom: 16}); //manual go to user location
         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         }).addTo(map);
-        L.control.locate().addTo(map);
+
+        let lc = new LocateControl({
+            flyTo: true,
+            keepCurrentZoomLevel: true,
+            showCompass: true, // optional
+            strings: {
+                title: "Standort anzeigen"
+            },
+            }).addTo(map);
+
         map.on('dragend', function onDragEnd(){
             fetchOverpass(map);
         });
@@ -60,6 +70,10 @@
                 'nwr["fountain"="bottle_refill"]('+bbox+');' +
                 'nwr["natural"="spring"]('+bbox+');' +
                 'nwr["man_made"="water_well"]('+bbox+');' +
+                'way["landuse"="cemetery"]('+bbox+');' +
+                'relation["landuse"="cemetery"]('+bbox+');' +
+                'way["amenity"="grave_yard"]('+bbox+');' +
+                'relation["amenity"="grave_yard"]('+bbox+');' +
                 ');+out+geom;';
             const response = await fetch('https://overpass-api.de/api/interpreter', {
                 method: 'POST',
@@ -68,57 +82,36 @@
             });
 
             response.json().then(parsedResponse => {
-                parsedResponse.elements.forEach(element => {
-                    if(element.tags.drinking_water == "no"){
+                map.eachLayer((layer) => {  //remove all previous markers for performance reasons
+                    if (layer instanceof L.Marker) {
+                        layer.remove();
+                    }
+                });
+                parsedResponse.elements.forEach((m: Marker) => {
+                    if(m.tags.drinking_water == "no"){
                         return; //skip if no drinking water
                     }
-                    if(element.type == "node"){    //render if element is point
-                        var marker = L.marker([element.lat, element.lon], {icon: marker_image}).addTo(map)
-                        .bindPopup(renderPopup(element));
-                    }else if(element.type == "way"){
-                        var marker = L.marker([element.geometry[0].lat, element.geometry[0].lon], {icon: marker_image}).addTo(map)
-                        .bindPopup(renderPopup(element));
+                    if(m.type == "node"){    //render if element is point
+                        var marker = L.marker([m.lat, m.lon], {icon: marker_image}).addTo(map)
+                        .bindPopup(renderPopup(m));
+                    }else if(m.type == "way" && m.geometry){
+                        var marker = L.marker([m.geometry[0].lat, m.geometry[0].lon], {icon: marker_image}).addTo(map)
+                        .bindPopup(renderPopup(m));
                     }
                 });
             });
         }
     };
 
-function renderPopup(element){
-    return renderPopupLine("name", element.tags.name) +
-    renderPopupLine("amenity", element.tags.amenity) +
-    renderPopupLine("drinking_water", element.tags.drinking_water) +
-    renderPopupLine("fountain", element.tags.fountain) +
-    renderPopupLine("tourism", element.tags.tourism	) +
-    renderPopupLine("man_made", element.tags.man_made	) +
-    renderPopupLine("natural", element.tags.natural	) +
-    renderPopupLine("description", element.tags.description) +
-    renderWikidataLink( element.tags.wikidata) +
-    renderLink( element.tags.website);
-}
-
-function renderPopupLine(label, value){
-    if(value){
-        return label + ": " + value + "<br/>"
-    }
-    return "";
-}
-
-function renderWikidataLink( value){
-    if(value){
-        return "wikidata: <a href='https://www.wikidata.org/wiki/" + value + "' target='_blanc'>Link</a><br/>"
-    }
-    return "";
-}
-
-function renderLink( value){
-    if(value){
-        return "website: <a href='" + value + "' target='_blanc'>Link</a><br/>"
-    }
-    return "";
-}
-
 </script>
 
 
-<div class="map" style="height:100%;width:100%;overflow:hidden" use:createMap />
+<div class="map" use:createMap ></div>
+
+<style>
+.map{
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+</style>
