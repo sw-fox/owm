@@ -1,0 +1,806 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T14:11:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 250124588,
+  "lat": 54.1217257,
+  "lon": 13.7565300,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@marina-kroeslin.de",
+    "internet_access": "wlan",
+    "leisure": "marina",
+    "name": "Marina Kröslin",
+    "phone": "+49 38370 2510",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Kröslin",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "stars": "5",
+    "toilets": "yes",
+    "website": "http://www.marina-kroeslin.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 269575030,
+  "lat": 54.5718008,
+  "lon": 13.1103367,
+  "tags": {
+    "drinking_water": "yes",
+    "harbour": "yes",
+    "leisure": "marina",
+    "name": "Yachthafen Vitte-Lange Ort",
+    "phone": "+49 38300 6036868; +49 171 796 19 39",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Yachthafen Vitte-Lange Ort",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "website": "http://www.yachthafen-langeort.de"
+  }
+},
+{
+  "type": "node",
+  "id": 270796083,
+  "lat": 54.3455319,
+  "lon": 13.7417899,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "opening_hours": "08:00-22:00 \"Sommersaison\"|| 08:00-18:00 \"Wintersaison\"",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 410863572,
+  "lat": 54.1149048,
+  "lon": 13.8501656,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-08-10",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 410863573,
+  "lat": 54.1144226,
+  "lon": 13.8508004,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-08-06",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 410863574,
+  "lat": 54.1131816,
+  "lon": 13.8519905,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 431049796,
+  "lat": 54.5686297,
+  "lon": 13.1087236,
+  "tags": {
+    "draft": "3.1",
+    "drinking_water": "yes",
+    "fixme": "Internetzugang überprüfen",
+    "harbour": "yes",
+    "internet_access": "wlan",
+    "leisure": "marina",
+    "name": "Kommunalhafen Vitte",
+    "note": "Fahrwassertiefe 3,1 m",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Kommunalhafen Vitte",
+    "seamark:type": "harbour",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 461635665,
+  "lat": 54.1075933,
+  "lon": 13.8113671,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-10-25",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 736936020,
+  "lat": 54.0754777,
+  "lon": 13.9044271,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "centralkey": "eurokey",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours": "08:00-22:00",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1380371424,
+  "lat": 54.6716683,
+  "lon": 13.2958625,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1380371427,
+  "lat": 54.6717359,
+  "lon": 13.2962595,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1976790458,
+  "lat": 54.6379920,
+  "lon": 13.3773089,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1988407236,
+  "lat": 54.3122854,
+  "lon": 13.7173121,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1988412559,
+  "lat": 54.3143674,
+  "lon": 13.7190893,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2859825027,
+  "lat": 54.4320805,
+  "lon": 13.0268404,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2916509032,
+  "lat": 54.6280808,
+  "lon": 13.2323840,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3009388307,
+  "lat": 54.5828569,
+  "lon": 13.6125391,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-05-25",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3112527967,
+  "lat": 54.4588916,
+  "lon": 13.2495353,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "SB-Restaurant Rügenpark",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3452295743,
+  "lat": 54.2901668,
+  "lon": 13.0973669,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "source": "Stralsunder Park Quelle"
+  }
+},
+{
+  "type": "node",
+  "id": 3693383477,
+  "lat": 54.6724935,
+  "lon": 13.3067489,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3706250564,
+  "lat": 54.0960782,
+  "lon": 13.3820305,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "no",
+    "lit": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3708308494,
+  "lat": 54.0960162,
+  "lon": 13.3811021,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4969054473,
+  "lat": 54.5692576,
+  "lon": 13.6103980,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4969054474,
+  "lat": 54.5693717,
+  "lon": 13.6099222,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5103895804,
+  "lat": 54.3126551,
+  "lon": 13.7179863,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5108109735,
+  "lat": 54.3144275,
+  "lon": 13.7191370,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "female": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5108109736,
+  "lat": 54.3123543,
+  "lon": 13.7173668,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "female": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5108109740,
+  "lat": 54.3127174,
+  "lon": 13.7177776,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5108109742,
+  "lat": 54.3142570,
+  "lon": 13.7190810,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5108109743,
+  "lat": 54.3134831,
+  "lon": 13.7185345,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5493419032,
+  "lat": 54.1217263,
+  "lon": 13.8411840,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water:seasonal": "yes",
+    "fountain": "drinking",
+    "name": "Fußdusche"
+  }
+},
+{
+  "type": "node",
+  "id": 5688182021,
+  "lat": 54.4015129,
+  "lon": 13.6151770,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:location": "dedicated_room",
+    "contact:website": "https://binzer-bucht.de/toiletten/#/article/81eb123b-2b6d-4439-b525-3ce17b9ff4e8",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "object:city": "Ostseebad Binz",
+    "object:country": "DE",
+    "object:postcode": "18609",
+    "object:street": "Strandabgang 14",
+    "opening_hours": "24/7",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5989431813,
+  "lat": 54.0956358,
+  "lon": 13.3810725,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6183319500,
+  "lat": 54.3930461,
+  "lon": 13.6172640,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 6761481722,
+  "lat": 54.3322410,
+  "lon": 13.1206646,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Geschirrspülen + Trinkwasser",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6993255742,
+  "lat": 54.5708391,
+  "lon": 13.4686509,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "charge": "0.5",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7615998389,
+  "lat": 54.4479441,
+  "lon": 13.5732595,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "zwei Wasserhähne zum Füße waschen",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7806951231,
+  "lat": 54.5913959,
+  "lon": 13.1258672,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Zweckverband Wasserversorgung und Abwasserbehandlung Rügen",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 8904900518,
+  "lat": 54.3456211,
+  "lon": 13.7392359,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:fee": "yes",
+    "changing_table:location": "wheelchair_toilet",
+    "check_date": "2024-09-04",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "opening_hours": "\"Betriebszeiten des Rasenden Rolands\"",
+    "operator": "Rügensche Bäderbahn",
+    "portable": "no",
+    "tactile_paving": "yes",
+    "tactile_writing:braille:de": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8933590030,
+  "lat": 54.3521573,
+  "lon": 13.7273801,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 9040056488,
+  "lat": 54.0851044,
+  "lon": 13.8973944,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9040098707,
+  "lat": 54.0851217,
+  "lon": 13.8969854,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9040113260,
+  "lat": 54.0840533,
+  "lon": 13.8989726,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9040133902,
+  "lat": 54.0836413,
+  "lon": 13.8972614,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9898183586,
+  "lat": 54.3342909,
+  "lon": 13.7338175,
+  "tags": {
+    "amenity": "water_point",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9998282633,
+  "lat": 54.3162391,
+  "lon": 13.0896925,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Refill Station bei den Grünen"
+  }
+},
+{
+  "type": "node",
+  "id": 10031600069,
+  "lat": 54.6727057,
+  "lon": 13.3130655,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11007695701,
+  "lat": 54.3127537,
+  "lon": 13.7168419,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "female": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11007695702,
+  "lat": 54.3128062,
+  "lon": 13.7166775,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11007695703,
+  "lat": 54.3152671,
+  "lon": 13.7187682,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11007705806,
+  "lat": 54.3152222,
+  "lon": 13.7189405,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "female": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11037157468,
+  "lat": 54.3113568,
+  "lon": 13.7169204,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11037157469,
+  "lat": 54.3112370,
+  "lon": 13.7153533,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11037157470,
+  "lat": 54.3115699,
+  "lon": 13.7161497,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11037157471,
+  "lat": 54.3123201,
+  "lon": 13.7166148,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11038675229,
+  "lat": 54.3127152,
+  "lon": 13.7168809,
+  "tags": {
+    "access": "key",
+    "amenity": "kitchen",
+    "cooker": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:type": "tap",
+    "hot_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11061632023,
+  "lat": 54.3535244,
+  "lon": 13.4731020,
+  "tags": {
+    "access": "customers",
+    "description": "nur innerhalb der Öffnungszeiten",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Kurverwaltung Putbus"
+  }
+},
+{
+  "type": "node",
+  "id": 11226931631,
+  "lat": 54.0112975,
+  "lon": 13.8564623,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "charge": "0",
+    "fee": "no",
+    "man_made": "water_tap",
+    "survey:date": "2023-09-29",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12002529839,
+  "lat": 54.0956040,
+  "lon": 13.3819309,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12744380216,
+  "lat": 54.5847843,
+  "lon": 13.1109872,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12806365417,
+  "lat": 54.5690858,
+  "lon": 13.1084346,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+}
+
+  ]
+}

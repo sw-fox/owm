@@ -1,0 +1,1240 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T14:00:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 287298054,
+  "lat": 53.3306501,
+  "lon": 12.7151867,
+  "tags": {
+    "capacity": "150",
+    "drinking_water": "yes",
+    "email": "kontakt@msvr.de",
+    "leisure": "marina",
+    "name": "Seglerverein Rechlin",
+    "operator": "Müritz-Segel-Verein Rechlin e.V.",
+    "phone": "+49 175 1596197",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Seglerverein Rechlin",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "http://www.msvr.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 420481337,
+  "lat": 53.3558270,
+  "lon": 12.7277989,
+  "tags": {
+    "draft": "1.5",
+    "drinking_water": "yes",
+    "email": "contact@rundtoern-marinas.de",
+    "image": "http://www.rundtoern-marinas.de/uploads/pics/Hafendorf_Mueritz.jpg",
+    "internet_access": "wlan",
+    "leisure": "marina",
+    "name": "Marina Müritz",
+    "phone": "+49 39823 2660",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Müritz",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "washing_machine": "yes",
+    "website": "http://www.rundtoern-marinas.de/marina-mueritz/beschreibung-marina-mueritz.html"
+  }
+},
+{
+  "type": "node",
+  "id": 420481357,
+  "lat": 53.3834690,
+  "lon": 12.6091897,
+  "tags": {
+    "description": "Müritz",
+    "drinking_water": "yes",
+    "ft_link": "www.freietonne.de?edit=468",
+    "leisure": "marina",
+    "name": "Röbel Stadthafen",
+    "phone": "+49 160 2361557",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Stadthafen Röbel",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 431087562,
+  "lat": 53.2805039,
+  "lon": 12.9750908,
+  "tags": {
+    "depth": "0.80 m",
+    "draught": "1",
+    "drinking_water": "yes",
+    "email": "info@klein-seenplatte.de",
+    "fee": "yes",
+    "height": "57.5642090",
+    "leisure": "marina",
+    "name": "Wasserwanderrastplatz Wesenberg",
+    "operator": "Stadt Wesenberg",
+    "payment:cash": "yes",
+    "phone": "+49 174 1787459",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Wasserwanderrastplatz Wesenberg",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.klein-seenplatte.de/poi/poi/wasserwanderrastplatz-wesenberg-sportboothafen.html",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 455230060,
+  "lat": 53.2797442,
+  "lon": 12.9844894,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Wesenberg",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "17255",
+    "addr:street": "Havelmühle",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "email": "info@kanu-muehle.de",
+    "fax": "+49 321 211 902 74",
+    "ft_link": "www.freietonne.de?edit=9021",
+    "name": "Kanumühle Wesenberg",
+    "operator": "Peggy Sarodnik",
+    "phone": "+49 39832 203 50",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "waterway": "biwak",
+    "website": "https://www.kanu-muehle.de"
+  }
+},
+{
+  "type": "node",
+  "id": 493911820,
+  "lat": 53.4865895,
+  "lon": 12.6342549,
+  "tags": {
+    "description": "05-AUG-09 14:01:43",
+    "drinking_water": "yes",
+    "email": "info@mueritz-hotel.de",
+    "ft_link": "www.freietonne.de?edit=11423",
+    "leisure": "marina",
+    "name": "Hafen der Müritz Hotel GmbH",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Hafen der Müritz Hotel GmbH",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://waren-hotels.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 897977355,
+  "lat": 53.0184492,
+  "lon": 12.8131045,
+  "tags": {
+    "caravans": "yes",
+    "description": "Rezeption schließt schon gegen 16:00 Uhr. Außerdem wird Schlüssel für das Waschhaus benötigt. Teuer (Eine Person & Zelt 19.50€ in Hauptsaison).",
+    "drinking_water": "yes",
+    "name": "Am Rottstielfließ",
+    "phone": "+493392970644",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.camping-rheinsberg-neuruppin.de/campingplaetze/campingplatz-am-forsthaus-rottstielfliess"
+  }
+},
+{
+  "type": "node",
+  "id": 914909856,
+  "lat": 53.2227657,
+  "lon": 12.9684959,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date:wheelchair": "2023-07-05",
+    "drinking_water": "yes",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1274381986,
+  "lat": 53.5305969,
+  "lon": 12.5410087,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@maribell.de",
+    "leisure": "marina",
+    "name": "Maribell Yachthafen",
+    "phone": "+49 39929 70500",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Maribell Yachthafen",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "washing_machine": "yes",
+    "website": "https://www.maribell.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1352361844,
+  "lat": 53.3880387,
+  "lon": 12.6192720,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@marina-roebel-mueritz.de",
+    "internet_access": "wlan",
+    "leisure": "marina",
+    "name": "Röbeler Seglerverein",
+    "phone": "+49 39931 839900",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Röbeler Seglerverein",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "waste": "no",
+    "website": "https://www.marina-roebel-mueritz.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1813637866,
+  "lat": 53.2991615,
+  "lon": 12.7348064,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "opening_hours": "\"only Fusion-Festival\""
+  }
+},
+{
+  "type": "node",
+  "id": 1813637874,
+  "lat": 53.3010024,
+  "lon": 12.7337631,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "opening_hours": "\"only Fusion-Festival\""
+  }
+},
+{
+  "type": "node",
+  "id": 1813637885,
+  "lat": 53.3016667,
+  "lon": 12.7338376,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "opening_hours": "\"only Fusion-Festival\""
+  }
+},
+{
+  "type": "node",
+  "id": 1813637904,
+  "lat": 53.3048486,
+  "lon": 12.7329978,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1813637914,
+  "lat": 53.3056407,
+  "lon": 12.7333462,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1813637927,
+  "lat": 53.3070965,
+  "lon": 12.7349711,
+  "tags": {
+    "access": "private",
+    "description": "Only Fusion-Festival",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "temporary:amenity": "toilets",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1813637940,
+  "lat": 53.3078411,
+  "lon": 12.7343892,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1813637943,
+  "lat": 53.3077592,
+  "lon": 12.7375311,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1813637948,
+  "lat": 53.3088265,
+  "lon": 12.7481999,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1813637990,
+  "lat": 53.3089254,
+  "lon": 12.7389859,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1813637991,
+  "lat": 53.3090108,
+  "lon": 12.7343255,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1813638008,
+  "lat": 53.3092255,
+  "lon": 12.7358546,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1813638044,
+  "lat": 53.3096638,
+  "lon": 12.7400976,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1813638073,
+  "lat": 53.3104526,
+  "lon": 12.7508384,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1813638082,
+  "lat": 53.3107250,
+  "lon": 12.7374893,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1813638087,
+  "lat": 53.3109469,
+  "lon": 12.7409377,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1813638099,
+  "lat": 53.3112964,
+  "lon": 12.7368061,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1813638103,
+  "lat": 53.3113153,
+  "lon": 12.7441689,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1813638106,
+  "lat": 53.3116117,
+  "lon": 12.7428854,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1813638108,
+  "lat": 53.3116773,
+  "lon": 12.7411056,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 2044643745,
+  "lat": 53.2760438,
+  "lon": 12.9868974,
+  "tags": {
+    "addr:city": "Wesenberg",
+    "addr:country": "DE",
+    "addr:housenumber": "11",
+    "addr:postcode": "17255",
+    "addr:street": "Ahrensberger Weg",
+    "cabins": "yes",
+    "capacity:cabins": "3",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "email": "info@pfahlhauscamp.de",
+    "fee": "yes",
+    "name": "Zeltplatz & Pfahlhauscamp Wesenberg",
+    "opening_hours": "Mo-Su 08:00-12:00, 13:00-17:00",
+    "phone": "+49 39832 26023",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.marina-wesenberg.de/pfahlhauscamp.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2401176020,
+  "lat": 53.4629772,
+  "lon": 12.7989633,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2401198077,
+  "lat": 53.5135305,
+  "lon": 12.6939133,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-10-15"
+  }
+},
+{
+  "type": "node",
+  "id": 2401198083,
+  "lat": 53.5136693,
+  "lon": 12.6944666,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-10-15"
+  }
+},
+{
+  "type": "node",
+  "id": 2568976698,
+  "lat": 53.3871871,
+  "lon": 12.3272279,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2755932819,
+  "lat": 53.4607137,
+  "lon": 12.2757743,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "jpschaffran@mueritzfischer.de",
+    "leisure": "marina",
+    "name": "Hafen Plau am See",
+    "phone": "+49 3991 153413",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Hafen Plau am See",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "http://www.mueritzfischer.de/fischerhof/fischerhof_plau_de.php",
+    "wheelchair": "yes",
+    "wheelchair:description": "Wenn man zum Leuchtturm will kann man links um die Treppe herumfahren."
+  }
+},
+{
+  "type": "node",
+  "id": 2776707057,
+  "lat": 53.2058693,
+  "lon": 12.9952624,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Restaurant zum Löwen",
+    "phone": "+49 39828 20285",
+    "seamark:harbour:category": "marina_no_facilities",
+    "seamark:name": "Restaurant zum Löwen",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "http://www.hotel-restaurant-zum-loewen-strasen.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2976212564,
+  "lat": 53.7766810,
+  "lon": 12.2110425,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:location": "wheelchair_toilet",
+    "check_date": "2023-07-29",
+    "drinking_water": "yes",
+    "fee": "no",
+    "panoramax": "d8739dda-431e-4b27-9f42-cd6928e00461",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes",
+    "wheelchair:description": "Schlüssel erforderlich, ob Euroschlüssel passt konnte ich nicht in Erfahrung bringen"
+  }
+},
+{
+  "type": "node",
+  "id": 3659498484,
+  "lat": 53.4908086,
+  "lon": 12.1385426,
+  "tags": {
+    "addr:city": "Lübz",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "19386",
+    "addr:street": "Am Mühlenberg",
+    "drinking_water": "yes",
+    "email": "booking@bermudadreieck.camp",
+    "fee": "yes",
+    "internet_access": "wlan",
+    "name": "Naturcampingplatz & Hafen Bermudadreieck",
+    "phone": "+4938732999799",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "toilets": "yes",
+    "tourism": "caravan_site",
+    "website": "https://www.naturcamping-bermudadreieck.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 4090312313,
+  "lat": 53.3880143,
+  "lon": 12.6181094,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "name": "Toiletten",
+    "opening_hours": "Mo-Su 00:00-03:00,06:00-24:00",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4195572442,
+  "lat": 53.3099080,
+  "lon": 12.7520929,
+  "tags": {
+    "access": "private",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "Bachstelzen Pissbusch",
+    "opening_hours": "\"Only Fusion-Festival\"",
+    "toilets:disposal": "chemical",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4278130689,
+  "lat": 53.4368210,
+  "lon": 12.2889990,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Wasserhahn"
+  }
+},
+{
+  "type": "node",
+  "id": 4895297537,
+  "lat": 53.6616595,
+  "lon": 12.5849127,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4963428102,
+  "lat": 53.3163209,
+  "lon": 12.9425498,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-09-23",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4963428103,
+  "lat": 53.3165961,
+  "lon": 12.9428040,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-09-23",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5116889152,
+  "lat": 53.0684969,
+  "lon": 12.5333780,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "operator": "Autohof Herzsprung",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5141219469,
+  "lat": 53.4637010,
+  "lon": 12.4213705,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "operator": "Bootshalle Malchow"
+  }
+},
+{
+  "type": "node",
+  "id": 5419817134,
+  "lat": 53.3224255,
+  "lon": 12.9680096,
+  "tags": {
+    "addr:city": "Userin",
+    "addr:country": "DE",
+    "addr:housenumber": "19a",
+    "addr:postcode": "17237",
+    "addr:street": "Useriner Mühle",
+    "caravans": "yes",
+    "contact:email": "info@userinermuehle.de",
+    "contact:mobile": "+49 1704459484",
+    "contact:phone": "+49 3981 2568727",
+    "contact:website": "https://www.userinermuehle.de",
+    "drinking_water": "yes",
+    "dryer": "yes",
+    "fee": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Useriner Mühle",
+    "operator": "Hans Räder",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "tourism": "camp_site",
+    "washing_machine": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5582179925,
+  "lat": 53.5269832,
+  "lon": 12.6727571,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Edeka",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5717847723,
+  "lat": 53.3068525,
+  "lon": 12.7347620,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5910361585,
+  "lat": 53.3711487,
+  "lon": 12.7777456,
+  "tags": {
+    "cabins": "no",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "name": "Wasserwanderrastplatz \"Alte Fahrt\"",
+    "object:city": "Rechlin",
+    "object:country": "DE",
+    "object:postcode": "17248",
+    "object:street": "Bolter Schleuse",
+    "official_name": "Wasserwanderrastplatz Alte Fahrt",
+    "operator": "Feriendorf \"Alte Fahrt\"",
+    "permanent_camping": "no",
+    "power_supply": "yes",
+    "shower": "yes",
+    "static_caravans": "no",
+    "surface": "grass",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://mueritz.com/wasserwandern/"
+  }
+},
+{
+  "type": "node",
+  "id": 6738347055,
+  "lat": 53.2067246,
+  "lon": 12.8692713,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "unisex": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6779670379,
+  "lat": 53.1644970,
+  "lon": 12.4945061,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7626261628,
+  "lat": 53.4195166,
+  "lon": 12.6263796,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7626284013,
+  "lat": 53.4193614,
+  "lon": 12.6264786,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8151823863,
+  "lat": 53.3075297,
+  "lon": 12.7365896,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8263978350,
+  "lat": 53.2080465,
+  "lon": 12.8017876,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8263978351,
+  "lat": 53.2080507,
+  "lon": 12.8023245,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8263978352,
+  "lat": 53.2082141,
+  "lon": 12.8014030,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8898705813,
+  "lat": 53.4189768,
+  "lon": 12.9574130,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8907674751,
+  "lat": 53.3082484,
+  "lon": 12.7336802,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8907674752,
+  "lat": 53.3088219,
+  "lon": 12.7381437,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9007101410,
+  "lat": 53.1871864,
+  "lon": 12.9159678,
+  "tags": {
+    "amenity": "drinking_water",
+    "note": "Schwengelpumpe"
+  }
+},
+{
+  "type": "node",
+  "id": 9875314319,
+  "lat": 53.3112303,
+  "lon": 12.7402875,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9875314320,
+  "lat": 53.3123172,
+  "lon": 12.7403624,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9952129414,
+  "lat": 53.4268802,
+  "lon": 12.9320068,
+  "tags": {
+    "addr:city": "Kratzeburg",
+    "addr:country": "DE",
+    "addr:housenumber": "37",
+    "addr:postcode": "17237",
+    "addr:street": "Dalmsdorf",
+    "cabins": "yes",
+    "capacity": "5-10",
+    "caravans": "no",
+    "contact:email": "ingo@kanu-hecht.de",
+    "contact:mobile": "+49 172 9323625",
+    "contact:phone": "+49 39822 17988",
+    "contact:website": "https://www.kanu-hecht.de/",
+    "drinking_water": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Kanu-Hecht",
+    "operator": "Ingo Hecht",
+    "picnic_table": "yes",
+    "power_supply": "no",
+    "reservation": "recommended",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.kanu-hecht.de/radler-rast/allgemeines",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9960275586,
+  "lat": 53.3472660,
+  "lon": 12.9218449,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "operator": "Campingplatz Zum Hexenwäldchen"
+  }
+},
+{
+  "type": "node",
+  "id": 9960275587,
+  "lat": 53.3476722,
+  "lon": 12.9216242,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "operator": "Campingplatz Zum Hexenwäldchen"
+  }
+},
+{
+  "type": "node",
+  "id": 9998994297,
+  "lat": 53.6521149,
+  "lon": 12.2697706,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bubbler",
+    "panoramax": "051f73f8-df7b-4db5-9420-19923d0773f9"
+  }
+},
+{
+  "type": "node",
+  "id": 10147793656,
+  "lat": 53.3123029,
+  "lon": 12.0096727,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11150573372,
+  "lat": 53.5144716,
+  "lon": 12.6889262,
+  "tags": {
+    "alt_name": "Elefantenbrunnen",
+    "amenity": "fountain",
+    "artist_name": "Walther Preik",
+    "description": "Auf dem Kopf stehender Elephant - aus seinem Rüssel sprudelt nur ein bisschen Wasser nach oben.",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "est_height": "1.2",
+    "fountain": "decorative",
+    "image": "https://commons.wikimedia.org/wiki/File:Waren-Mueritz_Markt_Rathaus_2011-03-02.jpg",
+    "lit": "no",
+    "material": "bronze;granite",
+    "name": "Elefant",
+    "name:en": "Elephant",
+    "note": "Hauptsächlich ist dies \"amenity=fountain\" (der mit Leitungswasser gespeist wird) und kein \"amenity=drinking_water\".",
+    "operator": "Stadt Waren (Müritz)",
+    "owner": "Stadt Waren (Müritz)",
+    "subject:wikipedia": "de:Walther Preik",
+    "website": "https://www.waren-tourismus.de/reiseziele/elefantenbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 11151932369,
+  "lat": 53.3598349,
+  "lon": 12.9377901,
+  "tags": {
+    "access": "customers",
+    "caravans": "yes",
+    "contact:email": "pension.fischerhaus@t-online.de",
+    "contact:mobile": "+49 1702124754",
+    "contact:phone": "+49 39829 20212",
+    "description": "Anzahl Zelte / Wohnwagen / etc. ist sehr begrenzt.",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Pension Fischerhaus",
+    "operator": "Doreen Dreier und Ines Krüger Pension Fischerhaus GbR",
+    "power_supply": "yes",
+    "reservation": "required",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "static_caravans": "no",
+    "surface": "grass",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11181488345,
+  "lat": 53.2804265,
+  "lon": 12.9745504,
+  "tags": {
+    "bicycle": "yes",
+    "canoe": "yes",
+    "caravans": "no",
+    "description": "Zeltplatz für Bootsfahrer und Radfahrer u.ä.",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "hiking": "yes",
+    "motor_vehicle": "no",
+    "motorhome": "no",
+    "name": "Wasserwanderrastplatz Wesenberg",
+    "picnic_table": "yes",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 11240833471,
+  "lat": 53.1885110,
+  "lon": 12.9194553,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11240848772,
+  "lat": 53.1882803,
+  "lon": 12.9194544,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "informal": "no",
+    "leisure": "bathing_place",
+    "shower": "yes",
+    "sport": "swimming",
+    "toilets": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11409395606,
+  "lat": 53.3557080,
+  "lon": 12.7339576,
+  "tags": {
+    "access": "customers",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "motorhome": "designated"
+  }
+},
+{
+  "type": "node",
+  "id": 11573444129,
+  "lat": 53.5124074,
+  "lon": 12.6903040,
+  "tags": {
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "covered": "no",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "man_made": "drinking_fountain",
+    "seasonal": "yes",
+    "source:position": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12143810753,
+  "lat": 53.3307448,
+  "lon": 12.9564066,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12147675266,
+  "lat": 53.2221738,
+  "lon": 12.9680112,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12149481903,
+  "lat": 53.2538805,
+  "lon": 12.9090737,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12149874441,
+  "lat": 53.2373619,
+  "lon": 12.8288971,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12151250832,
+  "lat": 53.3473595,
+  "lon": 12.8233463,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12197375725,
+  "lat": 53.3171968,
+  "lon": 12.9435123,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Campingplatz",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12952137901,
+  "lat": 53.3092300,
+  "lon": 12.7415386,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12952325203,
+  "lat": 53.3111066,
+  "lon": 12.7404032,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+}
+
+  ]
+}

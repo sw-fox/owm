@@ -1,0 +1,539 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:55:46Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3094403416,
+  "lat": 52.9053109,
+  "lon": 16.5644210,
+  "tags": {
+    "artwork_type": "statue",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "metal",
+    "name": "Janko z Czarnkowa",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3849881681,
+  "lat": 52.3713860,
+  "lon": 16.7647476,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4437825289,
+  "lat": 52.6117369,
+  "lon": 16.5761837,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4482618903,
+  "lat": 52.6276421,
+  "lon": 16.4503670,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4482618914,
+  "lat": 52.6264912,
+  "lon": 16.4496362,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4527091789,
+  "lat": 52.5504963,
+  "lon": 16.0877617,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4527091790,
+  "lat": 52.5499830,
+  "lon": 16.0881114,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4942749595,
+  "lat": 52.4315276,
+  "lon": 16.9309485,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 4956909222,
+  "lat": 52.4869700,
+  "lon": 16.4294858,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4956928121,
+  "lat": 52.4822514,
+  "lon": 16.4316368,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4963214816,
+  "lat": 52.4080131,
+  "lon": 16.9166224,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "limited",
+    "wheelchair:description": "En: Step-free, but tap and spout on two different sides. May be difficult to reach both without tipping over."
+  }
+},
+{
+  "type": "node",
+  "id": 5115736521,
+  "lat": 52.7104584,
+  "lon": 16.5249387,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5119234393,
+  "lat": 52.4079002,
+  "lon": 16.9340283,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5254015624,
+  "lat": 52.5959771,
+  "lon": 16.5931393,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5664414347,
+  "lat": 52.4085394,
+  "lon": 16.9331424,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Poznan",
+    "amenity": "drinking_water",
+    "check_date": "2024-08-01",
+    "fee": "no",
+    "fountain": "drinking",
+    "wheelchair": "yes",
+    "wheelchair:description": "[En: On pedestrianised cobbled square."
+  }
+},
+{
+  "type": "node",
+  "id": 5758976694,
+  "lat": 52.5170961,
+  "lon": 16.7435817,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5759538066,
+  "lat": 52.5169165,
+  "lon": 16.7444701,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6634593360,
+  "lat": 52.8959032,
+  "lon": 16.5508417,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6703970812,
+  "lat": 52.3718617,
+  "lon": 16.9162310,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Darmowe poidełko z kranu, do wyboru woda zwykła lub gazowana. Po prawej stronie po wejściu.",
+    "indoor": "yes",
+    "name": "Poidełko Aquanet"
+  }
+},
+{
+  "type": "node",
+  "id": 7317076489,
+  "lat": 52.6451555,
+  "lon": 16.8100910,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 7881196478,
+  "lat": 52.6525398,
+  "lon": 16.8194110,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8750732307,
+  "lat": 52.4125246,
+  "lon": 16.9303042,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9032024984,
+  "lat": 52.4063173,
+  "lon": 16.9347857,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9315680906,
+  "lat": 52.6034711,
+  "lon": 16.5858701,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9645368755,
+  "lat": 52.4489055,
+  "lon": 16.1796802,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9645368756,
+  "lat": 52.4485066,
+  "lon": 16.1798814,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9645368757,
+  "lat": 52.4487175,
+  "lon": 16.1810079,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9768120526,
+  "lat": 52.6139053,
+  "lon": 16.5768645,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 9795755090,
+  "lat": 52.3489413,
+  "lon": 16.7145065,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9795768489,
+  "lat": 52.3507255,
+  "lon": 16.7145665,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10148118412,
+  "lat": 52.5181019,
+  "lon": 16.6908190,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 10155346335,
+  "lat": 52.5066970,
+  "lon": 16.7388104,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10215519614,
+  "lat": 52.6115608,
+  "lon": 16.5796809,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "animal": "yes",
+    "description": "Poidełko z opcją pojenia zwierząt.",
+    "fixme": "ustalić realne położenie - obecnie parking rowerowy i poidło znajdują się na skrzyżowaniu (!)",
+    "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 10224358060,
+  "lat": 52.6108771,
+  "lon": 16.5787315,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "animal": "yes",
+    "description": "Poidełko z opcją pojenia zwierząt.",
+    "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 10224358061,
+  "lat": 52.6115238,
+  "lon": 16.5781223,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "animal": "yes",
+    "description": "Poidełko z opcją pojenia zwierząt.",
+    "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 10224358062,
+  "lat": 52.6116068,
+  "lon": 16.5782807,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours": "24/7",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 10969801470,
+  "lat": 52.2249967,
+  "lon": 16.3662081,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11020537425,
+  "lat": 52.3668739,
+  "lon": 16.1894981,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 11025513538,
+  "lat": 52.4004365,
+  "lon": 16.9197210,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "source": "survey",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11124688677,
+  "lat": 52.3944804,
+  "lon": 16.9356330,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11142130291,
+  "lat": 52.3661904,
+  "lon": 16.9041260,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11232468946,
+  "lat": 52.7136751,
+  "lon": 16.8813121,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11372186919,
+  "lat": 52.4087222,
+  "lon": 16.9024342,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fee": "no",
+    "seasonal": "summer",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11829954462,
+  "lat": 52.4150467,
+  "lon": 16.8294463,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "man_made": "water_tap",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12787802913,
+  "lat": 52.5116364,
+  "lon": 16.7536009,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12876927617,
+  "lat": 52.4054055,
+  "lon": 16.9331532,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "Aquanet"
+  }
+}
+
+  ]
+}

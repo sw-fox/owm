@@ -1,0 +1,7898 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:54:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 257372882,
+  "lat": 52.4874875,
+  "lon": 13.4642879,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "centralkey": "eurokey",
+    "changing_table": "no",
+    "check_date": "2025-06-06",
+    "contact:phone": "+49 800 092 55 24",
+    "description": "Berliner Toilette",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Berliner Toilette",
+    "opening_hours": "24/7",
+    "operator": "Wall",
+    "operator:wikidata": "Q1310189",
+    "payment:cards": "yes",
+    "payment:contactless": "yes",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated",
+    "toilets:wheelchair": "yes",
+    "unisex": "yes",
+    "website": "https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/infrastruktur/oeffentliche-toiletten/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 260955303,
+  "lat": 52.5461978,
+  "lon": 13.2059831,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 373563137,
+  "lat": 52.8478609,
+  "lon": 13.9407984,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "0",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "check_date": "2025-04-06",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 408474132,
+  "lat": 52.5450750,
+  "lon": 13.3508222,
+  "tags": {
+    "amenity": "drinking_water",
+    "designation": "Fachschaftsrat VIII",
+    "level": "1",
+    "opening_hours": "We,Th 12:15-13:45",
+    "ref:room": "A 112"
+  }
+},
+{
+  "type": "node",
+  "id": 415726099,
+  "lat": 52.0101838,
+  "lon": 13.0905990,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 415726100,
+  "lat": 52.0102945,
+  "lon": 13.0905605,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "date_on": "april-september"
+  }
+},
+{
+  "type": "node",
+  "id": 415726101,
+  "lat": 52.0104029,
+  "lon": 13.0905328,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "date_on": "april-september"
+  }
+},
+{
+  "type": "node",
+  "id": 431042165,
+  "lat": 52.1356034,
+  "lon": 13.6082053,
+  "tags": {
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Hafen Teupitz",
+    "phone": "+49 33766 62496",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Hafen Teupitz",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "washing_machine": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 431064370,
+  "lat": 52.8493432,
+  "lon": 13.8582450,
+  "tags": {
+    "draft": "1.2",
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Anleger Schleuse Ragöse",
+    "phone": "+49 3334 64520",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Anleger Schleuse Ragöse",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 431064829,
+  "lat": 52.6837632,
+  "lon": 13.2445475,
+  "tags": {
+    "description": "Diesel Tankstelle 09-AUG-08 14:30:48",
+    "draft": "1.5",
+    "drinking_water": "yes",
+    "email": "havelbaude@t-online.de",
+    "height": "23.197388",
+    "leisure": "marina",
+    "name": "Marina Havelbaude",
+    "phone": "+49 3303 500239",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Havelbaude",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://www.marina-havelbaude.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 431071223,
+  "lat": 52.2231001,
+  "lon": 13.7640597,
+  "tags": {
+    "drinking_water": "yes",
+    "image": "http://www.flussinfo.net/dahme-spree-rundtour-maerkische-umfahrt/galerie/4903-einsetzstelle-hafen-prieros/",
+    "leisure": "marina",
+    "name": "Prieros Hafen",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Prieros Hafen",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 436185803,
+  "lat": 52.9163302,
+  "lon": 13.7127164,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@werbellinsee-marina-altenhof.de",
+    "leisure": "marina",
+    "name": "Marina Altenhof",
+    "phone": "+49 33363 46666",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Altenhof",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://www.werbellinsee-marina-altenhof.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 449162395,
+  "lat": 52.5027369,
+  "lon": 13.3250412,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "fountain": "bubbler",
+    "name": "Wiener Trinkbrunnen",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 449162399,
+  "lat": 52.5032480,
+  "lon": 13.3276757,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 480350456,
+  "lat": 52.5016278,
+  "lon": 13.5326143,
+  "tags": {
+    "access": "yes",
+    "changing_table": "yes",
+    "changing_table:count": "2",
+    "changing_table:location": "dedicated_room",
+    "disused:amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 480350458,
+  "lat": 52.5047637,
+  "lon": 13.5293754,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:location": "female_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 690616103,
+  "lat": 52.5064908,
+  "lon": 13.8216939,
+  "tags": {
+    "draft": "1.5",
+    "drinking_water": "yes",
+    "email": "mail@mc-stienitzsee.de",
+    "ft_link": "www.freietonne.de?edit=27087",
+    "leisure": "marina",
+    "name": "MC Stienitzsee",
+    "phone": "+49 33434 14695",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "MC Stienitzsee",
+    "seamark:type": "harbour",
+    "website": "http://www.wodan-solutions.com/user/mcs/index.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 705853530,
+  "lat": 52.5090859,
+  "lon": 13.2933791,
+  "tags": {
+    "addr:full": "Witzlebenplatz 2",
+    "check_date": "2023-07-25",
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Charlottenburg Witzlebenplatz 1 Wasserpumpe-002.jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "panoramax:0": "74c46473-488b-4a72-9f19-cf3a549ec351",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "Lauchhammer",
+    "ref": "114",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Charlottenburg-Wilmersdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 718143683,
+  "lat": 52.5053147,
+  "lon": 13.2308287,
+  "tags": {
+    "addr:full": "Kranzallee 56",
+    "check_date": "2020-10-01",
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Westend Kranzallee Wasserpumpe 76.jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "Borsig",
+    "ref": "76",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Charlottenburg-Wilmersdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 726126780,
+  "lat": 52.4733785,
+  "lon": 13.3147401,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "charge": "0,50 Eur",
+    "contact:phone": "+49 800 092 55 24",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "image": "http://commons.wikimedia.org/wiki/File:CafeAchteckAmRuedesheimerPlatz20050929.jpg",
+    "note": "Historische Toilette (Typ: \"Café Achteck\"), gemauert",
+    "opening_hours": "24/7",
+    "unisex": "yes",
+    "website": "https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/infrastruktur/oeffentliche-toiletten/",
+    "wheelchair": "no",
+    "wikidata": "Q114966037"
+  }
+},
+{
+  "type": "node",
+  "id": 760002903,
+  "lat": 52.4722020,
+  "lon": 13.4461433,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "0",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2024-07-22",
+    "cold_water": "yes",
+    "covered": "no",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 775862448,
+  "lat": 52.5033613,
+  "lon": 13.3172607,
+  "tags": {
+    "addr:full": "Schlüterstraße 52",
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Charlottenburg Schlüterstraße Wasserpumpe.jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "pump": "manual",
+    "pump:style": "Rümmler",
+    "ref": "86",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Charlottenburg-Wilmersdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 789400935,
+  "lat": 52.5034004,
+  "lon": 13.3304781,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 801681456,
+  "lat": 52.5525831,
+  "lon": 13.3813936,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 821597739,
+  "lat": 52.4821114,
+  "lon": 13.3034619,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 822490895,
+  "lat": 52.4554121,
+  "lon": 13.3022781,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode",
+    "fountain": "bubbler",
+    "opening_hours": "open; Nov-Apr: off",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 864085700,
+  "lat": 52.5008044,
+  "lon": 13.4311938,
+  "tags": {
+    "addr:full": "Lausitzer Platz ggü. 12",
+    "check_date": "2021-06-23",
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Str.brunnen Kreuzberg Lausitzer Platz.jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "official_ref": "Kr012",
+    "operator": "Land",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "Lauchhammer",
+    "ref": "12",
+    "start_date": "1985",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
+  }
+},
+{
+  "type": "node",
+  "id": 905817080,
+  "lat": 52.2722873,
+  "lon": 13.8247856,
+  "tags": {
+    "access": "permissive",
+    "caravans": "no",
+    "charge": "5 Eur/person/day",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Wasserwanderrastplatz Wolzig",
+    "operator": "Heimatverein Wolzig e.V.",
+    "payment:cash": "yes",
+    "power_supply": "no",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 913642413,
+  "lat": 52.3957944,
+  "lon": 13.0660302,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "yes",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 926610466,
+  "lat": 52.8651323,
+  "lon": 13.3954431,
+  "tags": {
+    "draft": "1.5",
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "ehemalige Marina Liebenwalde",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "ehemalige Marina Liebenwalde",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 934889825,
+  "lat": 52.5012603,
+  "lon": 13.4147928,
+  "tags": {
+    "access": "yes",
+    "addr:full": "Segitzdamm ggü. 6",
+    "check_date": "2023-06-04",
+    "colour": "green",
+    "covered": "no",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Str.brunnen Kreuzberg Segitzdamm.jpg",
+    "man_made": "water_well",
+    "material": "metal",
+    "network": "Berliner Straßenbrunnen",
+    "official_ref": "Kr080",
+    "operator": "Bund",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "Wolf 2",
+    "ref": "80",
+    "source": "survey",
+    "start_date": "1977",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
+  }
+},
+{
+  "type": "node",
+  "id": 963643060,
+  "lat": 52.4917879,
+  "lon": 13.3908294,
+  "tags": {
+    "addr:full": "Nostitzstraße 49",
+    "check_date": "2021-05-20",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Straßenbrunnen 58 Nostitzstraße Kreuzberg.jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "official_ref": "Kr058",
+    "operator": "Land",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "Lauchhammer",
+    "ref": "58",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
+  }
+},
+{
+  "type": "node",
+  "id": 997673413,
+  "lat": 52.9557079,
+  "lon": 13.7395747,
+  "tags": {
+    "draft": "2.5",
+    "drinking_water": "yes",
+    "email": "marina-joachimsthal@gmx.de",
+    "leisure": "marina",
+    "name": "Marina Werbellinsee",
+    "phone": "+49 174 8613362",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Werbellinsee",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "washing_machine": "yes",
+    "website": "https://www.marina-werbellinsee.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1044310084,
+  "lat": 52.4180653,
+  "lon": 13.5828182,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "pier36eins@u-s-e.org",
+    "leisure": "marina",
+    "name": "pier36eins",
+    "phone": "+49 30 677880104",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "pier36eins",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://www.pier36eins.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1104723878,
+  "lat": 52.3712521,
+  "lon": 13.1355593,
+  "tags": {
+    "addr:city": "Potsdam",
+    "addr:country": "DE",
+    "addr:housename": "Stern-Center",
+    "addr:housenumber": "1-10",
+    "addr:postcode": "14480",
+    "addr:street": "Stern-Center",
+    "addr:suburb": "Drewitz",
+    "brand": "dm",
+    "brand:wikidata": "Q266572",
+    "brand:wikipedia": "de:dm-drogerie markt",
+    "cash_withdrawal": "yes",
+    "cash_withdrawal:fee": "no",
+    "cash_withdrawal:limit": "200",
+    "cash_withdrawal:purchase_minimum": "10",
+    "cash_withdrawal:purchase_required": "yes",
+    "cash_withdrawal:type": "checkout",
+    "changing_table": "yes",
+    "contact:facebook": "https://de-de.facebook.com/dm.Deutschland",
+    "contact:instagram": "https://www.instagram.com/dm_deutschland/",
+    "contact:phone": "+49 331 867 50480",
+    "contact:website": "https://www.dm.de/store/d4j8/potsdam/stern-center-1-10",
+    "contact:xing": "https://www.xing.com/company/dm",
+    "contact:youtube": "https://www.youtube.com/user/dmdeutschland",
+    "drinking_water": "yes",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "dm",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su,PH off",
+    "operator": "dm-drogerie markt GmbH + Co. KG",
+    "operator:type": "business",
+    "operator:wikidata": "Q266572",
+    "operator:wikipedia": "de:dm-drogerie markt",
+    "payment:american_express": "yes",
+    "payment:girocard": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "chemist",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1130227591,
+  "lat": 52.4986636,
+  "lon": 13.4189631,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1243688634,
+  "lat": 52.3870207,
+  "lon": 13.1158846,
+  "tags": {
+    "check:date": "2024-04-07",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "removed:amenity": "toilets",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1243688656,
+  "lat": 52.3849940,
+  "lon": 13.1184132,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1243702076,
+  "lat": 52.3855549,
+  "lon": 13.1160652,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 1255759952,
+  "lat": 52.4315183,
+  "lon": 13.4093084,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "fountain": "bubbler",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1310675312,
+  "lat": 52.4369238,
+  "lon": 13.8502016,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1310675347,
+  "lat": 52.4366145,
+  "lon": 13.8512015,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1310675441,
+  "lat": 52.4373922,
+  "lon": 13.8508173,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1348055731,
+  "lat": 52.4557499,
+  "lon": 13.3059014,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode",
+    "fountain": "bubbler",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1350469485,
+  "lat": 52.4247840,
+  "lon": 13.0501402,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "wheelchair": "bad"
+  }
+},
+{
+  "type": "node",
+  "id": 1442452766,
+  "lat": 52.5249428,
+  "lon": 13.1970197,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1574518467,
+  "lat": 52.2553426,
+  "lon": 13.7352949,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "joergjakob@vodafone.de",
+    "leisure": "marina",
+    "maxdraft": "1.5",
+    "name": "Sport-Boot-Center",
+    "phone": "+49 33763 61833",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Sport-Boot-Center",
+    "seamark:type": "harbour",
+    "toilets": "yes",
+    "website": "https://www.mietboote-gussow.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1684305082,
+  "lat": 52.1051099,
+  "lon": 13.9023688,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Unterspreewald",
+    "addr:housenumber": "7",
+    "addr:postcode": "15910",
+    "addr:street": "Spreestraße",
+    "addr:suburb": "Neuendorf am See",
+    "backcountry": "yes",
+    "capacity:persons": "100",
+    "capacity:tents": "40",
+    "caravans": "no",
+    "charge": "8 EUR/guest-night;5 EUR/child",
+    "check_date": "2024-05-14",
+    "description": "Wasserwanderrastplatz",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "fireplace": "yes",
+    "ft_symbol": "73",
+    "mobile": "+49 151 11168649",
+    "name": "Biwak Neuendorf",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Unterspreewald",
+    "picnic_table": "yes",
+    "power_supply": "yes",
+    "shower": "warm",
+    "source": "local knowledge",
+    "static_caravans": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "waterway": "biwak",
+    "website": "https://www.unterspreewald.de/Seiten/BIWAK-Neuendorf-am-See.html",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1743967859,
+  "lat": 52.5545592,
+  "lon": 13.5630502,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen Ringkolonnaden",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "website": "https://www.stadtentwicklung.berlin.de/bauen/brunnen/de/mar_hel/19.shtml"
+  }
+},
+{
+  "type": "node",
+  "id": 1773877379,
+  "lat": 52.5367424,
+  "lon": 13.4182015,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2023-08-21",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "source": "http://www.stadtentwicklung.berlin.de/bauen/brunnen/de/pan/25.shtml",
+    "wheelchair": "limited",
+    "wikimedia_commons": "File:Bubbler, Spielplatz Kollwitzplatz, Berlin, Germany Aug 21, 2023 06-18-53 PM.jpeg"
+  }
+},
+{
+  "type": "node",
+  "id": 1776499517,
+  "lat": 52.4202153,
+  "lon": 13.4921282,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "drinking_fountain",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1799470235,
+  "lat": 52.3679857,
+  "lon": 13.6847349,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@pier38berlin.de",
+    "leisure": "marina",
+    "name": "Pier 38",
+    "phone": "+49 30 6758687",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Pier 38",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "website": "https://www.pier38berlin.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1799470309,
+  "lat": 52.4907405,
+  "lon": 13.4892384,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "10317",
+    "addr:street": "Zur Alten Flussbadeanstalt",
+    "description": "Gastliegeplätze für Boote bis 15 Meter Länge, Hafenküche mit guter Küche, Bootsvermietung, Slipanlage, Abwasserentsorgung, Verkehrsanbindung über Tram ca. 500 m, Hafenmeister: 030/422199299",
+    "draft": "1.5",
+    "drinking_water": "yes",
+    "email": "hafenmeister@hafenundhof.de",
+    "internet_access": "wlan",
+    "leisure": "marina",
+    "name": "Citymarina Rummelsburg",
+    "phone": "+49 30 422199299",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Citymarina Rummelsburg",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://citymarina-berlin.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1800494148,
+  "lat": 52.4883515,
+  "lon": 13.4270349,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1841081941,
+  "lat": 52.4832953,
+  "lon": 13.3351960,
+  "tags": {
+    "addr:full": "Babelsberger Straße neben 18",
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Wilmersdorf Babelsberger Straße Wasserpumpe 51-001.jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "pump": "manual",
+    "pump:style": "Borsig",
+    "ref": "51",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Charlottenburg-Wilmersdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 1935018843,
+  "lat": 52.5299353,
+  "lon": 13.4106932,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "8",
+    "addr:postcode": "10119",
+    "addr:street": "Schönhauser Allee",
+    "addr:suburb": "Prenzlauer Berg",
+    "amenity": "cafe",
+    "branch": "Roastery",
+    "brand": "The Barn",
+    "brand:wikidata": "Q110545264",
+    "cuisine": "coffee_shop",
+    "diet:vegetarian": "yes",
+    "drink:espresso": "served",
+    "drink:filter_coffee": "served",
+    "drinking_water": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microroasting": "yes",
+    "name": "The Barn",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa-Su 10:00-18:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "stroller": "no",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://thebarn.de/pages/cafe-roastery",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2036321211,
+  "lat": 52.1646036,
+  "lon": 13.6572659,
+  "tags": {
+    "addr:city": "Groß Köris",
+    "addr:country": "DE",
+    "addr:housenumber": "25",
+    "addr:postcode": "15746",
+    "addr:street": "Seebadstraße",
+    "check_date": "2024-10-10",
+    "drinking_water": "yes",
+    "email": "stefan.selent@icloud.com",
+    "leisure": "marina",
+    "name": "Marina Groß Köris",
+    "phone": "+49 152 317010933",
+    "power_supply": "yes",
+    "sanitary_dump_station": "no",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Groß Köris",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "hafendorf.info/portfolio/marina-gross-koeris/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2074636402,
+  "lat": 52.8757986,
+  "lon": 13.6215736,
+  "tags": {
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "IG Rosenbecker See",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "IG Rosenbecker See",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2074636440,
+  "lat": 52.8870596,
+  "lon": 13.6335734,
+  "tags": {
+    "draft": "0.9",
+    "drinking_water": "yes",
+    "email": "kontakt@schiffswerft-buettner.de",
+    "leisure": "marina",
+    "name": "Schiffswerft & Yachthafen D. Büttner",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Schiffswerft & Yachthafen D. Büttner",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "http://www.schiffswerft-buettner.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2088659295,
+  "lat": 52.5346659,
+  "lon": 13.2070095,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2104285527,
+  "lat": 52.9055564,
+  "lon": 13.6598788,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@berolina-camping.de",
+    "leisure": "marina",
+    "name": "Campingplatz Süßer Winkel",
+    "phone": "+49 33 35237",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Campingplatz Süßer Winkel",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://www.berolina-camping.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2104285609,
+  "lat": 52.9588050,
+  "lon": 13.7447006,
+  "tags": {
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Yachtclub Schorfheide",
+    "phone": "+49 33361 70675",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Yachtclub Schorfheide",
+    "seamark:type": "harbour",
+    "toilets": "yes",
+    "website": "www.yachtclub-schorfheide.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2104422993,
+  "lat": 52.1958113,
+  "lon": 13.7069972,
+  "tags": {
+    "description": "Fäkalienanlage teiweise außer Betrieb. Vorher anrufen!",
+    "drinking_water": "yes",
+    "email": "yachthafen@leg-an.com",
+    "leisure": "marina",
+    "maxdraft": "2.5",
+    "name": "\"Leg an\" Yachthafen Hölzerner See",
+    "phone": "+49 152 33777081",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "\"Leg an\" Yachthafen Hölzerner See",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "washing_machine": "yes",
+    "website": "www.leg-an.com",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2211711535,
+  "lat": 52.5420303,
+  "lon": 13.3569552,
+  "tags": {
+    "addr:full": "Tegeler Straße 34",
+    "check_date": "2022-11-11",
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Straßenbrunnen99 Wedding Tegeler Straße (1).jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "operator": "Land",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "FSH-L",
+    "ref": "99",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 2223091615,
+  "lat": 52.5444940,
+  "lon": 13.3605569,
+  "tags": {
+    "addr:full": "Triftstraße 4",
+    "check_date": "2024-05-04",
+    "colour": "gray",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Wedding Triftstraße Wasserpumpe.jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "operator": "Land",
+    "pump": "manual",
+    "pump:status": "out_of_order",
+    "pump:style": "Wolf",
+    "ref": "270",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 2225887740,
+  "lat": 52.5413001,
+  "lon": 13.3529617,
+  "tags": {
+    "addr:full": "Sprengelstraße ggü. 20",
+    "check_date": "2023-05-14",
+    "colour": "gray",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Wedding Sprengelstraße Wasserpumpe-001.jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "operator": "Land",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "Wolf",
+    "ref": "230",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 2225887759,
+  "lat": 52.5420741,
+  "lon": 13.3606444,
+  "tags": {
+    "addr:full": "Sparrstraße ggü. 4",
+    "check_date": "2024-07-02",
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Wedding Sparrplatz Wasserpumpe 244.jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "operator": "Land",
+    "pump": "manual",
+    "pump:status": "broken",
+    "pump:style": "Wolf",
+    "ref": "244",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 2300243165,
+  "lat": 52.2888440,
+  "lon": 13.6825394,
+  "tags": {
+    "addr:city": "Königs Wusterhausen",
+    "addr:country": "DE",
+    "addr:housenumber": "120",
+    "addr:postcode": "15712",
+    "addr:street": "Chausseestraße",
+    "description": "Anlage außer Betrieb. Extrem unfreundlicher Hafenwärter. Anlegen nicht zu empfehlen.",
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "maxdraft": "2.3",
+    "name": "Seebrücke Senzig",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina_no_facilities",
+    "seamark:name": "Seebrücke Senzig",
+    "seamark:type": "harbour",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2364863441,
+  "lat": 52.4994490,
+  "lon": 13.3724099,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2394280415,
+  "lat": 52.4339370,
+  "lon": 13.4194400,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "check_date": "2024-03-13",
+    "description": "Trinkbrunnen",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 2459611822,
+  "lat": 52.4199095,
+  "lon": 13.1761347,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "indoor": "yes",
+    "male": "yes",
+    "supervised": "yes",
+    "unisex": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2497875952,
+  "lat": 52.3993418,
+  "lon": 13.0133985,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "emergency": "defibrillator",
+    "fee": "yes",
+    "female": "yes",
+    "indoor": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2613230075,
+  "lat": 52.6712795,
+  "lon": 13.2314322,
+  "tags": {
+    "draft": "2",
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Gasthaus zum weißen Schwan",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Gasthaus zum weißen Schwan",
+    "seamark:type": "harbour",
+    "shower": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2707786976,
+  "lat": 52.3649608,
+  "lon": 13.0933158,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2714399922,
+  "lat": 52.5069656,
+  "lon": 13.3279449,
+  "tags": {
+    "addr:full": "Fasanenstraße 6",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Charlottenburg Fasanenstraße Wasserpumpe-001.jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "pump": "manual",
+    "pump:style": "Rümmler",
+    "ref": "44",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Charlottenburg-Wilmersdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 2807612185,
+  "lat": 52.0170915,
+  "lon": 13.5314796,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2023-08-24",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2816772605,
+  "lat": 52.2944692,
+  "lon": 13.6712709,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@bootshaus-senzig.de",
+    "leisure": "marina",
+    "name": "Bootshaus Senzig",
+    "phone": "+49 173 2062128; +49 3375 900990",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Bootshaus Senzig",
+    "seamark:type": "harbour",
+    "website": "http://www.bootshaus-senzig.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2823436902,
+  "lat": 52.3909776,
+  "lon": 13.0669320,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2023-07-25",
+    "description": "Öffentlicher Trinkwasserbrunnen",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Energie und Wasser Potsdam GmbH",
+    "operator:short": "EWP",
+    "operator:type": "public",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2823976726,
+  "lat": 52.4675063,
+  "lon": 13.2616439,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "100",
+    "addr:postcode": "14193",
+    "addr:street": "Hüttenweg",
+    "addr:suburb": "Grunewald",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "opening_hours": "Nov-Mar Sa,Su,PH 10:00-16:00; Apr-Oct Tu-Su 10:00-18:00",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 2824471286,
+  "lat": 52.2374783,
+  "lon": 13.9679662,
+  "tags": {
+    "description": "Liegegebühr 35€",
+    "drinking_water": "yes",
+    "email": "schloss@hubertushoehe.de",
+    "leisure": "marina",
+    "name": "Marina Schloss Hubertushöhe",
+    "phone": "+49 33678 430",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Schloss Hubertushöhe",
+    "seamark:type": "harbour",
+    "toilets": "yes",
+    "website": "https://www.hubertushoehe.de/",
+    "wikidata": "Q1678397",
+    "wikipedia": "de:Jagdsitz Hubertushöhe"
+  }
+},
+{
+  "type": "node",
+  "id": 2870300983,
+  "lat": 52.4743920,
+  "lon": 13.7765064,
+  "tags": {
+    "access": "yes",
+    "amenity": "sanitary_dump_station",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "sanitary_dump_station:basin": "yes",
+    "sanitary_dump_station:round_drain": "yes",
+    "waste": "grey_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2892843629,
+  "lat": 52.5052032,
+  "lon": 13.2538261,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Evangelische Friedensgemeinde Charlottenburg",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2917119095,
+  "lat": 52.1364736,
+  "lon": 13.3685748,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2023-03-04",
+    "drinking_water": "yes",
+    "operator": "Cafe am See Sperenberg",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2917958252,
+  "lat": 52.5081619,
+  "lon": 13.2025244,
+  "tags": {
+    "contact:email": "info@sunset-marina.de",
+    "contact:phone": "+49 30 3611424; +49 172 3008932",
+    "contact:website": "http://www.sunset-caravanplaces.de",
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Sunset Marina",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Sunset Marina",
+    "seamark:type": "harbour",
+    "toilets": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2920711267,
+  "lat": 52.8450151,
+  "lon": 13.6529526,
+  "tags": {
+    "addr:city": "Schorfheide",
+    "addr:housenumber": "11",
+    "addr:postcode": "16244",
+    "addr:street": "Hubertusmühle",
+    "addr:suburb": "Finowfurt",
+    "capacity": "6 Wohnmobilstellplätze",
+    "description": "Ein Hafenmeister ist täglich ab 17:00 Uhr verfügbar.",
+    "drinking_water": "yes",
+    "internet_access": "no",
+    "leisure": "marina",
+    "name": "Marina Eisvogel",
+    "opening_hours": "open \"Apr 17-Oct 12\"",
+    "operator": "MST Touristikflößerei",
+    "phone": "+49 3335 30203;+49 172 3832074;+49 172 3204931",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Eisvogel",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "washing_machine": "yes",
+    "website": "http://www.mst-touristikfloesserei.de/wohnmobilstellplatz-schorfheide-liegeplatz.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2935343034,
+  "lat": 52.3930189,
+  "lon": 13.0919155,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Öffentlicher Trinkwasserbrunnen",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "operator": "Energie und Wasser Potsdam GmbH",
+    "operator:short": "EWP",
+    "operator:type": "public",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2937911929,
+  "lat": 52.4551973,
+  "lon": 13.5369452,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "Vorstand@MWSC1190.de",
+    "leisure": "marina",
+    "name": "Motorwassersportclub 1190",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Motorwassersportclub 1190",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://www.mwsc1190.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2940176913,
+  "lat": 52.3681433,
+  "lon": 13.6438060,
+  "tags": {
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Anleger Zeuthen",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Anleger Zeuthen",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 3016696575,
+  "lat": 52.3798846,
+  "lon": 13.0323185,
+  "tags": {
+    "access": "private",
+    "draft": "1.4",
+    "drinking_water": "yes",
+    "email": "info@inselhotel-potsdam.de",
+    "leisure": "marina",
+    "name": "Inselhotel Hermannswerder",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina_no_facilities",
+    "seamark:name": "Inselhotel Hermannswerder",
+    "seamark:small_craft_facility:category": "gelbe_welle",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 3017814485,
+  "lat": 52.4956479,
+  "lon": 13.4230694,
+  "tags": {
+    "addr:full": "Paul-Lincke-Ufer ggü. 37",
+    "check_date": "2022-08-31",
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Str.brunnen Kreuzberg Paul-Lincke-Ufer 37.jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "official_ref": "Kr062",
+    "operator": "Bund",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "Wolf 2",
+    "ref": "62",
+    "start_date": "2004",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
+  }
+},
+{
+  "type": "node",
+  "id": 3021239893,
+  "lat": 52.8007362,
+  "lon": 13.0345403,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3022765856,
+  "lat": 52.7542825,
+  "lon": 13.2372271,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3033134292,
+  "lat": 52.5257542,
+  "lon": 13.3426120,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "0",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2024-09-20",
+    "covered": "no",
+    "description": "Trinkbrunnen",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3048897564,
+  "lat": 52.4251203,
+  "lon": 13.3201723,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "May-Oct: open",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3081342217,
+  "lat": 52.4029733,
+  "lon": 13.0119503,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3126847766,
+  "lat": 52.4765982,
+  "lon": 13.2104745,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "drinking",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3129276291,
+  "lat": 52.8924647,
+  "lon": 13.6395447,
+  "tags": {
+    "draft": "1.2",
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Gasthaus Süßer Winkel",
+    "phone": "+49 3335 326270",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Gasthaus Süßer Winkel",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3130314575,
+  "lat": 52.8366997,
+  "lon": 13.8118133,
+  "tags": {
+    "draft": "1.2",
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Finowkanal-Park",
+    "phone": "+49 33362 70437",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Finowkanal-Park",
+    "seamark:type": "harbour",
+    "website": "https://www.tw-eberswalde.de/bootsanleger.php"
+  }
+},
+{
+  "type": "node",
+  "id": 3130834327,
+  "lat": 52.8392934,
+  "lon": 13.6029350,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "kontakt@maritim-marienwerder.de",
+    "image": "http://www.maritim-marienwerder.de/images/maritim09-big.jpg",
+    "leisure": "marina",
+    "phone": "+49 3335 31397; +49 172 1546214",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Maritim Marienwerder",
+    "seamark:type": "harbour",
+    "website": "https://www.maritim-marienwerder.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3269400307,
+  "lat": 52.5454229,
+  "lon": 13.4582056,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3517710497,
+  "lat": 52.4586807,
+  "lon": 13.5263703,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3627125409,
+  "lat": 52.4820804,
+  "lon": 13.5266080,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3680290566,
+  "lat": 52.5110126,
+  "lon": 13.8549472,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3684543085,
+  "lat": 52.4238092,
+  "lon": 13.0531485,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "description": "im Rewe Markt",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours": "Mo-Sa 07:00-21:00; PH,Su off",
+    "operator": "Rewe",
+    "operator:wikidata": "Q16968817",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3721110540,
+  "lat": 52.4279297,
+  "lon": 13.0483693,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-07-06",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3726031157,
+  "lat": 52.5660393,
+  "lon": 13.5024523,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3726035862,
+  "lat": 52.5285384,
+  "lon": 13.4329038,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "lit": "no",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "source": "survey",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3741424351,
+  "lat": 52.4254452,
+  "lon": 13.5837607,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:housenumber": "350–354",
+    "addr:postcode": "12557",
+    "addr:street": "Wendenschloßstraße",
+    "barbecue_grill": "yes",
+    "caravan_site": "motorhome_stopover",
+    "caravan_site:type": "harbour",
+    "charge": "30 EUR",
+    "drinking_water": "yes",
+    "email": "info@bwsg-berlin.de",
+    "fax": "+49 30 6519422",
+    "fee": "yes",
+    "internet_access": "yes",
+    "name": "Marina Wendenschloß",
+    "operator": "Berliner Wassersport und Service GmbH",
+    "phone": "+49 30 6513415",
+    "power_supply": "yes",
+    "power_supply:fee": "no",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "no",
+    "toilets": "yes",
+    "tourism": "caravan_site",
+    "water_point": "yes",
+    "water_point:fee": "no",
+    "website": "https://www.bwsg-berlin.de/de/marina/wohnmobilstellplaetze/"
+  }
+},
+{
+  "type": "node",
+  "id": 3741438802,
+  "lat": 52.4188774,
+  "lon": 13.5876912,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "12557",
+    "addr:street": "Müggelbergallee",
+    "addr:suburb": "Köpenick",
+    "charge": "29 EUR",
+    "dog": "leashed",
+    "drinking_water": "yes",
+    "email": "info@reisemobilstellplatz-berlin.de",
+    "fax": "+49 30 6555779",
+    "fee": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "yes",
+    "name": "Historisches Fährhaus",
+    "operator": "Rainer Löber",
+    "phone": "+49 30 65474425",
+    "power_supply": "yes",
+    "power_supply:charge": "7 EUR",
+    "power_supply:fee": "yes",
+    "reservation": "yes",
+    "sanitary_dump_station": "customers",
+    "shower": "yes",
+    "tents": "no",
+    "tourism": "caravan_site",
+    "waste_disposal": "yes",
+    "website": "https://www.reisemobilstellplatz-berlin.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3766162578,
+  "lat": 52.7367201,
+  "lon": 13.0857926,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-09-17",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4059506281,
+  "lat": 52.3924114,
+  "lon": 13.0667645,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "brand": "SANIFAIR",
+    "brand:wikidata": "Q104814416",
+    "brand:wikipedia": "de:Tank & Rast",
+    "centralkey": "eurokey",
+    "changing_table": "yes",
+    "charge": "1.00 EUR",
+    "contact:website": "https://www.bahnhofspassagen-potsdam.de/shops/sanifair",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "level": "0",
+    "name": "Sanifair",
+    "opening_hours": "24/7",
+    "operator": "SANIFAIR GmbH",
+    "operator:type": "business",
+    "operator:wikidata": "Q104814416",
+    "operator:wikipedia": "de:Tank & Rast",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4214033493,
+  "lat": 52.4437459,
+  "lon": 13.7665175,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-07-07",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4239735855,
+  "lat": 52.5791432,
+  "lon": 13.4817053,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 4347476756,
+  "lat": 52.3219406,
+  "lon": 13.6415545,
+  "tags": {
+    "addr:city": "Wildau",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "15745",
+    "addr:street": "Uferpromenade an der Dahme",
+    "drinking_water": "yes",
+    "email": "info@ereigniswelten.de",
+    "image": "http://villa-am-see-wildau.de/assets/base/img/content/backgrounds/see.jpg",
+    "internet_access": "wlan",
+    "leisure": "marina",
+    "name": "Villa am See",
+    "phone": "+49 3375 52 56 52 0",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Villa am See",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://www.villa-am-see-wildau.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 4367704200,
+  "lat": 52.4583320,
+  "lon": 13.5793379,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "May-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "start_date": "2015",
+    "website": "https://www.bwb.de/trinkbrunnen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4371227509,
+  "lat": 52.4559221,
+  "lon": 13.3057149,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode",
+    "fountain": "bubbler",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4389473677,
+  "lat": 52.5244986,
+  "lon": 13.3681344,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2023-02-22",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4396179327,
+  "lat": 52.4437871,
+  "lon": 13.5753956,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@mutter-lustig.berlin",
+    "harbour": "yes",
+    "image": "http://www.mutter-lustig.berlin/_static/media//DSC_9470-Pano.jpg",
+    "internet_access": "wlan",
+    "leisure": "marina",
+    "name": "Mutter Lustig",
+    "phone": "+49 30 64094884",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Mutter Lustig",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://www.mutter-lustig.berlin/de/bootsverleih/anlegestelle/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4560276928,
+  "lat": 52.5104940,
+  "lon": 13.4989954,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "drinking",
+    "man_made": "drinking_fountain",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4799726859,
+  "lat": 52.5673196,
+  "lon": 13.4113889,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 4850307508,
+  "lat": 52.5698534,
+  "lon": 13.4045200,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "fountain": "bubbler",
+    "operational_status": "under_construction",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "survey:date": "2024-08-14",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4985382302,
+  "lat": 52.5496710,
+  "lon": 13.3872405,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, Schüttung circa 30 ml pro Sekunde, Flaschen füllen möglich",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "seasonal": "spring;summer;autumn"
+  }
+},
+{
+  "type": "node",
+  "id": 5016215822,
+  "lat": 52.5412732,
+  "lon": 13.3986950,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 5043072467,
+  "lat": 52.5110405,
+  "lon": 13.4018100,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "0",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "covered": "no",
+    "description": "Trinkbrunnen; Mai-Okt",
+    "fee": "no",
+    "fountain": "bubbler",
+    "image": "File:Trinkbrunnen am Spittelmarkt Berlin-Mitte 02.jpg",
+    "indoor": "no",
+    "level": "0",
+    "lit": "yes",
+    "material": "metal",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "source": "survey",
+    "wheelchair": "yes",
+    "wikidata": "Q115356872",
+    "wikimedia_commons": "Category:Trinkbrunnen der Berliner Wasserbetriebe am Spittelmarkt, Berlin-Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 5121788895,
+  "lat": 52.6341331,
+  "lon": 13.3404983,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "covered": "no",
+    "drinking_water": "unknown",
+    "fee": "no",
+    "lit": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5318891390,
+  "lat": 52.9637782,
+  "lon": 13.3416697,
+  "tags": {
+    "addr:city": "Zehdenick",
+    "addr:housenumber": "56a",
+    "addr:postcode": "16792",
+    "addr:street": "Parkstraße",
+    "caravans": "no",
+    "contact:phone": "+49 3307 309 24 76",
+    "contact:website": "https://www.turm-lounge.de/zeltplatz",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Zeltplatz Zehdenicker Wasserturm",
+    "picnic_table": "yes",
+    "power_supply": "no",
+    "sanitary_dump_station": "no",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "wikidata": "Q123378163"
+  }
+},
+{
+  "type": "node",
+  "id": 5342855224,
+  "lat": 52.3932888,
+  "lon": 13.0438147,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5445605321,
+  "lat": 52.6800190,
+  "lon": 13.8506123,
+  "tags": {
+    "addr:city": "Werneuchen OT Tiefensee",
+    "addr:housenumber": "1",
+    "addr:postcode": "16356",
+    "addr:street": "Schmiedeweg",
+    "capacity": "150",
+    "capacity:caravans": "64",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "dryer": "yes",
+    "email": "info@country-camping.de",
+    "fee": "yes",
+    "name": "Country Camping Berlin",
+    "operator": "Felix Voß",
+    "payment:girocard": "yes",
+    "phone": "+493339890514",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "no",
+    "tourism": "camp_site",
+    "washing_machine": "yes",
+    "website": "https://www.country-camping.de/",
+    "wheelchair": "yes",
+    "wikidata": "Q123194466"
+  }
+},
+{
+  "type": "node",
+  "id": 5577964223,
+  "lat": 52.9779330,
+  "lon": 13.7536280,
+  "tags": {
+    "amenity": "drinking_water",
+    "ele": "72.0",
+    "source": "Dakota 20"
+  }
+},
+{
+  "type": "node",
+  "id": 5577964224,
+  "lat": 52.9779410,
+  "lon": 13.7542240,
+  "tags": {
+    "amenity": "drinking_water",
+    "ele": "75.14",
+    "source": "Dakota 20"
+  }
+},
+{
+  "type": "node",
+  "id": 5577974422,
+  "lat": 52.9781780,
+  "lon": 13.7534060,
+  "tags": {
+    "amenity": "drinking_water",
+    "ele": "71.75",
+    "source": "Dakota 20"
+  }
+},
+{
+  "type": "node",
+  "id": 5579054567,
+  "lat": 52.5863050,
+  "lon": 13.3678519,
+  "tags": {
+    "addr:full": "Edelweißstraße 42",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Straßenbrunnen49 Wilhelmsruh Edelweißstraße (2).jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "official_ref": "STRB03Pa049",
+    "operator": "Land",
+    "pump": "manual",
+    "pump:style": "modern",
+    "ref": "49",
+    "start_date": "~1970",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Pankow"
+  }
+},
+{
+  "type": "node",
+  "id": 5612083564,
+  "lat": 52.8046903,
+  "lon": 13.0287557,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5612083565,
+  "lat": 52.8047300,
+  "lon": 13.0285418,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5613263168,
+  "lat": 52.8042101,
+  "lon": 13.0283695,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5634632567,
+  "lat": 52.4980131,
+  "lon": 13.5243135,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:location": "dedicated_room",
+    "check_date:wheelchair": "2023-10-08",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5814732183,
+  "lat": 52.5079564,
+  "lon": 13.3901489,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bubbler",
+    "panoramax": "28d5987a-3e74-4233-9897-20ba3d88f8be",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5849300503,
+  "lat": 52.1287216,
+  "lon": 13.5949645,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Dusch und Waschhaus",
+    "shower": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5853401781,
+  "lat": 52.4957227,
+  "lon": 13.3736186,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5950812281,
+  "lat": 52.5297187,
+  "lon": 13.4716309,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 5962632208,
+  "lat": 52.5013051,
+  "lon": 13.4870032,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "start_date": "2018",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5964902316,
+  "lat": 52.5095536,
+  "lon": 13.3794023,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "limited",
+    "colour": "blue",
+    "description": "Trinkbrunnen",
+    "fountain": "bubbler",
+    "model": "Typ 1",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "panoramax": "29d79679-d6b6-47f4-9741-df70493e0a4a",
+    "wheelchair": "limited",
+    "wikimedia_commons": "File:Bubbler, Leipziger Platz, Berlin, Germany Aug 24, 2023 06-38-22 PM.jpeg"
+  }
+},
+{
+  "type": "node",
+  "id": 5964902317,
+  "lat": 52.5192385,
+  "lon": 13.2961093,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "description": "Berliner Trinkbrunnen; Mai-Okt",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6020458599,
+  "lat": 52.5278915,
+  "lon": 13.5385285,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 6020508147,
+  "lat": 52.5059436,
+  "lon": 13.5607934,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 6020541252,
+  "lat": 52.4611631,
+  "lon": 13.5483757,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6024757217,
+  "lat": 52.5283748,
+  "lon": 13.3473185,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "name": "Trinkbrunnen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6027083563,
+  "lat": 52.4530439,
+  "lon": 13.2885685,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "inside the mensa building on the northern side there is a water fountain with potable water.",
+    "fee": "no",
+    "level": "0",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6034884560,
+  "lat": 52.5430560,
+  "lon": 13.5435759,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6076967352,
+  "lat": 52.3714887,
+  "lon": 13.1349013,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Stern-Center",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6117179949,
+  "lat": 52.3907298,
+  "lon": 13.1174217,
+  "tags": {
+    "access": "customers",
+    "addr:city": "Potsdam",
+    "addr:country": "DE",
+    "addr:housenumber": "15 B",
+    "addr:postcode": "14482",
+    "addr:street": "Marlene-Dietrich-Allee",
+    "addr:suburb": "Babelsberg Süd",
+    "automatic_door": "infrared",
+    "brand": "dm",
+    "brand:wikidata": "Q266572",
+    "brand:wikipedia": "en:Dm-drogerie markt",
+    "cash_withdrawal": "yes",
+    "cash_withdrawal:fee": "no",
+    "cash_withdrawal:limit": "200",
+    "cash_withdrawal:purchase_minimum": "10",
+    "cash_withdrawal:purchase_required": "yes",
+    "cash_withdrawal:type": "checkout",
+    "changing_table": "yes",
+    "check_date:opening_hours": "2021-04-28",
+    "contact:phone": "+49 331 585 65590",
+    "contact:website": "https://www.dm.de/",
+    "door": "sliding",
+    "drinking_water": "yes",
+    "entrance": "main",
+    "fee": "no",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "dm",
+    "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+    "operator": "dm-drogerie markt GmbH + Co. KG",
+    "operator:type": "business",
+    "payment:american_express": "yes",
+    "payment:girocard": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "ref": "15 B",
+    "shop": "chemist",
+    "toilets": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "yes",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6149646863,
+  "lat": 52.5132642,
+  "lon": 13.5736764,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct: PH,Mo-Su 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6174872210,
+  "lat": 52.5116854,
+  "lon": 13.4339794,
+  "tags": {
+    "disused:amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 6282824738,
+  "lat": 52.5113620,
+  "lon": 13.4487272,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct: PH,Mo-Su 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6284246623,
+  "lat": 52.5058411,
+  "lon": 13.3069271,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "seasonal": "April-Oktober",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6325454938,
+  "lat": 52.4341610,
+  "lon": 13.3170977,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "bubbler",
+    "mapillary": "671965691647115",
+    "opening_hours": "May-Oct: open",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6347785931,
+  "lat": 52.5342736,
+  "lon": 13.5756551,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "mapillary": "468065321877684",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 6373873760,
+  "lat": 52.4585282,
+  "lon": 13.3041576,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "open; Nov-Apr: off",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6373878680,
+  "lat": 52.4579536,
+  "lon": 13.2898919,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6442951452,
+  "lat": 52.4333984,
+  "lon": 13.2590567,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6475213084,
+  "lat": 52.9978641,
+  "lon": 13.3361980,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@marina-zehdenick.de",
+    "internet_access": "wlan",
+    "leisure": "marina",
+    "name": "Marina Zehdenick am Prerauer Stich",
+    "phone": "+49 3307 421 80 45; +49 172 905 36 12",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Zehdenick am Prerauer Stich",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "washing_machine": "yes",
+    "website": "https://marina-zehdenick.de"
+  }
+},
+{
+  "type": "node",
+  "id": 6480821673,
+  "lat": 52.5086629,
+  "lon": 13.2740415,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-10-07",
+    "drinking_water:seasonal": "april - octobre",
+    "fee": "no",
+    "fountain": "bubbler",
+    "website": "https://www.bwb.de/de/trinkbrunnen.php"
+  }
+},
+{
+  "type": "node",
+  "id": 6498634119,
+  "lat": 52.5360414,
+  "lon": 13.1989220,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6498634120,
+  "lat": 52.5259210,
+  "lon": 13.2407817,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2022-11-06",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6520759556,
+  "lat": 52.5076709,
+  "lon": 13.3063828,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6549749322,
+  "lat": 52.5438933,
+  "lon": 13.3642050,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "lit": "no",
+    "opening_hours": "24/7",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:type": "public",
+    "operator:wikidata": "Q821856",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6557071955,
+  "lat": 52.5303224,
+  "lon": 13.3354002,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6580407598,
+  "lat": 52.5199043,
+  "lon": 13.4608049,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "lit": "no",
+    "website": "https://www.bwb.de/de/trinkbrunnen.php",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6581421553,
+  "lat": 52.4810287,
+  "lon": 13.4354349,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "lit": "yes",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6592989723,
+  "lat": 52.4720755,
+  "lon": 13.3351796,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen; nur außerhalb der Frostperiode (Mai-Okt)",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6593565215,
+  "lat": 52.5008189,
+  "lon": 13.3072451,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "type": "Kaiser-Brunnen",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6652474301,
+  "lat": 52.4155600,
+  "lon": 13.0841441,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6695381551,
+  "lat": 52.5465024,
+  "lon": 13.3529866,
+  "tags": {
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "image": "File:Wedding Zeppelinplatz Wasserpumpe.jpg",
+    "man_made": "water_well",
+    "playground": "water",
+    "pump": "manual",
+    "pump:style": "A 11",
+    "pump:type": "beam_pump",
+    "water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 6697407667,
+  "lat": 52.5445349,
+  "lon": 13.3486100,
+  "tags": {
+    "addr:full": "Ostender Straße 27",
+    "check_date": "2023-04-23",
+    "colour": "gray",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Wedding Ostender Straße Wasserpumpe 254.jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "operator": "Land",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "Wolf",
+    "ref": "254",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 6720762657,
+  "lat": 52.0343878,
+  "lon": 13.8333186,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6762558637,
+  "lat": 52.4612866,
+  "lon": 13.3245057,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6764113728,
+  "lat": 52.3645948,
+  "lon": 13.3754989,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6765778685,
+  "lat": 52.5166250,
+  "lon": 13.4064442,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "0",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "May-Oct Mo-Su 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "source": "survey",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6765881232,
+  "lat": 52.4720554,
+  "lon": 13.4376695,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6776466153,
+  "lat": 52.5215595,
+  "lon": 13.4501390,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "playground": "water",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 6856057139,
+  "lat": 52.4701155,
+  "lon": 13.4375397,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-30",
+    "colour": "blue",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 6875524892,
+  "lat": 52.5087920,
+  "lon": 13.3060167,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "source": "local knowledge",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6881355693,
+  "lat": 52.5881706,
+  "lon": 13.2744435,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6881390608,
+  "lat": 52.5859424,
+  "lon": 13.2868702,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 6881917211,
+  "lat": 52.4007980,
+  "lon": 13.0551599,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "3",
+    "male": "yes",
+    "operator": "Karstadt Warenhaus GmbH",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6942712749,
+  "lat": 52.5487932,
+  "lon": 13.4102117,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6946029640,
+  "lat": 52.5036585,
+  "lon": 13.4245370,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6959710860,
+  "lat": 52.5191322,
+  "lon": 13.4782464,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct: PH,Mo-Su 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6966684702,
+  "lat": 52.5486673,
+  "lon": 13.4510768,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "man_made": "drinking_fountain",
+    "wheelchair": "yes",
+    "wikidata": "Q112623970",
+    "wikimedia_commons": "Category:Trinkbrunnen der Berliner Wasserbetriebe auf dem Antonplatz, Berlin-Weißensee"
+  }
+},
+{
+  "type": "node",
+  "id": 6982335609,
+  "lat": 52.4567798,
+  "lon": 13.3223376,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "yes",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6990359181,
+  "lat": 52.4893489,
+  "lon": 13.3197367,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen; Mai-Oktober",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7011688033,
+  "lat": 52.5171483,
+  "lon": 13.4670199,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2022-09-12",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "bubbler",
+    "mapillary": "410947411122777",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7012262018,
+  "lat": 52.4833969,
+  "lon": 13.3187910,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "description": "März–Oktober",
+    "drinking_water": "seasonal",
+    "fee": "no",
+    "fountain": "bubbler",
+    "mapillary": "2098143100529480",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7047306858,
+  "lat": 52.3994691,
+  "lon": 13.0588965,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "1",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7054234783,
+  "lat": 52.5506776,
+  "lon": 13.3599699,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "0",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 7124620185,
+  "lat": 52.4698754,
+  "lon": 13.4355890,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-11-08",
+    "colour": "blue",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 7167394545,
+  "lat": 52.5375225,
+  "lon": 13.3827332,
+  "tags": {
+    "addr:full": "Gartenstraße am Gartenplatz",
+    "check_date": "2024-05-31",
+    "colour": "gray",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Straßenbrunnen Gesundbrunnen 273 Gartenstraße am Gartenplatz (4).jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "operator": "Land",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "Wolf",
+    "ref": "273",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 7167394546,
+  "lat": 52.5481454,
+  "lon": 13.3707670,
+  "tags": {
+    "addr:full": "Kösliner Straße 7",
+    "check_date": "2023-06-10",
+    "colour": "gray",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Gesundbrunnen Kösliner Straße Wasserpumpe.jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "official_ref": "268",
+    "operator": "Land",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "Wolf",
+    "ref": "none",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 7167394568,
+  "lat": 52.5467820,
+  "lon": 13.3477554,
+  "tags": {
+    "addr:full": "Lütticher Straße 48",
+    "check_date": "2024-05-20",
+    "colour": "gray",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Wedding Lütticher Straße Wasserpumpe 229.jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "operator": "Land",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "Wolf",
+    "ref": "229",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 7167413417,
+  "lat": 52.5187230,
+  "lon": 13.4213472,
+  "tags": {
+    "access": "yes",
+    "addr:full": "Schillingstraße Ecke Magazinstraße",
+    "check_date": "2023-05-01",
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "man_made": "water_well",
+    "material": "metal",
+    "network": "Berliner Straßenbrunnen",
+    "panoramax": "ea3b77da-fd64-4bc5-aef2-5d90498c0a1e",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "FSH-L",
+    "ref": "18",
+    "source": "survey",
+    "wikimedia_commons": "File:Straßenbrunnen 18 Mitte Schillingstraße Magazinstraße (5).jpg",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 7167413426,
+  "lat": 52.5258116,
+  "lon": 13.3404030,
+  "tags": {
+    "addr:full": "Alt-Moabit ggü. 84b",
+    "check_date": "2020-10-27",
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Straßenbrunnen4-Moabit-AltMoabit (1).jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "Rümmler",
+    "ref": "4",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 7170453219,
+  "lat": 52.5239738,
+  "lon": 13.1670983,
+  "tags": {
+    "addr:full": "Maulbeerallee 31",
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Straßenbrunnen102 Staaken Maulbeerallee Baluschekweg (6).jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "operator": "Land",
+    "pump": "manual",
+    "pump:style": "FSH-L",
+    "ref": "102",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Spandau"
+  }
+},
+{
+  "type": "node",
+  "id": 7172013166,
+  "lat": 52.6304803,
+  "lon": 13.3063004,
+  "tags": {
+    "access": "yes",
+    "addr:full": "Langohrzeile 2",
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Straßenbrunnen207-Langohrzeile-Frohnau (1).jpg",
+    "man_made": "water_well",
+    "mapillary": "379804111092383",
+    "network": "Berliner Straßenbrunnen",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "modern",
+    "ref": "207",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7172018188,
+  "lat": 52.6235439,
+  "lon": 13.2252516,
+  "tags": {
+    "addr:full": "Hennigsdorfer Straße 130",
+    "colour": "#35412E",
+    "description": "Mit Schild \"Für Notwasser geeignet\"",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Straßenbrunnen168 Heiligensee Hennigsdorfer Straße (5).jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "operator": "Land",
+    "pump": "manual",
+    "pump:style": "modern",
+    "ref": "168",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7172018260,
+  "lat": 52.6198506,
+  "lon": 13.2226112,
+  "tags": {
+    "addr:full": "Hennigsdorfer Straße 94",
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Straßenbrunnen56 Heiligensee Hennigsdorfer Str Kurzebracker Weg (1).jpg",
+    "man_made": "water_well",
+    "network": "Berliner Straßenbrunnen",
+    "operator": "Land",
+    "pump": "manual",
+    "pump:status": "missing_beam",
+    "pump:style": "FSH-L",
+    "ref": "56",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7256261950,
+  "lat": 52.5520027,
+  "lon": 13.3675653,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7282532297,
+  "lat": 52.4486595,
+  "lon": 13.3354403,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen; nur außerhalb der Frostperiode (Mai-Okt)",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "May-Oct: 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7391666310,
+  "lat": 52.5670452,
+  "lon": 13.5215822,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "mapillary": "1951163818606155",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 7412106383,
+  "lat": 52.5554365,
+  "lon": 13.3922503,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "drinking",
+    "not:operator:wikidata": "Q821856",
+    "operator": "Berliner Wasserbetriebe",
+    "wheelchair": "yes",
+    "wikidata": "Q122508621"
+  }
+},
+{
+  "type": "node",
+  "id": 7439535028,
+  "lat": 52.4930830,
+  "lon": 13.4312112,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "check_date": "2022-08-31",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7439556433,
+  "lat": 52.4765877,
+  "lon": 13.4223036,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2023-05-13",
+    "colour": "blue",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "seasonal": "yes",
+    "start_date": "2020-04"
+  }
+},
+{
+  "type": "node",
+  "id": 7476527096,
+  "lat": 52.5632727,
+  "lon": 13.3614592,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 7499126966,
+  "lat": 52.7655791,
+  "lon": 13.6316694,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "historic": "yes",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 7503802845,
+  "lat": 52.5263627,
+  "lon": 13.3797732,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "not:operator:wikidata": "Q821856",
+    "operator": "Berliner Wasserbetriebe",
+    "wikimedia_commons": "File:Bubbler, Charité – Universitätsmedizin Berlin, Berlin, Germany Aug 21, 2023 01-17-44 PM.jpeg"
+  }
+},
+{
+  "type": "node",
+  "id": 7563934395,
+  "lat": 52.5423427,
+  "lon": 13.4300801,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 7567444509,
+  "lat": 52.5172231,
+  "lon": 13.4448018,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "name": "Wasserspender"
+  }
+},
+{
+  "type": "node",
+  "id": 7597718608,
+  "lat": 52.2431104,
+  "lon": 13.6268137,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Gemeinde Bestensee",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7617393564,
+  "lat": 52.3862711,
+  "lon": 13.1153662,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:location": "dedicated_room",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7617393569,
+  "lat": 52.3865157,
+  "lon": 13.1172270,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:location": "dedicated_room",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7660227427,
+  "lat": 52.5714581,
+  "lon": 13.2223248,
+  "tags": {
+    "contact:email": "wannseeaten1911@t-online.de",
+    "contact:mobile": "+49 175 2886734",
+    "contact:phone": "+49 30 33506338",
+    "contact:website": "https://wannseeaten1911.de/",
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Wannseeaten 1911",
+    "operator": "Wannseeaten 1911 e.V.",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Wannseeaten 1911 e.V.",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 7676810343,
+  "lat": 52.5036104,
+  "lon": 13.4961684,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7745006793,
+  "lat": 52.5327092,
+  "lon": 13.3393362,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7745114751,
+  "lat": 52.4740623,
+  "lon": 13.4336327,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7777479301,
+  "lat": 52.5279214,
+  "lon": 13.4390703,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2022-09-14",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "drinking",
+    "mapillary": "447122444009678",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7791177648,
+  "lat": 52.8316993,
+  "lon": 13.6755987,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7801826849,
+  "lat": 52.5035482,
+  "lon": 13.4825707,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "start_date": "2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7810566529,
+  "lat": 52.4942438,
+  "lon": 13.5113126,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "man_made": "drinking_fountain",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "start_date": "2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7839674044,
+  "lat": 52.4895176,
+  "lon": 13.4078304,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7856600391,
+  "lat": 52.5160179,
+  "lon": 13.4429075,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 7856631773,
+  "lat": 52.5178491,
+  "lon": 13.4373560,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 7877954327,
+  "lat": 52.5399059,
+  "lon": 13.5764176,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 7880721538,
+  "lat": 52.4822000,
+  "lon": 13.4071000,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Bubbler, Tempelhof, Berlin, Germany Aug 22, 2023 01-14-11 PM.jpeg"
+  }
+},
+{
+  "type": "node",
+  "id": 7894383563,
+  "lat": 52.5038306,
+  "lon": 13.5209785,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7894394865,
+  "lat": 52.5253726,
+  "lon": 13.5087798,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "0",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "material": "metal",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 7898642991,
+  "lat": 52.6309714,
+  "lon": 13.3188247,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7911141740,
+  "lat": 52.4714716,
+  "lon": 13.3866466,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7970342316,
+  "lat": 52.1186914,
+  "lon": 13.9532796,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7984296070,
+  "lat": 52.4818435,
+  "lon": 13.4484522,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 7996778900,
+  "lat": 52.4835802,
+  "lon": 13.4464220,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2022-08",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "bubbler",
+    "lit": "yes",
+    "mapillary": "113853664384974",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8013863664,
+  "lat": 52.6342023,
+  "lon": 13.3408264,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "covered": "no",
+    "drinking_water": "unknown",
+    "fee": "no",
+    "lit": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8013863667,
+  "lat": 52.6344478,
+  "lon": 13.3413176,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "covered": "no",
+    "drinking_water": "unknown",
+    "fee": "no",
+    "lit": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8025291920,
+  "lat": 52.4993977,
+  "lon": 13.3147973,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "covered": "no",
+    "description": "Trinkbrunnen; Mai-Okt",
+    "fee": "no",
+    "fountain": "bubbler",
+    "lit": "no",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8025313729,
+  "lat": 52.4977287,
+  "lon": 13.3227511,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen; Mai-Okt",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8044269604,
+  "lat": 52.9793813,
+  "lon": 13.3321281,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "panoramax": "7da6639b-a506-4591-a596-399774f13228"
+  }
+},
+{
+  "type": "node",
+  "id": 8110404848,
+  "lat": 52.5488292,
+  "lon": 13.5704202,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "mapillary": "1077732362857284",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 8165323901,
+  "lat": 52.5466075,
+  "lon": 13.5566231,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 8198906657,
+  "lat": 52.5113827,
+  "lon": 13.4859343,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2022-09-06",
+    "colour": "blue",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "mapillary": "867640337558742",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8229107718,
+  "lat": 52.4947208,
+  "lon": 13.4224252,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8329231429,
+  "lat": 52.6001405,
+  "lon": 13.3531494,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "May-Oct: 24/7",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "seasonal": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8713008711,
+  "lat": 52.5520170,
+  "lon": 13.4204021,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 8722868012,
+  "lat": 52.5350060,
+  "lon": 13.4244979,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "name": "Trinkbrunnen an der Marie",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "seasonal": "April-Oktober"
+  }
+},
+{
+  "type": "node",
+  "id": 8755058879,
+  "lat": 52.4891231,
+  "lon": 13.3957560,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 8764023901,
+  "lat": 52.5554727,
+  "lon": 13.2080271,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 8804475680,
+  "lat": 52.4424363,
+  "lon": 13.2402752,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 8808497699,
+  "lat": 52.4389881,
+  "lon": 13.7209279,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8811130807,
+  "lat": 52.6343557,
+  "lon": 13.2903353,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "seasonal",
+    "fee": "no",
+    "fountain": "bubbler",
+    "note": "Trinkbrunnen; März-Oktober",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8823483306,
+  "lat": 52.4470859,
+  "lon": 13.2301961,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 8823483307,
+  "lat": 52.4354299,
+  "lon": 13.2577857,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 8823483308,
+  "lat": 52.4429144,
+  "lon": 13.3121552,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 8823483309,
+  "lat": 52.4389802,
+  "lon": 13.3431689,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 8833419668,
+  "lat": 52.5443624,
+  "lon": 13.4221867,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 8852702810,
+  "lat": 52.4890967,
+  "lon": 13.4391818,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "0",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "description": "Berliner Trinkbrunnen; Mai-Okt",
+    "fee": "no",
+    "indoor": "no",
+    "level": "0",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "seasonal": "April to October",
+    "source": "survey",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8868959162,
+  "lat": 52.8217260,
+  "lon": 13.5819507,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8909637917,
+  "lat": 52.5186853,
+  "lon": 13.4293857,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 8911238144,
+  "lat": 52.4965686,
+  "lon": 13.3779714,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited",
+    "wikidata": "Q119982891",
+    "wikimedia_commons": "File:Bubbler am Gleisdreieck, Berlin, Germany Aug 20, 2023 03-22-09 PM.jpeg"
+  }
+},
+{
+  "type": "node",
+  "id": 8911824818,
+  "lat": 52.4406723,
+  "lon": 13.5891247,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "check_date": "2022-09-06",
+    "colour": "blue",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "mapillary": "791169062200631",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "seasonal": "spring;summer;autumn",
+    "website": "https://www.bwb.de/trinkbrunnen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8929856217,
+  "lat": 52.4764672,
+  "lon": 13.4185181,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8929856218,
+  "lat": 52.4708377,
+  "lon": 13.4199503,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
+    "cold_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "man_made": "drinking_fountain",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8931143709,
+  "lat": 52.4352163,
+  "lon": 13.5535884,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "man_made": "drinking_fountain",
+    "opening_hours": "May-Sep: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "website": "https://www.bwb.de/trinkbrunnen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8941715014,
+  "lat": 52.4904278,
+  "lon": 13.3134690,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "May-Oct",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8948878880,
+  "lat": 52.4892900,
+  "lon": 13.4819777,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 8972592595,
+  "lat": 52.8220342,
+  "lon": 13.5805529,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8972631913,
+  "lat": 52.8219510,
+  "lon": 13.5808402,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8972637268,
+  "lat": 52.8226445,
+  "lon": 13.5806033,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8978485594,
+  "lat": 52.0560682,
+  "lon": 13.4687072,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8989776961,
+  "lat": 52.5051116,
+  "lon": 13.3017304,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "image": "File:Charlottenburg Stuttgarter Platz Trinkbrunnen-001.jpg",
+    "indoor": "no",
+    "lit": "yes",
+    "type": "Kaiser-Brunnen",
+    "wheelchair": "limited",
+    "wikidata": "Q124257660",
+    "wikimedia_commons": "Category:Trinkbrunnen der Berliner Wasserbetriebe Stuttgarter Platz, Berlin-Charlottenburg"
+  }
+},
+{
+  "type": "node",
+  "id": 8990450123,
+  "lat": 52.5167751,
+  "lon": 13.3860303,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "drinking_water:seasonal": "summer",
+    "fee": "no",
+    "fountain": "bubbler",
+    "model": "Typ 1",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "panoramax": "27939c03-0782-47fe-a85d-60510e86d3ca",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 8996082092,
+  "lat": 52.5200476,
+  "lon": 13.4670424,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 9000621698,
+  "lat": 52.5551093,
+  "lon": 13.1981059,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 9032265137,
+  "lat": 52.6631816,
+  "lon": 13.2856411,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9042598360,
+  "lat": 52.4010924,
+  "lon": 13.1412551,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "Söhnel Biergarten",
+    "operator": "Alexander Porrmann",
+    "operator:type": "private",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9057712709,
+  "lat": 52.5571581,
+  "lon": 13.5546651,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "lit": "yes",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9060548518,
+  "lat": 52.5444376,
+  "lon": 13.3696294,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9062880957,
+  "lat": 52.4949204,
+  "lon": 13.4146715,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2022-08-31",
+    "cold_water": "yes",
+    "description": "Trinkbrunnen",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9120210978,
+  "lat": 52.5101075,
+  "lon": 13.4474111,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9133322307,
+  "lat": 52.5257772,
+  "lon": 13.3040597,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Berliner Trinkbrunnen; Mai-Okt",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 9135649777,
+  "lat": 52.5212686,
+  "lon": 13.1721861,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9180328214,
+  "lat": 52.4065732,
+  "lon": 13.5082781,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9180842962,
+  "lat": 52.5760769,
+  "lon": 13.2653442,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, Privatgelände",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9180885139,
+  "lat": 52.5135624,
+  "lon": 13.1970327,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9180899074,
+  "lat": 52.5460494,
+  "lon": 13.2112804,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, nur in Sommerperiode in Betriebe",
+    "fee": "no",
+    "fountain": "bubbler",
+    "mapillary": "1835637953610559; 993989572466668",
+    "opening_hours": "24/7",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9180900699,
+  "lat": 52.5502374,
+  "lon": 13.1782108,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, nur in Sommerperiode in Betrieb",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9180903330,
+  "lat": 52.5386916,
+  "lon": 13.2061468,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, nur in Sommerperiode in Betrieb",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9216273520,
+  "lat": 52.4505938,
+  "lon": 13.6241142,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9216278019,
+  "lat": 52.4477402,
+  "lon": 13.6443927,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "man_made": "water_well",
+    "pump": "manual",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9230294045,
+  "lat": 52.6018139,
+  "lon": 13.3060309,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "lit": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9234452719,
+  "lat": 52.5284661,
+  "lon": 13.2000212,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 9496388294,
+  "lat": 52.5710355,
+  "lon": 13.3978130,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "colour": "blue/purple",
+    "description": "Trinkbrunnen (im Winter inaktiv)",
+    "fee": "no",
+    "fountain": "bubbler",
+    "not:operator:wikidata": "Q821856",
+    "operator": "Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9531153625,
+  "lat": 52.4544813,
+  "lon": 13.5163491,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "36",
+    "addr:postcode": "12439",
+    "addr:street": "Schnellerstraße",
+    "addr:suburb": "Niederschöneweide",
+    "drinking_water": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Hotel - Pension Schäfer",
+    "phone:mobile": "+49 0157 78512013",
+    "power_supply": "yes",
+    "smoking": "no",
+    "stars": "3",
+    "tourism": "hotel",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9547129320,
+  "lat": 52.5420071,
+  "lon": 13.4954378,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2022-09-05",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "bubbler",
+    "mapillary": "754972579126114",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9547722865,
+  "lat": 52.5147327,
+  "lon": 13.4319670,
+  "tags": {
+    "access": "yes",
+    "check_date": "2023-06-08",
+    "colour": "#35412E",
+    "drinking_water": "yes",
+    "emergency": "drinking_water",
+    "man_made": "water_well",
+    "mapillary": "798691394780905",
+    "network": "Berliner Straßenbrunnen",
+    "panoramax": "c2b411fb-fb02-469e-8680-70d916e1d637",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "Wolf",
+    "ref": "4",
+    "start_date": "2022"
+  }
+},
+{
+  "type": "node",
+  "id": 9556955499,
+  "lat": 52.4769978,
+  "lon": 13.4179519,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9566605416,
+  "lat": 52.5489270,
+  "lon": 13.3627384,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "0",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9598925014,
+  "lat": 52.3865757,
+  "lon": 13.4005533,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9620141151,
+  "lat": 52.5501121,
+  "lon": 13.4320128,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856"
+  }
+},
+{
+  "type": "node",
+  "id": 9626493518,
+  "lat": 52.5362176,
+  "lon": 13.5391963,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856"
+  }
+},
+{
+  "type": "node",
+  "id": 9655606121,
+  "lat": 52.4849802,
+  "lon": 13.3604334,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "hot_water": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9656454573,
+  "lat": 52.5622756,
+  "lon": 13.4123644,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 9668480937,
+  "lat": 52.5428574,
+  "lon": 13.3593835,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 9732048139,
+  "lat": 52.4853002,
+  "lon": 13.3482099,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856"
+  }
+},
+{
+  "type": "node",
+  "id": 9735193782,
+  "lat": 52.5151097,
+  "lon": 13.4788100,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "lit": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9740152649,
+  "lat": 52.4787024,
+  "lon": 13.7003627,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Wasserabgabe mit Druckknopf",
+    "drinking_water": "yes",
+    "fee": "no",
+    "mapillary": "9874150489322132",
+    "name": "Trinkwassersäule",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9748421338,
+  "lat": 52.5722641,
+  "lon": 13.3601666,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9759143948,
+  "lat": 52.5398611,
+  "lon": 13.3530154,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bubbler",
+    "panoramax": "00379e8a-de4c-4b73-b3bf-0a37ffa0ef6f",
+    "panoramax:0": "01134ea5-9fdc-4a76-90b5-2074e13a4482",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9762492625,
+  "lat": 52.3216421,
+  "lon": 13.4063089,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 9773111143,
+  "lat": 52.4605478,
+  "lon": 13.4933268,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "name": "Trinkwasserbrunnen am Friedhof"
+  }
+},
+{
+  "type": "node",
+  "id": 9774383323,
+  "lat": 52.5700647,
+  "lon": 13.5659571,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "fee": "no",
+    "name": "Trinkbrunnen Ahrensfelder Platz",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "seasonal": "yes",
+    "wikimedia_commons": "File:Berlin Ahrensfelder Platz Trinkwasserbrunnen.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 9775798578,
+  "lat": 52.5034302,
+  "lon": 13.4551280,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 9822297167,
+  "lat": 52.2964026,
+  "lon": 13.6273772,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "note": "Außer Betrieb"
+  }
+},
+{
+  "type": "node",
+  "id": 9824990630,
+  "lat": 52.5378164,
+  "lon": 13.4218574,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9830705711,
+  "lat": 52.5004545,
+  "lon": 13.4314871,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Trinkwasserbrunnen barrierrefreies Modell",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9830756711,
+  "lat": 52.5007769,
+  "lon": 13.4305776,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkwasserbrunnen barrierefreies Modell",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9834004317,
+  "lat": 52.4910729,
+  "lon": 13.4227986,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "0",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "lit": "no",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 9837783198,
+  "lat": 52.5066071,
+  "lon": 13.4025464,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "building": "toilets",
+    "building:levels": "1",
+    "changing_table": "yes",
+    "charge": "0.50 EUR",
+    "check_date": "2022-06-21",
+    "contact:phone": "+49 800 0925524",
+    "description": "Berliner Toilette",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "fee:urinal": "no",
+    "note": "2 frei zugängliche Urinale",
+    "opening_hours": "24/7",
+    "operator": "Wall",
+    "operator:wikidata": "Q1310189",
+    "payment:coins": "yes",
+    "payment:visa": "yes",
+    "roof:shape": "flat",
+    "supervised": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "urinal;seated",
+    "toilets:wheelchair": "yes",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9846655017,
+  "lat": 52.4997322,
+  "lon": 13.3918106,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9848450914,
+  "lat": 52.5089154,
+  "lon": 13.2896892,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Land",
+    "playground": "water",
+    "pump": "manual",
+    "wikimedia_commons": "File:Wasserspielplatz am Lietzensee.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 9848807591,
+  "lat": 52.4579566,
+  "lon": 13.3421681,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9860528200,
+  "lat": 52.5689948,
+  "lon": 13.3959752,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen Bürgerpark Pankow, barrierefreies Modell",
+    "fee": "no",
+    "fountain": "bubbler",
+    "not:operator:wikidata": "Q821856",
+    "operator": "Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9862404733,
+  "lat": 52.5184193,
+  "lon": 13.2917684,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Land",
+    "playground": "water",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 9865324164,
+  "lat": 52.5372186,
+  "lon": 13.6041632,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856"
+  }
+},
+{
+  "type": "node",
+  "id": 9868842460,
+  "lat": 52.5417769,
+  "lon": 13.4027480,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "wikimedia_commons": "File:Bubbler Mauerpark, Berlin, Germany Aug 21, 2023 03-13-11 PM.jpeg"
+  }
+},
+{
+  "type": "node",
+  "id": 9875137231,
+  "lat": 52.5426181,
+  "lon": 13.2064671,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 9886900263,
+  "lat": 52.5418314,
+  "lon": 13.4467452,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9900439480,
+  "lat": 52.5461310,
+  "lon": 13.3520526,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bubbler",
+    "panoramax": "a2354736-22d7-4c9a-91f1-cee2ec25989a"
+  }
+},
+{
+  "type": "node",
+  "id": 9953327699,
+  "lat": 52.5481459,
+  "lon": 13.4924571,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "0",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "covered": "no",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "lit": "no",
+    "material": "metal",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 9961988606,
+  "lat": 52.5354993,
+  "lon": 13.4984522,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water:seasonal": "April-Oktober",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9961991756,
+  "lat": 52.4980203,
+  "lon": 13.4060219,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "seasonal": "summer",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9978647624,
+  "lat": 52.4124098,
+  "lon": 13.6332799,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Wasserwerk An Den Müggelbergen",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:wikidata": "Q821856"
+  }
+},
+{
+  "type": "node",
+  "id": 9983386660,
+  "lat": 52.4791497,
+  "lon": 13.4100362,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9991377815,
+  "lat": 52.4967269,
+  "lon": 13.4058023,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "limited",
+    "fee": "no",
+    "fountain": "bubbler",
+    "start_date": "2022-07-01",
+    "wheelchair": "no",
+    "wikimedia_commons": "File:Bubbler im Böcklerpark Skatepark, Berlino, Germania Aug 20, 2023 04-25-46 PM.jpeg"
+  }
+},
+{
+  "type": "node",
+  "id": 10001038422,
+  "lat": 52.5385004,
+  "lon": 13.4985322,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2022-09-05",
+    "colour": "blue",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "mapillary": "495509815739223",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10002641618,
+  "lat": 52.3892794,
+  "lon": 13.0770136,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10025810984,
+  "lat": 52.5369224,
+  "lon": 13.2797444,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct: PH,Mo-Su 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10026085272,
+  "lat": 52.5261754,
+  "lon": 13.4755312,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10047214007,
+  "lat": 52.5678703,
+  "lon": 13.5128766,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 10092157402,
+  "lat": 52.5154629,
+  "lon": 13.4722746,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "capacity": "1",
+    "check_date": "2022-10-11",
+    "covered": "no",
+    "fee": "no",
+    "fixme": "noch außer Betrieb",
+    "height": "0.77",
+    "indoor": "no",
+    "level": "0",
+    "lit": "no",
+    "man_made": "drinking_fountain",
+    "material": "concrete",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10111059502,
+  "lat": 52.5273543,
+  "lon": 13.4743692,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10144973397,
+  "lat": 52.3626012,
+  "lon": 13.5079754,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:type": "tap",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "note": "serves 3 types of water: still / lightly carbonated / carbonated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10167874092,
+  "lat": 52.5273753,
+  "lon": 13.5858420,
+  "tags": {
+    "amenity": "drinking_water",
+    "fixme": "position",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 10188792801,
+  "lat": 52.5671291,
+  "lon": 13.5190559,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "drinking_water:seasonal": "April -  Oktober",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 10240965696,
+  "lat": 52.4877636,
+  "lon": 13.3649810,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856"
+  }
+},
+{
+  "type": "node",
+  "id": 10290936849,
+  "lat": 52.5714364,
+  "lon": 13.5095890,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 10572787186,
+  "lat": 52.4642412,
+  "lon": 13.5347833,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10586988982,
+  "lat": 52.5035925,
+  "lon": 13.3373404,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 10710097074,
+  "lat": 52.5464402,
+  "lon": 13.4918912,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 10712018222,
+  "lat": 52.5438972,
+  "lon": 13.4004115,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Bubbler, Mauerpark, Berlin, Germany Aug 21, 2023 04-10-12 PM.jpeg"
+  }
+},
+{
+  "type": "node",
+  "id": 10728510758,
+  "lat": 52.3886290,
+  "lon": 13.9512988,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10728510759,
+  "lat": 52.3887849,
+  "lon": 13.9509522,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10728510760,
+  "lat": 52.3886585,
+  "lon": 13.9507785,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10728510771,
+  "lat": 52.3884735,
+  "lon": 13.9511004,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10853383415,
+  "lat": 52.5416245,
+  "lon": 13.2625634,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct: PH,Mo-Su 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856"
+  }
+},
+{
+  "type": "node",
+  "id": 10880414383,
+  "lat": 52.4993209,
+  "lon": 13.4233071,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10923576797,
+  "lat": 52.4491934,
+  "lon": 13.3423678,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10933396629,
+  "lat": 52.4821725,
+  "lon": 13.4936827,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10941981856,
+  "lat": 52.5152775,
+  "lon": 13.2992166,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "description": "Berliner Trinkbrunnen; Mai-Okt",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10963489079,
+  "lat": 52.5102544,
+  "lon": 13.2911097,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10989674570,
+  "lat": 52.7546355,
+  "lon": 13.0325767,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11023169457,
+  "lat": 52.6735985,
+  "lon": 13.2658448,
+  "tags": {
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "cold_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11043501605,
+  "lat": 52.4675718,
+  "lon": 13.3478906,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856"
+  }
+},
+{
+  "type": "node",
+  "id": 11052142731,
+  "lat": 52.5138258,
+  "lon": 13.4215887,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11052455489,
+  "lat": 52.5594186,
+  "lon": 13.2175533,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "panoramax": "54a074ac-fdce-4ad9-a549-4b4fe2bb56c2",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11093118220,
+  "lat": 52.9315582,
+  "lon": 13.1091336,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11127527580,
+  "lat": 52.5233184,
+  "lon": 13.3361630,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11129834867,
+  "lat": 52.4402072,
+  "lon": 13.2143678,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11131213482,
+  "lat": 52.4938754,
+  "lon": 13.5063502,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11131549320,
+  "lat": 52.4976252,
+  "lon": 13.5211452,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "0",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "covered": "no",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "material": "metal",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 00:00-24:00",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11135958784,
+  "lat": 52.4825751,
+  "lon": 13.4166624,
+  "tags": {
+    "disused:amenity": "drinking_water",
+    "fountain": "drinking",
+    "wikimedia_commons": "File:Drinking fountain, Hasenheide, Berlin, Germany Aug 22, 2023 01-38-21 PM.jpeg"
+  }
+},
+{
+  "type": "node",
+  "id": 11139103183,
+  "lat": 52.5144053,
+  "lon": 13.4065399,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11139836180,
+  "lat": 52.4825060,
+  "lon": 13.4161595,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "only",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no",
+    "wikimedia_commons": "File:Public toilets, Hasenheide Volkspark, Berlin, Germany Aug 22, 2023 01-40-54 PM.jpeg"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225431,
+  "lat": 52.5557298,
+  "lon": 13.2506604,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225432,
+  "lat": 52.5547375,
+  "lon": 13.2500743,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225433,
+  "lat": 52.5552626,
+  "lon": 13.2504103,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225434,
+  "lat": 52.5567637,
+  "lon": 13.2512967,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225435,
+  "lat": 52.5563617,
+  "lon": 13.2510325,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225436,
+  "lat": 52.5572957,
+  "lon": 13.2514007,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225437,
+  "lat": 52.5572770,
+  "lon": 13.2515797,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "20"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225438,
+  "lat": 52.5578771,
+  "lon": 13.2519170,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "19"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225439,
+  "lat": 52.5583870,
+  "lon": 13.2522134,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "18"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225440,
+  "lat": 52.5588917,
+  "lon": 13.2525037,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "17"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225441,
+  "lat": 52.5594099,
+  "lon": 13.2527451,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "16"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225442,
+  "lat": 52.5603185,
+  "lon": 13.2533084,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "15"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225443,
+  "lat": 52.5607702,
+  "lon": 13.2535578,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "14"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225444,
+  "lat": 52.5612206,
+  "lon": 13.2538877,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "13"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225445,
+  "lat": 52.5618488,
+  "lon": 13.2541962,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225446,
+  "lat": 52.5617542,
+  "lon": 13.2541580,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "12"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225447,
+  "lat": 52.5543469,
+  "lon": 13.2498986,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225448,
+  "lat": 52.5545483,
+  "lon": 13.2491671,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "7"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225449,
+  "lat": 52.5548802,
+  "lon": 13.2484992,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "8"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225450,
+  "lat": 52.5552667,
+  "lon": 13.2477213,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "9"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225451,
+  "lat": 52.5555790,
+  "lon": 13.2471138,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "10"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225452,
+  "lat": 52.5559875,
+  "lon": 13.2463105,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "11"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225453,
+  "lat": 52.5563307,
+  "lon": 13.2455876,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "12"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225454,
+  "lat": 52.5567083,
+  "lon": 13.2449707,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "13"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225455,
+  "lat": 52.5569773,
+  "lon": 13.2442023,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "14"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225456,
+  "lat": 52.5574119,
+  "lon": 13.2435518,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "15"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225457,
+  "lat": 52.5579835,
+  "lon": 13.2437329,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "16"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225458,
+  "lat": 52.5584209,
+  "lon": 13.2437530,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "17"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225459,
+  "lat": 52.5589186,
+  "lon": 13.2436471,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "18"
+  }
+},
+{
+  "type": "node",
+  "id": 11165225460,
+  "lat": 52.5595179,
+  "lon": 13.2434761,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "19"
+  }
+},
+{
+  "type": "node",
+  "id": 11176598862,
+  "lat": 52.6788422,
+  "lon": 13.2421963,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bubbler",
+    "panoramax": "702b0bc2-03a5-48b2-85b4-8b543c9bcc5f"
+  }
+},
+{
+  "type": "node",
+  "id": 11197800653,
+  "lat": 52.3649947,
+  "lon": 13.5068511,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "level": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 11207439373,
+  "lat": 52.5479612,
+  "lon": 13.3612992,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "0",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "lit": "yes",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11253479359,
+  "lat": 52.5899555,
+  "lon": 13.2854102,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "lit": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11330992643,
+  "lat": 52.5353021,
+  "lon": 13.4858156,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 11443085441,
+  "lat": 52.5063429,
+  "lon": 13.2856250,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Betrieb: April bis Oktober\nTyp: Kaiser",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "April -Oktober 7/24h",
+    "operator": "https://www.bwb.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11459505078,
+  "lat": 52.5041205,
+  "lon": 13.3912102,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "May-Oct Mo-Su 00:00-24:00",
+    "operator": "www.bwb.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11465311078,
+  "lat": 52.5152608,
+  "lon": 13.4891373,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "May-Oct Mo-Su 00:00-24:00",
+    "operator": "www.bwb.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11465610356,
+  "lat": 52.5155245,
+  "lon": 13.4107460,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "location": "reception hall of the BWB",
+    "operator": "www.bwb.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11680909906,
+  "lat": 52.5121372,
+  "lon": 13.2406957,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Euro-Trinkbrunnen",
+    "not:operator:wikidata": "Q821856",
+    "operator": "Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 11806799834,
+  "lat": 52.5594700,
+  "lon": 13.3830819,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe"
+  }
+},
+{
+  "type": "node",
+  "id": 11818486065,
+  "lat": 52.5463756,
+  "lon": 13.4538094,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "www.bwb.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11818534929,
+  "lat": 52.4122716,
+  "lon": 13.4846511,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "www.bwb.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11818586722,
+  "lat": 52.4629751,
+  "lon": 13.4376937,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "www.bwb.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11824362994,
+  "lat": 52.5887930,
+  "lon": 13.3246015,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "www.bwb.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11824748865,
+  "lat": 52.5206164,
+  "lon": 13.1934127,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11830477814,
+  "lat": 52.5098441,
+  "lon": 13.3261183,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Studierendenwerk Berlin",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11837432916,
+  "lat": 52.4925429,
+  "lon": 13.3690506,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11850057193,
+  "lat": 52.4564447,
+  "lon": 13.3491216,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11868442093,
+  "lat": 52.5189630,
+  "lon": 13.1872968,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11888589565,
+  "lat": 52.4842214,
+  "lon": 13.3221632,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Berliner Wasser",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11985142429,
+  "lat": 52.5768681,
+  "lon": 13.5034849,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "map": "982133106788366",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12047121978,
+  "lat": 52.3971459,
+  "lon": 13.2442624,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "EURO-Trinkbrunnen Teltow",
+    "operator": "Wasser- und Abwasserzweckverbandes „Der Teltow“",
+    "source:link": "https://atiptap.org/projekte/trinkbrunnen-kampagne/"
+  }
+},
+{
+  "type": "node",
+  "id": 12053394678,
+  "lat": 52.5526615,
+  "lon": 13.4627089,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "0",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12066085958,
+  "lat": 52.4935532,
+  "lon": 13.3333101,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen; Mai-Okt",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12071241325,
+  "lat": 52.4739276,
+  "lon": 13.4175569,
+  "tags": {
+    "access": "yes",
+    "check_date": "2024-07-24",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12071986321,
+  "lat": 52.5030814,
+  "lon": 13.4055821,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12115101201,
+  "lat": 52.7548407,
+  "lon": 13.2478970,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12117697392,
+  "lat": 52.5102359,
+  "lon": 13.5842225,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "description": "Im Stadtteilzentrum Kaulsdorf kann man sich seine Trinkflasche mit Leitungswasser auffüllen.",
+    "description:en": "You can fill up your drinking bottle in the community centre.",
+    "fee": "no",
+    "location": "indoor",
+    "network": "Refill Deutschland",
+    "opening_hours": "Mo-Th 09:30-18:00, Fr 09:00-15:00; PH off",
+    "operator": "MITTENDRIN leben e.V.",
+    "website": "https://refill-deutschland.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 12130798622,
+  "lat": 52.5181526,
+  "lon": 13.2412734,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "name": "EURO-Trinkbrunnen",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12132490937,
+  "lat": 52.5388775,
+  "lon": 13.5949959,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "mapillary": "1246935269661580",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "operator:wikipedia": "de:Berliner Wasserbetriebe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12147623946,
+  "lat": 52.5175823,
+  "lon": 13.3344582,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12155075489,
+  "lat": 52.5162879,
+  "lon": 13.3760057,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12177479468,
+  "lat": 52.6847902,
+  "lon": 13.2802910,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12189382335,
+  "lat": 52.4974947,
+  "lon": 13.5779944,
+  "tags": {
+    "actuator": "manual",
+    "diameter": "150",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "handle": "no",
+    "note": "Schieber (S) 150, BWB, Schilder (schieber + Hydrant) am Zaun daneben",
+    "operator": "Berliner Wasserbetriebe",
+    "pipeline": "valve",
+    "ref": "102247",
+    "substance": "water",
+    "valve": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 12216976151,
+  "lat": 52.5609014,
+  "lon": 13.3785805,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12381809210,
+  "lat": 52.3658815,
+  "lon": 13.5062451,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "level": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 12512660847,
+  "lat": 52.5449733,
+  "lon": 13.4373626,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12525803151,
+  "lat": 52.4034716,
+  "lon": 13.5262640,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 12591160372,
+  "lat": 52.3619384,
+  "lon": 13.5083541,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12662977438,
+  "lat": 52.5142534,
+  "lon": 13.3926775,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12735971047,
+  "lat": 52.0929743,
+  "lon": 13.7181335,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12735980178,
+  "lat": 52.0929743,
+  "lon": 13.7181335,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12736037239,
+  "lat": 52.6049145,
+  "lon": 13.1294882,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12736047164,
+  "lat": 52.3441026,
+  "lon": 13.8778225,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12771949114,
+  "lat": 52.8483660,
+  "lon": 13.9427325,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12787834172,
+  "lat": 52.4276192,
+  "lon": 13.4290791,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "ref": "45"
+  }
+},
+{
+  "type": "node",
+  "id": 12811820534,
+  "lat": 52.4266932,
+  "lon": 13.4288848,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12823573144,
+  "lat": 52.4278670,
+  "lon": 13.4284141,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12823618703,
+  "lat": 52.4277911,
+  "lon": 13.4283554,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12823648855,
+  "lat": 52.4277070,
+  "lon": 13.4289824,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12823650544,
+  "lat": 52.4277378,
+  "lon": 13.4289684,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12850177977,
+  "lat": 52.9508516,
+  "lon": 13.8389809,
+  "tags": {
+    "access": "permit",
+    "amenity": "drinking_water",
+    "operator": "Campingplatz am Sassenpfuhl e.V.",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12880671923,
+  "lat": 52.3612550,
+  "lon": 13.5091660,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12895704273,
+  "lat": 52.4788267,
+  "lon": 13.4134017,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12944660282,
+  "lat": 52.5356209,
+  "lon": 13.0677871,
+  "tags": {
+    "access": "private",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:menstrual_products": "no",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "designated"
+  }
+},
+{
+  "type": "node",
+  "id": 12959313781,
+  "lat": 52.5710363,
+  "lon": 13.3897585,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12978391177,
+  "lat": 52.4278580,
+  "lon": 13.4277807,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12990009102,
+  "lat": 52.6705723,
+  "lon": 13.2830247,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12994925063,
+  "lat": 52.4275851,
+  "lon": 13.4290705,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "ref": "44"
+  }
+},
+{
+  "type": "node",
+  "id": 12997010901,
+  "lat": 52.5403027,
+  "lon": 13.4021237,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "level": "0",
+    "lit": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13014480057,
+  "lat": 52.4013386,
+  "lon": 13.2222470,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13015607458,
+  "lat": 52.4009877,
+  "lon": 13.2207758,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13020610547,
+  "lat": 52.4273603,
+  "lon": 13.4294193,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13020614296,
+  "lat": 52.4274310,
+  "lon": 13.4294885,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13020630279,
+  "lat": 52.4275642,
+  "lon": 13.4296870,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13020637533,
+  "lat": 52.4275500,
+  "lon": 13.4295872,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+}
+
+  ]
+}

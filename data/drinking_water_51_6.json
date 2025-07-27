@@ -1,0 +1,4797 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:44:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 286272389,
+  "lat": 51.9663586,
+  "lon": 6.8581187,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 474421025,
+  "lat": 51.1861097,
+  "lon": 6.7929018,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-02-02",
+    "description": "Drinking fountain, can fill bottles, also low-level for animals.",
+    "fountain": "drinking",
+    "note": "verfügbar nur während der frostfreien Jahreszeit",
+    "operator": "Stadtwerke Düsseldorf AG",
+    "start_date": "1950",
+    "website": "https://www.swd-ag.de/privatkunden/trinkwasser/trinkwasserbrunnen/"
+  }
+},
+{
+  "type": "node",
+  "id": 513646245,
+  "lat": 51.4311838,
+  "lon": 6.9858876,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 633405597,
+  "lat": 51.2649723,
+  "lon": 6.8292774,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 713515936,
+  "lat": 51.8394060,
+  "lon": 6.8821171,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Wasseranschluss"
+  }
+},
+{
+  "type": "node",
+  "id": 730570238,
+  "lat": 51.3478810,
+  "lon": 6.3629230,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 730570240,
+  "lat": 51.3478670,
+  "lon": 6.3633988,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 730570248,
+  "lat": 51.3482689,
+  "lon": 6.3629967,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 764706659,
+  "lat": 51.5661613,
+  "lon": 6.7756341,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1070779710,
+  "lat": 51.3334012,
+  "lon": 6.6577344,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "SWK",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1207433154,
+  "lat": 51.4166242,
+  "lon": 6.8626899,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1330836622,
+  "lat": 51.2337549,
+  "lon": 6.7896890,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-12-30",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1342093578,
+  "lat": 51.8941768,
+  "lon": 6.9836131,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1390560842,
+  "lat": 51.4453492,
+  "lon": 6.8489241,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkwasserbrunnen",
+    "operator": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1476330978,
+  "lat": 51.1990839,
+  "lon": 6.6925961,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "name": "Neuer Marktbrunnen",
+    "start_date": "1983-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 1587163640,
+  "lat": 51.2299772,
+  "lon": 6.7718800,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "description": "City Toilet",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "Stadt Duesseldorf",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "toilets:wheelchair": "yes",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1640767779,
+  "lat": 51.2659598,
+  "lon": 6.8293528,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-02-16"
+  }
+},
+{
+  "type": "node",
+  "id": 1640767781,
+  "lat": 51.2659272,
+  "lon": 6.8404756,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "no",
+    "lit": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1659230863,
+  "lat": 51.2595362,
+  "lon": 6.8293305,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-12-24",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 1847518680,
+  "lat": 51.0639987,
+  "lon": 6.0950534,
+  "tags": {
+    "amenity": "drinking_water",
+    "url": "http://www.heinsberg.de/kultur-freizeit/sehenswertes/der-gastes-brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 1866983265,
+  "lat": 51.2598492,
+  "lon": 6.7259677,
+  "tags": {
+    "amenity": "drinking_water",
+    "artist_name": "Bernhard Lohf",
+    "bottle": "yes",
+    "fountain": "bubbler",
+    "note": "verfügbar nur während der frostfreien Jahreszeit",
+    "operator": "Stadtwerke Düsseldorf AG",
+    "start_date": "1955",
+    "website": "https://www.swd-ag.de/privatkunden/trinkwasser/trinkwasserbrunnen/"
+  }
+},
+{
+  "type": "node",
+  "id": 1902293257,
+  "lat": 51.4269313,
+  "lon": 6.7903104,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:location": "room",
+    "check_date:opening_hours": "2024-11-11",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "name": "Hoenen",
+    "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 08:00-17:00",
+    "shop": "bakery",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2277415670,
+  "lat": 51.4349673,
+  "lon": 6.8068095,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Zoo Duisburg",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2277460499,
+  "lat": 51.4385817,
+  "lon": 6.8034527,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Zoo Duisburg",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2315767946,
+  "lat": 51.9653364,
+  "lon": 6.2894239,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
+    "check_date": "2021-10-21",
+    "cold_water": "yes",
+    "colour": "white",
+    "fee": "no",
+    "hot_water": "no",
+    "man_made": "water_tap",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 2340687859,
+  "lat": 51.5597971,
+  "lon": 6.0431795,
+  "tags": {
+    "addr:city": "Maashees",
+    "addr:housenumber": "5a",
+    "addr:postcode": "5823CB",
+    "addr:street": "Op den Berg",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "internet_access": "wlan",
+    "name": "Natuurkampeerterrein Landgoed Geijsteren",
+    "payment:cash": "yes",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.natuurkampeerterreinen.nl/terreinen/limburg/landgoed-geijsteren/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2362319723,
+  "lat": 51.0516426,
+  "lon": 6.2116773,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2406185039,
+  "lat": 51.0279437,
+  "lon": 6.8701848,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "RheinEnergie",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2437018908,
+  "lat": 51.5795800,
+  "lon": 6.5182070,
+  "tags": {
+    "amenity": "drinking_water",
+    "source": "gps"
+  }
+},
+{
+  "type": "node",
+  "id": 2466429449,
+  "lat": 51.1978392,
+  "lon": 6.6911689,
+  "tags": {
+    "access": "private",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2748591859,
+  "lat": 51.9575102,
+  "lon": 6.3787183,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2934153993,
+  "lat": 51.5631700,
+  "lon": 6.6971341,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-06-25",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 3052037877,
+  "lat": 51.2698540,
+  "lon": 6.7231236,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "im Caravan-Center",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3244323031,
+  "lat": 51.3674052,
+  "lon": 6.4073512,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-10-10",
+    "name": "Wasserhahn"
+  }
+},
+{
+  "type": "node",
+  "id": 3245944461,
+  "lat": 51.2838290,
+  "lon": 6.0774565,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-09-16",
+    "fountain": "bottle_refill",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3357454669,
+  "lat": 51.8352712,
+  "lon": 6.6319859,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3358129833,
+  "lat": 51.8343842,
+  "lon": 6.4646693,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3388071439,
+  "lat": 51.7643847,
+  "lon": 6.3892483,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3433330185,
+  "lat": 51.6656665,
+  "lon": 6.9670812,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3437834789,
+  "lat": 51.6639480,
+  "lon": 6.9645029,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "image": "File:Ve dorsten hafen wasser.jpg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3439770983,
+  "lat": 51.3832245,
+  "lon": 6.5893330,
+  "tags": {
+    "amenity": "drinking_water",
+    "source": "gps"
+  }
+},
+{
+  "type": "node",
+  "id": 3439770988,
+  "lat": 51.3833294,
+  "lon": 6.5890804,
+  "tags": {
+    "amenity": "drinking_water",
+    "source": "gps"
+  }
+},
+{
+  "type": "node",
+  "id": 3444766096,
+  "lat": 51.7651929,
+  "lon": 6.8304867,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-01-22",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3501329141,
+  "lat": 51.8016998,
+  "lon": 6.0963415,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3501329169,
+  "lat": 51.8019148,
+  "lon": 6.0967629,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3501329207,
+  "lat": 51.8022432,
+  "lon": 6.0967374,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3541952189,
+  "lat": 51.4351875,
+  "lon": 6.8102185,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Zoo Duisburg",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3541952806,
+  "lat": 51.4373805,
+  "lon": 6.8090516,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Zoo Duisburg",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3561576403,
+  "lat": 51.8436147,
+  "lon": 6.2514923,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2023-10-11",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3734189085,
+  "lat": 51.2400264,
+  "lon": 6.7691108,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-04-29",
+    "covered": "no",
+    "fee": "no",
+    "image": "https://d2exd72xrrp1s7.cloudfront.net/www/000/1k8/k5/k5uy4wewvzyz1u1el4rxwpo2h51wkcix1-uhi75361292/",
+    "indoor": "no",
+    "level": "0",
+    "note": "verfügbar nur während der frostfreien Jahreszeit",
+    "operator": "Stadtwerke Düsseldorf AG",
+    "start_date": "2015",
+    "website": "https://www.swd-ag.de/privatkunden/trinkwasser/trinkwasserbrunnen/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3889294542,
+  "lat": 51.7556984,
+  "lon": 6.2439262,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3926546555,
+  "lat": 51.6757345,
+  "lon": 6.1695298,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3933779117,
+  "lat": 51.7866544,
+  "lon": 6.0125072,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3933779124,
+  "lat": 51.7869124,
+  "lon": 6.0119761,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3933779134,
+  "lat": 51.7870353,
+  "lon": 6.0117130,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3933779135,
+  "lat": 51.7870704,
+  "lon": 6.0122561,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3933779141,
+  "lat": 51.7872069,
+  "lon": 6.0131363,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3933779151,
+  "lat": 51.7873884,
+  "lon": 6.0127068,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3933779664,
+  "lat": 51.7876035,
+  "lon": 6.0121098,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3954178573,
+  "lat": 51.4280139,
+  "lon": 6.9817646,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2023-04-09",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "name": "WC am Mustergarten",
+    "operator": "Grün & Gruga",
+    "portable": "no",
+    "source": "survey",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4043822136,
+  "lat": 51.4912558,
+  "lon": 6.8805698,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "description": "Sonntags scheint nur für Rollstuhlbenutzer das WC offen zu sein",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "operator": "centro",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4043822137,
+  "lat": 51.4912642,
+  "lon": 6.8805539,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "description": "Sonntags scheint nur für Rollstuhlbenutzer das WC offen zu sein",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "1",
+    "male": "yes",
+    "operator": "centro",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4087017795,
+  "lat": 51.4931562,
+  "lon": 6.9012031,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4127350094,
+  "lat": 51.4369896,
+  "lon": 6.8091315,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "description": "für Besucher vom Delfinarium",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Zoo Duisburg",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4185807336,
+  "lat": 51.2426891,
+  "lon": 6.1892953,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4252329965,
+  "lat": 51.4712347,
+  "lon": 6.8519270,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4252392653,
+  "lat": 51.4685046,
+  "lon": 6.8502491,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4252454071,
+  "lat": 51.4684571,
+  "lon": 6.8631456,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4306072378,
+  "lat": 51.2183686,
+  "lon": 6.7607111,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "note": "verfügbar nur während der frostfreien Jahreszeit",
+    "operator": "Stadtwerke Düsseldorf AG",
+    "start_date": "2012",
+    "website": "https://www.swd-ag.de/privatkunden/trinkwasser/trinkwasserbrunnen/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4307611584,
+  "lat": 51.2400498,
+  "lon": 6.8036892,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "note": "verfügbar nur während der frostfreien Jahreszeit",
+    "operator": "Stadtwerke Düsseldorf AG",
+    "start_date": "2016",
+    "website": "https://www.swd-ag.de/privatkunden/trinkwasser/trinkwasserbrunnen/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4309081611,
+  "lat": 51.2071944,
+  "lon": 6.7339878,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "verfügbar nur während der frostfreien Jahreszeit",
+    "operator": "Stadtwerke Düsseldorf AG",
+    "start_date": "2012",
+    "website": "https://www.swd-ag.de/privatkunden/trinkwasser/trinkwasserbrunnen/"
+  }
+},
+{
+  "type": "node",
+  "id": 4588623156,
+  "lat": 51.4065372,
+  "lon": 6.3309452,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-04-30",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4594867362,
+  "lat": 51.4405138,
+  "lon": 6.7706152,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "2",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Explorado Kindermuseum Duisburg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4731382329,
+  "lat": 51.2198586,
+  "lon": 6.7944224,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Düsseldorf",
+    "addr:country": "DE",
+    "addr:housenumber": "14",
+    "addr:postcode": "40210",
+    "addr:street": "Konrad-Adenauer-Platz",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "charge": "1.00 EUR",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "opening_hours": "24/7",
+    "operator": "Hering",
+    "toilets:disposal": "flush",
+    "website": "https://www.wc-fresh.com/standort/duesseldorf-hauptbahnhof/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719125,
+  "lat": 51.1465267,
+  "lon": 6.0011545,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719127,
+  "lat": 51.6032146,
+  "lon": 6.0492744,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719128,
+  "lat": 51.4953931,
+  "lon": 6.0929258,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719130,
+  "lat": 51.4196921,
+  "lon": 6.1475536,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "operator:wikipedia": "nl:Waterleiding Maatschappij Limburg",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719131,
+  "lat": 51.3744846,
+  "lon": 6.1743757,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719132,
+  "lat": 51.3747120,
+  "lon": 6.1743586,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719133,
+  "lat": 51.3756477,
+  "lon": 6.1744445,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719134,
+  "lat": 51.3581532,
+  "lon": 6.2108307,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4789673091,
+  "lat": 51.6623125,
+  "lon": 6.8062588,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Artesischer Brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 4862211183,
+  "lat": 51.4616365,
+  "lon": 6.9975139,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "McDonald's",
+    "operator:wikidata": "Q38076",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4920817263,
+  "lat": 51.4258339,
+  "lon": 6.9818940,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Grün & Gruga",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4988344124,
+  "lat": 51.6901018,
+  "lon": 6.5789218,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Brunnen 1",
+    "operator": "Stadtwerke Wesel",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 4988344125,
+  "lat": 51.6909447,
+  "lon": 6.5771500,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Brunnen 2",
+    "operator": "Stadtwerke Wesel"
+  }
+},
+{
+  "type": "node",
+  "id": 4988344126,
+  "lat": 51.6919087,
+  "lon": 6.5750302,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Brunnen 3",
+    "operator": "Stadtwerke Wesel",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 4988344127,
+  "lat": 51.6926984,
+  "lon": 6.5733493,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Brunnen 4",
+    "operator": "Stadtwerke Wesel",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 4988344128,
+  "lat": 51.6907141,
+  "lon": 6.5694068,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Brunnen 5",
+    "operator": "Stadtwerke Wesel",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 4988344129,
+  "lat": 51.6915121,
+  "lon": 6.5676430,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Brunnen 6",
+    "operator": "Stadtwerke Wesel",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 4988344130,
+  "lat": 51.6924213,
+  "lon": 6.5661402,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Brunnen 7",
+    "operator": "Stadtwerke Wesel",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 4988344135,
+  "lat": 51.6931928,
+  "lon": 6.5643389,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Brunnen 7",
+    "operator": "Stadtwerke Wesel",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 4988344140,
+  "lat": 51.6939245,
+  "lon": 6.5624881,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Brunnen 9",
+    "operator": "Stadtwerke Wesel",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 5018557643,
+  "lat": 51.2793881,
+  "lon": 6.7647538,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "1",
+    "male": "yes",
+    "operator": "Düsseldorf Airport",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5018557644,
+  "lat": 51.2796129,
+  "lon": 6.7653425,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "operator": "Düsseldorf Airport",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5018557645,
+  "lat": 51.2772455,
+  "lon": 6.7646036,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "operator": "Düsseldorf Airport",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5021904523,
+  "lat": 51.2061879,
+  "lon": 6.6607218,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5483311479,
+  "lat": 51.4611682,
+  "lon": 6.9957968,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "VW + Skoda Zentrum Essen",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5725372921,
+  "lat": 51.6505690,
+  "lon": 6.7575566,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5948246738,
+  "lat": 51.4799346,
+  "lon": 6.7827769,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6290928511,
+  "lat": 51.4278489,
+  "lon": 6.1788755,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6311477833,
+  "lat": 51.4858785,
+  "lon": 6.9968256,
+  "tags": {
+    "access": "customers",
+    "addr:city": "Essen",
+    "addr:country": "DE",
+    "addr:housenumber": "401",
+    "addr:postcode": "45326",
+    "addr:street": "Gladbecker Straße",
+    "addr:suburb": "Altenessen",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours": "Mo-Sa 06:30-19:00; Su, PH off",
+    "operator": "Malzers",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6314694687,
+  "lat": 51.5382742,
+  "lon": 6.6137686,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Mo off; Tu-Su, PH 10:00-18:00; Dec 24-25 off, Dec 31 off; Jan 01 off",
+    "operator": "TerraZoo Rheinberg",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6340988862,
+  "lat": 51.9322720,
+  "lon": 6.2680640,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Landal GreenParks GmbH",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6345373435,
+  "lat": 51.9324057,
+  "lon": 6.2678550,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "description": "In the pool",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Landal GreenParks GmbH",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6362128249,
+  "lat": 51.4313413,
+  "lon": 6.9975494,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "indoor": "yes",
+    "level": "-1",
+    "male": "yes",
+    "note": "in der Grugahalle",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 6363258879,
+  "lat": 51.3663207,
+  "lon": 6.1725087,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6364291051,
+  "lat": 51.3655488,
+  "lon": 6.1712952,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6473489985,
+  "lat": 51.5261904,
+  "lon": 6.0143238,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6578035940,
+  "lat": 51.9710911,
+  "lon": 6.7180743,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6578069674,
+  "lat": 51.9723989,
+  "lon": 6.7180954,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6578080297,
+  "lat": 51.9744161,
+  "lon": 6.7345290,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6583372948,
+  "lat": 51.9575137,
+  "lon": 6.3786891,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 6634165896,
+  "lat": 51.9215582,
+  "lon": 6.7187873,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6936457472,
+  "lat": 51.9373577,
+  "lon": 6.4586861,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6990096057,
+  "lat": 51.4584127,
+  "lon": 6.9989319,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "B.O.C.",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7028564991,
+  "lat": 51.5882263,
+  "lon": 6.0608945,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028654098,
+  "lat": 51.4272473,
+  "lon": 6.0411613,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028654099,
+  "lat": 51.4607823,
+  "lon": 6.0474641,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028682473,
+  "lat": 51.1866285,
+  "lon": 6.0108626,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028720760,
+  "lat": 51.1218917,
+  "lon": 6.0357261,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028791022,
+  "lat": 51.3563117,
+  "lon": 6.1652337,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028842210,
+  "lat": 51.5355867,
+  "lon": 6.1250627,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7057687710,
+  "lat": 51.8985519,
+  "lon": 6.2413446,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7073149195,
+  "lat": 51.1829675,
+  "lon": 6.4114511,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "level": "0",
+    "operator": "Kaufland",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7084612662,
+  "lat": 51.3557115,
+  "lon": 6.9192425,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7266666317,
+  "lat": 51.5860375,
+  "lon": 6.1764780,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7490512471,
+  "lat": 51.8556118,
+  "lon": 6.1637537,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7526777644,
+  "lat": 51.6614910,
+  "lon": 6.2880950,
+  "tags": {
+    "access": "customers",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7682217824,
+  "lat": 51.3408767,
+  "lon": 6.2786944,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7820936270,
+  "lat": 51.9231351,
+  "lon": 6.0727190,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "operator": "NS",
+    "operator:wikidata": "Q23076",
+    "operator:wikipedia": "nl:Nederlandse Spoorwegen"
+  }
+},
+{
+  "type": "node",
+  "id": 7826828834,
+  "lat": 51.1156580,
+  "lon": 6.8793810,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Stadt Monheim am Rhein",
+    "start_date": "2020-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7859510856,
+  "lat": 51.9681623,
+  "lon": 6.7150663,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "ProRail"
+  }
+},
+{
+  "type": "node",
+  "id": 7859512711,
+  "lat": 51.9573248,
+  "lon": 6.2139040,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "operator": "Join the Pipe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8010570526,
+  "lat": 51.0856610,
+  "lon": 6.8886196,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Stadt Monheim am Rhein",
+    "start_date": "2020-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8010570527,
+  "lat": 51.0908628,
+  "lon": 6.8794079,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Stadt Monheim am Rhein",
+    "start_date": "2020-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8149163141,
+  "lat": 51.5259902,
+  "lon": 6.7850219,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8240095312,
+  "lat": 51.1240863,
+  "lon": 6.8988642,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Stadt Monheim am Rhein",
+    "start_date": "2020-12",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8248498507,
+  "lat": 51.9096077,
+  "lon": 6.4148967,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 8253125800,
+  "lat": 51.9437010,
+  "lon": 6.4629371,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8465031983,
+  "lat": 51.4623493,
+  "lon": 6.1621233,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Kraantje aan kerk"
+  }
+},
+{
+  "type": "node",
+  "id": 8567353022,
+  "lat": 51.9592370,
+  "lon": 6.2600622,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8567895822,
+  "lat": 51.1222365,
+  "lon": 6.8950110,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Stadt Monheim am Rhein",
+    "start_date": "2020-12",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8570767318,
+  "lat": 51.1901698,
+  "lon": 6.5129340,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 8936464846,
+  "lat": 51.0333737,
+  "lon": 6.8876889,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "RheinEnergie",
+    "website": "https://www.stadt-koeln.de/politik-und-verwaltung/presse/mitteilungen/22136/index.html",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8976982447,
+  "lat": 51.6749400,
+  "lon": 6.1578980,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Goch GmbH",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9026030333,
+  "lat": 51.6757308,
+  "lon": 6.1558650,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Goch GmbH",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9045484478,
+  "lat": 51.3589719,
+  "lon": 6.0493404,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9269770075,
+  "lat": 51.1181717,
+  "lon": 6.8966250,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "operator": "Stadt Monheim am Rhein",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9276426274,
+  "lat": 51.1126541,
+  "lon": 6.9503597,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9316371344,
+  "lat": 51.1962182,
+  "lon": 6.4442911,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Vitus Center",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9331960748,
+  "lat": 51.2732028,
+  "lon": 6.8474217,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "no",
+    "lit": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9335322990,
+  "lat": 51.4875225,
+  "lon": 6.9980241,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "MediaMarkt",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9383246771,
+  "lat": 51.9435446,
+  "lon": 6.0136220,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9395173888,
+  "lat": 51.8361877,
+  "lon": 6.8608781,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Gebührenplfichtig"
+  }
+},
+{
+  "type": "node",
+  "id": 9484462220,
+  "lat": 51.4238825,
+  "lon": 6.9867347,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "name": "Spielplatz am Grugabad",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9737974019,
+  "lat": 51.2275964,
+  "lon": 6.7871617,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "note": "Position unpräzise (+/- 5 m)",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421234,
+  "lat": 51.6415170,
+  "lon": 6.0022065,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 5",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421235,
+  "lat": 51.6414425,
+  "lon": 6.0016281,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 10",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421236,
+  "lat": 51.6414908,
+  "lon": 6.0021098,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 4",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421237,
+  "lat": 51.6414920,
+  "lon": 6.0017608,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 9",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421238,
+  "lat": 51.6414382,
+  "lon": 6.0019553,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 3",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421239,
+  "lat": 51.6415163,
+  "lon": 6.0018420,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 8",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421240,
+  "lat": 51.6415695,
+  "lon": 6.0020319,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 7",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421241,
+  "lat": 51.6414044,
+  "lon": 6.0018446,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 2",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421242,
+  "lat": 51.6413597,
+  "lon": 6.0017031,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 1",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421243,
+  "lat": 51.6416023,
+  "lon": 6.0021354,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 6",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421244,
+  "lat": 51.6416955,
+  "lon": 6.0020247,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 15",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421245,
+  "lat": 51.6416286,
+  "lon": 6.0014732,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 20",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421246,
+  "lat": 51.6416703,
+  "lon": 6.0019366,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 14",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421247,
+  "lat": 51.6416753,
+  "lon": 6.0016377,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 19",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421248,
+  "lat": 51.6416211,
+  "lon": 6.0017643,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 13",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421249,
+  "lat": 51.6416985,
+  "lon": 6.0017039,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 18",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421250,
+  "lat": 51.6417521,
+  "lon": 6.0018982,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 17",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421251,
+  "lat": 51.6415984,
+  "lon": 6.0016845,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 12",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421252,
+  "lat": 51.6415559,
+  "lon": 6.0015386,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 11",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421253,
+  "lat": 51.6417809,
+  "lon": 6.0019871,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 16",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421254,
+  "lat": 51.6418568,
+  "lon": 6.0017877,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 24",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421255,
+  "lat": 51.6418819,
+  "lon": 6.0018758,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 25",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421256,
+  "lat": 51.6418048,
+  "lon": 6.0013236,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 30",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421257,
+  "lat": 51.6418481,
+  "lon": 6.0014963,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 29",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421258,
+  "lat": 51.6418152,
+  "lon": 6.0016460,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 23",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421259,
+  "lat": 51.6418773,
+  "lon": 6.0015878,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 28",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421260,
+  "lat": 51.6419328,
+  "lon": 6.0017517,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 27",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421261,
+  "lat": 51.6417848,
+  "lon": 6.0015357,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 22",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421262,
+  "lat": 51.6417370,
+  "lon": 6.0013815,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 21",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421263,
+  "lat": 51.6419661,
+  "lon": 6.0018374,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 26",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421264,
+  "lat": 51.6421029,
+  "lon": 6.0010853,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 41",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421265,
+  "lat": 51.6421547,
+  "lon": 6.0012668,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 42",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421266,
+  "lat": 51.6421775,
+  "lon": 6.0013465,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 43",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421267,
+  "lat": 51.6422267,
+  "lon": 6.0015188,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 44",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421268,
+  "lat": 51.6422519,
+  "lon": 6.0016070,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 45",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421269,
+  "lat": 51.6419131,
+  "lon": 6.0012274,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 31",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421270,
+  "lat": 51.6419650,
+  "lon": 6.0014089,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 32",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421271,
+  "lat": 51.6419877,
+  "lon": 6.0014887,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 33",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421272,
+  "lat": 51.6420369,
+  "lon": 6.0016610,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 34",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421273,
+  "lat": 51.6420621,
+  "lon": 6.0017491,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 35",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421274,
+  "lat": 51.6421421,
+  "lon": 6.0016996,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 36",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421275,
+  "lat": 51.6421174,
+  "lon": 6.0016011,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 37",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421276,
+  "lat": 51.6420651,
+  "lon": 6.0014283,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 38",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421277,
+  "lat": 51.6420441,
+  "lon": 6.0013561,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 39",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421278,
+  "lat": 51.6419921,
+  "lon": 6.0011810,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 40",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421302,
+  "lat": 51.6424154,
+  "lon": 6.0010873,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 54",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421303,
+  "lat": 51.6423688,
+  "lon": 6.0008848,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 53",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421304,
+  "lat": 51.6421684,
+  "lon": 6.0010403,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 50",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421305,
+  "lat": 51.6422167,
+  "lon": 6.0012152,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 49",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421306,
+  "lat": 51.6422379,
+  "lon": 6.0013077,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 48",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421307,
+  "lat": 51.6422891,
+  "lon": 6.0014772,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 47",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421308,
+  "lat": 51.6423234,
+  "lon": 6.0015714,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 46",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421309,
+  "lat": 51.6423199,
+  "lon": 6.0011502,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 52",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421310,
+  "lat": 51.6422681,
+  "lon": 6.0009612,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 51",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9806421311,
+  "lat": 51.6422681,
+  "lon": 6.0009599,
+  "tags": {
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "G 51",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9855942607,
+  "lat": 51.2271340,
+  "lon": 6.9309882,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Hubertusquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9870918384,
+  "lat": 51.8267052,
+  "lon": 6.8885129,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9942701183,
+  "lat": 51.4438774,
+  "lon": 6.9045387,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkwasserbrunnen",
+    "fountain": "bubbler",
+    "operator": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9942719929,
+  "lat": 51.4235136,
+  "lon": 6.9062624,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkwasserbrunnen",
+    "operator": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9942719957,
+  "lat": 51.4251343,
+  "lon": 6.8955777,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkwasserbrunnen",
+    "operator": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9950961447,
+  "lat": 51.8423691,
+  "lon": 6.6152304,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "BEW",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9966340124,
+  "lat": 51.9972582,
+  "lon": 6.7198821,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 9966340147,
+  "lat": 51.9969771,
+  "lon": 6.7197567,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9966340192,
+  "lat": 51.9972807,
+  "lon": 6.7198877,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 9983830559,
+  "lat": 51.8755491,
+  "lon": 6.2446020,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10002968910,
+  "lat": 51.6036891,
+  "lon": 6.9209560,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 10056739217,
+  "lat": 51.3363152,
+  "lon": 6.3407967,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "name": "Trinkwasserbrunnen Grefrath Markt",
+    "operator": "Gemeinde Grefrath"
+  }
+},
+{
+  "type": "node",
+  "id": 10059371266,
+  "lat": 51.6115567,
+  "lon": 6.0532801,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Camping de Smal",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10059371270,
+  "lat": 51.6119049,
+  "lon": 6.0525165,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Camping de Smal",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10082598128,
+  "lat": 51.3409779,
+  "lon": 6.2799202,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "changing_table:fee": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "-1",
+    "male": "yes",
+    "operator": "Jugendherberge Nettetal-Hinsbeck",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10084981212,
+  "lat": 51.3410741,
+  "lon": 6.2801505,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:fee": "no",
+    "changing_table:location": "wheelchair_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "level": "0",
+    "operator": "Jugendherberge Nettetal-Hinsbeck",
+    "toilets:position": "seated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10100989413,
+  "lat": 51.3410644,
+  "lon": 6.2802509,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "changing_table:fee": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "-1",
+    "male": "yes",
+    "operator": "Jugendherberge Nettetal-Hinsbeck",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10103652881,
+  "lat": 51.3459751,
+  "lon": 6.2594122,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Apr-Oct: We-Su 11:00-18:00; Nov-Mar: We-Su 11:00-17:00",
+    "operator": "Infozentrum Krickenbecker Seen",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 10103654549,
+  "lat": 51.3472211,
+  "lon": 6.1943713,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-17:00",
+    "operator": "Jacobs",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 10110670777,
+  "lat": 51.3716008,
+  "lon": 6.1713157,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "level": "1",
+    "male": "yes",
+    "name": "De Twee Gebroeders",
+    "name:de": "Die 2 Brüder",
+    "name:nl": "De Twee Gebroeders",
+    "opening_hours": "Mo 09:00-18:00; Tu-We 08:30-18:00; Th-Fr 08:30-18:30; Sa 07:00-17:30; Su 10:00-17:00",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10126693612,
+  "lat": 51.1964404,
+  "lon": 6.8470225,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "level": "0",
+    "man_made": "drinking_fountain",
+    "note": "verfügbar nur während der frostfreien Jahreszeit",
+    "operator": "Stadtwerke Düsseldorf AG",
+    "operator:wikidata": "Q2328468",
+    "start_date": "2018",
+    "website": "https://www.swd-ag.de/pk/strom-gas-wasser/wasser/trinkwasserbrunnen/"
+  }
+},
+{
+  "type": "node",
+  "id": 10197306076,
+  "lat": 51.4539746,
+  "lon": 6.9464357,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "metal",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 10209822959,
+  "lat": 51.4400540,
+  "lon": 6.9970275,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "metal",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 10288033976,
+  "lat": 51.1747428,
+  "lon": 6.4518902,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10315389597,
+  "lat": 51.7623860,
+  "lon": 6.1874053,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 10821943084,
+  "lat": 51.6624515,
+  "lon": 6.9146611,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 10833989207,
+  "lat": 51.1283029,
+  "lon": 6.4456151,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10936797066,
+  "lat": 51.3266410,
+  "lon": 6.9707734,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "description": "Nur während der frostfreien Jahreszeit; only during frost-free season",
+    "fee": "no",
+    "indoor": "no",
+    "level": "0",
+    "lit": "yes",
+    "operator": "Stadtwerke Heiligenhaus",
+    "source": "local knowledge",
+    "start_date": "2022-09-09",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10963373841,
+  "lat": 51.2270410,
+  "lon": 6.7848209,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "lit": "yes",
+    "seasonal": "yes",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10967895836,
+  "lat": 51.9584983,
+  "lon": 6.2959882,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10996684529,
+  "lat": 51.2408206,
+  "lon": 6.7796844,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Düsseldorf"
+  }
+},
+{
+  "type": "node",
+  "id": 11035422552,
+  "lat": 51.7867379,
+  "lon": 6.1375960,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "man_made": "drinking_fountain",
+    "operator": "Stadt Kleve",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11037888783,
+  "lat": 51.6611635,
+  "lon": 6.4540561,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadt Xanten",
+    "start_date": "2023-03-31",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11047722420,
+  "lat": 51.7901075,
+  "lon": 6.0068426,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "1",
+    "male": "yes",
+    "operator": "Eiscafe La Gondola",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 11047827374,
+  "lat": 51.2012811,
+  "lon": 6.8377038,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
+    "covered": "no",
+    "fee": "no",
+    "level": "0",
+    "man_made": "drinking_fountain",
+    "note": "verfügbar nur während der frostfreien Jahreszeit",
+    "operator": "Stadtwerke Düsseldorf",
+    "operator:wikidata": "Q2328468",
+    "start_date": "2022",
+    "website": "https://www.swd-ag.de/pk/strom-gas-wasser/wasser/trinkwasserbrunnen/"
+  }
+},
+{
+  "type": "node",
+  "id": 11061302939,
+  "lat": 51.2232462,
+  "lon": 6.8127988,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Stadtwerke Düsseldorf"
+  }
+},
+{
+  "type": "node",
+  "id": 11062253920,
+  "lat": 51.4321621,
+  "lon": 6.7722968,
+  "tags": {
+    "amenity": "drinking_water",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "lit": "no",
+    "man_made": "drinking_fountain",
+    "name": "Trinkwasserspender",
+    "operator": "Stadt Duisburg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11062959385,
+  "lat": 51.4336019,
+  "lon": 6.7645596,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11075688186,
+  "lat": 51.3642650,
+  "lon": 6.4185637,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "name": "Trinkwasser Spender",
+    "operator": "Stadt Kempen"
+  }
+},
+{
+  "type": "node",
+  "id": 11093989120,
+  "lat": 51.3364346,
+  "lon": 6.9876406,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Mo-Fr off; Sa 14:00-17:00; Su 11:00-17:00",
+    "operator": "Heimatmuseum, Hofcafe Abtsküche",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11099045988,
+  "lat": 51.7925599,
+  "lon": 6.0914180,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11099125413,
+  "lat": 51.3317046,
+  "lon": 6.5623855,
+  "tags": {
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "check_date": "2023-08-02",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11163590744,
+  "lat": 51.5837833,
+  "lon": 6.2437038,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11181037401,
+  "lat": 51.9373978,
+  "lon": 6.1280551,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11181037402,
+  "lat": 51.9640073,
+  "lon": 6.2851501,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11253043289,
+  "lat": 51.2083680,
+  "lon": 6.7936899,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "note": "verfügbar nur während der frostfreien Jahreszeit",
+    "operator": "Stadtwerke Düsseldorf AG",
+    "website": "https://www.swd-ag.de/privatkunden/trinkwasser/trinkwasserbrunnen/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11368448856,
+  "lat": 51.4298171,
+  "lon": 6.9682996,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "stone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 11368471178,
+  "lat": 51.4290064,
+  "lon": 6.9688526,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "stone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 11390434594,
+  "lat": 51.4731575,
+  "lon": 6.9469150,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "DAMPFE Das Borbecker Brauhaus",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 11459500426,
+  "lat": 51.2487776,
+  "lon": 6.9764739,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "no",
+    "changing_table:location": "dedicated_room",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "2",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11516597316,
+  "lat": 51.5779725,
+  "lon": 6.2367885,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11559663504,
+  "lat": 51.7384815,
+  "lon": 6.2919755,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11753633664,
+  "lat": 51.9305295,
+  "lon": 6.3488050,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 11756863459,
+  "lat": 51.9227064,
+  "lon": 6.3638695,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11782817193,
+  "lat": 51.3279154,
+  "lon": 6.5652356,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2023-03",
+    "covered": "no",
+    "fee": "no",
+    "outdoor": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11872317154,
+  "lat": 51.2971498,
+  "lon": 6.8482132,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "no",
+    "man_made": "water_tap",
+    "name": "Trinkwasserspender",
+    "operator": "Stadtwerke Ratingen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11877521839,
+  "lat": 51.8389780,
+  "lon": 6.6170899,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11881816849,
+  "lat": 51.3842922,
+  "lon": 6.1814764,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11881843937,
+  "lat": 51.3510328,
+  "lon": 6.1529108,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "no",
+    "changing_table:location": "dedicated_room",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 11:00-18:00; PH off; May 10: 10:00-21:00; May 04: 10:00-18:00; May 05: 11:00-18:00; May 09: 10:00-18:00; May 12: 11:00-18:00; May 19: off; May 20: 10:00-18:00; May 30: 10:00-21:00; Jun 06: 11:00-18:00",
+    "operator": "Kees Smit Tuinmeubelen",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11888476901,
+  "lat": 51.2338457,
+  "lon": 6.7730577,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "description": "City-Toilette / Hering",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "operator": "Stadt Düsseldorf",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11945545214,
+  "lat": 51.2791457,
+  "lon": 6.7254581,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "description": "City-Toilette / Hering",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "operator": "Hering Sanikonzept GmbH",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11950608214,
+  "lat": 51.2265441,
+  "lon": 6.7708618,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkwasser",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Düsseldorf"
+  }
+},
+{
+  "type": "node",
+  "id": 11951810495,
+  "lat": 51.2338635,
+  "lon": 6.7714460,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Stadtwerke Düsseldorf"
+  }
+},
+{
+  "type": "node",
+  "id": 11964900696,
+  "lat": 51.1751595,
+  "lon": 6.8341343,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Düsseldorf"
+  }
+},
+{
+  "type": "node",
+  "id": 11984912432,
+  "lat": 51.2269935,
+  "lon": 6.7866858,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "brand": "City Toilet",
+    "centralkey": "eurokey",
+    "charge": "0.50 EUR",
+    "description:payment": "Bei Überzahlung kein Wechselgeld",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "gender_segregated": "no",
+    "male": "yes",
+    "model": "Modultoilettenanlage",
+    "model:start_date": "2023",
+    "name": "City Toilet",
+    "operator": "Hering Sanikonzept GmbH",
+    "payment:coins": "yes",
+    "payment:coins:denominations": "0.10 EUR;0.20 EUR;0.50 EUR;1 EUR",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "speech_output:de": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12006148138,
+  "lat": 51.1691041,
+  "lon": 6.9369936,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12073723349,
+  "lat": 51.1819721,
+  "lon": 6.8657687,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Düsseldorf",
+    "seasonal": "summer"
+  }
+},
+{
+  "type": "node",
+  "id": 12077463309,
+  "lat": 51.9429262,
+  "lon": 6.6171133,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12085945813,
+  "lat": 51.1939265,
+  "lon": 6.4324220,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-10",
+    "operator": "NEW AG",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 12091958615,
+  "lat": 51.2479592,
+  "lon": 6.7632128,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "description": "City Toilette Hering",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "operator": "Stadt Düsseldorf",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12115618508,
+  "lat": 51.3326736,
+  "lon": 6.5543316,
+  "tags": {
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "dog": "no",
+    "fountain": "drinking",
+    "historic": "no",
+    "indoor": "no",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12117341698,
+  "lat": 51.1233925,
+  "lon": 6.8922636,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 12136475115,
+  "lat": 51.2368763,
+  "lon": 6.8614729,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Düsseldorf"
+  }
+},
+{
+  "type": "node",
+  "id": 12140863568,
+  "lat": 51.2460328,
+  "lon": 6.8253604,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "name": "Trinkwassser",
+    "operator": "Stadtwerke Düsseldorf"
+  }
+},
+{
+  "type": "node",
+  "id": 12145711398,
+  "lat": 51.4275931,
+  "lon": 6.8575311,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2024-08-30",
+    "fee": "no",
+    "indoor": "yes",
+    "level": "0",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12145711399,
+  "lat": 51.2476569,
+  "lon": 6.7909902,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2024-08-30",
+    "fee": "no",
+    "indoor": "yes",
+    "level": "2",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12145711400,
+  "lat": 51.2472897,
+  "lon": 6.7926451,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2024-08-30",
+    "fee": "no",
+    "indoor": "yes",
+    "level": "1",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12145731291,
+  "lat": 51.2467688,
+  "lon": 6.7915290,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2024-08-30",
+    "fee": "no",
+    "indoor": "yes",
+    "level": "3",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12145753201,
+  "lat": 51.2477564,
+  "lon": 6.7926033,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2024-08-30",
+    "fee": "no",
+    "indoor": "yes",
+    "level": "2",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12160069731,
+  "lat": 51.4297231,
+  "lon": 6.8454954,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "check_date": "2024-09-06",
+    "fee": "no",
+    "indoor": "yes",
+    "level": "0",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12178412960,
+  "lat": 51.2476838,
+  "lon": 6.8367533,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "no",
+    "man_made": "water_tap",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12184432525,
+  "lat": 51.2347280,
+  "lon": 6.7219253,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12204928994,
+  "lat": 51.3615870,
+  "lon": 6.6383473,
+  "tags": {
+    "amenity": "drinking_water",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 12234578976,
+  "lat": 51.0322053,
+  "lon": 6.9861055,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "lit": "yes",
+    "operator": "Stadt Leverkusen",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12244508774,
+  "lat": 51.4903898,
+  "lon": 6.9959555,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Mo-Sa 10:00-19:00; Su, PH off",
+    "operator": "Zweirad-Center Stadler",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12248860763,
+  "lat": 51.3807928,
+  "lon": 6.1871910,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "no",
+    "changing_table:location": "wheelchair_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Mo-We,Sa 09:00-18:00; Th,Fr 09:00-21:00; Su 09:30-18:00",
+    "operator": "Tuincentrum Leurs",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 12281865461,
+  "lat": 51.3348380,
+  "lon": 6.6362912,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12297695938,
+  "lat": 51.3348515,
+  "lon": 6.6362821,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Trinkwasser"
+  }
+},
+{
+  "type": "node",
+  "id": 12302409102,
+  "lat": 51.1970253,
+  "lon": 6.4451424,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-10",
+    "operator": "NEW AG",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 12329149285,
+  "lat": 51.2476011,
+  "lon": 6.7921775,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2024-11-10",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12387888525,
+  "lat": 51.1948921,
+  "lon": 6.4404864,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-11",
+    "operator": "NEW AG",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 12551076735,
+  "lat": 51.1659843,
+  "lon": 6.4418621,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-01",
+    "fountain": "bubbler",
+    "operator": "NEW AG",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 12563651990,
+  "lat": 51.3547215,
+  "lon": 6.9409440,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "MediClin",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12609686569,
+  "lat": 51.4378440,
+  "lon": 6.5310756,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-02-22",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12658030198,
+  "lat": 51.0552737,
+  "lon": 6.2236120,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12658071351,
+  "lat": 51.0638704,
+  "lon": 6.0947661,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12677628218,
+  "lat": 51.0891435,
+  "lon": 6.5897819,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-03"
+  }
+},
+{
+  "type": "node",
+  "id": 12715650221,
+  "lat": 51.4470421,
+  "lon": 6.9782771,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Essen",
+    "operator:wikidata": "Q2328475",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12749839501,
+  "lat": 51.1676583,
+  "lon": 6.4461405,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-04",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12782429205,
+  "lat": 51.6581165,
+  "lon": 6.9697905,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkwasserbrunnen",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "operator": "Rotary Club Dorsten",
+    "wikimedia_commons": "File:25-05-06-Bahnhof-Dorsten-05.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 12800180370,
+  "lat": 51.2566172,
+  "lon": 6.3896422,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12813402615,
+  "lat": 51.0798050,
+  "lon": 6.3160611,
+  "tags": {
+    "amenity": "drinking_water",
+    "fixme": "genaue Position",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 12843565248,
+  "lat": 51.1974075,
+  "lon": 6.8101941,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "note": "verfügbar nur während der frostfreien Jahreszeit",
+    "operator": "Stadtwerke Düsseldorf AG",
+    "start_date": "2025",
+    "website": "https://www.swd-ag.de/privatkunden/trinkwasser/trinkwasserbrunnen/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12879038296,
+  "lat": 51.5804868,
+  "lon": 6.9961864,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12879076396,
+  "lat": 51.5799060,
+  "lon": 6.9984446,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12879113649,
+  "lat": 51.5800637,
+  "lon": 6.9954203,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12879123242,
+  "lat": 51.5803272,
+  "lon": 6.9983655,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12879123391,
+  "lat": 51.5805406,
+  "lon": 6.9967025,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12879127697,
+  "lat": 51.5793604,
+  "lon": 6.9975714,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12879132932,
+  "lat": 51.5806569,
+  "lon": 6.9974041,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12912133574,
+  "lat": 51.2132589,
+  "lon": 6.7755755,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fountain": "bubbler",
+    "note": "verfügbar nur während der frostfreien Jahreszeit",
+    "operator": "Stadtwerke Düsseldorf",
+    "operator:wikidata": "Q2328468",
+    "seasonal": "yes",
+    "website": "https://www.swd-ag.de/pk/strom-gas-wasser/wasser/trinkwasserbrunnen/"
+  }
+},
+{
+  "type": "node",
+  "id": 12912139318,
+  "lat": 51.1430264,
+  "lon": 6.8961911,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fountain": "bubbler",
+    "note": "verfügbar nur während der frostfreien Jahreszeit",
+    "operator": "Stadtwerke Düsseldorf",
+    "operator:wikidata": "Q2328468",
+    "seasonal": "yes",
+    "website": "https://www.swd-ag.de/pk/strom-gas-wasser/wasser/trinkwasserbrunnen/"
+  }
+},
+{
+  "type": "node",
+  "id": 12912177110,
+  "lat": 51.2251419,
+  "lon": 6.8628478,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fountain": "bubbler",
+    "note": "verfügbar nur während der frostfreien Jahreszeit",
+    "operator": "Stadtwerke Düsseldorf",
+    "operator:wikidata": "Q2328468",
+    "seasonal": "yes",
+    "website": "https://www.swd-ag.de/pk/strom-gas-wasser/wasser/trinkwasserbrunnen/"
+  }
+},
+{
+  "type": "node",
+  "id": 12912187413,
+  "lat": 51.2135987,
+  "lon": 6.7851875,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fountain": "bubbler",
+    "note": "verfügbar nur während der frostfreien Jahreszeit",
+    "operator": "Stadtwerke Düsseldorf",
+    "operator:wikidata": "Q2328468",
+    "seasonal": "yes",
+    "website": "https://www.swd-ag.de/pk/strom-gas-wasser/wasser/trinkwasserbrunnen/"
+  }
+},
+{
+  "type": "node",
+  "id": 12957700675,
+  "lat": 51.3630020,
+  "lon": 6.9387469,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Essen",
+    "operator:wikidata": "Q2328475",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12977384774,
+  "lat": 51.4448361,
+  "lon": 6.2660271,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Leere Flaschen sind zu einem Preis von 6 € erhältlich bei Tragbar in der Klosterstraße, im Büro des Kulturrings am Marktplatz oder bei Hermans – Kochen & Lebensart auf der Gelderner Straße",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "operator": "Stadtwerke Straelen",
+    "source:description": "https://www.straelen.de/rathaus-politik/veroeffentlichungen/presse-und-oeffentlichkeitsarbeit/pressemitteilungen/juli-2025/ab-sofort-rund-um-die-uhr-frisches-trinkwasser-auf-dem-marktplatz-in-straelen/"
+  }
+},
+{
+  "type": "node",
+  "id": 13009733708,
+  "lat": 51.4903896,
+  "lon": 6.5503829,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "no",
+    "changing_table:location": "wheelchair_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13009740451,
+  "lat": 51.5024426,
+  "lon": 6.5160701,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Kloster Kamp",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 13012200381,
+  "lat": 51.6686606,
+  "lon": 6.2734656,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 13013108004,
+  "lat": 51.9909246,
+  "lon": 6.0566397,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13013110832,
+  "lat": 51.9448757,
+  "lon": 6.1212802,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+}
+
+  ]
+}

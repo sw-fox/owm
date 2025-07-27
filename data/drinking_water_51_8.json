@@ -1,0 +1,2476 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:45:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 105506859,
+  "lat": 51.0021257,
+  "lon": 8.1589674,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Ferndorfquelle",
+    "natural": "spring",
+    "wikidata": "Q19279576",
+    "wikipedia": "de:Ferndorfquelle"
+  }
+},
+{
+  "type": "node",
+  "id": 286535203,
+  "lat": 51.1797453,
+  "lon": 8.4844957,
+  "tags": {
+    "description": "Geringer Durchfluss",
+    "drinking_water": "yes",
+    "ele": "830",
+    "name": "Lennequelle",
+    "natural": "spring",
+    "source": "observation, sign",
+    "wikidata": "Q21043521",
+    "wikimedia_commons": "Category:Lennequelle",
+    "wikipedia": "de:Lennequelle"
+  }
+},
+{
+  "type": "node",
+  "id": 343743022,
+  "lat": 51.2266713,
+  "lon": 8.9983757,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Hollenstein Brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 348094653,
+  "lat": 51.1721395,
+  "lon": 8.9385325,
+  "tags": {
+    "addr:city": "Vöhl",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "34516",
+    "addr:street": "Albert-Schweitzer-Lager",
+    "addr:suburb": "Asel-Süd",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "email": "info@ferien-edersee.de",
+    "fax": "+49 5635 8274",
+    "name": "Ferienzentrum Albert Schweitzer",
+    "phone": "+49 5635 210",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.ferien-edersee.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 384882395,
+  "lat": 51.7805961,
+  "lon": 8.8218186,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Liboriusquelle",
+    "natural": "spring",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 384882396,
+  "lat": 51.7812919,
+  "lon": 8.8220713,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "name": "Arminiusquelle",
+    "natural": "spring",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 409866939,
+  "lat": 51.3290518,
+  "lon": 8.1627240,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 448864973,
+  "lat": 51.7196932,
+  "lon": 8.7552062,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Augenquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 665876337,
+  "lat": 51.9520664,
+  "lon": 8.0503477,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2022-09-17",
+    "fee": "no",
+    "operator": "Wasserversorgung Beckum GmbH",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 737270855,
+  "lat": 51.6818710,
+  "lon": 8.9589278,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Trinkwassergewinnungsanlage"
+  }
+},
+{
+  "type": "node",
+  "id": 778267975,
+  "lat": 51.3313284,
+  "lon": 8.4015261,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 805050222,
+  "lat": 51.4910395,
+  "lon": 8.3306636,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Kaiser Heinrich Quelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 905581802,
+  "lat": 51.2187883,
+  "lon": 8.3349354,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Rarbach",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 928159318,
+  "lat": 51.7612776,
+  "lon": 8.6827727,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 981653106,
+  "lat": 51.0498846,
+  "lon": 8.7616619,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 981653583,
+  "lat": 51.0498875,
+  "lon": 8.7627761,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1189771060,
+  "lat": 51.3375120,
+  "lon": 8.4967784,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Luisenquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1306649549,
+  "lat": 51.8538761,
+  "lon": 8.6890952,
+  "tags": {
+    "amenity": "drinking_water",
+    "capacity": "2",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 1469616266,
+  "lat": 51.2133425,
+  "lon": 8.5576488,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Ruhrquelle",
+    "natural": "spring",
+    "wikidata": "Q2175101",
+    "wikimedia_commons": "Category:Ruhrquelle",
+    "wikipedia": "de:Ruhrquelle"
+  }
+},
+{
+  "type": "node",
+  "id": 1487886120,
+  "lat": 51.1336254,
+  "lon": 8.8909645,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Gustav-Herbold-Quelle",
+    "source": "Own survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1645642537,
+  "lat": 51.4878489,
+  "lon": 8.5797732,
+  "tags": {
+    "description:de": "Trinkwasserquelle",
+    "drinking_water": "yes",
+    "name": "Quelle 2000",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1741690302,
+  "lat": 51.3997781,
+  "lon": 8.3473184,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Hubertusquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1744780070,
+  "lat": 51.7635577,
+  "lon": 8.9422673,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "note": "Trinkwasserhahn demontiert",
+    "potable": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1785429209,
+  "lat": 51.7160086,
+  "lon": 8.7293570,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1874727033,
+  "lat": 51.4340527,
+  "lon": 8.2017576,
+  "tags": {
+    "description:de": "Schwengelpumpe",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "manual",
+    "pump:status": "ok"
+  }
+},
+{
+  "type": "node",
+  "id": 1890224319,
+  "lat": 51.3269941,
+  "lon": 8.2165640,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1890229970,
+  "lat": 51.3226519,
+  "lon": 8.2218976,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1923809500,
+  "lat": 51.3371257,
+  "lon": 8.1464504,
+  "tags": {
+    "amenity": "drinking_water",
+    "note": "18.03.2022, wieder öffentlich zugänglich"
+  }
+},
+{
+  "type": "node",
+  "id": 2253010090,
+  "lat": 51.6746592,
+  "lon": 8.3472668,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2021-10-22",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 2289495391,
+  "lat": 51.1916272,
+  "lon": 8.3567858,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2377765180,
+  "lat": 51.7068729,
+  "lon": 8.7720951,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Universität Paderborn"
+  }
+},
+{
+  "type": "node",
+  "id": 2388657411,
+  "lat": 51.7001907,
+  "lon": 8.7777039,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2459315163,
+  "lat": 51.8501852,
+  "lon": 8.9462166,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Silberquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2529280892,
+  "lat": 51.2382538,
+  "lon": 8.0319056,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2595213633,
+  "lat": 51.5998497,
+  "lon": 8.8019913,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2662060539,
+  "lat": 51.5780933,
+  "lon": 8.1050693,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:location": "female_toilet",
+    "description": "Öffentliche Toilette auf Bahnsteig 1",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "level": "1",
+    "male": "yes",
+    "name": "Toilette auf Bahnsteig 1",
+    "payment:coins": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2752130168,
+  "lat": 51.1314185,
+  "lon": 8.4055007,
+  "tags": {
+    "drinking_water": "yes",
+    "inscription": "Den gefallenen Helden des SGV geweiht, Abt.Bad Berleburg, Abt. Girkhausen",
+    "intermittent": "no",
+    "name": "Friedensquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2795364974,
+  "lat": 51.6876136,
+  "lon": 8.7762939,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "level": "-1",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2895912334,
+  "lat": 51.2427432,
+  "lon": 8.5684910,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Germaniaquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2996218243,
+  "lat": 51.3481351,
+  "lon": 8.2827242,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "drinking",
+    "note": "Im Winter außer Betrieb",
+    "operator": "Stadt Meschede",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3010401033,
+  "lat": 51.3947638,
+  "lon": 8.0641518,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "name": "Trinkbrunnen Steinweg",
+    "operator": "Stadtwerke Arnsberg GmbH",
+    "seasonal": "April-October"
+  }
+},
+{
+  "type": "node",
+  "id": 3114967915,
+  "lat": 51.7159834,
+  "lon": 8.7400816,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2022-11-11",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Kaufland",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3193718404,
+  "lat": 51.2152049,
+  "lon": 8.4110559,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3246709049,
+  "lat": 51.4719838,
+  "lon": 8.4597614,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3497015668,
+  "lat": 51.6058636,
+  "lon": 8.2867402,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "no",
+    "fountain": "bubbler",
+    "lit": "no",
+    "name": "Dorfbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 3547382988,
+  "lat": 51.3659049,
+  "lon": 8.5226805,
+  "tags": {
+    "amenity": "kneipp_water_cure",
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3610581900,
+  "lat": 51.8027976,
+  "lon": 8.8356192,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3626947911,
+  "lat": 51.5589149,
+  "lon": 8.0856435,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3767305406,
+  "lat": 51.6193759,
+  "lon": 8.8870247,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3767305425,
+  "lat": 51.6197564,
+  "lon": 8.8880073,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3887916527,
+  "lat": 51.7528415,
+  "lon": 8.0291483,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4032616410,
+  "lat": 51.8611412,
+  "lon": 8.3234835,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Tönnies",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 4033278249,
+  "lat": 51.4918058,
+  "lon": 8.0828984,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-12-04",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4033278251,
+  "lat": 51.4918261,
+  "lon": 8.0828349,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2023-12-04",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 4209021191,
+  "lat": 51.8959872,
+  "lon": 8.8685301,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4209024089,
+  "lat": 51.8975284,
+  "lon": 8.8638960,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4318585524,
+  "lat": 51.1942044,
+  "lon": 8.5242371,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-04-22",
+    "fountain": "bubbler",
+    "name": "Hellequelle"
+  }
+},
+{
+  "type": "node",
+  "id": 4349869879,
+  "lat": 51.7051738,
+  "lon": 8.7223497,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "no",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4349869880,
+  "lat": 51.7052073,
+  "lon": 8.7223830,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "no",
+    "note": "Unisex nur für Rollstuhlfahrer",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4364725914,
+  "lat": 51.8880888,
+  "lon": 8.5008608,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4407435494,
+  "lat": 51.7665083,
+  "lon": 8.9423616,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "centralkey": "eurokey",
+    "changing_table": "yes",
+    "changing_table:location": "unisex_toilet",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "operator": "rail & fresh",
+    "payment:coins": "yes",
+    "payment:notes": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4504674450,
+  "lat": 51.1172458,
+  "lon": 8.2959240,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "name": "Hermann-Kayser-Quelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4504918333,
+  "lat": 51.7875078,
+  "lon": 8.0713473,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "operator": "Schule",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4504918334,
+  "lat": 51.7875580,
+  "lon": 8.0713123,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "male": "yes",
+    "operator": "Schule",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4560258548,
+  "lat": 51.9190047,
+  "lon": 8.8344404,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4580348232,
+  "lat": 51.5704145,
+  "lon": 8.1056424,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "yes",
+    "name": "Wasserspender",
+    "operator": "Stadt Soest",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4621744977,
+  "lat": 51.1018352,
+  "lon": 8.2403498,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Sombornquelle, sprudelt über Steinstufen, Zugang ohne nasszuwerden schwierig bei starker Schüttung",
+    "fee": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4680540169,
+  "lat": 51.2233493,
+  "lon": 8.3882851,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4773331439,
+  "lat": 51.9422016,
+  "lon": 8.5910294,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4773331440,
+  "lat": 51.9425976,
+  "lon": 8.5903213,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4773331442,
+  "lat": 51.9418396,
+  "lon": 8.5919146,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4773331443,
+  "lat": 51.9413021,
+  "lon": 8.5916104,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4773331444,
+  "lat": 51.9407380,
+  "lon": 8.5918152,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4773331447,
+  "lat": 51.9393496,
+  "lon": 8.5933305,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4773333102,
+  "lat": 51.9362710,
+  "lon": 8.6131423,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4826230614,
+  "lat": 51.2019265,
+  "lon": 8.3042329,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-04-10",
+    "indoor": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4837106494,
+  "lat": 51.1501493,
+  "lon": 8.9089878,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4896691452,
+  "lat": 51.1903914,
+  "lon": 8.3398436,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4896692378,
+  "lat": 51.2077942,
+  "lon": 8.3511785,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5035218221,
+  "lat": 51.8959669,
+  "lon": 8.8688038,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5040402022,
+  "lat": 51.8957107,
+  "lon": 8.8691324,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5785000644,
+  "lat": 51.1516359,
+  "lon": 8.2836345,
+  "tags": {
+    "amenity": "drinking_water",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6064499705,
+  "lat": 51.7188434,
+  "lon": 8.7361399,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "1",
+    "male": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6283404632,
+  "lat": 51.8321000,
+  "lon": 8.9399500,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 6308634719,
+  "lat": 51.6699872,
+  "lon": 8.6108136,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6311014553,
+  "lat": 51.8278065,
+  "lon": 8.6538845,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6357663215,
+  "lat": 51.3350468,
+  "lon": 8.2757395,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "drinking",
+    "operator": "Ruhrverband und Hochsauerlandwasser GmbH",
+    "start_date": "2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6437087622,
+  "lat": 51.9071351,
+  "lon": 8.8775150,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Mo-Sa 7:00-21:00",
+    "operator": "REWE Kiwitt oHG",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6457652683,
+  "lat": 51.4314178,
+  "lon": 8.0041456,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Trinkbrunnen Am Solepark",
+    "note": "kostenloses Trinkwasser",
+    "operator": "Stadtwerke Arnsberg",
+    "seasonal": "April-October",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6478085075,
+  "lat": 51.7630517,
+  "lon": 8.5675496,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Elli",
+    "toilets:disposal": "flush",
+    "toilets:position": "squat",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6480313219,
+  "lat": 51.8329334,
+  "lon": 8.3301204,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6497848208,
+  "lat": 51.7612140,
+  "lon": 8.6828443,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6535314345,
+  "lat": 51.3729037,
+  "lon": 8.7429435,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "spring_box",
+    "name": "Quelle im Florenbicker Tal",
+    "natural": "spring",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "node",
+  "id": 6641887993,
+  "lat": 51.2867259,
+  "lon": 8.2536540,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6673755186,
+  "lat": 51.1597671,
+  "lon": 8.4309958,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6783810571,
+  "lat": 51.9079000,
+  "lon": 8.9862600,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 6783836726,
+  "lat": 51.9241000,
+  "lon": 8.9690100,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Horn-Bad Meinberg"
+  }
+},
+{
+  "type": "node",
+  "id": 6783839920,
+  "lat": 51.9080000,
+  "lon": 8.9498800,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Horn-Bad Meinberg"
+  }
+},
+{
+  "type": "node",
+  "id": 6783842140,
+  "lat": 51.8490580,
+  "lon": 8.9457099,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 6783843627,
+  "lat": 51.9168725,
+  "lon": 8.9485457,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 6832256920,
+  "lat": 51.5158049,
+  "lon": 8.6969853,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6861488773,
+  "lat": 51.3939877,
+  "lon": 8.5578158,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7042202131,
+  "lat": 51.8206895,
+  "lon": 8.6571595,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7208437347,
+  "lat": 51.3947683,
+  "lon": 8.5679009,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fee": "no",
+    "operator": "Stadtwerke Brilon",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7374850893,
+  "lat": 51.9400333,
+  "lon": 8.8736964,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Ausser Betrieb",
+    "disused": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7446910460,
+  "lat": 51.3867060,
+  "lon": 8.1918141,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7600859103,
+  "lat": 51.9161934,
+  "lon": 8.8277831,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 7618257182,
+  "lat": 51.7382561,
+  "lon": 8.7697023,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Fr-Su 10:00-18:00",
+    "operator": "Deutsches Traktoren und Modellauto Museum",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 7646286592,
+  "lat": 51.5864048,
+  "lon": 8.1620961,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "unisex": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7726488925,
+  "lat": 51.3549334,
+  "lon": 8.6576592,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7776413999,
+  "lat": 51.1262817,
+  "lon": 8.2396187,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7776414000,
+  "lat": 51.1202717,
+  "lon": 8.2371084,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Überlauf Hochbehälter"
+  }
+},
+{
+  "type": "node",
+  "id": 7839871428,
+  "lat": 51.1877894,
+  "lon": 8.3473060,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Gefasste Quelle mit Trinkwasser",
+    "inscription": "1933-2008 75 Jahre SGV Abteilung Holthausen",
+    "name": "SGV-Brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 7876212022,
+  "lat": 51.6692133,
+  "lon": 8.6098212,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7876212023,
+  "lat": 51.6689005,
+  "lon": 8.6105092,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7889665980,
+  "lat": 51.7379297,
+  "lon": 8.6316665,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7889666845,
+  "lat": 51.7379546,
+  "lon": 8.6316557,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7889666846,
+  "lat": 51.7379147,
+  "lon": 8.6315820,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "no",
+    "male": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7913969164,
+  "lat": 51.9587685,
+  "lon": 8.6583717,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7941841451,
+  "lat": 51.7811037,
+  "lon": 8.8247178,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8371266317,
+  "lat": 51.9868681,
+  "lon": 8.6481085,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Fahrrad Hilfe",
+    "name:en": "Rad Help"
+  }
+},
+{
+  "type": "node",
+  "id": 8504877814,
+  "lat": 51.7189095,
+  "lon": 8.7679622,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8612399417,
+  "lat": 51.3480223,
+  "lon": 8.3146390,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8889750364,
+  "lat": 51.1615179,
+  "lon": 8.8771365,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Gemeinde Vöhl",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8889750366,
+  "lat": 51.1613312,
+  "lon": 8.8767820,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Gemeinde Vöhl",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8889789181,
+  "lat": 51.5669314,
+  "lon": 8.1042315,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8987925726,
+  "lat": 51.4718319,
+  "lon": 8.4380148,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8987925727,
+  "lat": 51.4718612,
+  "lon": 8.4379393,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8987925729,
+  "lat": 51.4709427,
+  "lon": 8.4394990,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8987925730,
+  "lat": 51.4709037,
+  "lon": 8.4395653,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8989905108,
+  "lat": 51.9893791,
+  "lon": 8.6099283,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Habigsberger’sche Quellen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9017359918,
+  "lat": 51.8661630,
+  "lon": 8.9127055,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9170235489,
+  "lat": 51.1631521,
+  "lon": 8.6187382,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9468629277,
+  "lat": 51.1078209,
+  "lon": 8.1907979,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9474109282,
+  "lat": 51.1314215,
+  "lon": 8.4054970,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9474109283,
+  "lat": 51.2585789,
+  "lon": 8.5548325,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9481003175,
+  "lat": 51.7318177,
+  "lon": 8.7178633,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "indoor": "yes",
+    "male": "yes",
+    "operator": "Hornbach",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 9546057658,
+  "lat": 51.2743688,
+  "lon": 8.8569427,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:fee": "yes",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9666588866,
+  "lat": 51.2116683,
+  "lon": 8.6850752,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9688313697,
+  "lat": 51.7233177,
+  "lon": 8.7502362,
+  "tags": {
+    "amenity": "toilets",
+    "centralkey": "eurokey",
+    "changing_table": "yes",
+    "changing_table:fee": "no",
+    "changing_table:location": "unisex_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Apr-Oct: Mo-Su,PH 08:00-22:00",
+    "operator": "Stadt Paderborn",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9796615746,
+  "lat": 51.8894326,
+  "lon": 8.5011021,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9830463971,
+  "lat": 51.7548407,
+  "lon": 8.0402995,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9860992724,
+  "lat": 51.1543245,
+  "lon": 8.0594415,
+  "tags": {
+    "amenity": "drinking_water",
+    "opening_hours": "Mo-Su 09:00-18:00"
+  }
+},
+{
+  "type": "node",
+  "id": 9874236793,
+  "lat": 51.1542250,
+  "lon": 8.0593378,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9933824294,
+  "lat": 51.3585507,
+  "lon": 8.2544803,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "opening_hours": "Mo-We 08:00-16:00; Th 08:00-18:00; Fr 08:00-13:00",
+    "operator": "Hochsauerlandwasser GmbH",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9933875898,
+  "lat": 51.3609566,
+  "lon": 8.4010496,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "opening_hours": "Mo-We 08:00-16:00; Th 08:00-18:00; Fr 08:00-13:00",
+    "operator": "Hochsauerlandwasser GmbH",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9933888231,
+  "lat": 51.3562430,
+  "lon": 8.4809379,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "opening_hours": "Mo-We 08:00-16:00; Th 08:00-18:00; Fr 08:00-13:00",
+    "operator": "Hochsauerlandwasser GmbH",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9990346445,
+  "lat": 51.0735043,
+  "lon": 8.4818094,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9990346451,
+  "lat": 51.0733485,
+  "lon": 8.4795318,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10131900330,
+  "lat": 51.5846847,
+  "lon": 8.9686434,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours": "May 1 - Oct 31",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10695330070,
+  "lat": 51.7973659,
+  "lon": 8.9723304,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10746398913,
+  "lat": 51.5768303,
+  "lon": 8.1036944,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10834190283,
+  "lat": 51.7986322,
+  "lon": 8.0255168,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10858151893,
+  "lat": 51.0046600,
+  "lon": 8.2140867,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10867926495,
+  "lat": 51.1347653,
+  "lon": 8.8458655,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10926124491,
+  "lat": 51.6742324,
+  "lon": 8.3301014,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10946823661,
+  "lat": 51.1304661,
+  "lon": 8.3746444,
+  "tags": {
+    "addr:city": "Schmallenberg",
+    "addr:housenumber": "1",
+    "addr:postcode": "57392",
+    "addr:street": "Schanze",
+    "contact:facebook": "https://www.facebook.com/Schanzeeins",
+    "cuisine": "cake",
+    "description": "Was ist der Kiosk 717?\nDer Kiosk 717 ist der höchste Kiosk im Schmallenberger Sauerland.\n\nHier bekommst Du gekühlte Getränke, Eis und unsere kleinen kulinarischen Verwöhneinheiten.",
+    "drink:beer": "bottled",
+    "drinking_water": "yes",
+    "email": "hallo@schanze1.de",
+    "name": "Landschaftsgasthaus Schanze 1 / Kiosk 717",
+    "opening_hours": "Außerhalb der Wandersaison hat unser Waldkiosk flexible Öffnungszeiten.",
+    "operator": "Landschaftsgasthaus Schanze 1 GbR",
+    "payment:cash": "yes",
+    "phone": "+49 2975-454",
+    "shop": "kiosk",
+    "website": "https://schanze1.de/kiosk-717"
+  }
+},
+{
+  "type": "node",
+  "id": 10959597957,
+  "lat": 51.5722878,
+  "lon": 8.1080686,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10989143216,
+  "lat": 51.8946796,
+  "lon": 8.9765806,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11059675869,
+  "lat": 51.1271863,
+  "lon": 8.8639051,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11060631841,
+  "lat": 51.1412137,
+  "lon": 8.8418340,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11079296388,
+  "lat": 51.3915164,
+  "lon": 8.9467812,
+  "tags": {
+    "description:de": "Wasserhahn am Schuhwaschbecken",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11093721124,
+  "lat": 51.5670292,
+  "lon": 8.1119559,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 11140970358,
+  "lat": 51.0021239,
+  "lon": 8.1589826,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "In dünnes Metallrohr gefasste Quelle",
+    "fee": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11179556425,
+  "lat": 51.6982937,
+  "lon": 8.5210877,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:position": "seated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11250448490,
+  "lat": 51.3540102,
+  "lon": 8.2796728,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "note": "Zugang über die Buchhandlung",
+    "operator": "Abtei Königgswinter",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 11250461343,
+  "lat": 51.3536618,
+  "lon": 8.2777597,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "no",
+    "changing_table:location": "wheelchair_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "-1",
+    "male": "yes",
+    "operator": "Abtei Gaststätte",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 11250841951,
+  "lat": 51.3969762,
+  "lon": 8.0651759,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Saueland-Museum",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11250906257,
+  "lat": 51.2617609,
+  "lon": 8.1656360,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:location": "wheelchair_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "DampfLandLeute – Museum Eslohe",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 11250920748,
+  "lat": 51.2603002,
+  "lon": 8.1696432,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Forellenhof Poggel",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 11250931715,
+  "lat": 51.3157418,
+  "lon": 8.4032301,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "changing_table:location": "wheelchair_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Besucherparkplatz Erzbergwerk",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 11250931716,
+  "lat": 51.3160218,
+  "lon": 8.4030517,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "no",
+    "changing_table:location": "wheelchair_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Besucherparkplatz Erzbergwerk",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11407825503,
+  "lat": 51.9605062,
+  "lon": 8.2230871,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11476663751,
+  "lat": 51.5164807,
+  "lon": 8.7024634,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11485197284,
+  "lat": 51.4427466,
+  "lon": 8.3534617,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11909451056,
+  "lat": 51.2005102,
+  "lon": 8.9465109,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11945713625,
+  "lat": 51.3177049,
+  "lon": 8.7333005,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Trinkwasserstelle Deisfeld",
+    "operator": "Trekkingpark Sauerland"
+  }
+},
+{
+  "type": "node",
+  "id": 11945713626,
+  "lat": 51.3107416,
+  "lon": 8.7470723,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Trinkwasserstelle Schweinsbühl",
+    "operator": "Trekkingpark Sauerland"
+  }
+},
+{
+  "type": "node",
+  "id": 11998666249,
+  "lat": 51.2740024,
+  "lon": 8.8716947,
+  "tags": {
+    "amenity": "drinking_water",
+    "description:de": "Edelstahlsäule welche auf knopfdruck einen Wasserstrahl nach schräg oben in die Luft schießt. Dieser kann aufgefangen oder getrunken werden",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12040515234,
+  "lat": 51.8347784,
+  "lon": 8.0273103,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12053407539,
+  "lat": 51.6349074,
+  "lon": 8.1975062,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12094101357,
+  "lat": 51.7208042,
+  "lon": 8.7537384,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "description": "Im Café Röhren",
+    "drinking_water": "yes",
+    "network": "Nette Toilette",
+    "opening_hours": "Tu off; Mo, We-Sa 09:00-17:30; Su, PH 09:30-17:30",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12118355695,
+  "lat": 51.3547919,
+  "lon": 8.4872048,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12163153025,
+  "lat": 51.7516851,
+  "lon": 8.4555935,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "operator": "Meiwes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12201919409,
+  "lat": 51.9601483,
+  "lon": 8.6647112,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12208991109,
+  "lat": 51.9464011,
+  "lon": 8.2305173,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12264579001,
+  "lat": 51.5880995,
+  "lon": 8.1686804,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Wasserspender"
+  }
+},
+{
+  "type": "node",
+  "id": 12270667574,
+  "lat": 51.7280183,
+  "lon": 8.7869140,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12307519856,
+  "lat": 51.1631012,
+  "lon": 8.2893435,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12539340942,
+  "lat": 51.9030996,
+  "lon": 8.6333899,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12784497714,
+  "lat": 51.6613380,
+  "lon": 8.2446322,
+  "tags": {
+    "access": "permit",
+    "addr:city": "Lippstadt",
+    "addr:housenumber": "47",
+    "addr:postcode": "59556",
+    "addr:street": "Dorfstraße",
+    "camp_site": "standard",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Campingplatz Lange",
+    "payment:cash": "yes",
+    "shower": "yes",
+    "static_caravans": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 12812106923,
+  "lat": 51.3893858,
+  "lon": 8.8919644,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12828107101,
+  "lat": 51.3969249,
+  "lon": 8.1316285,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12911272304,
+  "lat": 51.3584557,
+  "lon": 8.3846982,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Hochsauerlandwasser"
+  }
+},
+{
+  "type": "node",
+  "id": 12958860196,
+  "lat": 51.2273451,
+  "lon": 8.9818596,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12959363571,
+  "lat": 51.9915780,
+  "lon": 8.5099253,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12983563529,
+  "lat": 51.3280380,
+  "lon": 8.0047407,
+  "tags": {
+    "amenity": "drinking_water",
+    "dog": "no",
+    "fountain": "bubbler",
+    "indoor": "no"
+  }
+}
+
+  ]
+}

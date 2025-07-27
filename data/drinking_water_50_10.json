@@ -1,0 +1,3755 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:41:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 35174759,
+  "lat": 50.9584631,
+  "lon": 10.4493340,
+  "tags": {
+    "drinking_water": "yes",
+    "ele": "386",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Jesusbr%C3%BCnnlein.jpg",
+    "name": "Jesusbrünnlein",
+    "natural": "spring",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 252301631,
+  "lat": 50.2581247,
+  "lon": 10.9642013,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "heritage": "4",
+    "heritage:operator": "BLfD",
+    "image": "https://commons.wikimedia.org/wiki/File:Coburg-Marktplatz-Brunnen-W.jpg",
+    "lastcheck": "2020-09-18",
+    "name": "Am Grünen Baum",
+    "operator": "SÜC",
+    "ref:BLfD": "D-4-63-000-319",
+    "start_date": "1677",
+    "wikidata": "Q98577597"
+  }
+},
+{
+  "type": "node",
+  "id": 252301632,
+  "lat": 50.2579829,
+  "lon": 10.9648390,
+  "tags": {
+    "amenity": "fountain",
+    "check_date": "2020-09-18",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "heritage": "4",
+    "heritage:operator": "BLfD",
+    "image": "https://commons.wikimedia.org/wiki/File:Coburg-Marktplatz-Brunnen-O.jpg",
+    "name": "Spenglersbrunnen",
+    "operator": "SÜC",
+    "ref:BLfD": "D-4-63-000-318",
+    "start_date": "1621",
+    "wikidata": "Q98577600"
+  }
+},
+{
+  "type": "node",
+  "id": 257040510,
+  "lat": 50.2585094,
+  "lon": 10.9661613,
+  "tags": {
+    "amenity": "fountain",
+    "check_date": "2020-09-18",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "name": "Gurken-Alex-Brunnen",
+    "note": "https://www.suec.de/de/Trinkwasser/Trinkwasser-Verteilung-und-Versorgung/Trinkwasser-Brunnen/Trinkwasser-Brunnen/suec-flyer-Trinkwasser-Brunnen-Coburg.pdf",
+    "operator": "SÜC",
+    "start_date": "1985"
+  }
+},
+{
+  "type": "node",
+  "id": 278324416,
+  "lat": 50.0606158,
+  "lon": 10.1761963,
+  "tags": {
+    "amenity": "drinking_water",
+    "note": "Ask in townhall if you want to use it."
+  }
+},
+{
+  "type": "node",
+  "id": 305715147,
+  "lat": 50.5725794,
+  "lon": 10.8693462,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Mühlkopfquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 311881570,
+  "lat": 50.2559093,
+  "lon": 10.9640109,
+  "tags": {
+    "alt_name": "Säumarktbunnen",
+    "amenity": "drinking_water",
+    "check_date": "2020-09-18",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fountain": "stone_block",
+    "heritage": "4",
+    "heritage:operator": "BLfD",
+    "image": "https://de.wikipedia.org/wiki/Datei:Coburg-Saeumarktbrunnen.jpg",
+    "name": "Ketschentorbrunnen",
+    "operator": "SÜC",
+    "ref:BLfD": "D-4-63-000-230",
+    "start_date": "1657",
+    "wikidata": "Q98577806"
+  }
+},
+{
+  "type": "node",
+  "id": 318721421,
+  "lat": 50.3882463,
+  "lon": 10.5764929,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "yes",
+    "name": "Schnullerbrunnen (Schnullerbrünnle)",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 330416111,
+  "lat": 50.2781567,
+  "lon": 10.7273693,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 334168492,
+  "lat": 50.9789164,
+  "lon": 10.2799069,
+  "tags": {
+    "drinking_water": "yes",
+    "layer": "1",
+    "name": "Siebenborns-Quelle",
+    "name:de": "Quelle",
+    "natural": "spring",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 368929413,
+  "lat": 50.2611537,
+  "lon": 10.9654189,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "name": "Bürglaßbrunnen",
+    "note": "https://www.suec.de/de/Trinkwasser/Trinkwasser-Verteilung-und-Versorgung/Trinkwasser-Brunnen/Trinkwasser-Brunnen/suec-flyer-Trinkwasser-Brunnen-Coburg.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 385027728,
+  "lat": 50.6994917,
+  "lon": 10.8415459,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Luisenquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 411583910,
+  "lat": 50.8479387,
+  "lon": 10.4400821,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Schierlingsborn",
+    "natural": "spring",
+    "note": "Schild \"Trinkwasser\""
+  }
+},
+{
+  "type": "node",
+  "id": 414734582,
+  "lat": 50.8457008,
+  "lon": 10.5590059,
+  "tags": {
+    "drinking_water": "yes",
+    "inscription:de": "Hergestellt vom Verschönerungsverein 1902",
+    "name": "Augusta Quelle",
+    "natural": "spring",
+    "source": "survey",
+    "start_date": "1902"
+  }
+},
+{
+  "type": "node",
+  "id": 416006737,
+  "lat": 50.8721189,
+  "lon": 10.5594036,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Reinhardsbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 417645674,
+  "lat": 50.9242534,
+  "lon": 10.3275759,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 427564828,
+  "lat": 50.7914734,
+  "lon": 10.5378346,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 429171383,
+  "lat": 50.7752680,
+  "lon": 10.8879092,
+  "tags": {
+    "direction": "ESE",
+    "drinking_water": "yes",
+    "historic": "yes",
+    "image": "http://commons.wikimedia.org/wiki/File:Plaue_Spring_1.JPG",
+    "name": "Spring von Plaue",
+    "natural": "spring",
+    "wikidata": "Q2313850",
+    "wikipedia": "de:Spring von Plaue"
+  }
+},
+{
+  "type": "node",
+  "id": 473174549,
+  "lat": 50.6078725,
+  "lon": 10.7340624,
+  "tags": {
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "Totenbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 473184026,
+  "lat": 50.6144075,
+  "lon": 10.9153246,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "name": "Rosenborn",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 533776711,
+  "lat": 50.8599002,
+  "lon": 10.5633301,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "name": "Trinkpavillon Klosterberg",
+    "note:de": "zur Zeit nicht mehr in Betrieb",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 533929794,
+  "lat": 50.8482718,
+  "lon": 10.5477994,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Maria Quelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 535249367,
+  "lat": 50.5026580,
+  "lon": 10.0989237,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Georgsbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 560727089,
+  "lat": 50.5718554,
+  "lon": 10.8665436,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 560727091,
+  "lat": 50.5714299,
+  "lon": 10.8670680,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 560727092,
+  "lat": 50.5712142,
+  "lon": 10.8672934,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 564874967,
+  "lat": 50.2571854,
+  "lon": 10.9644267,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "heritage": "4",
+    "heritage:operator": "BLfD",
+    "image": "https://de.wikipedia.org/wiki/Datei:Coburg-Ketschengasse13-Brunnen.jpg",
+    "last_checked": "2020-09-18",
+    "name": "Sturmsbrunnen",
+    "operator": "SÜC",
+    "ref:BLfD": "D-4-63-000-229",
+    "start_date": "1900",
+    "wikidata": "Q98577810"
+  }
+},
+{
+  "type": "node",
+  "id": 671889197,
+  "lat": 50.4126713,
+  "lon": 10.5868866,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Delphinbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 687028066,
+  "lat": 50.4915554,
+  "lon": 10.7913218,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 687983178,
+  "lat": 50.5887274,
+  "lon": 10.9470256,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "name": "Zigeunerquelle",
+    "natural": "spring",
+    "tourism": "picnic_site"
+  }
+},
+{
+  "type": "node",
+  "id": 706566901,
+  "lat": 50.6807845,
+  "lon": 10.8839020,
+  "tags": {
+    "drinking_water": "yes",
+    "historic": "yes",
+    "intermittent": "no",
+    "name": "Carl Alexander Brunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 725344343,
+  "lat": 50.8586321,
+  "lon": 10.5594953,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "name": "Trinkpavillion Kurpark",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 728177041,
+  "lat": 50.8574674,
+  "lon": 10.5658790,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-08-03",
+    "fountain": "drinking",
+    "name": "Trinkpavillon Markt"
+  }
+},
+{
+  "type": "node",
+  "id": 755759809,
+  "lat": 50.8497364,
+  "lon": 10.5060070,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Limonadenquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 755775488,
+  "lat": 50.8334016,
+  "lon": 10.5272227,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Elfriedenquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 798057415,
+  "lat": 50.8643165,
+  "lon": 10.5078224,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Lutherbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 859761037,
+  "lat": 50.9660197,
+  "lon": 10.8446880,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 963547729,
+  "lat": 50.8643808,
+  "lon": 10.8495118,
+  "tags": {
+    "drinking_water": "yes",
+    "geological": "geotope",
+    "name": "Eymersborn",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 990008862,
+  "lat": 50.3945855,
+  "lon": 10.6260394,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004630,
+  "lat": 50.0454195,
+  "lon": 10.2490276,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004667,
+  "lat": 50.0464271,
+  "lon": 10.2528251,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004691,
+  "lat": 50.0451292,
+  "lon": 10.2485330,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004721,
+  "lat": 50.0479503,
+  "lon": 10.2562981,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004760,
+  "lat": 50.0462768,
+  "lon": 10.2506551,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004798,
+  "lat": 50.0485651,
+  "lon": 10.2549419,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004806,
+  "lat": 50.0456859,
+  "lon": 10.2495542,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004827,
+  "lat": 50.0473526,
+  "lon": 10.2549153,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004835,
+  "lat": 50.0479776,
+  "lon": 10.2538303,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004855,
+  "lat": 50.0466047,
+  "lon": 10.2512667,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004871,
+  "lat": 50.0467345,
+  "lon": 10.2535591,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004926,
+  "lat": 50.0476395,
+  "lon": 10.2555748,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004931,
+  "lat": 50.0471477,
+  "lon": 10.2523092,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004940,
+  "lat": 50.0470009,
+  "lon": 10.2542824,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004979,
+  "lat": 50.0488588,
+  "lon": 10.2554365,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "door": "yes",
+    "drinking_water": "yes",
+    "location": "underground",
+    "locked": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036004986,
+  "lat": 50.0468574,
+  "lon": 10.2517082,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1036005005,
+  "lat": 50.0460206,
+  "lon": 10.2522560,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1082594366,
+  "lat": 50.2304935,
+  "lon": 10.4425733,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Molkenbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1087538380,
+  "lat": 50.0737400,
+  "lon": 10.1993109,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 1265956779,
+  "lat": 50.8234917,
+  "lon": 10.4746915,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1265956784,
+  "lat": 50.8306248,
+  "lon": 10.4695021,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Hörberg Brunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1364485125,
+  "lat": 50.7878862,
+  "lon": 10.5386529,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Löwen-Born",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1364538418,
+  "lat": 50.7716638,
+  "lon": 10.5272537,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Quelle an der Weidmannsruh",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1400161149,
+  "lat": 50.0668499,
+  "lon": 10.9834862,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "image": "https://commons.wikimedia.org/wiki/File:Ebensfeld_St._Veits_Brunnen.JPG",
+    "inscription": "St. Veits-Brunnen Flurbereinigung Ebensfeld 1959–66",
+    "name": "St. Veits Brunnen",
+    "natural": "spring",
+    "wikidata": "Q129508877"
+  }
+},
+{
+  "type": "node",
+  "id": 1448014567,
+  "lat": 50.8158663,
+  "lon": 10.3516928,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Hölzersbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1680282504,
+  "lat": 50.5546253,
+  "lon": 10.9602868,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1717046685,
+  "lat": 50.3203310,
+  "lon": 10.0147653,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "drinking_water:refill": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1717060888,
+  "lat": 50.2757074,
+  "lon": 10.0576286,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Hubbrünnchen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1726215680,
+  "lat": 50.5298940,
+  "lon": 10.7090281,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1726285744,
+  "lat": 50.5310008,
+  "lon": 10.7397797,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1771856647,
+  "lat": 50.7293415,
+  "lon": 10.7545015,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1796808391,
+  "lat": 50.0519085,
+  "lon": 10.5903710,
+  "tags": {
+    "amenity": "drinking_water",
+    "designation": "Dorfbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 1803085136,
+  "lat": 50.2628560,
+  "lon": 10.4024005,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1912714355,
+  "lat": 50.2642427,
+  "lon": 10.0777586,
+  "tags": {
+    "amenity": "drinking_water",
+    "covered": "yes",
+    "image": "https://commons.wikimedia.org/wiki/File:Brunnenbau_09.JPG",
+    "name": "Balthasar-Neumann-Quelle",
+    "old_name": "Stahlquelle",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1912714475,
+  "lat": 50.2642596,
+  "lon": 10.0770507,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Balthasar-Neumann-Quelle",
+    "old_name": "Stahlquelle"
+  }
+},
+{
+  "type": "node",
+  "id": 1912714656,
+  "lat": 50.2649245,
+  "lon": 10.0766270,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "stone_block",
+    "name": "Balthasar-Neumann-Quelle",
+    "old_name": "Stahlquelle",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1991335715,
+  "lat": 50.7721907,
+  "lon": 10.4820438,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2004972813,
+  "lat": 50.2546073,
+  "lon": 10.4102354,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2008231305,
+  "lat": 50.2527793,
+  "lon": 10.4098438,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Campingplatz",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2065688417,
+  "lat": 50.2529224,
+  "lon": 10.6835164,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2073639527,
+  "lat": 50.8451718,
+  "lon": 10.5754135,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Josef Kunzberg Brunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2106419859,
+  "lat": 50.0720733,
+  "lon": 10.2066701,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Seelenvater 2"
+  }
+},
+{
+  "type": "node",
+  "id": 2314073005,
+  "lat": 50.9598628,
+  "lon": 10.9765191,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2384436297,
+  "lat": 50.8522984,
+  "lon": 10.6018719,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Friedhofs-Wasserhahn"
+  }
+},
+{
+  "type": "node",
+  "id": 2431243193,
+  "lat": 50.7313964,
+  "lon": 10.7578823,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2478162833,
+  "lat": 50.3417971,
+  "lon": 10.3200489,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Kiliansbrünnlein",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2499951338,
+  "lat": 50.1979295,
+  "lon": 10.0765480,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2023-06-17",
+    "covered": "yes",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "no",
+    "name": "Maxbrunnen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2500051257,
+  "lat": 50.3494003,
+  "lon": 10.2927231,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water:legal": "yes",
+    "name": "Sauerbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 2612250534,
+  "lat": 50.2775121,
+  "lon": 10.7276403,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "defekt",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 2756878391,
+  "lat": 50.1123604,
+  "lon": 10.9840834,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 2935532800,
+  "lat": 50.2737655,
+  "lon": 10.7752528,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3054670540,
+  "lat": 50.0362963,
+  "lon": 10.2720534,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 3054670654,
+  "lat": 50.0389564,
+  "lon": 10.2695656,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 3083504042,
+  "lat": 50.8353706,
+  "lon": 10.3520794,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3276808806,
+  "lat": 50.8146009,
+  "lon": 10.3572092,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "name": "Liebensteiner Heilquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3390900215,
+  "lat": 50.5928210,
+  "lon": 10.0339456,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3458454844,
+  "lat": 50.9187576,
+  "lon": 10.3702253,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3549818268,
+  "lat": 50.8506907,
+  "lon": 10.3775522,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Lutherborn",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3583774289,
+  "lat": 50.1496743,
+  "lon": 10.0649820,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3586702335,
+  "lat": 50.8482466,
+  "lon": 10.1848767,
+  "tags": {
+    "description": "Die Quelle ist ein beliebtes Ausflugsziel von Tiefenort. Ein eisernes Rohr leitet das Quellwasser aus der Stützwand in ein kleines Wasserbassin (früher als Tiertränke genutzt). Von da fließt das Quellwasser als Quellbach zu Tal",
+    "drinking_water": "yes",
+    "drinking_water:legal": "no",
+    "man_made": "water_well",
+    "name": "Tröpfelsbörnchen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3633321301,
+  "lat": 50.7182611,
+  "lon": 10.4009028,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 3722142075,
+  "lat": 50.7417895,
+  "lon": 10.5441601,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3726769648,
+  "lat": 50.7453007,
+  "lon": 10.5078868,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3732609872,
+  "lat": 50.5686447,
+  "lon": 10.2581325,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Am Römersbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 3750579265,
+  "lat": 50.0954077,
+  "lon": 10.7961340,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-10-03"
+  }
+},
+{
+  "type": "node",
+  "id": 3756982642,
+  "lat": 50.9752875,
+  "lon": 10.9609979,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Flughafen Erfurt GmbH",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3763028198,
+  "lat": 50.8820572,
+  "lon": 10.3744672,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3877014111,
+  "lat": 50.2527029,
+  "lon": 10.7560476,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3880576760,
+  "lat": 50.5699870,
+  "lon": 10.4171538,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "name": "Kastenbrunnen",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3946900937,
+  "lat": 50.2577320,
+  "lon": 10.9665863,
+  "tags": {
+    "amenity": "fountain",
+    "check_date": "2020-09-18",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "heritage": "4",
+    "heritage:operator": "BLfD",
+    "image": "https://commons.wikimedia.org/wiki/File:Coburg-Rueckertstr-Brunnen.jpg",
+    "name": "Rückertbrunnen",
+    "note": "https://www.suec.de/de/Trinkwasser/Trinkwasser-Verteilung-und-Versorgung/Trinkwasser-Brunnen/Trinkwasser-Brunnen/suec-flyer-Trinkwasser-Brunnen-Coburg.pdf",
+    "operator": "SÜC",
+    "ref:BLfD": "D-4-63-000-442",
+    "start_date": "1680",
+    "wikidata": "Q98577399"
+  }
+},
+{
+  "type": "node",
+  "id": 3991466169,
+  "lat": 50.8347415,
+  "lon": 10.9546970,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "description": "Im Eingangsbereich des Bades",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4044858858,
+  "lat": 50.5765939,
+  "lon": 10.4229336,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "name": "Kirchbrunnen",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4044875330,
+  "lat": 50.0431217,
+  "lon": 10.2471768,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 4044875335,
+  "lat": 50.0437470,
+  "lon": 10.2477041,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 4044875354,
+  "lat": 50.0442865,
+  "lon": 10.2483517,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 4044875383,
+  "lat": 50.0459670,
+  "lon": 10.2500811,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 4044875433,
+  "lat": 50.0474036,
+  "lon": 10.2527916,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 4044875446,
+  "lat": 50.0476837,
+  "lon": 10.2532990,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 4110651160,
+  "lat": 50.0781676,
+  "lon": 10.2404964,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Zeller Grund",
+    "ref": "Brunnen 2"
+  }
+},
+{
+  "type": "node",
+  "id": 4110656021,
+  "lat": 50.0671835,
+  "lon": 10.2369223,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Zeller Grund",
+    "ref": "Brunnen 3"
+  }
+},
+{
+  "type": "node",
+  "id": 4110656077,
+  "lat": 50.0741592,
+  "lon": 10.2397018,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Zeller Grund",
+    "ref": "Brunnen 1"
+  }
+},
+{
+  "type": "node",
+  "id": 4177133831,
+  "lat": 50.2606481,
+  "lon": 10.9624759,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "note": "https://www.suec.de/de/Trinkwasser/Trinkwasser-Verteilung-und-Versorgung/Trinkwasser-Brunnen/Trinkwasser-Brunnen/suec-flyer-Trinkwasser-Brunnen-Coburg.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 4287073388,
+  "lat": 50.0452229,
+  "lon": 10.2506620,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 4287073800,
+  "lat": 50.0455570,
+  "lon": 10.2514666,
+  "tags": {
+    "access": "private",
+    "description": "innerhalb des WSG Stadt Schweinfur",
+    "drinking_water": "yes",
+    "location": "underground",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Schweinfurt GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 4308991992,
+  "lat": 50.3208240,
+  "lon": 10.2139220,
+  "tags": {
+    "amenity": "drinking_water",
+    "covered": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4317929759,
+  "lat": 50.7478395,
+  "lon": 10.5113987,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4326444334,
+  "lat": 50.4681029,
+  "lon": 10.0135682,
+  "tags": {
+    "drinking_water": "yes",
+    "ele": "808",
+    "name": "Goldbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4343328728,
+  "lat": 50.3754979,
+  "lon": 10.8372199,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4433403176,
+  "lat": 50.1420169,
+  "lon": 10.5182523,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 4640253909,
+  "lat": 50.8748631,
+  "lon": 10.5139674,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-05-14",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 4720613249,
+  "lat": 50.0196148,
+  "lon": 10.8339455,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4747204422,
+  "lat": 50.4216275,
+  "lon": 10.3494818,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-05-19"
+  }
+},
+{
+  "type": "node",
+  "id": 4747481621,
+  "lat": 50.7268705,
+  "lon": 10.8434186,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4747481622,
+  "lat": 50.7267849,
+  "lon": 10.8434560,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4747481627,
+  "lat": 50.7252957,
+  "lon": 10.8458037,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4747481921,
+  "lat": 50.7266900,
+  "lon": 10.8434940,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4747482428,
+  "lat": 50.7253744,
+  "lon": 10.8457812,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4894975229,
+  "lat": 50.8230587,
+  "lon": 10.5460803,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Eisbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4899698938,
+  "lat": 50.6155441,
+  "lon": 10.8349872,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4899698946,
+  "lat": 50.6370975,
+  "lon": 10.9116146,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5026457383,
+  "lat": 50.5298105,
+  "lon": 10.6150511,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Laufbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 5589033860,
+  "lat": 50.5655257,
+  "lon": 10.4152210,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Kastenbrunnen",
+    "name:en": "Fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 5604573221,
+  "lat": 50.0460192,
+  "lon": 10.2201876,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-07-08",
+    "fee": "no",
+    "operator": "kross - Junge Kirche Schweinfurt"
+  }
+},
+{
+  "type": "node",
+  "id": 5667536221,
+  "lat": 50.4799105,
+  "lon": 10.1850812,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5844575376,
+  "lat": 50.5201751,
+  "lon": 10.1452652,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5898597315,
+  "lat": 50.4585218,
+  "lon": 10.2181274,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Biergarten Rhönpiraten",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6140337676,
+  "lat": 50.3351610,
+  "lon": 10.7666498,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6517799901,
+  "lat": 50.7001417,
+  "lon": 10.8610354,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Wilke-Brunnen",
+    "natural": "spring",
+    "start_date": "1854"
+  }
+},
+{
+  "type": "node",
+  "id": 6543116570,
+  "lat": 50.6128444,
+  "lon": 10.3882454,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6593590299,
+  "lat": 50.8487736,
+  "lon": 10.0123354,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Storchenbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6924686258,
+  "lat": 50.3937298,
+  "lon": 10.9902200,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7141394067,
+  "lat": 50.6130471,
+  "lon": 10.3883551,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7141394068,
+  "lat": 50.6128451,
+  "lon": 10.3882754,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7342493977,
+  "lat": 50.4778380,
+  "lon": 10.1840473,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "fixme": "Öffnungszeiten Rathaus?",
+    "level": "1",
+    "male": "yes",
+    "operator": "Gemeinde Nordheim",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7413754409,
+  "lat": 50.4801391,
+  "lon": 10.1845660,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7498498808,
+  "lat": 50.3785743,
+  "lon": 10.1112978,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7541653327,
+  "lat": 50.1969091,
+  "lon": 10.6607150,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7566336981,
+  "lat": 50.1268928,
+  "lon": 10.8573467,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "opening_hours": "Frühjahr bis Herbst",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7570663309,
+  "lat": 50.9102624,
+  "lon": 10.3565705,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Wittichsquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7589860851,
+  "lat": 50.3963361,
+  "lon": 10.0015563,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7649038784,
+  "lat": 50.7036128,
+  "lon": 10.5130385,
+  "tags": {
+    "access": "yes",
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "running",
+    "lit": "no",
+    "name": "Goldborn"
+  }
+},
+{
+  "type": "node",
+  "id": 7661182814,
+  "lat": 50.7293705,
+  "lon": 10.7545189,
+  "tags": {
+    "drinking_water": "yes",
+    "hot_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7661251490,
+  "lat": 50.7440154,
+  "lon": 10.7674625,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "name": "Borzel Born Brunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7666775167,
+  "lat": 50.5205122,
+  "lon": 10.1134416,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 7710142201,
+  "lat": 50.8938566,
+  "lon": 10.3651723,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 7728531586,
+  "lat": 50.1928190,
+  "lon": 10.9758386,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 7846053830,
+  "lat": 50.3530197,
+  "lon": 10.2894084,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7846275927,
+  "lat": 50.6508967,
+  "lon": 10.8462109,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 7846275934,
+  "lat": 50.6516516,
+  "lon": 10.8462313,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Kommt mit schwachem Druck aus der Leitung",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7846275935,
+  "lat": 50.6516815,
+  "lon": 10.8463010,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Kommt mit starkem Druck aus der Leitung",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7862522966,
+  "lat": 50.3162624,
+  "lon": 10.2527780,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7862946770,
+  "lat": 50.7953010,
+  "lon": 10.5572350,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Quelle an der Nägelstedter Girn",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7931694928,
+  "lat": 50.7065961,
+  "lon": 10.7177585,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Lochbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7944898639,
+  "lat": 50.4236383,
+  "lon": 10.0755125,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8044143904,
+  "lat": 50.7861968,
+  "lon": 10.6344447,
+  "tags": {
+    "description": "Brunnen der etwas weiter südlich gelegenen Eisquelle",
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8087569717,
+  "lat": 50.6857840,
+  "lon": 10.6323900,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8096948317,
+  "lat": 50.5598605,
+  "lon": 10.3876488,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Quelle",
+    "name:en": "Fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 8096948318,
+  "lat": 50.5519990,
+  "lon": 10.4140237,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Wilde Quelle",
+    "name:en": "Wild Spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8096948418,
+  "lat": 50.5666466,
+  "lon": 10.4133405,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "name": "Kastenbrunnen",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8096948517,
+  "lat": 50.5615646,
+  "lon": 10.4075867,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Brunnen",
+    "name:en": "Fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 8096948717,
+  "lat": 50.5696334,
+  "lon": 10.4128807,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "name": "Oster Brunnen",
+    "name:en": "Easter Fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 8096949217,
+  "lat": 50.5714809,
+  "lon": 10.4261552,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Brunnen",
+    "name:en": "Fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 8096949218,
+  "lat": 50.5608507,
+  "lon": 10.4150020,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "name": "Kastenbrunnen",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8226929355,
+  "lat": 50.8752285,
+  "lon": 10.4011283,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Reifstiegwasser",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8280897412,
+  "lat": 50.8445914,
+  "lon": 10.5196902,
+  "tags": {
+    "drinking_water": "yes",
+    "fixme": "position",
+    "name": "Herberts-Born",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8593107820,
+  "lat": 50.3282575,
+  "lon": 10.2258343,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8593107918,
+  "lat": 50.3282765,
+  "lon": 10.2258464,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8598608505,
+  "lat": 50.6961756,
+  "lon": 10.8391499,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Carolinen Quelle",
+    "natural": "spring",
+    "start_date": "1848"
+  }
+},
+{
+  "type": "node",
+  "id": 8598608506,
+  "lat": 50.6974600,
+  "lon": 10.8395362,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Clementinen Quelle",
+    "natural": "spring",
+    "start_date": "1848"
+  }
+},
+{
+  "type": "node",
+  "id": 8606831525,
+  "lat": 50.3099412,
+  "lon": 10.2100449,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8707288287,
+  "lat": 50.2983113,
+  "lon": 10.2509415,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8714445663,
+  "lat": 50.0434953,
+  "lon": 10.2676074,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8786360208,
+  "lat": 50.3227192,
+  "lon": 10.2165336,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8831188840,
+  "lat": 50.1226178,
+  "lon": 10.8734735,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 8855378110,
+  "lat": 50.2347283,
+  "lon": 10.9409213,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "historic": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8860078258,
+  "lat": 50.9396713,
+  "lon": 10.6976557,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "level": "0"
+  }
+},
+{
+  "type": "node",
+  "id": 8891936765,
+  "lat": 50.2487690,
+  "lon": 10.2007877,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8942795083,
+  "lat": 50.2598773,
+  "lon": 10.9664830,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fountain": "drinking_fountain",
+    "note": "https://www.suec.de/de/Trinkwasser/Trinkwasser-Verteilung-und-Versorgung/Trinkwasser-Brunnen/Trinkwasser-Brunnen/suec-flyer-Trinkwasser-Brunnen-Coburg.pdf",
+    "operator": "SÜC Energie und H2O GmbH",
+    "start_date": "2015"
+  }
+},
+{
+  "type": "node",
+  "id": 8998582130,
+  "lat": 50.6976151,
+  "lon": 10.5750355,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Galgenbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 9026998591,
+  "lat": 50.4288286,
+  "lon": 10.0465625,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9028129426,
+  "lat": 50.2267226,
+  "lon": 10.0371493,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "operator": "D&W Gastroservice",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 9043647245,
+  "lat": 50.3220510,
+  "lon": 10.2775354,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9043647269,
+  "lat": 50.3220379,
+  "lon": 10.2767173,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9043647290,
+  "lat": 50.3209625,
+  "lon": 10.2759209,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9063492001,
+  "lat": 50.1968524,
+  "lon": 10.0765469,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "name": "Pandur-Brunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9063492003,
+  "lat": 50.1967715,
+  "lon": 10.0764435,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "name": "Rakoczy-Brunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9064531420,
+  "lat": 50.1969244,
+  "lon": 10.0762131,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "name": "Racoczy"
+  }
+},
+{
+  "type": "node",
+  "id": 9064531426,
+  "lat": 50.1968970,
+  "lon": 10.0762329,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "name": "Pandur"
+  }
+},
+{
+  "type": "node",
+  "id": 9077051726,
+  "lat": 50.7020173,
+  "lon": 10.0980043,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Hirtentränke"
+  }
+},
+{
+  "type": "node",
+  "id": 9084291066,
+  "lat": 50.2735834,
+  "lon": 10.1781783,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9111603974,
+  "lat": 50.8198564,
+  "lon": 10.3527517,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9126028799,
+  "lat": 50.7270432,
+  "lon": 10.5712760,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9129984915,
+  "lat": 50.1720015,
+  "lon": 10.7334736,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9152614724,
+  "lat": 50.3598501,
+  "lon": 10.1827937,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9152614743,
+  "lat": 50.3598479,
+  "lon": 10.1832335,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9152939563,
+  "lat": 50.8645875,
+  "lon": 10.5744280,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 9152939565,
+  "lat": 50.8640019,
+  "lon": 10.5743120,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 9152939566,
+  "lat": 50.8641643,
+  "lon": 10.5731977,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 9152939567,
+  "lat": 50.8648461,
+  "lon": 10.5749427,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 9152939568,
+  "lat": 50.8646830,
+  "lon": 10.5752552,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 9183812855,
+  "lat": 50.3822096,
+  "lon": 10.3256733,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9187206260,
+  "lat": 50.3849791,
+  "lon": 10.1871113,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9196144853,
+  "lat": 50.3244969,
+  "lon": 10.3053738,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9196144854,
+  "lat": 50.3240091,
+  "lon": 10.3051344,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9196144863,
+  "lat": 50.3237061,
+  "lon": 10.3053431,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9230306191,
+  "lat": 50.4010359,
+  "lon": 10.0076938,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9292699170,
+  "lat": 50.9747012,
+  "lon": 10.9855516,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Peterborn",
+    "natural": "spring",
+    "website": "https://www.petersberggeschichte.info/kloster-petersberg/95-peterborn-quelle.html"
+  }
+},
+{
+  "type": "node",
+  "id": 9362678376,
+  "lat": 50.0445014,
+  "lon": 10.2344403,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9609804483,
+  "lat": 50.0714524,
+  "lon": 10.2373576,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 9679936804,
+  "lat": 50.8155710,
+  "lon": 10.2376401,
+  "tags": {
+    "access": "unknown",
+    "amenity": "drinking_water",
+    "description": "Wasser Entnahme mit 10 Cent ca 8-10 Ltr. 1€ 80-100 Ltr.",
+    "fee": "yes",
+    "man_made": "water_tap",
+    "operator": "Camping Trinkwasserstelle"
+  }
+},
+{
+  "type": "node",
+  "id": 9705567707,
+  "lat": 50.9737381,
+  "lon": 10.3200739,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9806218818,
+  "lat": 50.2571792,
+  "lon": 10.9644111,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "SUC",
+    "website": "https://www.suec.de/de/Trinkwasser/Trinkwasser-Verteilung-und-Versorgung/Trinkwasser-Brunnen/Trinkwasser-Brunnen/suec-flyer-Trinkwasser-Brunnen-Coburg.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 9885552534,
+  "lat": 50.0992928,
+  "lon": 10.2167233,
+  "tags": {
+    "amenity": "water_point",
+    "description": "gegen Gebühr für Wohnmobile",
+    "drinking_water": "yes",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9919472167,
+  "lat": 50.8954657,
+  "lon": 10.2925981,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9966319816,
+  "lat": 50.0797598,
+  "lon": 10.5687731,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9977534496,
+  "lat": 50.5993209,
+  "lon": 10.1628199,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Triftborn",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10003952649,
+  "lat": 50.5003456,
+  "lon": 10.2426162,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10024937095,
+  "lat": 50.7502416,
+  "lon": 10.6503859,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Quelle Altenfels",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10024996580,
+  "lat": 50.7469417,
+  "lon": 10.6420634,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Stöckelsborn",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10027006556,
+  "lat": 50.2747522,
+  "lon": 10.9858802,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen Wasserwerk Coburg-Cortendorf",
+    "drinking_water:legal": "yes",
+    "operator": "SÜC Energie und H2O GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 10135532233,
+  "lat": 50.9147819,
+  "lon": 10.1993206,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10135532235,
+  "lat": 50.9150421,
+  "lon": 10.1992316,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10219033973,
+  "lat": 50.7250036,
+  "lon": 10.3513850,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10228873810,
+  "lat": 50.6864962,
+  "lon": 10.0996125,
+  "tags": {
+    "drinking_water": "yes",
+    "ele": "386",
+    "name": "Laufbrunnen",
+    "natural": "spring",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10228873811,
+  "lat": 50.6864007,
+  "lon": 10.0978906,
+  "tags": {
+    "drinking_water": "yes",
+    "ele": "386",
+    "name": "Laufbrunnen",
+    "natural": "spring",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10249395412,
+  "lat": 50.3074146,
+  "lon": 10.7667185,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10249456675,
+  "lat": 50.2838667,
+  "lon": 10.8101327,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fountain": "drinking",
+    "lit": "no",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10265054383,
+  "lat": 50.6664827,
+  "lon": 10.7943139,
+  "tags": {
+    "access": "yes",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "intermittent": "yes",
+    "name": "Brönle",
+    "natural": "spring",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10280787424,
+  "lat": 50.7911611,
+  "lon": 10.2776761,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Amalienborn",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10853300088,
+  "lat": 50.8358232,
+  "lon": 10.3411547,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Haselborn",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10948859165,
+  "lat": 50.2425444,
+  "lon": 10.0808903,
+  "tags": {
+    "access:conditional": "yes @ Apr-Oct",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "man_made": "water_well",
+    "name": "Luitpoldsprudel \"alt\""
+  }
+},
+{
+  "type": "node",
+  "id": 10951738521,
+  "lat": 50.6928888,
+  "lon": 10.3602456,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10962599245,
+  "lat": 50.2569274,
+  "lon": 10.0693086,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Gießkannenstation",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10982854323,
+  "lat": 50.1979141,
+  "lon": 10.0765582,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2023-06-17",
+    "covered": "yes",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "no",
+    "name": "Maxbrunnen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10990468015,
+  "lat": 50.3188951,
+  "lon": 10.2254482,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Heilquelle",
+    "fixme": "Position",
+    "name": "Bonifatius-Quelle"
+  }
+},
+{
+  "type": "node",
+  "id": 10990468016,
+  "lat": 50.3189016,
+  "lon": 10.2254140,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Heilquelle",
+    "fixme": "Position",
+    "name": "Elisabeth-Quelle"
+  }
+},
+{
+  "type": "node",
+  "id": 11080511701,
+  "lat": 50.8759841,
+  "lon": 10.4014943,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Reifstiegquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11112324520,
+  "lat": 50.4018470,
+  "lon": 10.0052907,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 11123629361,
+  "lat": 50.2754683,
+  "lon": 10.7999414,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11136067658,
+  "lat": 50.0518668,
+  "lon": 10.2285202,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11136660469,
+  "lat": 50.4108531,
+  "lon": 10.6833794,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11178710393,
+  "lat": 50.3970726,
+  "lon": 10.0181706,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11196463045,
+  "lat": 50.5142079,
+  "lon": 10.9357875,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11222981536,
+  "lat": 50.6449199,
+  "lon": 10.0233779,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:refill": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11238718872,
+  "lat": 50.9714086,
+  "lon": 10.3234487,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11343082855,
+  "lat": 50.8520920,
+  "lon": 10.3034489,
+  "tags": {
+    "check_date": "2023-11-11",
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11554607700,
+  "lat": 50.7039118,
+  "lon": 10.0307736,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11773839821,
+  "lat": 50.1908345,
+  "lon": 10.0895036,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "description": "für Kinder",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11773839822,
+  "lat": 50.1909435,
+  "lon": 10.0878739,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "description": "für Kinder",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11773886332,
+  "lat": 50.1632191,
+  "lon": 10.3339237,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11813582552,
+  "lat": 50.9635885,
+  "lon": 10.0707638,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11865724496,
+  "lat": 50.7662692,
+  "lon": 10.4855181,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12081587315,
+  "lat": 50.9766848,
+  "lon": 10.0078776,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fountain": "stone_trough",
+    "lit": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12150073228,
+  "lat": 50.0322274,
+  "lon": 10.5395751,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12167967466,
+  "lat": 50.9910329,
+  "lon": 10.2633653,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12180073199,
+  "lat": 50.8304565,
+  "lon": 10.7345404,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12194432198,
+  "lat": 50.8539470,
+  "lon": 10.8868431,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12206110498,
+  "lat": 50.3405493,
+  "lon": 10.0379708,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12206110499,
+  "lat": 50.3407322,
+  "lon": 10.0376041,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12206110500,
+  "lat": 50.3405459,
+  "lon": 10.0376473,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12206815016,
+  "lat": 50.9663354,
+  "lon": 10.2951784,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12218276218,
+  "lat": 50.0940958,
+  "lon": 10.7960013,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 12226381573,
+  "lat": 50.1970625,
+  "lon": 10.0770232,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fountain": "drinking",
+    "name": "Luitpoldsprudel \"alt\""
+  }
+},
+{
+  "type": "node",
+  "id": 12228402410,
+  "lat": 50.3499507,
+  "lon": 10.0057607,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 12261566160,
+  "lat": 50.3021250,
+  "lon": 10.4767062,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12306766930,
+  "lat": 50.6090931,
+  "lon": 10.6920638,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Stadtverwaltung Suhl"
+  }
+},
+{
+  "type": "node",
+  "id": 12311713058,
+  "lat": 50.2478586,
+  "lon": 10.9941775,
+  "tags": {
+    "amenity": "fountain",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fountain": "drinking_fountain",
+    "lit": "yes",
+    "name": "Trinkwasserbrunnen am Spielplatz in Seidmannsdorf",
+    "operator": "SÜC Energie und H2O GmbH",
+    "website": "https://www.suec.de/de/News-Infos/Pressemitteilungen/Trinkwasserbrunnen-am-Spielplatz-in-Seidmannsdorf.html"
+  }
+},
+{
+  "type": "node",
+  "id": 12331294385,
+  "lat": 50.2359726,
+  "lon": 10.9806736,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "lit": "yes",
+    "note": "https://www.suec.de/de/Trinkwasser/Trinkwasser-Verteilung-und-Versorgung/Trinkwasser-Brunnen/Trinkwasser-Brunnen/suec-flyer-Trinkwasser-Brunnen-Coburg.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 12478887934,
+  "lat": 50.8748159,
+  "lon": 10.8094765,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12490293139,
+  "lat": 50.2996924,
+  "lon": 10.4727981,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Urbani-Heilquelle",
+    "opening_hours": "Mo, We, Fr 08:30-18:30; Tu, Th 08:30-16:30; Sa, Su, PH 09:30-16:30",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12490293142,
+  "lat": 50.2996884,
+  "lon": 10.4728425,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Regius-Heilquelle",
+    "opening_hours": "Mo, We, Fr 08:30-18:30; Tu, Th 08:30-16:30; Sa, Su, PH 09:30-16:30",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12593376151,
+  "lat": 50.9530894,
+  "lon": 10.9715371,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12593391010,
+  "lat": 50.9530107,
+  "lon": 10.9702314,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12694674508,
+  "lat": 50.9005877,
+  "lon": 10.8838527,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12729857425,
+  "lat": 50.6846664,
+  "lon": 10.9171139,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "description": "Pelikan-Trinkbrunnen",
+    "fee": "no",
+    "start_date": "2025-04-17",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12750323471,
+  "lat": 50.9119655,
+  "lon": 10.0695425,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Zweckverband Wasserversorgung Horschlitter Mulde - Berka/Werra"
+  }
+},
+{
+  "type": "node",
+  "id": 12795122347,
+  "lat": 50.2312066,
+  "lon": 10.8660218,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12821054183,
+  "lat": 50.8445188,
+  "lon": 10.0214338,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "locked": "yes",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 12883028933,
+  "lat": 50.2684814,
+  "lon": 10.9091220,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "note": "https://www.suec.de/de/Trinkwasser/Trinkwasser-Verteilung-und-Versorgung/Trinkwasser-Brunnen/Trinkwasser-Brunnen/suec-flyer-Trinkwasser-Brunnen-Coburg.pdf",
+    "operator": "SUC"
+  }
+},
+{
+  "type": "node",
+  "id": 12883028934,
+  "lat": 50.2745341,
+  "lon": 10.9485399,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "note": "https://www.suec.de/de/Trinkwasser/Trinkwasser-Verteilung-und-Versorgung/Trinkwasser-Brunnen/Trinkwasser-Brunnen/suec-flyer-Trinkwasser-Brunnen-Coburg.pdf",
+    "operator": "SUC"
+  }
+},
+{
+  "type": "node",
+  "id": 12883030046,
+  "lat": 50.2528951,
+  "lon": 10.9573062,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "name": "Brunnen Frankenbrücke",
+    "note": "https://www.suec.de/de/Trinkwasser/Trinkwasser-Verteilung-und-Versorgung/Trinkwasser-Brunnen/Trinkwasser-Brunnen/suec-flyer-Trinkwasser-Brunnen-Coburg.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 12883053753,
+  "lat": 50.2550633,
+  "lon": 10.9268965,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "name": "Dorfbrunnen beim Pfarrhaus",
+    "note": "https://www.suec.de/de/Trinkwasser/Trinkwasser-Verteilung-und-Versorgung/Trinkwasser-Brunnen/Trinkwasser-Brunnen/suec-flyer-Trinkwasser-Brunnen-Coburg.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 12883072770,
+  "lat": 50.7018497,
+  "lon": 10.5689826,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt Steinbach-Hallenberg"
+  }
+},
+{
+  "type": "node",
+  "id": 12883234147,
+  "lat": 50.8363657,
+  "lon": 10.9501924,
+  "tags": {
+    "amenity": "drinking_water",
+    "note": "https://www.trinkwasser-unterwegs.de/trinkbrunnen-theaterplatz-schlossgarten",
+    "operator": "Stadtverwaltung Arnstadt"
+  }
+},
+{
+  "type": "node",
+  "id": 12886016864,
+  "lat": 50.1767602,
+  "lon": 10.6473923,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "drinking_water:legal": "no",
+    "name": "Justinen Brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 12893422150,
+  "lat": 50.7333696,
+  "lon": 10.5818345,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Quelle an der Bergwacht Rotterode"
+  }
+},
+{
+  "type": "node",
+  "id": 12899306286,
+  "lat": 50.5249014,
+  "lon": 10.1254336,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12931092401,
+  "lat": 50.4277939,
+  "lon": 10.3027194,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12948698158,
+  "lat": 50.9451382,
+  "lon": 10.5278513,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12948724980,
+  "lat": 50.8902946,
+  "lon": 10.3547149,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
+    "natural": "spring",
+    "opening_hours": "24/7",
+    "room_temperature_water": "yes",
+    "seasonal": "no",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12956773783,
+  "lat": 50.8411306,
+  "lon": 10.2905484,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "panoramax": "e9c5dcd7-1cb2-4ea7-a0b0-c61c1ea04b46",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12987898135,
+  "lat": 50.8677347,
+  "lon": 10.5103884,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12999459783,
+  "lat": 50.7224953,
+  "lon": 10.0593258,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "reservoir_covered"
+  }
+},
+{
+  "type": "node",
+  "id": 13013911417,
+  "lat": 50.9223984,
+  "lon": 10.5796436,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "panoramax": "5b25c4d1-4268-4dd2-a24e-0440dc1097a0",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13016798372,
+  "lat": 50.6839821,
+  "lon": 10.9124812,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+}
+
+  ]
+}

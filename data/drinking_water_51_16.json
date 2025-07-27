@@ -1,0 +1,498 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:49:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4115026960,
+  "lat": 51.1670139,
+  "lon": 16.9650486,
+  "tags": {
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "check_date": "2023-03-18",
+    "covered": "no",
+    "dog": "no",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "MPWiK Wrocław",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5684657254,
+  "lat": 51.8218850,
+  "lon": 16.6545153,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6876072568,
+  "lat": 51.8036697,
+  "lon": 16.3181105,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://images.mapillary.com/bNQKEFzLtW0L8pBWbAf4dg/thumb-2048.jpg",
+    "mapillary": "396932384688091"
+  }
+},
+{
+  "type": "node",
+  "id": 7038514628,
+  "lat": 51.2035070,
+  "lon": 16.1681080,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "LPWiK",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7099982541,
+  "lat": 51.8835169,
+  "lon": 16.5089605,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7216943444,
+  "lat": 51.6686188,
+  "lon": 16.0916637,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "image": "https://photos.app.goo.gl/ZgAY8tnKJsSYtkp56",
+    "man_made": "water_tap",
+    "mapillary": "512685066749401"
+  }
+},
+{
+  "type": "node",
+  "id": 9503625561,
+  "lat": 51.8801884,
+  "lon": 16.0665347,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://photos.app.goo.gl/PB7nTw9L8LRs9iDD8",
+    "mapillary": "988144968459162",
+    "operator": "Gmina Sława"
+  }
+},
+{
+  "type": "node",
+  "id": 9809573164,
+  "lat": 51.1093468,
+  "lon": 16.8803006,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "check_date": "2025-02",
+    "description": "After security check, between gates 6 and 7, near defibrillator",
+    "dog": "no",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "level": "1",
+    "man_made": "water_tap",
+    "source:position": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9812058048,
+  "lat": 51.4718339,
+  "lon": 16.9081199,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9826120610,
+  "lat": 51.0620087,
+  "lon": 16.9904041,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "na zewnątrz, w ścianie toalety",
+    "fee": "no",
+    "location": "wall",
+    "man_made": "water_tap",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 9876867904,
+  "lat": 51.0428931,
+  "lon": 16.9812219,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "cold_water": "yes",
+    "hot_water": "yes",
+    "indoor": "yes",
+    "level": "0"
+  }
+},
+{
+  "type": "node",
+  "id": 9987735469,
+  "lat": 51.0811999,
+  "lon": 16.9959134,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "designated",
+    "check_date": "2022-09-08",
+    "fee": "no",
+    "location": "wall",
+    "man_made": "water_tap",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 9992377536,
+  "lat": 51.0562389,
+  "lon": 16.9388482,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-31",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9998565487,
+  "lat": 51.1753760,
+  "lon": 16.9954805,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "location": "wall"
+  }
+},
+{
+  "type": "node",
+  "id": 10143080099,
+  "lat": 51.1307221,
+  "lon": 16.9753437,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "designated",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "Apr-Oct: open"
+  }
+},
+{
+  "type": "node",
+  "id": 10967523950,
+  "lat": 51.3881242,
+  "lon": 16.8105280,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10977768824,
+  "lat": 51.1475788,
+  "lon": 16.8706803,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11017218007,
+  "lat": 51.1316899,
+  "lon": 16.9587552,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11925442864,
+  "lat": 51.0712124,
+  "lon": 16.9340653,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-06-20",
+    "covered": "no",
+    "handle": "lever",
+    "indoor": "no",
+    "mechanical_driver": "manual",
+    "opening_hours": "24/7",
+    "pump:status": "ok",
+    "pump_mechanism": "piston"
+  }
+},
+{
+  "type": "node",
+  "id": 11978629854,
+  "lat": 51.8484564,
+  "lon": 16.5619673,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11978629855,
+  "lat": 51.8464668,
+  "lon": 16.5763441,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11978707606,
+  "lat": 51.8292207,
+  "lon": 16.6020605,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11978707607,
+  "lat": 51.8326944,
+  "lon": 16.5790930,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11978803270,
+  "lat": 51.8449996,
+  "lon": 16.5606204,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11980660089,
+  "lat": 51.8254911,
+  "lon": 16.5719162,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11980660091,
+  "lat": 51.8188912,
+  "lon": 16.5829141,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12075005436,
+  "lat": 51.5030792,
+  "lon": 16.0679623,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "PGM",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12121144861,
+  "lat": 51.2029973,
+  "lon": 16.2188624,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "LPWiK"
+  }
+},
+{
+  "type": "node",
+  "id": 12135495461,
+  "lat": 51.6500250,
+  "lon": 16.1350775,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12139757069,
+  "lat": 51.8026771,
+  "lon": 16.3211681,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12151300505,
+  "lat": 51.0186626,
+  "lon": 16.9195915,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12244536721,
+  "lat": 51.4164046,
+  "lon": 16.4258643,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12271881146,
+  "lat": 51.2063957,
+  "lon": 16.1679006,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2024-10-20"
+  }
+},
+{
+  "type": "node",
+  "id": 12557430057,
+  "lat": 51.4705849,
+  "lon": 16.6142428,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12624449042,
+  "lat": 51.1096047,
+  "lon": 16.8808152,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "check_date": "2025-02",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "level": "0",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12800349342,
+  "lat": 51.1733142,
+  "lon": 16.1576137,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "LPWiK"
+  }
+},
+{
+  "type": "node",
+  "id": 12800349343,
+  "lat": 51.2020851,
+  "lon": 16.1942817,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "LPWiK"
+  }
+},
+{
+  "type": "node",
+  "id": 12800349344,
+  "lat": 51.2028616,
+  "lon": 16.2184581,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "LPWiK"
+  }
+},
+{
+  "type": "node",
+  "id": 12800349345,
+  "lat": 51.2104171,
+  "lon": 16.1727657,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "LPWiK"
+  }
+},
+{
+  "type": "node",
+  "id": 12800349346,
+  "lat": 51.2103404,
+  "lon": 16.1659821,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "LPWiK"
+  }
+},
+{
+  "type": "node",
+  "id": 12800349347,
+  "lat": 51.2075973,
+  "lon": 16.1625543,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "LPWiK"
+  }
+}
+
+  ]
+}

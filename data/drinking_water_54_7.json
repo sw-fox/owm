@@ -1,0 +1,25 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T14:06:56Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 294369143,
+  "lat": 54.1752323,
+  "lon": 7.8936701,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-07-27",
+    "created_by": "Potlatch 0.10b",
+    "fountain": "drinking",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T14:12:53Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 26860303,
+  "lat": 54.5764071,
+  "lon": 16.8807074,
+  "tags": {
+    "addr:city": "Ustka",
+    "addr:housenumber": "4",
+    "addr:postcode": "76-270",
+    "addr:street": "Armii Krajowej",
+    "capacity:persons": "150",
+    "caravans": "yes",
+    "check_date": "2024-07-31",
+    "drinking_water": "yes",
+    "email": "cam_mor@pro.onet.pl",
+    "fax": "+48 59 814 44 26",
+    "fee": "yes",
+    "name": "Camping Morski",
+    "phone": "+48 59 814 44 26;+48 59 814 47 89",
+    "power_supply": "yes",
+    "ref:pfcc": "101",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "stars": "2",
+    "static_caravans": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://morski101.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5158473450,
+  "lat": 54.2181135,
+  "lon": 16.8512069,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Źródło Joanna",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5634259335,
+  "lat": 54.2529471,
+  "lon": 16.0663059,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "email": "wierzbowadolina@onet.pl",
+    "name": "Wierzbowa Dolina",
+    "phone": "94 342 42 42;696 846 666",
+    "shower": "yes",
+    "toilets": "yes",
+    "tourism": "guest_house",
+    "website": "http://www.mielno-domki.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5634259344,
+  "lat": 54.2522169,
+  "lon": 16.0658090,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "email": "morskapolana@wp.pl",
+    "name": "Morska Polana",
+    "phone": "+48 792 146 189",
+    "shower": "yes",
+    "toilets": "yes",
+    "tourism": "guest_house",
+    "website": "https://morskapolana.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 7821035633,
+  "lat": 54.2578386,
+  "lon": 16.0525527,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8807282100,
+  "lat": 54.5831155,
+  "lon": 16.8578533,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8871992750,
+  "lat": 54.2619141,
+  "lon": 16.0518770,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9011922109,
+  "lat": 54.5972567,
+  "lon": 16.9212731,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9503381350,
+  "lat": 54.2005766,
+  "lon": 16.6523786,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10931274852,
+  "lat": 54.1398211,
+  "lon": 16.1701596,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10984980717,
+  "lat": 54.2816991,
+  "lon": 16.1300897,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11905057276,
+  "lat": 54.2546689,
+  "lon": 16.0544913,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11912015181,
+  "lat": 54.2630156,
+  "lon": 16.0748568,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11913606177,
+  "lat": 54.2644470,
+  "lon": 16.0772828,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11913606188,
+  "lat": 54.2647636,
+  "lon": 16.0781230,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11913606199,
+  "lat": 54.2674097,
+  "lon": 16.0859539,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11913606211,
+  "lat": 54.2668302,
+  "lon": 16.0831003,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11913606213,
+  "lat": 54.2627747,
+  "lon": 16.0727129,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12037842412,
+  "lat": 54.6233626,
+  "lon": 16.9865854,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12137677189,
+  "lat": 54.3531950,
+  "lon": 16.3364277,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12137775173,
+  "lat": 54.4205306,
+  "lon": 16.4101091,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+}
+
+  ]
+}

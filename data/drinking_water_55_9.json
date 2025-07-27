@@ -1,0 +1,2820 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T14:15:55Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 276234837,
+  "lat": 55.7298944,
+  "lon": 9.1356751,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 279319494,
+  "lat": 55.0083385,
+  "lon": 9.6934653,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Sønderborg Municipality",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 415927559,
+  "lat": 55.4332509,
+  "lon": 9.6425260,
+  "tags": {
+    "access": "permissive",
+    "camp_site": "standard",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motor_vehicle": "no",
+    "name": "Skibelund Shelterplads",
+    "openfire": "yes",
+    "operator": "Naturstyrelsen",
+    "picnic_table": "yes",
+    "reservation": "required",
+    "shelter": "yes",
+    "shelter_type": "lean_to",
+    "shelters": "3",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/2694"
+  }
+},
+{
+  "type": "node",
+  "id": 428700092,
+  "lat": 55.4861967,
+  "lon": 9.5236393,
+  "tags": {
+    "access": "yes",
+    "camp_site": "basic",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "maxstay": "2 daya",
+    "motor_vehicle": "no",
+    "name": "Ræbæk Strand Teltplads",
+    "openfire": "yes",
+    "picnic_table": "yes",
+    "reservation": "no",
+    "shower": "outdoor",
+    "static_caravans": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.destinationtrekantomraadet.dk/destination-trekantomraadet/planlaeg-din-tur/rebaek-strand-teltplads-primitiv-overnatningsmulighed-ved-stranden-i-kolding-gdk1115613"
+  }
+},
+{
+  "type": "node",
+  "id": 428701505,
+  "lat": 55.4949837,
+  "lon": 9.6110215,
+  "tags": {
+    "camp_site": "standard",
+    "capacity:tents": "1",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motor_vehicle": "no",
+    "name": "Stenderup Nørreskov Teltplads",
+    "openfire": "yes",
+    "operator": "Naturstyrelsen",
+    "picnic_table": "yes",
+    "reservation": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/3937"
+  }
+},
+{
+  "type": "node",
+  "id": 502270303,
+  "lat": 55.6761411,
+  "lon": 9.3910262,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 605300640,
+  "lat": 55.4330202,
+  "lon": 9.6411429,
+  "tags": {
+    "access": "yes",
+    "camp_site": "standard",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "motor_vehicle": "no",
+    "name": "Skibelund Teltsplads",
+    "openfire": "yes",
+    "power_supply": "no",
+    "shower": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/1215"
+  }
+},
+{
+  "type": "node",
+  "id": 672153007,
+  "lat": 55.0222206,
+  "lon": 9.3599600,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "check_date": "2025-07-02",
+    "drinking_water": "yes",
+    "fee": "no",
+    "unisex": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 705797841,
+  "lat": 55.2319634,
+  "lon": 9.3876357,
+  "tags": {
+    "bin": "yes",
+    "camp_site": "standard",
+    "drinking_water": "yes",
+    "fee": "no",
+    "maxstay": "2 nights",
+    "motor_vehicle": "no",
+    "name": "Christiansdal - Primitive Teltplads",
+    "note": "Der må maksimalt overnattes 2 nætter på pladsen.Brug af åben ild må kun finde sted på bålpladsen.",
+    "openfire": "yes",
+    "operator": "Naturstyrelsen",
+    "phone": "+45 72 54 30 00",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/facilitet/christiansdal-pamhule-skov/12556",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 723943743,
+  "lat": 55.2973906,
+  "lon": 9.8036368,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-05-02"
+  }
+},
+{
+  "type": "node",
+  "id": 812737473,
+  "lat": 55.5168222,
+  "lon": 9.5864375,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 812737495,
+  "lat": 55.5160063,
+  "lon": 9.5796130,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 812737685,
+  "lat": 55.5171096,
+  "lon": 9.5823012,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 812738027,
+  "lat": 55.5152954,
+  "lon": 9.5840193,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 812738100,
+  "lat": 55.5179104,
+  "lon": 9.5823404,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 854305950,
+  "lat": 55.4923228,
+  "lon": 9.7268454,
+  "tags": {
+    "alt_name": "Middelfart Lystbådehavn",
+    "contact:email": "havnen@middelfart.dk",
+    "contact:phone": "+45 8888 4905",
+    "drinking_water": "yes",
+    "harbour": "yes",
+    "leisure": "marina",
+    "name": "Middelfart Marina",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Middelfart Lystbådehavn",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "washing_machine": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1096975610,
+  "lat": 55.9021275,
+  "lon": 9.4006598,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Gudenåens udspring",
+    "natural": "spring",
+    "wikidata": "Q739513",
+    "wikipedia": "da:Gudenå"
+  }
+},
+{
+  "type": "node",
+  "id": 1198959695,
+  "lat": 55.6600597,
+  "lon": 9.1881150,
+  "tags": {
+    "camp_site": "basic",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fireplace": "yes",
+    "motor_vehicle": "no",
+    "name": "Kirstinelyst, Primitiv teltplads",
+    "openfire": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 1335885192,
+  "lat": 55.5699527,
+  "lon": 9.6286597,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1342048644,
+  "lat": 55.4944825,
+  "lon": 9.4981071,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1377155076,
+  "lat": 55.7191010,
+  "lon": 9.8768328,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1479202465,
+  "lat": 55.4200066,
+  "lon": 9.1754613,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1509170267,
+  "lat": 55.6572300,
+  "lon": 9.3595641,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1791477417,
+  "lat": 55.5161207,
+  "lon": 9.3877725,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1791627128,
+  "lat": 55.4332223,
+  "lon": 9.6400739,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-06-10",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1909914406,
+  "lat": 55.6569651,
+  "lon": 9.2613730,
+  "tags": {
+    "camp_site": "standard",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "motor_vehicle": "no",
+    "name": "Bindeballe Station - teltplads",
+    "openfire": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 2062785036,
+  "lat": 55.1202333,
+  "lon": 9.5493402,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "source": "Local knowledge",
+    "survey:date": "2021-10-04"
+  }
+},
+{
+  "type": "node",
+  "id": 2292625056,
+  "lat": 55.9294305,
+  "lon": 9.3593752,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2335063926,
+  "lat": 55.2299985,
+  "lon": 9.4427976,
+  "tags": {
+    "access": "permissive",
+    "camp_site": "basic",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motor_vehicle": "no",
+    "name": "Bergs Plads - Shelterplads",
+    "openfire": "yes",
+    "operator": "Naturstyrelsen",
+    "phone": "+45 7254 3000",
+    "shelter": "separate",
+    "shower": "no",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 2335063939,
+  "lat": 55.2393224,
+  "lon": 9.4689904,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2466255916,
+  "lat": 55.5078808,
+  "lon": 9.7264097,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2466255920,
+  "lat": 55.5080651,
+  "lon": 9.7257756,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2607923581,
+  "lat": 55.6753170,
+  "lon": 9.3922658,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2623875825,
+  "lat": 55.2962713,
+  "lon": 9.0612174,
+  "tags": {
+    "access": "permissive",
+    "camp_site": "standard",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Shelters ved Gram Slot",
+    "openfire": "yes",
+    "operator": "Gram Slot",
+    "phone": "+45 74 82 00 40",
+    "reservation": "required",
+    "shelter": "yes",
+    "shelter_type": "lean_to",
+    "shelters": "3",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.gramslot.dk/overnatning/shelters/"
+  }
+},
+{
+  "type": "node",
+  "id": 2661458666,
+  "lat": 55.5166810,
+  "lon": 9.6993785,
+  "tags": {
+    "bin": "yes",
+    "camp_site": "standard",
+    "drinking_water": "yes",
+    "fireplace": "yes",
+    "toilets": "yes",
+    "tourism": "picnic_site"
+  }
+},
+{
+  "type": "node",
+  "id": 2754711198,
+  "lat": 55.0582338,
+  "lon": 9.3374867,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Tap is reachable from outside the fence, from road."
+  }
+},
+{
+  "type": "node",
+  "id": 2786988631,
+  "lat": 55.0100697,
+  "lon": 9.5712376,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2786988637,
+  "lat": 55.0101284,
+  "lon": 9.5709554,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2933211844,
+  "lat": 55.5185491,
+  "lon": 9.5682473,
+  "tags": {
+    "access": "permissive",
+    "amenity": "shelter",
+    "drinking_water": "yes",
+    "fireplace": "yes",
+    "name": "Den \"hemmelige\" shelter",
+    "operator": "KFUM Spejderne",
+    "phone": "+45 70105115",
+    "shelter_type": "lean_to",
+    "toilets": "yes",
+    "website": "https://houensodde.dk/udendoers-overnatning/den-hemmelige-shelter/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2934027747,
+  "lat": 55.9276378,
+  "lon": 9.8668073,
+  "tags": {
+    "camp_site": "basic",
+    "drinking_water": "yes",
+    "motor_vehicle": "no",
+    "name": "Tolstrup - Primitiv Teltplads",
+    "openfire": "yes",
+    "operator": "Privat",
+    "phone": "+45 30 27 57 74",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 2934479488,
+  "lat": 55.2870445,
+  "lon": 9.3422223,
+  "tags": {
+    "camp_site": "standard",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motor_vehicle": "no",
+    "name": "Maugstrup - Primitive teltplads",
+    "openfire": "yes",
+    "operator": "Privat",
+    "phone": "+45 74 50 64 17",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/facilitet/vojens/5289"
+  }
+},
+{
+  "type": "node",
+  "id": 2934479489,
+  "lat": 55.2607334,
+  "lon": 9.3647944,
+  "tags": {
+    "access": "permissive",
+    "bin": "yes",
+    "camp_site": "standard",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motor_vehicle": "no",
+    "name": "Styding - Primitive teltplads",
+    "note": "Ring i forvejen",
+    "openfire": "yes",
+    "operator": "Privat",
+    "phone": "+45 22 79 42 23",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/facilitet/styding/5297"
+  }
+},
+{
+  "type": "node",
+  "id": 2934536084,
+  "lat": 55.1069214,
+  "lon": 9.4859043,
+  "tags": {
+    "amenity": "shelter",
+    "camp_site": "standard",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fireplace": "yes",
+    "name": "Boiskov - Shelter på primitiv overnatningsplads",
+    "operator": "Privat",
+    "phone": "+45 21 44 49 65",
+    "shelter_type": "lean_to",
+    "tents": "yes",
+    "toilets": "yes",
+    "website": "https://udinaturen.dk/shelter/130159"
+  }
+},
+{
+  "type": "node",
+  "id": 2934536088,
+  "lat": 55.2009782,
+  "lon": 9.5415605,
+  "tags": {
+    "access": "permissive",
+    "camp_site": "basic",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motor_vehicle": "no",
+    "name": "Kelstrup - Primitive Teltplads",
+    "openfire": "yes",
+    "operator": "Privat",
+    "phone": "+45 23 29 37 60",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/facilitet/kelstrup/5307"
+  }
+},
+{
+  "type": "node",
+  "id": 2937405996,
+  "lat": 55.9216305,
+  "lon": 9.7679178,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2940843614,
+  "lat": 55.2294999,
+  "lon": 9.1245490,
+  "tags": {
+    "bin": "yes",
+    "camp_site": "standard",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motor_vehicle": "no",
+    "name": "Aabøl - Primitiv Teltplads",
+    "openfire": "yes",
+    "operator": "Privat",
+    "phone": "+45 74 83 16 70",
+    "static_caravans": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/6702"
+  }
+},
+{
+  "type": "node",
+  "id": 2940843616,
+  "lat": 55.1587073,
+  "lon": 9.2169784,
+  "tags": {
+    "amenity": "shelter",
+    "camp_site": "basic",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fireplace": "yes",
+    "name": "Galsted - Shelterplads",
+    "operator": "Privat",
+    "phone": "+45 74 68 83 51",
+    "shelter_type": "lean_to",
+    "website": "https://udinaturen.dk/facilitet/galsted/5313"
+  }
+},
+{
+  "type": "node",
+  "id": 2940843617,
+  "lat": 55.2142888,
+  "lon": 9.1580775,
+  "tags": {
+    "camp_site": "standard",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "motor_vehicle": "no",
+    "name": "Hjartbro Spejdercenter - Primitiv Teltplads",
+    "note": "Betaling for overnatning udgør 15 kr./person/overnatning, dertil kommer ialt 40 kr. for at tænde op til bål (uanset antal personer). Betaling sker til en pengeboks sat op ved huset.",
+    "openfire": "yes",
+    "operator": "De grønne Pigespejder",
+    "phone": "+45 74416869",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "http://www.hjartbro-spejdercenter.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 2940843619,
+  "lat": 55.3152231,
+  "lon": 9.1948663,
+  "tags": {
+    "camp_site": "basic",
+    "description": "Adgang til åbent køkken i separat bygning",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "motor_vehicle": "no",
+    "name": "Stursbøl Kro - Primitiv Teltplads",
+    "operator": "Privat",
+    "phone": "+45 74 84 65 00",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/facilitet/stursb%C3%B8l-kro/5284"
+  }
+},
+{
+  "type": "node",
+  "id": 2940843621,
+  "lat": 55.6598968,
+  "lon": 9.3374555,
+  "tags": {
+    "amenity": "shelter",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fireplace": "yes",
+    "name": "Vork Østergård - Shelterplads",
+    "operator": "Privat",
+    "phone": "+45 40 26 23 25",
+    "shelter_type": "lean_to",
+    "website": "https://udinaturen.dk/facilitet/vork-%C3%98sterg%C3%A5rd/8399"
+  }
+},
+{
+  "type": "node",
+  "id": 2940888110,
+  "lat": 55.4619178,
+  "lon": 9.8364561,
+  "tags": {
+    "amenity": "shelter",
+    "camp_site": "basic",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fireplace": "yes",
+    "name": "Vibyhus - Shelterplads",
+    "operator": "Privat",
+    "phone": "+45 23 80 65 00",
+    "shelter_type": "lean_to",
+    "toilets": "yes",
+    "website": "https://udinaturen.dk/facilitet/vibyhus/8787"
+  }
+},
+{
+  "type": "node",
+  "id": 2975725567,
+  "lat": 55.4608653,
+  "lon": 9.8850477,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3009466462,
+  "lat": 55.7078116,
+  "lon": 9.5567804,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3094706536,
+  "lat": 55.0345368,
+  "lon": 9.4234534,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-07-07",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3101825452,
+  "lat": 55.6616647,
+  "lon": 9.3945665,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 3248975105,
+  "lat": 55.2905698,
+  "lon": 9.0431543,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 3493509496,
+  "lat": 55.2610617,
+  "lon": 9.7318275,
+  "tags": {
+    "camp_site": "basic",
+    "capacity:persons": "6",
+    "drinking_water": "yes",
+    "motor_vehicle": "no",
+    "name": "Aarø Havn Shelterplads",
+    "openfire": "yes",
+    "operator": "Haderslev Kommune",
+    "picnic_table": "yes",
+    "reservation": "no",
+    "shelter": "yes",
+    "shelter_type": "lean_to",
+    "shelters": "1",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/2858"
+  }
+},
+{
+  "type": "node",
+  "id": 3493509497,
+  "lat": 55.2631605,
+  "lon": 9.7054696,
+  "tags": {
+    "camp_site": "standard",
+    "capacity:persons": "6",
+    "drinking_water": "yes",
+    "motor_vehicle": "no",
+    "name": "Aarøsund Havn Shelterplads",
+    "openfire": "yes",
+    "operator": "Haderslev Kommune",
+    "picnic_table": "yes",
+    "reservation": "no",
+    "shelter": "yes",
+    "shelter_type": "lean_to",
+    "shelters": "1",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/6737",
+    "wikimedia_commons": "File:Årøsund Havn shelter 1.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 3560640152,
+  "lat": 55.6588521,
+  "lon": 9.7256172,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3560640153,
+  "lat": 55.6592372,
+  "lon": 9.7259525,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3560640166,
+  "lat": 55.6605573,
+  "lon": 9.7271367,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3560640167,
+  "lat": 55.6602040,
+  "lon": 9.7268309,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3560640168,
+  "lat": 55.6568784,
+  "lon": 9.7245288,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3560640169,
+  "lat": 55.6562768,
+  "lon": 9.7248626,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3560640170,
+  "lat": 55.6567191,
+  "lon": 9.7256893,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3560640171,
+  "lat": 55.6573620,
+  "lon": 9.7261445,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3560640172,
+  "lat": 55.6568917,
+  "lon": 9.7265111,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3560640173,
+  "lat": 55.6574045,
+  "lon": 9.7267579,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3583981926,
+  "lat": 55.7352002,
+  "lon": 9.1268185,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3638927449,
+  "lat": 55.4463230,
+  "lon": 9.1902023,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3639053302,
+  "lat": 55.4348693,
+  "lon": 9.1092199,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3648395740,
+  "lat": 55.7287996,
+  "lon": 9.1384413,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-04-14"
+  }
+},
+{
+  "type": "node",
+  "id": 3648395760,
+  "lat": 55.7304169,
+  "lon": 9.1377595,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3694717468,
+  "lat": 55.2734825,
+  "lon": 9.0076731,
+  "tags": {
+    "amenity": "shelter",
+    "camp_site": "basic",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fireplace": "yes",
+    "name": "Tiset Primitiv overnatningsplads",
+    "operator": "Privat",
+    "phone": "+45 74 82 13 71",
+    "shelter_type": "lean_to",
+    "website": "https://udinaturen.dk/facilitet/Gram/5293",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3793427636,
+  "lat": 55.2967800,
+  "lon": 9.0581882,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Udendørs vandhane til campister"
+  }
+},
+{
+  "type": "node",
+  "id": 3811252777,
+  "lat": 55.6916756,
+  "lon": 9.6637929,
+  "tags": {
+    "drinking_water": "yes",
+    "openfire": "yes",
+    "toilets": "yes",
+    "tourism": "picnic_site",
+    "wood_provided": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4190111607,
+  "lat": 55.0376326,
+  "lon": 9.7588279,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4248148634,
+  "lat": 55.2506214,
+  "lon": 9.4837014,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "description": "Åbningstider 7-22.Der er handicapfaciliteter.",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "07:00-22:00",
+    "operator": "Haderslev Kommune",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4258451236,
+  "lat": 55.2936900,
+  "lon": 9.0547855,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "description": "Toilettet ligger i Gram Slotspark. Åbningstiderne er ukendt.",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Haderslev Kommune",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 4291454895,
+  "lat": 55.9444155,
+  "lon": 9.2501108,
+  "tags": {
+    "camp_site": "standard",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "Hastrup Rast",
+    "openfire": "yes",
+    "picnic_table": "yes",
+    "reservation": "no",
+    "static_caravans": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/1831"
+  }
+},
+{
+  "type": "node",
+  "id": 4315071164,
+  "lat": 55.7291692,
+  "lon": 9.1359855,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4315071166,
+  "lat": 55.7294181,
+  "lon": 9.1338123,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4315071167,
+  "lat": 55.7295692,
+  "lon": 9.1359990,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-04-14",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4315071168,
+  "lat": 55.7297090,
+  "lon": 9.1379133,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-04-14",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4315071169,
+  "lat": 55.7297672,
+  "lon": 9.1335112,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-04-13",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4315071184,
+  "lat": 55.7299824,
+  "lon": 9.1365632,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-07-31"
+  }
+},
+{
+  "type": "node",
+  "id": 4315071399,
+  "lat": 55.7301336,
+  "lon": 9.1339847,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-04-13",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4315071417,
+  "lat": 55.7302818,
+  "lon": 9.1381365,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-04-14",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4315071423,
+  "lat": 55.7305092,
+  "lon": 9.1345244,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-04-13",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4315071425,
+  "lat": 55.7306337,
+  "lon": 9.1359557,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-04-13",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4315071430,
+  "lat": 55.7307975,
+  "lon": 9.1374493,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-04-14",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4315071431,
+  "lat": 55.7308474,
+  "lon": 9.1349289,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-04-13",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4315071460,
+  "lat": 55.7316278,
+  "lon": 9.1342728,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4439622104,
+  "lat": 55.4553647,
+  "lon": 9.1402892,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4605630360,
+  "lat": 55.1892294,
+  "lon": 9.0661668,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4703379692,
+  "lat": 55.4921969,
+  "lon": 9.4827274,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4912543141,
+  "lat": 55.0445563,
+  "lon": 9.4211304,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4993198722,
+  "lat": 55.2477811,
+  "lon": 9.4999642,
+  "tags": {
+    "bbq": "yes",
+    "caravan_site": "motorhome_stopover",
+    "caravan_site:type": "harbour;city",
+    "caravans": "no",
+    "charge": "DKK 170",
+    "check_date": "2024-07-28",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "internet_access": "wlan",
+    "laundry": "yes",
+    "motorhome": "yes",
+    "name": "Haderslev Sejl-Clubs Autocamper Plads",
+    "opening_hours": "24/7",
+    "payment:cash": "yes",
+    "payment:description": "before 18:00",
+    "payment:visa": "yes",
+    "payment:visa_contactless": "yes",
+    "picnic_table": "yes",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "sanitary_dump_station:chemical_toilet": "yes",
+    "sanitary_dump_station:grey_water": "yes",
+    "seasonal": "summer",
+    "shower": "yes",
+    "surface": "pebblestone",
+    "tents": "no",
+    "toilets": "yes",
+    "tourism": "caravan_site",
+    "website": "https://www.haderslevsejlclub.dk/gaester-guests/info-dk/autocampere/"
+  }
+},
+{
+  "type": "node",
+  "id": 5000283029,
+  "lat": 55.6402144,
+  "lon": 9.5624204,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5025139275,
+  "lat": 55.2871030,
+  "lon": 9.3427747,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5150097654,
+  "lat": 55.9312436,
+  "lon": 9.3261145,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5150252691,
+  "lat": 55.9295274,
+  "lon": 9.3225867,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5150252694,
+  "lat": 55.9299512,
+  "lon": 9.3231547,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5492067341,
+  "lat": 55.2154127,
+  "lon": 9.1576641,
+  "tags": {
+    "amenity": "toilets",
+    "description": "Bag dør på østsiden af \"Rodekontoret\"",
+    "drinking_water": "yes",
+    "fee": "no",
+    "last_check": "2018-03",
+    "opening_hours": "Mar-Oct: 00:00-24:00",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5519967488,
+  "lat": 55.6233484,
+  "lon": 9.0945366,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5543642156,
+  "lat": 55.1825527,
+  "lon": 9.0679236,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5744131841,
+  "lat": 55.5817759,
+  "lon": 9.1492290,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5813207720,
+  "lat": 55.1813415,
+  "lon": 9.4599919,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5923901469,
+  "lat": 55.0408203,
+  "lon": 9.5771111,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5923979194,
+  "lat": 55.0309572,
+  "lon": 9.5762850,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6281117738,
+  "lat": 55.0447328,
+  "lon": 9.4222534,
+  "tags": {
+    "amenity": "toilets",
+    "description": "Adgang til toilettet i ventesalen koster en to-krone",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:30-16:30",
+    "payment:coins": "yes",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6531483182,
+  "lat": 55.2512372,
+  "lon": 9.4866313,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "check_date:opening_hours": "2024-12-28",
+    "description": "Særskilt handicaptoilet. Åbningstid 7-22 (Lukkes af vagtselskab).",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours": "07:00-22:00",
+    "operator": "Haderslev Kommune",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6540709036,
+  "lat": 55.9289775,
+  "lon": 9.3207709,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6540709049,
+  "lat": 55.9305330,
+  "lon": 9.3290562,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6575031164,
+  "lat": 55.8895779,
+  "lon": 9.9533721,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6695416383,
+  "lat": 55.4205043,
+  "lon": 9.1573048,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6754069073,
+  "lat": 55.0584597,
+  "lon": 9.3414675,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-09-14",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6789061364,
+  "lat": 55.0312628,
+  "lon": 9.7187604,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Sønderborg Kommune",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6831010571,
+  "lat": 55.0404695,
+  "lon": 9.7920649,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "operator": "Sønderborg Kommune",
+    "unisex": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7396004912,
+  "lat": 55.0260627,
+  "lon": 9.8231091,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "unisex": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7521967774,
+  "lat": 55.1298243,
+  "lon": 9.1368934,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7592718219,
+  "lat": 55.9301578,
+  "lon": 9.3237542,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7694337944,
+  "lat": 55.7070078,
+  "lon": 9.4751009,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours": "Apr-Oct 00:00-24:00",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 7735576373,
+  "lat": 55.7342269,
+  "lon": 9.1273760,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7813282621,
+  "lat": 55.3875747,
+  "lon": 9.9397810,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Vandpost",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "panoramax": "71fc8cf9-fe8b-41ba-8746-1e6888c9ed9e"
+  }
+},
+{
+  "type": "node",
+  "id": 7813330173,
+  "lat": 55.3879717,
+  "lon": 9.9403867,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "panoramax": "5926f8e4-3b20-4753-ab34-d1a7f1839d97"
+  }
+},
+{
+  "type": "node",
+  "id": 7813530933,
+  "lat": 55.3886386,
+  "lon": 9.9414175,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "panoramax": "4a208cf4-8f3e-4c09-82f4-1ec2c9e08937"
+  }
+},
+{
+  "type": "node",
+  "id": 7848764156,
+  "lat": 55.5259387,
+  "lon": 9.5212736,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Strandhuse Nr. Bjert Vandværk",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 7848765943,
+  "lat": 55.5262801,
+  "lon": 9.5226385,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Strandhuse Nr. Bjert Vandværk",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 7850574203,
+  "lat": 55.9102648,
+  "lon": 9.4041264,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7850574204,
+  "lat": 55.9088896,
+  "lon": 9.4036585,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7850683410,
+  "lat": 55.8191841,
+  "lon": 9.3618144,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7852766921,
+  "lat": 55.6949755,
+  "lon": 9.2488732,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7856072843,
+  "lat": 55.0229682,
+  "lon": 9.3110779,
+  "tags": {
+    "camp_site": "basic",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "motor_vehicle": "no",
+    "name": "Stokhytten",
+    "note": "toilets and shower available for a small fee (there are 3 persons living in the village that can give the key; information on site)",
+    "operator": "KFUM-Spejderne",
+    "tents": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 7856072845,
+  "lat": 55.0231869,
+  "lon": 9.3113853,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7857424687,
+  "lat": 55.5144430,
+  "lon": 9.5808884,
+  "tags": {
+    "amenity": "drinking_water",
+    "source": "https://houensodde.dk/fileadmin/filer/pdf/Oddekort_folder_version_2019.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 7857424723,
+  "lat": 55.5171729,
+  "lon": 9.5858167,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "source": "https://houensodde.dk/fileadmin/filer/pdf/Oddekort_folder_version_2019.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 7857424725,
+  "lat": 55.5153617,
+  "lon": 9.5797759,
+  "tags": {
+    "amenity": "drinking_water",
+    "source": "https://houensodde.dk/fileadmin/filer/pdf/Oddekort_folder_version_2019.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 8259378760,
+  "lat": 55.8636549,
+  "lon": 9.5648413,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Hedensted Kommune",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8354203276,
+  "lat": 55.9726958,
+  "lon": 9.6238668,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8603569122,
+  "lat": 55.9316716,
+  "lon": 9.3267589,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8617507275,
+  "lat": 55.5384673,
+  "lon": 9.4203411,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 8665846413,
+  "lat": 55.2680080,
+  "lon": 9.8856413,
+  "tags": {
+    "alt_name": "Assens Havn",
+    "drinking_water": "yes",
+    "email": "amba@assens-marina.dk",
+    "leisure": "marina",
+    "name": "Assens Marina",
+    "phone": "+45 6471 3580",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Assens Havn",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "washing_machine": "yes",
+    "website": "https://www.assens-marina.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 8672569015,
+  "lat": 55.7084353,
+  "lon": 9.5294240,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8922504705,
+  "lat": 55.6113219,
+  "lon": 9.1449171,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8975436909,
+  "lat": 55.5190401,
+  "lon": 9.5634151,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8985659284,
+  "lat": 55.3748053,
+  "lon": 9.9751655,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9038225536,
+  "lat": 55.7107637,
+  "lon": 9.5549844,
+  "tags": {
+    "amenity": "drinking_water",
+    "level": "0"
+  }
+},
+{
+  "type": "node",
+  "id": 9649116080,
+  "lat": 55.2440858,
+  "lon": 9.8929337,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9762348783,
+  "lat": 55.5201401,
+  "lon": 9.2538830,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9762348797,
+  "lat": 55.5199961,
+  "lon": 9.2537673,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9891182339,
+  "lat": 55.5755832,
+  "lon": 9.7377351,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9905963763,
+  "lat": 55.7352082,
+  "lon": 9.1263631,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9907362942,
+  "lat": 55.7309922,
+  "lon": 9.1142007,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 9924297658,
+  "lat": 55.3869938,
+  "lon": 9.9383227,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "panoramax": "8b74da6c-51d0-4f1b-b94a-1ffaf4e8ebf1"
+  }
+},
+{
+  "type": "node",
+  "id": 9924383076,
+  "lat": 55.3871268,
+  "lon": 9.9409157,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "panoramax": "13cb15cc-530a-4a1e-b948-bc612dfc2ac6"
+  }
+},
+{
+  "type": "node",
+  "id": 9924599942,
+  "lat": 55.3857144,
+  "lon": 9.9390288,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9955388586,
+  "lat": 55.6325910,
+  "lon": 9.7448188,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9976499129,
+  "lat": 55.6749053,
+  "lon": 9.3473251,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9979287240,
+  "lat": 55.6051903,
+  "lon": 9.0392099,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10693601162,
+  "lat": 55.8352906,
+  "lon": 9.8159531,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10911721611,
+  "lat": 55.8838466,
+  "lon": 9.3729465,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10914006483,
+  "lat": 55.9107163,
+  "lon": 9.4041238,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10934414608,
+  "lat": 55.5656508,
+  "lon": 9.7568510,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11056338432,
+  "lat": 55.5712573,
+  "lon": 9.7384904,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11071056485,
+  "lat": 55.0313765,
+  "lon": 9.7151113,
+  "tags": {
+    "bbq": "yes",
+    "charge": "DKK 60",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Mjelsvig Bådehavn",
+    "power_supply": "yes",
+    "shower": "yes",
+    "toilets": "yes",
+    "tourism": "caravan_site",
+    "website": "http://www.mjelsvig.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 11097719708,
+  "lat": 55.5232541,
+  "lon": 9.4601834,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11104288682,
+  "lat": 55.2690290,
+  "lon": 9.8836800,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11104700953,
+  "lat": 55.4196131,
+  "lon": 9.5869442,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11209546191,
+  "lat": 55.6582921,
+  "lon": 9.1842330,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11237582417,
+  "lat": 55.0788973,
+  "lon": 9.7285303,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11237582424,
+  "lat": 55.0789952,
+  "lon": 9.7282091,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 11237582425,
+  "lat": 55.0792839,
+  "lon": 9.7280622,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 11237582426,
+  "lat": 55.0796366,
+  "lon": 9.7278758,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 11237582427,
+  "lat": 55.0792344,
+  "lon": 9.7276726,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 11237582428,
+  "lat": 55.0788874,
+  "lon": 9.7278134,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 11237582429,
+  "lat": 55.0787853,
+  "lon": 9.7274138,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 11237582430,
+  "lat": 55.0791434,
+  "lon": 9.7273018,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 11237582431,
+  "lat": 55.0794900,
+  "lon": 9.7272059,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 11237662865,
+  "lat": 55.0787981,
+  "lon": 9.7284937,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Købingsmark Strand Camping"
+  }
+},
+{
+  "type": "node",
+  "id": 11255159088,
+  "lat": 55.3343476,
+  "lon": 9.8917653,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11255191544,
+  "lat": 55.3344007,
+  "lon": 9.8911738,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11262747465,
+  "lat": 55.3357120,
+  "lon": 9.8906451,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11262747466,
+  "lat": 55.3353538,
+  "lon": 9.8906649,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11262926486,
+  "lat": 55.3347994,
+  "lon": 9.8903981,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11362566743,
+  "lat": 55.7020910,
+  "lon": 9.4355748,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11373814592,
+  "lat": 55.7810709,
+  "lon": 9.6735413,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11446662001,
+  "lat": 55.5119068,
+  "lon": 9.7675737,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11462189847,
+  "lat": 55.5126210,
+  "lon": 9.4823056,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11462189848,
+  "lat": 55.5125914,
+  "lon": 9.4822861,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Kolding Kommune",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11477015586,
+  "lat": 55.6910980,
+  "lon": 9.6633939,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11506979859,
+  "lat": 55.6575133,
+  "lon": 9.6843919,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "wikimedia_commons": "File:Kellers Golf vandhane.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 11637472398,
+  "lat": 55.7125492,
+  "lon": 9.6675136,
+  "tags": {
+    "camp_site": "standard",
+    "capacity:tents": "4",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motor_vehicle": "no",
+    "name": "Ulbækhus Teltplads",
+    "openfire": "yes",
+    "picnic_table": "yes",
+    "reservation": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udeliv.vejle.dk/oplevelser/id/?id=6856",
+    "wood_provided": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11637506468,
+  "lat": 55.6912540,
+  "lon": 9.6641006,
+  "tags": {
+    "access": "yes",
+    "camp_site": "standard",
+    "capacity:persons": "18",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motor_vehicle": "no",
+    "name": "Andkærvig Shelterplads",
+    "openfire": "yes",
+    "operator": "Vejle Kommune",
+    "picnic_table": "yes",
+    "reservation": "yes",
+    "shelter": "yes",
+    "shelter_type": "lean_to",
+    "shelters": "3",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udeliv.vejle.dk/oplevelser/id/?id=6779",
+    "wheelchair": "no",
+    "wood_provided": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11637508688,
+  "lat": 55.6731393,
+  "lon": 9.6914824,
+  "tags": {
+    "access": "yes",
+    "camp_site": "standard",
+    "capacity:persons": "12",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motor_vehicle": "no",
+    "name": "Brejning Strand Shelterplads",
+    "openfire": "yes",
+    "operator": "Vejle Kommune",
+    "picnic_table": "yes",
+    "reservation": "yes",
+    "shelter": "yes",
+    "shelter_type": "lean_to",
+    "shelters": "2",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udeliv.vejle.dk/oplevelser/id/?id=6785",
+    "wood_provided": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11637579901,
+  "lat": 55.7109071,
+  "lon": 9.6832472,
+  "tags": {
+    "bin": "no",
+    "camp_site": "standard",
+    "capacity:persons": "15",
+    "charge": "25 DKK/person/day",
+    "drinking_water": "yes",
+    "email": "book@vejlefjordskolen.dk",
+    "fee": "yes",
+    "motor_vehicle": "no",
+    "name": "Vejlefjordskolens Shelterplads",
+    "openfire": "yes",
+    "operator": "Vejlefjordskolen",
+    "payment:mobilepay": "yes",
+    "phone": "+45 75895202",
+    "picnic_table": "no",
+    "reservation": "yes",
+    "shelter": "yes",
+    "shelter_type": "lean_to",
+    "shelters": "3",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/106578"
+  }
+},
+{
+  "type": "node",
+  "id": 11691039679,
+  "lat": 55.4753865,
+  "lon": 9.4264754,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motorhome": "designated"
+  }
+},
+{
+  "type": "node",
+  "id": 11691568535,
+  "lat": 55.5122246,
+  "lon": 9.3962375,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motorhome": "designated"
+  }
+},
+{
+  "type": "node",
+  "id": 11691600073,
+  "lat": 55.8357560,
+  "lon": 9.3964816,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motorhome": "designated",
+    "name": "Hærvejen Syd"
+  }
+},
+{
+  "type": "node",
+  "id": 11691600075,
+  "lat": 55.8367900,
+  "lon": 9.3972011,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motorhome": "designated",
+    "name": "Hærvejen Nord"
+  }
+},
+{
+  "type": "node",
+  "id": 11694719601,
+  "lat": 55.9773088,
+  "lon": 9.8696461,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motorhome": "designated"
+  }
+},
+{
+  "type": "node",
+  "id": 11694836839,
+  "lat": 55.6407388,
+  "lon": 9.5621670,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motorhome": "designated"
+  }
+},
+{
+  "type": "node",
+  "id": 11694836846,
+  "lat": 55.6417849,
+  "lon": 9.5588562,
+  "tags": {
+    "amenity": "water_point",
+    "caravan": "designated",
+    "drinking_water": "yes",
+    "motorhome": "designated"
+  }
+},
+{
+  "type": "node",
+  "id": 11695085351,
+  "lat": 55.4778396,
+  "lon": 9.8798901,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "name": "Lillebælt Syd"
+  }
+},
+{
+  "type": "node",
+  "id": 11764564767,
+  "lat": 55.5194526,
+  "lon": 9.7698961,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11993531455,
+  "lat": 55.8048203,
+  "lon": 9.9020632,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11998475933,
+  "lat": 55.9566179,
+  "lon": 9.3943539,
+  "tags": {
+    "amenity": "drinking_water",
+    "fixme": "position"
+  }
+},
+{
+  "type": "node",
+  "id": 12011773216,
+  "lat": 55.0694204,
+  "lon": 9.3332578,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "level": "0",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12012246927,
+  "lat": 55.0772486,
+  "lon": 9.2107116,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12097695584,
+  "lat": 55.6074938,
+  "lon": 9.0171284,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12206043735,
+  "lat": 55.5248130,
+  "lon": 9.7062620,
+  "tags": {
+    "access": "yes",
+    "camp_site": "basic",
+    "capacity:tents": "1",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "maxstay": "2 days",
+    "motor_vehicle": "no",
+    "name": "Snoghøjgårdparkens Teltplads",
+    "openfire": "yes",
+    "operator": "Fredericia Kommune",
+    "reservation": "no",
+    "static_caravans": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/4796"
+  }
+},
+{
+  "type": "node",
+  "id": 12325391993,
+  "lat": 55.0315451,
+  "lon": 9.7150686,
+  "tags": {
+    "camp_site": "basic",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "kitchen": "yes",
+    "name": "Mjelsvig Bådehavn",
+    "phone": "+45 27634999",
+    "shelter": "yes",
+    "shelter_type": "lean_to",
+    "shelters": "2",
+    "shower": "yes",
+    "static_caravans": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/103447"
+  }
+},
+{
+  "type": "node",
+  "id": 12327102576,
+  "lat": 55.0119312,
+  "lon": 9.7250621,
+  "tags": {
+    "camp_site": "basic",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Lusig Skov Shelter og Teltplads",
+    "openfire": "yes",
+    "operator": "Sønderborg Kommune",
+    "picnic_table": "yes",
+    "reservation": "yes",
+    "shelter": "yes",
+    "shelter_type": "lean_to",
+    "shelters": "1",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/103430"
+  }
+},
+{
+  "type": "node",
+  "id": 12337025512,
+  "lat": 55.1933414,
+  "lon": 9.6147357,
+  "tags": {
+    "camp_site": "standard",
+    "capacity:persons": "6",
+    "drinking_water": "yes",
+    "name": "Hejsager Strand Shelter",
+    "reservation": "no",
+    "shelter": "yes",
+    "shelter_type": "lean_to",
+    "shelters": "1",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/2859"
+  }
+},
+{
+  "type": "node",
+  "id": 12338922563,
+  "lat": 55.5166901,
+  "lon": 9.7002403,
+  "tags": {
+    "bin": "yes",
+    "camp_site": "standard",
+    "capacity:persons": "24",
+    "charge": "30 DKK/person/day",
+    "drinking_water": "yes",
+    "email": "teknik@middelfart.dk",
+    "fee": "yes",
+    "motor_vehicle": "no",
+    "name": "Shelterplads i Naturparken Hindsgavl Dyrehave",
+    "openfire": "yes",
+    "operator": "Middelfart kommune",
+    "reservation": "required",
+    "shelter": "yes",
+    "shelter_type": "lean_to",
+    "shelters": "4",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/1654",
+    "wheelchair": "yes",
+    "wood_provided": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12462911081,
+  "lat": 55.5169524,
+  "lon": 9.6991672,
+  "tags": {
+    "bin": "yes",
+    "camp_site": "standard",
+    "drinking_water": "yes",
+    "fireplace": "yes",
+    "toilets": "yes",
+    "tourism": "picnic_site"
+  }
+},
+{
+  "type": "node",
+  "id": 12462911082,
+  "lat": 55.5170484,
+  "lon": 9.6989092,
+  "tags": {
+    "bin": "yes",
+    "camp_site": "standard",
+    "drinking_water": "yes",
+    "fireplace": "yes",
+    "toilets": "yes",
+    "tourism": "picnic_site"
+  }
+},
+{
+  "type": "node",
+  "id": 12759497701,
+  "lat": 55.4761975,
+  "lon": 9.6612926,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Ved hjørnet af træindhegningen"
+  }
+}
+
+  ]
+}

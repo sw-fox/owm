@@ -1,0 +1,1446 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:48:46Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 274122218,
+  "lat": 51.1207066,
+  "lon": 13.8015477,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 292978999,
+  "lat": 51.0372027,
+  "lon": 13.7527924,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "centralkey": "eurokey",
+    "changing_table": "yes",
+    "cold_water": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "hot_water": "yes",
+    "indoor": "yes",
+    "male": "yes",
+    "operator": "Zoo Dresden GmbH",
+    "supervised": "no",
+    "toilets:changing_table": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated; urinal",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 300148498,
+  "lat": 51.0641669,
+  "lon": 13.7458827,
+  "tags": {
+    "covered": "yes",
+    "drinking_water": "yes",
+    "name": "Artesische Quelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 367999931,
+  "lat": 51.9906482,
+  "lon": 13.0722563,
+  "tags": {
+    "access": "foot",
+    "amenity": "drinking_water",
+    "date_on": "april-september",
+    "drinking_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 367999933,
+  "lat": 51.9909107,
+  "lon": 13.0722682,
+  "tags": {
+    "access": "foot",
+    "amenity": "drinking_water",
+    "date_on": "april-september",
+    "drinking_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 373113704,
+  "lat": 51.0443052,
+  "lon": 13.7489938,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wikidata": "Q110627288"
+  }
+},
+{
+  "type": "node",
+  "id": 386116962,
+  "lat": 51.0512210,
+  "lon": 13.7334803,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "artist_name": "Rolf Roeder",
+    "bottle": "yes",
+    "fee": "no",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Trinkbrunnen_Postplatz_Dresden.JPG",
+    "man_made": "water_tap",
+    "opening_hours": "Apr-Oct 00:00-24:00",
+    "source:opening_hours": "Themenstadtplan Dresden",
+    "wheelchair": "yes",
+    "wikidata": "Q110723795",
+    "wikimedia_commons": "Category:Trinkbrunnen Postplatz (Dresden)"
+  }
+},
+{
+  "type": "node",
+  "id": 401342113,
+  "lat": 51.0183045,
+  "lon": 13.6613002,
+  "tags": {
+    "drinking_water": "yes",
+    "image": "http://commons.wikimedia.org/wiki/File:2017_Freital_Quelle_unterhalb_Jochh%C3%B6h.jpg",
+    "name": "Schafborn",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 577396071,
+  "lat": 51.1124476,
+  "lon": 13.8003584,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Puschquell",
+    "natural": "spring",
+    "wikimedia_commons": "File:2014 Priesnitz-Wasserfall in der Dresdner Heide.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 795683667,
+  "lat": 51.9370402,
+  "lon": 13.8944237,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Wasserstelle"
+  }
+},
+{
+  "type": "node",
+  "id": 795683672,
+  "lat": 51.9373127,
+  "lon": 13.8955711,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Wasserstelle",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 795683680,
+  "lat": 51.9370031,
+  "lon": 13.8958019,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Wasserstelle",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 795683688,
+  "lat": 51.9367232,
+  "lon": 13.8943428,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Wasserstelle"
+  }
+},
+{
+  "type": "node",
+  "id": 795683697,
+  "lat": 51.9371889,
+  "lon": 13.8952118,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Wasserstelle",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 795683707,
+  "lat": 51.9374713,
+  "lon": 13.8948601,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Wasserstelle",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 795683711,
+  "lat": 51.9371463,
+  "lon": 13.8962329,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Wasserstelle"
+  }
+},
+{
+  "type": "node",
+  "id": 930158895,
+  "lat": 51.9915451,
+  "lon": 13.0804450,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2023-05-27",
+    "date_on": "april-september",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 1364796783,
+  "lat": 51.1444821,
+  "lon": 13.4491019,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1628578523,
+  "lat": 51.0510893,
+  "lon": 13.7374845,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "Apr-Oct",
+    "source:opening_hours": "Themenstadtplan Dresden",
+    "start_date": "1996-09-09",
+    "wheelchair": "yes",
+    "wikidata": "Q111368114"
+  }
+},
+{
+  "type": "node",
+  "id": 1716801974,
+  "lat": 51.1158625,
+  "lon": 13.6862097,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Quelle im Fiedlergrund",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1807749162,
+  "lat": 51.0658534,
+  "lon": 13.8228288,
+  "tags": {
+    "drinking_water": "yes",
+    "historic": "yes",
+    "image": "http://commons.wikimedia.org/wiki/File:Degelequelle.JPG",
+    "name": "Degele-Quelle",
+    "natural": "spring",
+    "wikidata": "Q106253686"
+  }
+},
+{
+  "type": "node",
+  "id": 1807749163,
+  "lat": 51.0657791,
+  "lon": 13.8223607,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Schwestern-Quelle",
+    "natural": "spring",
+    "wikidata": "Q110621441"
+  }
+},
+{
+  "type": "node",
+  "id": 1817503588,
+  "lat": 51.9008770,
+  "lon": 13.1408014,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1846012733,
+  "lat": 51.0695785,
+  "lon": 13.7586683,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7",
+    "operator": "Stadt Dresden, Amt für Stadtgrün u. Abfallwirtsch.",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1926833355,
+  "lat": 51.0494327,
+  "lon": 13.7377614,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "level": "-1",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1988358150,
+  "lat": 51.8514555,
+  "lon": 13.7086142,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Lindenquelle",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2012187791,
+  "lat": 51.1630015,
+  "lon": 13.5669697,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "name": "Gabenreichbrunnen",
+    "source": "https://de.wikipedia.org/wiki/Liste_der_Trinkbrunnen_in_Sachsen"
+  }
+},
+{
+  "type": "node",
+  "id": 2783179671,
+  "lat": 51.4341869,
+  "lon": 13.2096612,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2023-06-06",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2783179680,
+  "lat": 51.4339278,
+  "lon": 13.2093286,
+  "tags": {
+    "addr:city": "Mühlberg/Elbe",
+    "addr:housenumber": "1c",
+    "addr:postcode": "04931",
+    "addr:street": "Am Hafen",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "email": "wwrs-marina-muehlberg@web.de",
+    "internet_access": "wlan",
+    "motorhome": "yes",
+    "name": "Wasserwanderraststation Mühlberg",
+    "opening_hours": "Apr-Oct",
+    "phone": "+49 175 7093606",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.wwrs-marina-muehlberg.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3069880200,
+  "lat": 51.1215060,
+  "lon": 13.1189400,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "source": "https://de.wikipedia.org/wiki/Liste_der_Trinkbrunnen_in_Sachsen"
+  }
+},
+{
+  "type": "node",
+  "id": 3508897352,
+  "lat": 51.8970957,
+  "lon": 13.1129059,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3646075522,
+  "lat": 51.1038997,
+  "lon": 13.6539250,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3770923383,
+  "lat": 51.4288073,
+  "lon": 13.7364702,
+  "tags": {
+    "access": "yes",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "operator": "Tettauer Gesundbrunnen (Wasserverband Lausitz)",
+    "pump": "powered",
+    "seasonal": "spring;summer;autumn"
+  }
+},
+{
+  "type": "node",
+  "id": 3812557378,
+  "lat": 51.1654808,
+  "lon": 13.5695581,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4229518286,
+  "lat": 51.2168963,
+  "lon": 13.7396837,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4374856988,
+  "lat": 51.2397660,
+  "lon": 13.4087463,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-08-06",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4386188650,
+  "lat": 51.0445433,
+  "lon": 13.7362392,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "note": "seit 07/2019 Trinkwasser - Quelle: https://www.dnn.de/Dresden/Lokales/Neue-Trinkbrunnen-auf-der-Prager-Strasse",
+    "survey:date": "2016-09-05",
+    "wikidata": "Q110626680"
+  }
+},
+{
+  "type": "node",
+  "id": 4405626486,
+  "lat": 51.0648001,
+  "lon": 13.7924927,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4888468794,
+  "lat": 51.5122816,
+  "lon": 13.4324908,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "nach Nachfrage bei der Kassiererin durften wir uns Wasser abfüllen",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5041717460,
+  "lat": 51.2452886,
+  "lon": 13.9798921,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "no",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5436155291,
+  "lat": 51.0542817,
+  "lon": 13.7378241,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "cold_water": "yes",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "hot_water": "yes",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "supervised": "yes",
+    "toilets:changing_table": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated; urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5679636801,
+  "lat": 51.8698109,
+  "lon": 13.9801485,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5935402348,
+  "lat": 51.0148425,
+  "lon": 13.7468736,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5935407551,
+  "lat": 51.0154410,
+  "lon": 13.7468097,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5935407984,
+  "lat": 51.0150909,
+  "lon": 13.7468313,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5935409429,
+  "lat": 51.0153504,
+  "lon": 13.7480959,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "check_date": "2024-04-13",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5935409585,
+  "lat": 51.0151586,
+  "lon": 13.7472540,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "check_date": "2024-04-13",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5941055188,
+  "lat": 51.1620474,
+  "lon": 13.4612476,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5941055195,
+  "lat": 51.1627585,
+  "lon": 13.4606300,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5941055201,
+  "lat": 51.1630654,
+  "lon": 13.4613003,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5941055203,
+  "lat": 51.1623964,
+  "lon": 13.4619749,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5951674942,
+  "lat": 51.1624532,
+  "lon": 13.4625468,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5951685991,
+  "lat": 51.1632608,
+  "lon": 13.4610750,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6581943083,
+  "lat": 51.0894038,
+  "lon": 13.6206883,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 6581943084,
+  "lat": 51.0893609,
+  "lon": 13.6207375,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "no",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 7105730156,
+  "lat": 51.1386813,
+  "lon": 13.4968359,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "ford": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7142950479,
+  "lat": 51.0319602,
+  "lon": 13.7088671,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7474206485,
+  "lat": 51.0467539,
+  "lon": 13.7263289,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-07-24",
+    "fountain": "bubbler",
+    "wikidata": "Q111368076"
+  }
+},
+{
+  "type": "node",
+  "id": 7710489263,
+  "lat": 51.5153269,
+  "lon": 13.0388999,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7786362455,
+  "lat": 51.2524546,
+  "lon": 13.7523971,
+  "tags": {
+    "access": "permissive",
+    "addr:city": "Thiendorf",
+    "addr:housenumber": "3",
+    "addr:postcode": "01561",
+    "addr:street": "Zum Springbach",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Naturcamping Brettmühlenteich",
+    "phone": "+4935420169955",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.naturcamping-dresden.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 8195125221,
+  "lat": 51.0553936,
+  "lon": 13.7618935,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8820115390,
+  "lat": 51.3761492,
+  "lon": 13.7580314,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "operator": "Wasservernad Lausitz",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8849781500,
+  "lat": 51.9672642,
+  "lon": 13.6118590,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9111517818,
+  "lat": 51.0616945,
+  "lon": 13.7502882,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Heinrich-Schütz-Konservatorium Dresden"
+  }
+},
+{
+  "type": "node",
+  "id": 9204368072,
+  "lat": 51.0280184,
+  "lon": 13.7597519,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fountain": "bubbler",
+    "start_date": "2021-10-21",
+    "wikidata": "Q111330215"
+  }
+},
+{
+  "type": "node",
+  "id": 9650338595,
+  "lat": 51.1665491,
+  "lon": 13.4328954,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9724936017,
+  "lat": 51.0400919,
+  "lon": 13.7320261,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "covered": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "yes",
+    "level": "0",
+    "lit": "yes",
+    "name": "DB Drewag 2x",
+    "operator": "Deutsche Bahn",
+    "wheelchair": "yes",
+    "wikidata": "Q126088627"
+  }
+},
+{
+  "type": "node",
+  "id": 9815598593,
+  "lat": 51.1150398,
+  "lon": 13.5708211,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Trinkwasser zur Selbstentnahme, im Winter außer Betrieb (Objekt wird abgebaut)",
+    "fee": "no",
+    "opening_hours": "May-Oct: Mo-Su 00:00-24:00"
+  }
+},
+{
+  "type": "node",
+  "id": 9831062544,
+  "lat": 51.5194268,
+  "lon": 13.9999458,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Busverkehr Gerd Schmidt GmbH",
+    "website": "https://www.fahrschuleschmidt.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 9938894974,
+  "lat": 51.1203555,
+  "lon": 13.5635601,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "no",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 9938894975,
+  "lat": 51.1203517,
+  "lon": 13.5636029,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "no",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 9938894976,
+  "lat": 51.1202215,
+  "lon": 13.5633844,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 9969392474,
+  "lat": 51.4590952,
+  "lon": 13.8660317,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "operator": "Wasserverband Lausitz",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10005703033,
+  "lat": 51.0639241,
+  "lon": 13.7979929,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10064401774,
+  "lat": 51.8498200,
+  "lon": 13.7146457,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10183755000,
+  "lat": 51.1642487,
+  "lon": 13.7304761,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11144728614,
+  "lat": 51.2902528,
+  "lon": 13.5356860,
+  "tags": {
+    "amenity": "water_point",
+    "charge": "1.30 EUR / 100L",
+    "drinking_water": "yes",
+    "opening_hours": "May 01-Oct 31 00:00-24:00 open; Nov 01-Apr 30 00:00-24:00 closed",
+    "payment:contactless": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11252470097,
+  "lat": 51.0468067,
+  "lon": 13.7993410,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Landeshauptstadt Dresden",
+    "wikidata": "Q120030719"
+  }
+},
+{
+  "type": "node",
+  "id": 11331225886,
+  "lat": 51.1079500,
+  "lon": 13.6759444,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Trinkbrunnen am Eduard-Bilz-Platz",
+    "source": "https://de.wikipedia.org/wiki/Liste_der_Trinkbrunnen_in_Sachsen"
+  }
+},
+{
+  "type": "node",
+  "id": 11331272944,
+  "lat": 51.0651339,
+  "lon": 13.1849093,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "name": "Trinkwasserspender am Roßweiner Markt",
+    "source": "https://de.wikipedia.org/wiki/Liste_der_Trinkbrunnen_in_Sachsen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11375619124,
+  "lat": 51.0293873,
+  "lon": 13.8032062,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "brand": "Water Is Right",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "level": "0",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11510872049,
+  "lat": 51.0513747,
+  "lon": 13.7400778,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "wikidata": "Q111368102"
+  }
+},
+{
+  "type": "node",
+  "id": 11581460151,
+  "lat": 51.1130674,
+  "lon": 13.6774258,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11583754940,
+  "lat": 51.1157514,
+  "lon": 13.6905977,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11829920978,
+  "lat": 51.5583690,
+  "lon": 13.0038731,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11950588531,
+  "lat": 51.4735654,
+  "lon": 13.8568022,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7",
+    "operator": "Stadt Schwarzheide",
+    "seasonal": "spring;summer;autumn"
+  }
+},
+{
+  "type": "node",
+  "id": 11950600888,
+  "lat": 51.5133148,
+  "lon": 13.6998904,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "opening_hours": "24/7",
+    "operator": "Wasserverband Lausitz",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11961182496,
+  "lat": 51.0847559,
+  "lon": 13.7282007,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "lit": "yes",
+    "opening_hours": "24/7",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11986938914,
+  "lat": 51.8706641,
+  "lon": 13.9779120,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12021145313,
+  "lat": 51.0284851,
+  "lon": 13.7368920,
+  "tags": {
+    "access": "permit",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "level": "-1",
+    "man_made": "water_tap",
+    "operator": "SLUB Dresden"
+  }
+},
+{
+  "type": "node",
+  "id": 12101897838,
+  "lat": 51.9367138,
+  "lon": 13.8952718,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12133808915,
+  "lat": 51.2513035,
+  "lon": 13.7517446,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 12133809169,
+  "lat": 51.2517240,
+  "lon": 13.7519860,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12140925070,
+  "lat": 51.1386685,
+  "lon": 13.4956079,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "ford": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12157112729,
+  "lat": 51.1271983,
+  "lon": 13.5806145,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Eigenbetrieb Kommunale Dienste Coswig",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12345976238,
+  "lat": 51.1102767,
+  "lon": 13.7636010,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12346024868,
+  "lat": 51.1104660,
+  "lon": 13.7639278,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12384199619,
+  "lat": 51.2368529,
+  "lon": 13.0478055,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Stadt Mügeln"
+  }
+},
+{
+  "type": "node",
+  "id": 12552090746,
+  "lat": 51.0393490,
+  "lon": 13.7312676,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12590103377,
+  "lat": 51.1095726,
+  "lon": 13.7637557,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12590137286,
+  "lat": 51.1102013,
+  "lon": 13.7638732,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12590149624,
+  "lat": 51.1097281,
+  "lon": 13.7639915,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12590174363,
+  "lat": 51.1103246,
+  "lon": 13.7650560,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12590185994,
+  "lat": 51.1100587,
+  "lon": 13.7641378,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12590189907,
+  "lat": 51.1103079,
+  "lon": 13.7644403,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12630652214,
+  "lat": 51.1763510,
+  "lon": 13.9709926,
+  "tags": {
+    "amenity": "drinking_water",
+    "fixme": "verify"
+  }
+},
+{
+  "type": "node",
+  "id": 12791915564,
+  "lat": 51.1036481,
+  "lon": 13.7704301,
+  "tags": {
+    "access": "private",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2025-04-27",
+    "child": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "gender_segregated": "no",
+    "handwashing:creme": "no",
+    "handwashing:hand_cleaning_paste": "no",
+    "handwashing:soap": "liquid",
+    "hot_water": "no",
+    "image": "https://i.ibb.co/Mk2J97n6/2025-04-28-19-56-25.jpg",
+    "locked": "yes",
+    "supervised": "no",
+    "toilets:access": "private",
+    "toilets:disposal": "flush",
+    "toilets:hands_drying": "paper_towel",
+    "toilets:handwashing": "yes",
+    "toilets:menstrual_products": "no",
+    "toilets:num_chambers": "1",
+    "toilets:number": "1",
+    "toilets:ostomy": "no",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "no",
+    "unisex": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12803500532,
+  "lat": 51.9852092,
+  "lon": 13.3519890,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12864117416,
+  "lat": 51.5225123,
+  "lon": 13.9868158,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Öffentlicher Trinkbrunnen des Wasserverbandes Lausitz (WAL)",
+    "name": "Trinkbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 12953421225,
+  "lat": 51.0483319,
+  "lon": 13.7503490,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+}
+
+  ]
+}

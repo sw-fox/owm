@@ -1,0 +1,1580 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:47:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 289491524,
+  "lat": 51.6216228,
+  "lon": 12.6167747,
+  "tags": {
+    "direction": "W",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "historic": "yes",
+    "image": "http://commons.wikimedia.org/wiki/File:Gesundbrunnen-D%C3%BCbener_Heide.jpg",
+    "name": "Gesundbrunnen",
+    "natural": "spring",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 386227054,
+  "lat": 51.0199951,
+  "lon": 12.7740715,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "name": "Bielborn",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 387401523,
+  "lat": 51.1424860,
+  "lon": 12.7268871,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Parthenquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 500122676,
+  "lat": 51.8633944,
+  "lon": 12.6675546,
+  "tags": {
+    "addr:city": "Wittenberg",
+    "addr:country": "DE",
+    "addr:housenumber": "160",
+    "addr:postcode": "06886",
+    "addr:street": "Dresdener Straße",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Ruderclub Wittenberg (Campinggelegenheit)",
+    "phone": "+49 3491 403125",
+    "power_supply": "yes",
+    "sanitary_dump_station": "no",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "www.ruderclubwittenberg.de"
+  }
+},
+{
+  "type": "node",
+  "id": 500883165,
+  "lat": 51.2964668,
+  "lon": 12.0626028,
+  "tags": {
+    "amenity": "drinking_water",
+    "note": "Saltwater",
+    "note:de": "Salzwasser!"
+  }
+},
+{
+  "type": "node",
+  "id": 801775924,
+  "lat": 51.7885523,
+  "lon": 12.5657697,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 877647335,
+  "lat": 51.1591851,
+  "lon": 12.7852055,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Quelle Am Bahnberg",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1200573693,
+  "lat": 51.1828488,
+  "lon": 12.7662096,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-08-21",
+    "drinking_water:seasonal": "yes",
+    "name": "Quelle Bahnbrücke",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1433664831,
+  "lat": 51.6358993,
+  "lon": 12.6409237,
+  "tags": {
+    "drinking_water": "yes",
+    "historic": "yes",
+    "image": "https://commons.wikimedia.org/wiki/File:R%C3%B6hrwasserbrunnen_S%C3%B6llichau-2.JPG",
+    "man_made": "water_well",
+    "name": "Röhrwasserbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 1483978547,
+  "lat": 51.6750795,
+  "lon": 12.7063001,
+  "tags": {
+    "amenity": "drinking_water",
+    "historic": "yes",
+    "image": "http://commons.wikimedia.org/wiki/File:Weinbergquelle.jpeg",
+    "name": "Weinbergsquelle",
+    "natural": "spring",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2035692285,
+  "lat": 51.0304800,
+  "lon": 12.2209111,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2035708476,
+  "lat": 51.0197706,
+  "lon": 12.2310876,
+  "tags": {
+    "amenity": "drinking_water",
+    "source": "Schlittschuhfahren"
+  }
+},
+{
+  "type": "node",
+  "id": 2326009256,
+  "lat": 51.3438374,
+  "lon": 12.3872959,
+  "tags": {
+    "drinking_water": "yes",
+    "heritage": "4",
+    "heritage:operator": "lfd",
+    "historic": "heritage",
+    "man_made": "water_well",
+    "pump": "manual",
+    "pump:style": "historic"
+  }
+},
+{
+  "type": "node",
+  "id": 2396790804,
+  "lat": 51.3338008,
+  "lon": 12.3763342,
+  "tags": {
+    "access": "private",
+    "amenity": "toilets",
+    "description": "Diensttoilette der LVB. Nicht öffentlich.",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "operator": "LVB",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2506887575,
+  "lat": 51.8563988,
+  "lon": 12.2216298,
+  "tags": {
+    "access": "permissive",
+    "addr:city": "Dessau-Roßlau",
+    "addr:housenumber": "4",
+    "addr:postcode": "06846",
+    "addr:street": "Leopoldshafen",
+    "caravans": "no",
+    "charge": "9.00 EUR/night",
+    "dog": "yes",
+    "drinking_water": "yes",
+    "email": "camping@junkers-paddelgemeinschaft.de",
+    "fee": "yes",
+    "internet_access": "no",
+    "name": "Junkers Paddelgemeinschaft",
+    "operator": "Junkers Paddelgemeinschaft",
+    "payment:cash": "yes",
+    "phone": "+49 340 88299109",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "vending": "drinks",
+    "website": "https://junkers-paddelgemeinschaft.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2598109493,
+  "lat": 51.1483693,
+  "lon": 12.9697576,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Trinkwasserquelle Paudritzsch"
+  }
+},
+{
+  "type": "node",
+  "id": 3667256969,
+  "lat": 51.2981636,
+  "lon": 12.3635592,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "entrance": "main",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3718364539,
+  "lat": 51.7602129,
+  "lon": 12.8281850,
+  "tags": {
+    "addr:city": "Jessen (Elster)",
+    "addr:housenumber": "4",
+    "addr:postcode": "06917",
+    "addr:street": "Elbstraße",
+    "addr:suburb": "Klöden",
+    "amenity": "drinking_water",
+    "email": "kontakt@auf-der-tenne.de",
+    "fee": "yes",
+    "name": "Auf der Tenne",
+    "phone": "+49 35388 20251",
+    "tourism": "camp_site",
+    "website": "www.auf-der-Tenne.de"
+  }
+},
+{
+  "type": "node",
+  "id": 4317267612,
+  "lat": 51.6493973,
+  "lon": 12.3052612,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Pumpe"
+  }
+},
+{
+  "type": "node",
+  "id": 4753911025,
+  "lat": 51.6071649,
+  "lon": 12.1862370,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-05-19",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5122054879,
+  "lat": 51.8673147,
+  "lon": 12.6608245,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "opening_hours": "04:00-23:00",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5184886340,
+  "lat": 51.2571997,
+  "lon": 12.4307051,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date:wheelchair": "2024-07-12",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Modellbaupark",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5499274386,
+  "lat": 51.5450423,
+  "lon": 12.9897010,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-07-14",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5499274387,
+  "lat": 51.5454908,
+  "lon": 12.9898749,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-07-14",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5499274388,
+  "lat": 51.5453089,
+  "lon": 12.9888439,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-07-14",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5599991936,
+  "lat": 51.6358559,
+  "lon": 12.6385243,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5639581442,
+  "lat": 51.3382902,
+  "lon": 12.3799978,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "KWL",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5688479651,
+  "lat": 51.3146111,
+  "lon": 12.3277698,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "operator": "KWL",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5814596939,
+  "lat": 51.5057655,
+  "lon": 12.5276144,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6036537847,
+  "lat": 51.5450269,
+  "lon": 12.0147964,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6171981325,
+  "lat": 51.2388156,
+  "lon": 12.6130570,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6556005225,
+  "lat": 51.2795822,
+  "lon": 12.3735963,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 6616738721,
+  "lat": 51.3372095,
+  "lon": 12.3340728,
+  "tags": {
+    "access": "yes",
+    "addr:postcode": "04177",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "lit": "yes",
+    "name": "Öffentlicher Trinkwasserbrunnen",
+    "operator": "Leipziger Wasserwerke",
+    "start_date": "2019-07-27",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6628801305,
+  "lat": 51.8543290,
+  "lon": 12.1776983,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Dessau-Roßlau",
+    "addr:housenumber": "3",
+    "addr:postcode": "06846",
+    "addr:street": "Steutzer Straße",
+    "caravans": "no",
+    "description": "Einfache Zeltwiese mit Sanitärhäuschen und Imbiss",
+    "drinking_water": "yes",
+    "name": "Zeltwiese am See",
+    "operator:website": "http://www.kuehnauer-see.de/",
+    "phone": "+491704180531",
+    "shower": "yes",
+    "tents": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 6743911289,
+  "lat": 51.3422865,
+  "lon": 12.3750730,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description:en": "No operation during winter season.",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "KWL"
+  }
+},
+{
+  "type": "node",
+  "id": 7473977442,
+  "lat": 51.2292618,
+  "lon": 12.7252720,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7503260034,
+  "lat": 51.3096223,
+  "lon": 12.2422076,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "KWL",
+    "source": "https://www.l.de/wasserwerke/leipziger-wasser/trinkwasserbrunnen/"
+  }
+},
+{
+  "type": "node",
+  "id": 7617810869,
+  "lat": 51.3392518,
+  "lon": 12.3745711,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "KWL"
+  }
+},
+{
+  "type": "node",
+  "id": 7680049430,
+  "lat": 51.8920423,
+  "lon": 12.0287142,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-05-02",
+    "name": "Radfahrerkirche Steckby"
+  }
+},
+{
+  "type": "node",
+  "id": 7765577131,
+  "lat": 51.8667384,
+  "lon": 12.6378908,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "image": "https://photos.app.goo.gl/fC9zHcTcUQYHMauN8",
+    "indoor": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8148936137,
+  "lat": 51.3337246,
+  "lon": 12.4029221,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "operator": "Leipziger"
+  }
+},
+{
+  "type": "node",
+  "id": 8574211904,
+  "lat": 51.3807942,
+  "lon": 12.5002024,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "image": "https://commons.wikimedia.org/wiki/File:Trinkbrunnen_am_Markt_(Taucha)_02.jpg",
+    "operator": "Leipziger Wasserwerke",
+    "source": "https://www.l.de/wasserwerke/leipziger-wasser/trinkwasserbrunnen/",
+    "start_date": "2020-08-26",
+    "wheelchair": "yes",
+    "wikidata": "Q111385720",
+    "wikimedia_commons": "Category:Trinkbrunnen am Markt (Taucha)"
+  }
+},
+{
+  "type": "node",
+  "id": 8647507548,
+  "lat": 51.3322664,
+  "lon": 12.3362904,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Leipziger Stadtwerke",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8776636179,
+  "lat": 51.3684955,
+  "lon": 12.3815804,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "name": "Trinkwasserbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 8788701856,
+  "lat": 51.4309830,
+  "lon": 12.3798666,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 9166167227,
+  "lat": 51.2175543,
+  "lon": 12.3243797,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkwasser-Stele",
+    "operator": "l.de",
+    "start_date": "2021-09",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9230330066,
+  "lat": 51.3052248,
+  "lon": 12.4636374,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9247524897,
+  "lat": 51.0199709,
+  "lon": 12.7744576,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "pump": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9373367824,
+  "lat": 51.3677208,
+  "lon": 12.3456431,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 9457725101,
+  "lat": 51.6079378,
+  "lon": 12.1844281,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 9713943610,
+  "lat": 51.2379669,
+  "lon": 12.6133208,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 9812769987,
+  "lat": 51.6400251,
+  "lon": 12.8827753,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9825930056,
+  "lat": 51.1351416,
+  "lon": 12.1350201,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "name": "Winterwasserhahn"
+  }
+},
+{
+  "type": "node",
+  "id": 9861856969,
+  "lat": 51.1104734,
+  "lon": 12.1973261,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9863720264,
+  "lat": 51.3140888,
+  "lon": 12.4103360,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "KWL"
+  }
+},
+{
+  "type": "node",
+  "id": 9921053851,
+  "lat": 51.3168758,
+  "lon": 12.8785864,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "intermittent": "no",
+    "name": "Gatschesborn",
+    "natural": "spring",
+    "opening_hours": "24/7",
+    "panoramax": "1e387d68-ae41-4dad-b43d-7dcdfe23f0e0",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9923975996,
+  "lat": 51.7204455,
+  "lon": 12.8206473,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "name": "Mauken"
+  }
+},
+{
+  "type": "node",
+  "id": 10030822005,
+  "lat": 51.9123982,
+  "lon": 12.7866988,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10260004304,
+  "lat": 51.3547606,
+  "lon": 12.4057574,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "KWL"
+  }
+},
+{
+  "type": "node",
+  "id": 10689340324,
+  "lat": 51.2804813,
+  "lon": 12.3506527,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 10822541584,
+  "lat": 51.3572254,
+  "lon": 12.3648577,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "note": "im Winter abgeschaltet",
+    "operator": "Leipziger Wasserwerke"
+  }
+},
+{
+  "type": "node",
+  "id": 10941916427,
+  "lat": 51.1439883,
+  "lon": 12.6475194,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "lit": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10957955671,
+  "lat": 51.1564993,
+  "lon": 12.0986187,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Hohenmölsen",
+    "addr:housenumber": "6",
+    "addr:postcode": "06679",
+    "addr:street": "Herrenstraße",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "image": "https://www.midewa.de/fileadmin/user_upload/Trinkwasserbrunnen/Hohenmoelsen/Kopie_von_211007_hohenmoelsen_trinkbrunnen_Bild1.jpg",
+    "note": "biite exakt poitionieren",
+    "operator": "Midewa",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11155858195,
+  "lat": 51.8346487,
+  "lon": 12.2460763,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11177591789,
+  "lat": 51.1193915,
+  "lon": 12.0214516,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "drinking_water": "yes",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 11212559798,
+  "lat": 51.8565011,
+  "lon": 12.2194014,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "MBC Elbe Dessau e.V"
+  }
+},
+{
+  "type": "node",
+  "id": 11331386998,
+  "lat": 51.3218464,
+  "lon": 12.3025350,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Trinkwasserbrunnen Alte Salzstraße & Grünauer Allee",
+    "operator": "Leipziger Wasserwerke",
+    "source": "https://www.l.de/wasserwerke/leipziger-wasser/trinkwasserbrunnen/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11331404599,
+  "lat": 51.3203475,
+  "lon": 12.2995178,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Leipziger Wasserwerke",
+    "source": "https://www.l.de/wasserwerke/leipziger-wasser/trinkwasserbrunnen/"
+  }
+},
+{
+  "type": "node",
+  "id": 11331466437,
+  "lat": 51.2783335,
+  "lon": 12.5888142,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "nicht im Winter",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Trinkwasserbrunnen Ungibauerstraße am Stadtgut",
+    "operator": "Leipziger Wasserwerke",
+    "panoramax": "9df23674-3356-4780-9fa2-fc4fcd0a7f31",
+    "panoramax:0": "e1d08327-b6e1-49ac-9ffd-ef95dbbf50d7",
+    "source": "https://www.l.de/wasserwerke/leipziger-wasser/trinkwasserbrunnen/"
+  }
+},
+{
+  "type": "node",
+  "id": 11331470369,
+  "lat": 51.2679481,
+  "lon": 12.5015185,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Trinkwasserbrunnen Generationenpark Großpösna",
+    "operator": "Leipziger Wasserwerke",
+    "source": "https://www.l.de/wasserwerke/leipziger-wasser/trinkwasserbrunnen/"
+  }
+},
+{
+  "type": "node",
+  "id": 11331479150,
+  "lat": 51.3582609,
+  "lon": 12.4570090,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Trinkwasserspender Kletterspielplatz Grüner Bogen",
+    "operator": "Leipziger Wasserwerke",
+    "source": "https://www.l.de/wasserwerke/leipziger-wasser/trinkwasserbrunnen/"
+  }
+},
+{
+  "type": "node",
+  "id": 11350841789,
+  "lat": 51.2973860,
+  "lon": 12.0640175,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "image": "https://photos.app.goo.gl/pJSuUnXLVx7FYuk68",
+    "operator": "Stadt Bad Dürrenberg"
+  }
+},
+{
+  "type": "node",
+  "id": 11805198010,
+  "lat": 51.3333496,
+  "lon": 12.3255740,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11861932641,
+  "lat": 51.0034391,
+  "lon": 12.7815415,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11862280746,
+  "lat": 51.1252508,
+  "lon": 12.8042929,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11865806041,
+  "lat": 51.2348157,
+  "lon": 12.7175866,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11866237172,
+  "lat": 51.2344862,
+  "lon": 12.5495537,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11869258764,
+  "lat": 51.0038589,
+  "lon": 12.4438745,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11873895855,
+  "lat": 51.0837007,
+  "lon": 12.4278250,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11932360285,
+  "lat": 51.6156971,
+  "lon": 12.3416906,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11934863250,
+  "lat": 51.3566133,
+  "lon": 12.3640772,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11983098833,
+  "lat": 51.3569143,
+  "lon": 12.4057891,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_well",
+    "pump": "manual",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12006112993,
+  "lat": 51.6463972,
+  "lon": 12.3673949,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Trinkwasserbrunnen mit Sprühnebelfunktion"
+  }
+},
+{
+  "type": "node",
+  "id": 12035342060,
+  "lat": 51.0502410,
+  "lon": 12.1355387,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Wasserspender",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12039629894,
+  "lat": 51.3434264,
+  "lon": 12.3717974,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "drinking_fountain",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Leipziger Wasserwerke"
+  }
+},
+{
+  "type": "node",
+  "id": 12061610702,
+  "lat": 51.1976844,
+  "lon": 12.4100265,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "panoramax": "dd272da5-420c-4615-99c0-adc49499aef6",
+    "seasonal": "spring;summer;autumn"
+  }
+},
+{
+  "type": "node",
+  "id": 12085246133,
+  "lat": 51.2754209,
+  "lon": 12.4297461,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "panoramax": "aa3a7d4a-3487-4953-9377-2a9ad559eaf9"
+  }
+},
+{
+  "type": "node",
+  "id": 12085280308,
+  "lat": 51.2751423,
+  "lon": 12.4299195,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "panoramax": "d15e9a6e-4b34-42bf-8b87-460230587f93"
+  }
+},
+{
+  "type": "node",
+  "id": 12118426517,
+  "lat": 51.6800858,
+  "lon": 12.7283418,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12118567282,
+  "lat": 51.6835573,
+  "lon": 12.7324629,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12147206934,
+  "lat": 51.7932609,
+  "lon": 12.5763745,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12164439046,
+  "lat": 51.3247365,
+  "lon": 12.1520643,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "panoramax": "1d8b7110-d10c-47c3-b070-304ac665d40c"
+  }
+},
+{
+  "type": "node",
+  "id": 12184655424,
+  "lat": 51.0425932,
+  "lon": 12.1346257,
+  "tags": {
+    "amenity": "fountain",
+    "fountain": "bubbler",
+    "height": "0.5"
+  }
+},
+{
+  "type": "node",
+  "id": 12184655425,
+  "lat": 51.0423278,
+  "lon": 12.1351156,
+  "tags": {
+    "amenity": "fountain",
+    "fountain": "bubbler",
+    "height": "0.5"
+  }
+},
+{
+  "type": "node",
+  "id": 12199723910,
+  "lat": 51.6556751,
+  "lon": 12.0974366,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12498928456,
+  "lat": 51.1472158,
+  "lon": 12.2320600,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12606800628,
+  "lat": 51.0160663,
+  "lon": 12.1853813,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Wasserspender, im Winter abgestellt",
+    "fee": "no",
+    "image": "https://photos.app.goo.gl/Fy42X3jeEod7h2Rt9",
+    "operator": "MIDEWA",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12647397110,
+  "lat": 51.3687882,
+  "lon": 12.3151360,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 12698177911,
+  "lat": 51.6254035,
+  "lon": 12.3028520,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "fee": "no",
+    "man_made": "drinking_fountain",
+    "operator": "Stadt Bitterfeld-Wolfen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12768741545,
+  "lat": 51.1439869,
+  "lon": 12.6415515,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "entrance": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12883106337,
+  "lat": 51.6572850,
+  "lon": 12.2647548,
+  "tags": {
+    "amenity": "drinking_water",
+    "note": "https://www.trinkwasser-unterwegs.de/trinkbrunnen-am-rathaus",
+    "operator": "Chemiepark Bitterfeld-Wolfen GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 12883257790,
+  "lat": 51.0431444,
+  "lon": 12.0299548,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "note": "https://www.trinkwasser-unterwegs.de/trinkwasserbrunnen-droyssig",
+    "operator": "MIDEWA"
+  }
+},
+{
+  "type": "node",
+  "id": 12883262861,
+  "lat": 51.3462954,
+  "lon": 12.5406272,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "note": "https://www.trinkwasser-unterwegs.de/trinkbrunnen-borsdorf",
+    "operator": "Kommunale Wasserwerke Leipzig GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 12883262980,
+  "lat": 51.6234146,
+  "lon": 12.2698567,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "note": "https://www.trinkwasser-unterwegs.de/trinkwasserbrunnen-sandersdorf-brehna",
+    "operator": "MIDEWA"
+  }
+},
+{
+  "type": "node",
+  "id": 12883272035,
+  "lat": 51.3963674,
+  "lon": 12.2216664,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "note": "https://www.trinkwasser-unterwegs.de/trinkbrunnen-schkeuditz",
+    "operator": "Kommunale Wasserwerke Leipzig GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 12942145496,
+  "lat": 51.3943896,
+  "lon": 12.0408899,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Gemeinde Schkopau"
+  }
+},
+{
+  "type": "node",
+  "id": 12952354201,
+  "lat": 51.3584086,
+  "lon": 12.4176540,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "name": "Wasserspender",
+    "operator": "Leipziger Wasserwerke"
+  }
+},
+{
+  "type": "node",
+  "id": 13003711544,
+  "lat": 51.7914531,
+  "lon": 12.5698230,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13003711585,
+  "lat": 51.7910423,
+  "lon": 12.5670625,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400949,
+  "lat": 51.7916382,
+  "lon": 12.5712439,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400950,
+  "lat": 51.7909261,
+  "lon": 12.5704123,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400951,
+  "lat": 51.7906321,
+  "lon": 12.5704943,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400952,
+  "lat": 51.7901769,
+  "lon": 12.5697814,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400953,
+  "lat": 51.7906243,
+  "lon": 12.5699623,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400954,
+  "lat": 51.7907076,
+  "lon": 12.5653004,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400955,
+  "lat": 51.7906660,
+  "lon": 12.5646064,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400956,
+  "lat": 51.7901268,
+  "lon": 12.5647137,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400957,
+  "lat": 51.7900742,
+  "lon": 12.5659060,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400958,
+  "lat": 51.7906699,
+  "lon": 12.5658807,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400959,
+  "lat": 51.7908025,
+  "lon": 12.5664106,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400960,
+  "lat": 51.7905840,
+  "lon": 12.5667807,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400961,
+  "lat": 51.7908103,
+  "lon": 12.5680172,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400962,
+  "lat": 51.7908337,
+  "lon": 12.5692200,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400963,
+  "lat": 51.7904800,
+  "lon": 12.5684714,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400964,
+  "lat": 51.7898843,
+  "lon": 12.5690812,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400965,
+  "lat": 51.7896579,
+  "lon": 12.5681686,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400966,
+  "lat": 51.7896105,
+  "lon": 12.5676040,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400967,
+  "lat": 51.7889855,
+  "lon": 12.5669426,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13011400968,
+  "lat": 51.7885400,
+  "lon": 12.5659491,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,888 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T14:08:56Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 291076845,
+  "lat": 54.1494142,
+  "lon": 10.9765081,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "cold_water": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "indoor": "yes",
+    "opening_hours": "08:00-22:00",
+    "supervised": "no",
+    "toilets:changing_table": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "urinal;seated",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 353857547,
+  "lat": 54.1490698,
+  "lon": 10.9585090,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "cold_water": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "yes",
+    "indoor": "yes",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "supervised": "no",
+    "toilets:changing_table": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "urinal;seated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 353867762,
+  "lat": 54.1473326,
+  "lon": 10.9695733,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "cold_water": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "yes",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "supervised": "no",
+    "toilets:changing_table": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "urinal;seated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 873850640,
+  "lat": 54.9665338,
+  "lon": 10.4921975,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "check_date": "2023-05-26",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1973491020,
+  "lat": 54.9312030,
+  "lon": 10.5054989,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "source": "Local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 2337676382,
+  "lat": 54.4266565,
+  "lon": 10.3623841,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2337676394,
+  "lat": 54.4267799,
+  "lon": 10.3627189,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2337676426,
+  "lat": 54.4275018,
+  "lon": 10.3621161,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2337676432,
+  "lat": 54.4277632,
+  "lon": 10.3615506,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2337676544,
+  "lat": 54.4292724,
+  "lon": 10.3610913,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2339963781,
+  "lat": 54.4267750,
+  "lon": 10.3627074,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2339963797,
+  "lat": 54.4284966,
+  "lon": 10.3605185,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2870465640,
+  "lat": 54.9411361,
+  "lon": 10.7095813,
+  "tags": {
+    "check_date": "2024-07-31",
+    "drinking_water": "yes",
+    "email": "havnene@langelandkommune.dk",
+    "fee": "yes",
+    "leisure": "marina",
+    "name": "Rudkøbing Havn",
+    "phone": "+45 6351 6270",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Rudkøbing Havn",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "washing_machine": "yes",
+    "website": "https://www.havneguide.dk/havn/rudkoebing-havn"
+  }
+},
+{
+  "type": "node",
+  "id": 3002153527,
+  "lat": 54.9040265,
+  "lon": 10.0052465,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3040888818,
+  "lat": 54.2978814,
+  "lon": 10.8802754,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3726032915,
+  "lat": 54.0744501,
+  "lon": 10.7773851,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-07-08",
+    "fountain": "bubbler",
+    "level": "-1"
+  }
+},
+{
+  "type": "node",
+  "id": 3755919576,
+  "lat": 54.3246297,
+  "lon": 10.1235376,
+  "tags": {
+    "addr:city": "Kiel",
+    "addr:country": "DE",
+    "addr:housenumber": "28",
+    "addr:postcode": "24103",
+    "addr:street": "Jungfernstieg",
+    "alt_name": "Veganmarkt Kiel",
+    "check_date": "2025-03-21",
+    "check_date:opening_hours": "2025-03-21",
+    "contact:email": "kontakt@veganmarkt-kiel.de",
+    "contact:facebook": "veganski.kiel",
+    "contact:instagram": "veganski_kiel",
+    "contact:phone": "+49 431 98280600",
+    "contact:website": "http://www.veganmarkt-kiel.de",
+    "diet:vegan": "yes",
+    "drinking_water": "yes",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Veganski",
+    "opening_hours": "Mo-Sa 10:00-19:00;PH off",
+    "operator": "René Ghods",
+    "organic": "yes",
+    "payment:american_express": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:girocard": "yes",
+    "payment:mastercard": "yes",
+    "payment:unionpay": "yes",
+    "payment:visa": "yes",
+    "second_hand": "no",
+    "shop": "health_food",
+    "start_date": "2019-07-13",
+    "stroller": "yes",
+    "toilets": "yes",
+    "toilets:access": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Jungfernstieg 28, Kiel.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 4937422803,
+  "lat": 54.3580786,
+  "lon": 10.6067741,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 4937422809,
+  "lat": 54.3560342,
+  "lon": 10.6085685,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 4937422814,
+  "lat": 54.3569400,
+  "lon": 10.6079838,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 5085897576,
+  "lat": 54.3335931,
+  "lon": 10.1169769,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Refill Station für Trinkwasser im Café Loppokaffeeexpress. Bitte die Öffnungszeiten beachten.",
+    "name": "Refill Kiel Station"
+  }
+},
+{
+  "type": "node",
+  "id": 5567620239,
+  "lat": 54.1192709,
+  "lon": 10.9207253,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5690456037,
+  "lat": 54.0895093,
+  "lon": 10.8448336,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-07-11",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6225064479,
+  "lat": 54.0370420,
+  "lon": 10.2235454,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6616205512,
+  "lat": 54.5964075,
+  "lon": 10.0216113,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6638662039,
+  "lat": 54.1040886,
+  "lon": 10.8080197,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "cold_water": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Deutsche Bahn",
+    "supervised": "no",
+    "toilets:changing_table": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6644313930,
+  "lat": 54.0256106,
+  "lon": 10.2384486,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7881849862,
+  "lat": 54.1498451,
+  "lon": 10.9782805,
+  "tags": {
+    "bottle": "yes",
+    "cold_water": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "man_made": "water_tap",
+    "note": "you need a tool",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7881899057,
+  "lat": 54.1478478,
+  "lon": 10.9729576,
+  "tags": {
+    "bottle": "yes",
+    "cold_water": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "man_made": "water_tap",
+    "note": "you need a tool",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7881929673,
+  "lat": 54.1486781,
+  "lon": 10.9748691,
+  "tags": {
+    "bottle": "yes",
+    "cold_water": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7977803413,
+  "lat": 54.1014888,
+  "lon": 10.8940427,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Überdachtes Becken"
+  }
+},
+{
+  "type": "node",
+  "id": 8354040505,
+  "lat": 54.8999106,
+  "lon": 10.3299734,
+  "tags": {
+    "amenity": "shelter",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Ulveholm Shelterpladsen",
+    "shelter_type": "lean_to",
+    "toilets": "yes",
+    "url": "https://bookenshelter.dk/fyn/shelterplads/ulveholm/"
+  }
+},
+{
+  "type": "node",
+  "id": 8496894204,
+  "lat": 54.8470771,
+  "lon": 10.7823086,
+  "tags": {
+    "camp_site": "standard",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "name": "Skovgaard Overnatning i det fri",
+    "power_supply": "no",
+    "shower": "no",
+    "tents": "yes",
+    "toilets": "no",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 8968347720,
+  "lat": 54.1385222,
+  "lon": 10.6156350,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9025587266,
+  "lat": 54.0802454,
+  "lon": 10.3381221,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9025587274,
+  "lat": 54.0806819,
+  "lon": 10.3382964,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "description": "Toiletten für Zeltplatzgäste",
+    "drinking_water": "yes",
+    "fee": "no",
+    "male": "yes",
+    "operator": "Naturcamp Stocksee",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 9025587276,
+  "lat": 54.0806514,
+  "lon": 10.3380939,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:location": "female_toilet",
+    "description": "Toiletten für Zeltplatzgäste",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "operator": "Naturcamp Stocksee",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 9027126366,
+  "lat": 54.0806184,
+  "lon": 10.3380248,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9029832428,
+  "lat": 54.0797859,
+  "lon": 10.3385921,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9044183668,
+  "lat": 54.0809755,
+  "lon": 10.3395209,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9044183669,
+  "lat": 54.0804421,
+  "lon": 10.3394248,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9182695617,
+  "lat": 54.9414405,
+  "lon": 10.2586288,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "conditional",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9186923617,
+  "lat": 54.8701853,
+  "lon": 10.3324620,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10009910559,
+  "lat": 54.3639988,
+  "lon": 10.1465076,
+  "tags": {
+    "access": "customers",
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10047799392,
+  "lat": 54.1170032,
+  "lon": 10.3339894,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 10101664117,
+  "lat": 54.1088867,
+  "lon": 10.8123891,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10651125171,
+  "lat": 54.2996797,
+  "lon": 10.1047628,
+  "tags": {
+    "description": "Waschbecken im öffentlichen Leergutraum",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "opening_hours": "Mo-Sa 7:00-21:30"
+  }
+},
+{
+  "type": "node",
+  "id": 10824283487,
+  "lat": 54.1359106,
+  "lon": 10.6169366,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10956033669,
+  "lat": 54.9665237,
+  "lon": 10.4922941,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10956033679,
+  "lat": 54.9664929,
+  "lon": 10.4922290,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "check_date": "2023-05-26",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11048363883,
+  "lat": 54.2982642,
+  "lon": 10.4191226,
+  "tags": {
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "no",
+    "man_made": "water_well",
+    "name": "Trinkwasserpumpe",
+    "pump": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11067068158,
+  "lat": 54.8704072,
+  "lon": 10.4807371,
+  "tags": {
+    "camp_site": "standard",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "name": "Kleven Havn Teltplads",
+    "power_supply": "yes",
+    "shower": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "url": "https://bookenshelter.dk/fyn/shelterplads/kleven-havn-teltplads/"
+  }
+},
+{
+  "type": "node",
+  "id": 11123066966,
+  "lat": 54.9007270,
+  "lon": 10.4062439,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12027596832,
+  "lat": 54.3620088,
+  "lon": 10.9819620,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12084584892,
+  "lat": 54.9030888,
+  "lon": 10.7335434,
+  "tags": {
+    "amenity": "kitchen",
+    "check_date": "2024-07-31",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12331425721,
+  "lat": 54.8743452,
+  "lon": 10.4927427,
+  "tags": {
+    "access": "yes",
+    "camp_site": "basic",
+    "capacity:tents": "6",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Teltpladsen",
+    "operator": "Ærø Kommune",
+    "power_supply": "no",
+    "shower": "no",
+    "static_caravans": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/142004"
+  }
+},
+{
+  "type": "node",
+  "id": 12568478392,
+  "lat": 54.3472131,
+  "lon": 10.1116630,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12909099211,
+  "lat": 54.1582915,
+  "lon": 10.4174691,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12956357380,
+  "lat": 54.8596697,
+  "lon": 10.5129600,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12958843399,
+  "lat": 54.8550755,
+  "lon": 10.5166692,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12960761360,
+  "lat": 54.8444955,
+  "lon": 10.5110787,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12966339836,
+  "lat": 54.9330555,
+  "lon": 10.0438434,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12966353336,
+  "lat": 54.9324073,
+  "lon": 10.0436127,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12969859008,
+  "lat": 54.3435917,
+  "lon": 10.1128445,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "indoor": "yes",
+    "level": "1"
+  }
+}
+
+  ]
+}
