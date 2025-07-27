@@ -1,0 +1,1788 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:59:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 299141324,
+  "lat": 53.6252806,
+  "lon": 10.0761242,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 301843175,
+  "lat": 53.5735263,
+  "lon": 10.0019900,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Hamburg Wasser",
+    "website": "https://www.hamburgwasser.de/magazin/trinkwasserbrunnen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 325763789,
+  "lat": 53.6305959,
+  "lon": 10.0773987,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 325763796,
+  "lat": 53.6310216,
+  "lon": 10.0773243,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 325763800,
+  "lat": 53.6313270,
+  "lon": 10.0769310,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 325763805,
+  "lat": 53.6311217,
+  "lon": 10.0765631,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 325763811,
+  "lat": 53.6306916,
+  "lon": 10.0761672,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 409767252,
+  "lat": 53.9199038,
+  "lon": 10.6976735,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2022-10-06",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7",
+    "operational_status": "broken"
+  }
+},
+{
+  "type": "node",
+  "id": 409767253,
+  "lat": 53.9199341,
+  "lon": 10.6981833,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "check_date": "2022-10-06",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 435081103,
+  "lat": 53.7340656,
+  "lon": 10.7478814,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 611334612,
+  "lat": 53.4896510,
+  "lon": 10.1584454,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "charge": "0.50 EURO",
+    "check_date:wheelchair": "2023-06-14",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "operator": "Stadtreinigung Hamburg",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 645430541,
+  "lat": 53.1758888,
+  "lon": 10.8812076,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-04-09",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 745741015,
+  "lat": 53.1240398,
+  "lon": 10.2301871,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 932373726,
+  "lat": 53.6282597,
+  "lon": 10.0742116,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-12-25",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 932373727,
+  "lat": 53.6278015,
+  "lon": 10.0757601,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 932373728,
+  "lat": 53.6276785,
+  "lon": 10.0761417,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-12-25",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 932373741,
+  "lat": 53.6288986,
+  "lon": 10.0737636,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 951865131,
+  "lat": 53.9244477,
+  "lon": 10.6977222,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_works",
+    "name": "Wasserwerk II"
+  }
+},
+{
+  "type": "node",
+  "id": 998145412,
+  "lat": 53.8064459,
+  "lon": 10.6013113,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1238473213,
+  "lat": 53.4261597,
+  "lon": 10.0086198,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1279187454,
+  "lat": 53.9673520,
+  "lon": 10.8805221,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "24/7",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1305268144,
+  "lat": 53.2367312,
+  "lon": 10.0417408,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-05-03",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 1554021589,
+  "lat": 53.8956611,
+  "lon": 10.7109257,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1720853420,
+  "lat": 53.5922244,
+  "lon": 10.0152790,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Hamburg Wasser",
+    "website": "https://www.hamburgwasser.de/wasser/umgang-mit-wasser/trinkwasserbrunnen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2018243207,
+  "lat": 53.6775901,
+  "lon": 10.2001895,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2019494283,
+  "lat": 53.6714554,
+  "lon": 10.2043919,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2020427138,
+  "lat": 53.8292348,
+  "lon": 10.9515205,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Zweckverband Grevesmühlen",
+    "name": "Ventilbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 2145081126,
+  "lat": 53.4336198,
+  "lon": 10.3775335,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2180031285,
+  "lat": 53.6225748,
+  "lon": 10.0778180,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2182194876,
+  "lat": 53.6249686,
+  "lon": 10.0717100,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2197832049,
+  "lat": 53.6679925,
+  "lon": 10.2417322,
+  "tags": {
+    "amenity": "drinking_water",
+    "emergency": "yes",
+    "name": "Notbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 2344839697,
+  "lat": 53.2594873,
+  "lon": 10.8050724,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2368201976,
+  "lat": 53.6285237,
+  "lon": 10.0031529,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "layer": "1",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2426434907,
+  "lat": 53.7380465,
+  "lon": 10.7397994,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-09-21",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2426435035,
+  "lat": 53.7388272,
+  "lon": 10.7404345,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-09-21",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2426435059,
+  "lat": 53.7390933,
+  "lon": 10.7388863,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-09-21",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2431120856,
+  "lat": 53.2948825,
+  "lon": 10.7343529,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "entrance": "yes",
+    "fee": "no",
+    "note": "Von der Gemeinde bezahlt vom Park&Bite betrieben.",
+    "operator": "Park&Bite Grillstation",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2444847244,
+  "lat": 53.2910537,
+  "lon": 10.3723543,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Schulenburg Matratzenfabrik",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2508455211,
+  "lat": 53.7296958,
+  "lon": 10.2452800,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "entrance": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2509597922,
+  "lat": 53.5519049,
+  "lon": 10.1211357,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2509597963,
+  "lat": 53.5522675,
+  "lon": 10.1206204,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2554315750,
+  "lat": 53.2960912,
+  "lon": 10.7277993,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2828334891,
+  "lat": 53.2216845,
+  "lon": 10.1785337,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-05-07",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2833488117,
+  "lat": 53.9385506,
+  "lon": 10.3152872,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2922185191,
+  "lat": 53.2882594,
+  "lon": 10.4554660,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2956289530,
+  "lat": 53.8110865,
+  "lon": 10.3694347,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2956352377,
+  "lat": 53.8296727,
+  "lon": 10.4836099,
+  "tags": {
+    "amenity": "drinking_water",
+    "charge": "1.00 EUR",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3073229411,
+  "lat": 53.4019456,
+  "lon": 10.4273225,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3113101717,
+  "lat": 53.2523688,
+  "lon": 10.3948404,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3164339675,
+  "lat": 53.2461448,
+  "lon": 10.3989378,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3371703219,
+  "lat": 53.4248054,
+  "lon": 10.2915912,
+  "tags": {
+    "check_date": "2023-04-06",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Wohnmobilstellplatz Stove",
+    "power_supply": "yes",
+    "reservation": "yes",
+    "sanitary_dump_station": "yes",
+    "smoking": "outside",
+    "source": "Bing;survey",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "tourism": "caravan_site",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3523774258,
+  "lat": 53.1451795,
+  "lon": 10.4895544,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-08-11",
+    "fee": "yes",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 3693963552,
+  "lat": 53.6164810,
+  "lon": 10.0871390,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3693963583,
+  "lat": 53.6169611,
+  "lon": 10.0868886,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3693963606,
+  "lat": 53.6174766,
+  "lon": 10.0873813,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3693964831,
+  "lat": 53.6177221,
+  "lon": 10.0869616,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3763831837,
+  "lat": 53.4268728,
+  "lon": 10.2961728,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3813691658,
+  "lat": 53.5957111,
+  "lon": 10.9081668,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-08-14",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4046953277,
+  "lat": 53.6260060,
+  "lon": 10.0831994,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4171969790,
+  "lat": 53.5445810,
+  "lon": 10.0070699,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date:wheelchair": "2023-04-30",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4172767698,
+  "lat": 53.6494211,
+  "lon": 10.8353331,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4209712921,
+  "lat": 53.0736381,
+  "lon": 10.6023429,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4370289341,
+  "lat": 53.9756627,
+  "lon": 10.8836087,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "entrance": "yes",
+    "fee": "no",
+    "male": "yes",
+    "opening_hours": "Jan-Dec: 00:00-24:00",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4416531805,
+  "lat": 53.8382116,
+  "lon": 10.7615870,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Zweckverband Grevesmühlen",
+    "fee": "no",
+    "flickr": "https://www.flickr.com/photos/196364023@N06/52307027892/",
+    "man_made": "water_well",
+    "name": "Ventilbrunnen",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 4416531806,
+  "lat": 53.8446319,
+  "lon": 10.9243855,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Zweckverband Grevesmühlen",
+    "name": "Ventilbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 4678698422,
+  "lat": 53.5724799,
+  "lon": 10.0085364,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Hamburg Wasser",
+    "website": "https://www.hamburgwasser.de/magazin/trinkwasserbrunnen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4999399945,
+  "lat": 53.2366944,
+  "lon": 10.3854499,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadt Lüneburg"
+  }
+},
+{
+  "type": "node",
+  "id": 5015076882,
+  "lat": 53.2585117,
+  "lon": 10.4111917,
+  "tags": {
+    "amenity": "toilets",
+    "check_date": "2023-10-11",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Kaufland",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5222644151,
+  "lat": 53.8377457,
+  "lon": 10.6951183,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5222644156,
+  "lat": 53.8377241,
+  "lon": 10.6949134,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "no",
+    "indoor": "yes",
+    "level": "0",
+    "male": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5222656089,
+  "lat": 53.8377541,
+  "lon": 10.6941561,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "no",
+    "indoor": "yes",
+    "level": "0",
+    "male": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5222870155,
+  "lat": 53.8377275,
+  "lon": 10.6950364,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "indoor": "yes",
+    "level": "0"
+  }
+},
+{
+  "type": "node",
+  "id": 5299275047,
+  "lat": 53.6490667,
+  "lon": 10.0128667,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "check_date": "2021-09-11",
+    "drinking_water": "yes",
+    "fee": "no",
+    "level": "1",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5319272808,
+  "lat": 53.6474854,
+  "lon": 10.1385033,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "operator": "Hamburg Wasser",
+    "ref": "BWAL.1",
+    "water_well": "pump"
+  }
+},
+{
+  "type": "node",
+  "id": 5455071221,
+  "lat": 53.5522126,
+  "lon": 10.0082454,
+  "tags": {
+    "amenity": "toilets",
+    "bottle": "yes",
+    "changing_table": "no",
+    "check_date": "2024-10-18",
+    "cold_water": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "no",
+    "fountain": "bottle_refill",
+    "hot_water": "no",
+    "iced_water": "no",
+    "male": "yes",
+    "opening_hours": "24/7",
+    "panoramax": "9cb2c240-3f3c-4e1f-a00e-5e11b7b56257",
+    "room_temperature_water": "yes",
+    "toilets:position": "urinal",
+    "warm_water": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6011208722,
+  "lat": 53.8362147,
+  "lon": 10.6993968,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "level": "0",
+    "male": "yes",
+    "operator": "MÖWE",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "no",
+    "unisex": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6389296170,
+  "lat": 53.6236053,
+  "lon": 10.0445373,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6426760687,
+  "lat": 53.6232741,
+  "lon": 10.0776708,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6806416032,
+  "lat": 53.3732731,
+  "lon": 10.5569176,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Stadt- und Schulbücherei Lauenburg",
+    "website": "https://sb-lauenburg.lmscloud.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 7065804698,
+  "lat": 53.6285615,
+  "lon": 10.0030786,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "layer": "1",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7474751444,
+  "lat": 53.5532589,
+  "lon": 10.0240361,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 7750128425,
+  "lat": 53.6242456,
+  "lon": 10.0368107,
+  "tags": {
+    "amenity": "drinking_water",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 8087949359,
+  "lat": 53.8484649,
+  "lon": 10.6768464,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water:refill": "yes",
+    "name": "Stadtbäckerei Junge",
+    "shop": "bakery",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8779642177,
+  "lat": 53.8715725,
+  "lon": 10.6895962,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 8836455472,
+  "lat": 53.3979663,
+  "lon": 10.1825744,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8847730520,
+  "lat": 53.9605971,
+  "lon": 10.8816060,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-07-21",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "note": "access opening hour tourism information",
+    "note:de": "in der Touristeninformation"
+  }
+},
+{
+  "type": "node",
+  "id": 8894581094,
+  "lat": 53.7264462,
+  "lon": 10.2463254,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9048610034,
+  "lat": 53.9741082,
+  "lon": 10.9561654,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 9048666790,
+  "lat": 53.9651872,
+  "lon": 10.9363603,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 9122793004,
+  "lat": 53.6694300,
+  "lon": 10.2360544,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2021-09-25",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "level": "0",
+    "operator": "Hamburgwasser",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9132275262,
+  "lat": 53.9604964,
+  "lon": 10.8816053,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "1",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "check_date": "2023-06-30",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "note": "Zugang über Touristen Informationen und Bäckerei Junge",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa,Su 07:30-18:00",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9351463876,
+  "lat": 53.6820917,
+  "lon": 10.0474557,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9351508817,
+  "lat": 53.6808963,
+  "lon": 10.0486265,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9351508842,
+  "lat": 53.6806929,
+  "lon": 10.0471647,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9351508843,
+  "lat": 53.6804554,
+  "lon": 10.0478245,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9351508844,
+  "lat": 53.6808129,
+  "lon": 10.0480257,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9351508845,
+  "lat": 53.6815278,
+  "lon": 10.0489578,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9351508846,
+  "lat": 53.6816270,
+  "lon": 10.0473860,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9351508847,
+  "lat": 53.6817740,
+  "lon": 10.0480472,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9353119532,
+  "lat": 53.6810702,
+  "lon": 10.0472613,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9353119535,
+  "lat": 53.6815143,
+  "lon": 10.0469857,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9595552563,
+  "lat": 53.6266409,
+  "lon": 10.0606737,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9598198837,
+  "lat": 53.6242490,
+  "lon": 10.0711290,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9892465430,
+  "lat": 53.8658825,
+  "lon": 10.6782224,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 9945485111,
+  "lat": 53.2353503,
+  "lon": 10.4004308,
+  "tags": {
+    "amenity": "drinking_water",
+    "landuse": "basin",
+    "name": "Kneipp Wassertretbecken"
+  }
+},
+{
+  "type": "node",
+  "id": 9948907065,
+  "lat": 53.2593020,
+  "lon": 10.3995730,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "opening_hours": "Apr-Oct",
+    "seasonal": "Apr-Oct"
+  }
+},
+{
+  "type": "node",
+  "id": 9963644469,
+  "lat": 53.2500806,
+  "lon": 10.4074242,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "opening_hours": "Apr-Oct",
+    "seasonal": "Apr-Oct"
+  }
+},
+{
+  "type": "node",
+  "id": 9963750206,
+  "lat": 53.2473601,
+  "lon": 10.4084628,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "opening_hours": "Apr-Oct",
+    "seasonal": "Apr-Oct"
+  }
+},
+{
+  "type": "node",
+  "id": 9963782991,
+  "lat": 53.2489175,
+  "lon": 10.4089082,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "opening_hours": "Apr-Oct",
+    "seasonal": "Apr-Oct"
+  }
+},
+{
+  "type": "node",
+  "id": 9982848667,
+  "lat": 53.2513353,
+  "lon": 10.4135166,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "opening_hours": "Apr-Oct",
+    "seasonal": "Apr-Oct"
+  }
+},
+{
+  "type": "node",
+  "id": 9983110155,
+  "lat": 53.8662489,
+  "lon": 10.6855164,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkwasserspender Stadtwerke Lübeck",
+    "fee": "no",
+    "fountain": "bubbler",
+    "panoramax": "3bc4de3c-e230-49e4-893b-4f7d1d524fee"
+  }
+},
+{
+  "type": "node",
+  "id": 10095225959,
+  "lat": 53.6328324,
+  "lon": 10.0047444,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "downstairs gate c09-14",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "level": "0",
+    "lit": "yes",
+    "name": "downstairs gate c09-14",
+    "operator": "Hamburg Wasser",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 10763689600,
+  "lat": 53.9359615,
+  "lon": 10.3099323,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
+    "check_date": "2025-05-09",
+    "cold_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "hot_water": "no",
+    "man_made": "drinking_fountain",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10933456574,
+  "lat": 53.4968910,
+  "lon": 10.0032325,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "note": "Only during summer",
+    "operator": "Hamburg Wasser",
+    "source": "survey",
+    "website": "https://www.hamburgwasser.de/magazin/trinkwasserbrunnen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11223289618,
+  "lat": 53.9426382,
+  "lon": 10.8450817,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11225307422,
+  "lat": 53.7821949,
+  "lon": 10.7661603,
+  "tags": {
+    "dish_washing": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11226585965,
+  "lat": 53.7700287,
+  "lon": 10.7401858,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11227642675,
+  "lat": 53.4909119,
+  "lon": 10.6086910,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11247422432,
+  "lat": 53.6332608,
+  "lon": 10.0045344,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "yes",
+    "description": "Blue Box between Gate C07 and C08 on Gates side. Can fill two bottles. Very slow flowrate. With Brita logo.",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "level": "1",
+    "lit": "yes",
+    "operator": "Hamburg Wasser",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11382216704,
+  "lat": 53.5524406,
+  "lon": 10.1269421,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11465648382,
+  "lat": 53.2001508,
+  "lon": 10.0334036,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11465648383,
+  "lat": 53.2000512,
+  "lon": 10.0342298,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11494557488,
+  "lat": 53.2040397,
+  "lon": 10.1679674,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11494557489,
+  "lat": 53.2041288,
+  "lon": 10.1675114,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11738327070,
+  "lat": 53.5417105,
+  "lon": 10.0037237,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water:refill": "yes",
+    "drinking_water:refill:network": "Refill Deutschland",
+    "fee": "no",
+    "indoor": "yes",
+    "name": "Refill Station",
+    "operator": "Heimplanet Store",
+    "source": "survey",
+    "website": "https://refill-deutschland.de"
+  }
+},
+{
+  "type": "node",
+  "id": 11755399926,
+  "lat": 53.2383972,
+  "lon": 10.4040614,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "opening_hours": "Apr-Oct",
+    "seasonal": "Apr-Oct"
+  }
+},
+{
+  "type": "node",
+  "id": 11936204907,
+  "lat": 53.5920792,
+  "lon": 10.0153112,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12042248494,
+  "lat": 53.1841794,
+  "lon": 10.8468231,
+  "tags": {
+    "drinking_water": "yes",
+    "image": "https://commons.wikimedia.org/wiki/File:Quelle_zwischen_Kovahl_und_N%C3%BCdlitz.jpg",
+    "name": "Osterwasserquelle",
+    "natural": "spring",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 12137868013,
+  "lat": 53.6503134,
+  "lon": 10.8332332,
+  "tags": {
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "location": "outdoor"
+  }
+},
+{
+  "type": "node",
+  "id": 12156996043,
+  "lat": 53.6301253,
+  "lon": 10.0047674,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Blauer Automat zwischen Herren und Damen Toiletten. Füllung von zwei Flaschen mit BRITA Filter. Gekühlt oder ungekühlt.",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "lit": "yes",
+    "operator": "Airport Hamburg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12159589273,
+  "lat": 53.7801961,
+  "lon": 10.6415916,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Gemeinde Krummesse"
+  }
+},
+{
+  "type": "node",
+  "id": 12192754085,
+  "lat": 53.5533481,
+  "lon": 10.0102202,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fountain": "drinking",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12355715665,
+  "lat": 53.3745872,
+  "lon": 10.7231099,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Stadt Boizenburg"
+  }
+},
+{
+  "type": "node",
+  "id": 12384339086,
+  "lat": 53.9525691,
+  "lon": 10.2103424,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Stadt Wahlstedt"
+  }
+},
+{
+  "type": "node",
+  "id": 12637875708,
+  "lat": 53.6301252,
+  "lon": 10.0046343,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 12690600147,
+  "lat": 53.2465804,
+  "lon": 10.3919623,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "opening_hours": "Apr-Oct 00:00-24:00",
+    "seasonal": "Apr-Oct"
+  }
+},
+{
+  "type": "node",
+  "id": 12736065284,
+  "lat": 53.8369401,
+  "lon": 10.2985941,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12823700033,
+  "lat": 53.9337954,
+  "lon": 10.3096619,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
+    "check_date": "2025-05-09",
+    "cold_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "hot_water": "no",
+    "man_made": "drinking_fountain",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12911291406,
+  "lat": 53.5917031,
+  "lon": 10.0302533,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Hamburg Wasser",
+    "website": "https://www.hamburgwasser.de/wasser/umgang-mit-wasser/trinkwasserbrunnen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12961388809,
+  "lat": 53.5806615,
+  "lon": 10.0948336,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12994046786,
+  "lat": 53.1613066,
+  "lon": 10.0606841,
+  "tags": {
+    "drinking_water": "yes",
+    "fee": "yes",
+    "payment:cash": "no",
+    "waterway": "water_point"
+  }
+},
+{
+  "type": "node",
+  "id": 13012081812,
+  "lat": 53.5552387,
+  "lon": 10.0007611,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "im Gebäude - nur zu Öffnungszeiten des Kundencenters",
+    "fee": "no",
+    "opening_hours": "Mo-Fr 09:00-13:00, 14:00-17:00",
+    "operator": "Hamburg Energie & Hamburg Wasser",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}

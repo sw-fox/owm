@@ -1,0 +1,373 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:55:46Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2969523206,
+  "lat": 52.6053307,
+  "lon": 15.8960995,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "historic": "water_pump",
+    "name": "Laufpompa"
+  }
+},
+{
+  "type": "node",
+  "id": 3174633837,
+  "lat": 52.6134929,
+  "lon": 15.1225537,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4332548380,
+  "lat": 52.3023162,
+  "lon": 15.0038221,
+  "tags": {
+    "description": "Only Garbicz Festival",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap",
+    "name": "Waterpoint Wald"
+  }
+},
+{
+  "type": "node",
+  "id": 4418836316,
+  "lat": 52.4380944,
+  "lon": 15.2899553,
+  "tags": {
+    "amenity": "drinking_water",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4568639093,
+  "lat": 52.5823549,
+  "lon": 15.0040595,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4568676694,
+  "lat": 52.5655121,
+  "lon": 15.9621682,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4869318159,
+  "lat": 52.7314765,
+  "lon": 15.2384724,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://photos.app.goo.gl/t11u1DQRMK3tAjhJ6",
+    "man_made": "water_tap",
+    "mapillary": "893607124824462"
+  }
+},
+{
+  "type": "node",
+  "id": 4921230039,
+  "lat": 52.8855823,
+  "lon": 15.9779415,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "swimming_pool": "no",
+    "tents": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 4970993226,
+  "lat": 52.3199013,
+  "lon": 15.0881356,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4972453855,
+  "lat": 52.2165127,
+  "lon": 15.3681823,
+  "tags": {
+    "amenity": "drinking_water",
+    "mapillary": "230175488438556"
+  }
+},
+{
+  "type": "node",
+  "id": 4972517266,
+  "lat": 52.2161380,
+  "lon": 15.3679778,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5024019267,
+  "lat": 52.2427003,
+  "lon": 15.8164936,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5810166816,
+  "lat": 52.2409269,
+  "lon": 15.5382558,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6612631353,
+  "lat": 52.2673379,
+  "lon": 15.3956087,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6612631384,
+  "lat": 52.2675122,
+  "lon": 15.3954064,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6635838874,
+  "lat": 52.4796991,
+  "lon": 15.7786154,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6773318749,
+  "lat": 52.0675429,
+  "lon": 15.0954049,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://images.mapillary.com/IY5MQraFM3MQU21_aiqXBg/thumb-2048.jpg",
+    "mapillary": "330686088487704"
+  }
+},
+{
+  "type": "node",
+  "id": 6815883980,
+  "lat": 52.2336862,
+  "lon": 15.3747384,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://images.mapillary.com/o1rERJOqizjCcae5Z9-I4g/thumb-2048.jpg",
+    "mapillary": "481893589704279"
+  }
+},
+{
+  "type": "node",
+  "id": 6835329314,
+  "lat": 52.0103143,
+  "lon": 15.1516533,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://images.mapillary.com/SiHIdbSSrvShzQ0uqQSg6A/thumb-2048.jpg",
+    "mapillary": "3937084809679446"
+  }
+},
+{
+  "type": "node",
+  "id": 6845564443,
+  "lat": 52.1065379,
+  "lon": 15.8310146,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://images.mapillary.com/YV8B6dWi-nJx4HgNZkwp5w/thumb-2048.jpg",
+    "mapillary": "182697240397233"
+  }
+},
+{
+  "type": "node",
+  "id": 6861444241,
+  "lat": 52.0156923,
+  "lon": 15.2236163,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/app/?pKey=691976658787170",
+    "mapillary": "303437911494562"
+  }
+},
+{
+  "type": "node",
+  "id": 6874295429,
+  "lat": 52.0256874,
+  "lon": 15.2163249,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/app/?pKey=858499534706031",
+    "mapillary": "858499534706031"
+  }
+},
+{
+  "type": "node",
+  "id": 7464511420,
+  "lat": 52.4430297,
+  "lon": 15.1147649,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://images.mapillary.com/Slg1A29EPsHiN3NvQ_G1_w/thumb-2048.jpg",
+    "mapillary": "2944160909187468"
+  }
+},
+{
+  "type": "node",
+  "id": 7731064790,
+  "lat": 52.2186506,
+  "lon": 15.3798869,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7788555786,
+  "lat": 52.3348830,
+  "lon": 15.2887867,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10275222064,
+  "lat": 52.5712733,
+  "lon": 15.6927618,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 10793700870,
+  "lat": 52.1967103,
+  "lon": 15.6913119,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11828791459,
+  "lat": 52.7305890,
+  "lon": 15.2390684,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12134592256,
+  "lat": 52.7565601,
+  "lon": 15.7355559,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12134592298,
+  "lat": 52.7566160,
+  "lon": 15.7334568,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12137512396,
+  "lat": 52.2502022,
+  "lon": 15.5330784,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12240569385,
+  "lat": 52.5642069,
+  "lon": 15.6676893,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12849697332,
+  "lat": 52.0542452,
+  "lon": 15.1001817,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+}
+
+  ]
+}

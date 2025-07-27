@@ -1,0 +1,1950 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:43:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 288804870,
+  "lat": 50.2051284,
+  "lon": 16.8493899,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Morava",
+    "name:cs": "Morava",
+    "name:de": "March",
+    "name:hu": "Morava",
+    "name:ko": "모라바",
+    "name:pl": "Morawa",
+    "name:ru": "Морава",
+    "name:sk": "Morava",
+    "natural": "spring",
+    "wikidata": "Q179251",
+    "wikimedia_commons": "File:Pramen Moravy (1).JPG",
+    "wikipedia": "cs:Morava (řeka)"
+  }
+},
+{
+  "type": "node",
+  "id": 436308963,
+  "lat": 50.4266240,
+  "lon": 16.0756203,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Ostrá voda",
+    "natural": "spring",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 437344061,
+  "lat": 50.5315610,
+  "lon": 16.3073020,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Pod Velkou kupou",
+    "natural": "spring",
+    "ref": "3225",
+    "website": "https://www.estudanky.eu/3225-pramen-pod-velkou-kupou"
+  }
+},
+{
+  "type": "node",
+  "id": 471783451,
+  "lat": 50.0683767,
+  "lon": 16.5552461,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 664747751,
+  "lat": 50.0858687,
+  "lon": 16.2682716,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Vrbická studánka",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 842112593,
+  "lat": 50.0864204,
+  "lon": 16.4769300,
+  "tags": {
+    "capacity": "560",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "email": "kemp@kemp-zamberk.cz",
+    "internet_access": "no",
+    "name": "Autocamping Pod Černým lesem",
+    "phone": "+420 465 614 755",
+    "ref:nap": "15069",
+    "tents": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.autocamping.cz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 873825571,
+  "lat": 50.3978620,
+  "lon": 16.3886505,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "name": "Źródło Agata",
+    "natural": "spring",
+    "water_characteristic": "mineral"
+  }
+},
+{
+  "type": "node",
+  "id": 921298573,
+  "lat": 50.4109113,
+  "lon": 16.1007186,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 953656402,
+  "lat": 50.2416930,
+  "lon": 16.5086544,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 953677212,
+  "lat": 50.1304614,
+  "lon": 16.3445707,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Hradisko",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 953851115,
+  "lat": 50.2601965,
+  "lon": 16.3808839,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Pramen Kněžné",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 953913561,
+  "lat": 50.3277763,
+  "lon": 16.9803049,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Pramen Hlučného potoka",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 954165123,
+  "lat": 50.3530789,
+  "lon": 16.3330956,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "pramen Dědiny - Zlatého potoka",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 954554719,
+  "lat": 50.1007514,
+  "lon": 16.2630198,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "studánka Vyhnánovská",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 980249290,
+  "lat": 50.4755023,
+  "lon": 16.7339655,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 988977479,
+  "lat": 50.3464071,
+  "lon": 16.2390924,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Mariánský pramen",
+    "natural": "spring",
+    "ref": "1405",
+    "website": "https://www.estudanky.eu/1405-studanka-marianske-poutni-misto-rokole"
+  }
+},
+{
+  "type": "node",
+  "id": 1002462881,
+  "lat": 50.3955040,
+  "lon": 16.0468028,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "unknown"
+  }
+},
+{
+  "type": "node",
+  "id": 1103870680,
+  "lat": 50.5062508,
+  "lon": 16.8238447,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1304773891,
+  "lat": 50.3321594,
+  "lon": 16.1722927,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Na Husím krku",
+    "natural": "spring",
+    "start_date": "1999"
+  }
+},
+{
+  "type": "node",
+  "id": 1307631844,
+  "lat": 50.3259743,
+  "lon": 16.2335047,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Koutecká studánka",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1339583061,
+  "lat": 50.3390325,
+  "lon": 16.1768352,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Lesníkova studánka",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1376463255,
+  "lat": 50.5746886,
+  "lon": 16.1344858,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_well",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1388526531,
+  "lat": 50.5745725,
+  "lon": 16.6528528,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://photos.app.goo.gl/cgtFx2cRhmaffmS89",
+    "url": "https://polska-org.pl/8906209,Srebrna_Gora,Zrodelko_ul_Waska.html"
+  }
+},
+{
+  "type": "node",
+  "id": 1388563465,
+  "lat": 50.5756093,
+  "lon": 16.6405090,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1488488172,
+  "lat": 50.5365409,
+  "lon": 16.2332719,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2025-03-03",
+    "fee": "no",
+    "name": "Pramen Jůlinka",
+    "natural": "spring",
+    "wheelchair": "no",
+    "wikidata": "Q109592691"
+  }
+},
+{
+  "type": "node",
+  "id": 1490845337,
+  "lat": 50.4824391,
+  "lon": 16.1802325,
+  "tags": {
+    "alt_name": "Prdlavka",
+    "amenity": "drinking_water",
+    "name": "Hronovka a Regnerka",
+    "natural": "spring",
+    "water_characteristic": "mineral"
+  }
+},
+{
+  "type": "node",
+  "id": 1746679092,
+  "lat": 50.1576568,
+  "lon": 16.0716149,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1749780410,
+  "lat": 50.1421932,
+  "lon": 16.8985899,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "studánka pod Bystřinou",
+    "spring": "natural"
+  }
+},
+{
+  "type": "node",
+  "id": 1766415220,
+  "lat": 50.1972384,
+  "lon": 16.8799996,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Adélin pramen",
+    "natural": "spring",
+    "source": "survey;gps",
+    "wikimedia_commons": "File:Adélin pramen.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 1816856694,
+  "lat": 50.6855011,
+  "lon": 16.8325649,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Źródło mineralne",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1833159005,
+  "lat": 50.4447965,
+  "lon": 16.2410165,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "K-200",
+    "natural": "spring",
+    "source": "survey",
+    "water_characteristic": "mineral",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1862193853,
+  "lat": 50.4849867,
+  "lon": 16.0577021,
+  "tags": {
+    "drinking_water": "yes",
+    "fee": "no",
+    "intermittent": "no",
+    "natural": "spring",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1868232237,
+  "lat": 50.1591045,
+  "lon": 16.0884564,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2009911898,
+  "lat": 50.4235413,
+  "lon": 16.2208804,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2020194367,
+  "lat": 50.2453701,
+  "lon": 16.6314547,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Woda mineralna",
+    "description:de": "Mineralwasser",
+    "description:en": "Mineral water",
+    "fee": "no",
+    "mineral_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2036060974,
+  "lat": 50.2998263,
+  "lon": 16.3673154,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "internet_access": "wlan",
+    "name": "Camping Destne-Zakoutí",
+    "phone": "+420 494663335",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 2213746760,
+  "lat": 50.2986131,
+  "lon": 16.3953163,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Studánka Pod Velkou Deštnou",
+    "natural": "spring",
+    "ref": "1686",
+    "website": "https://www.estudanky.eu/1686-studanka-pod-velkou-destnou"
+  }
+},
+{
+  "type": "node",
+  "id": 2248292820,
+  "lat": 50.4566306,
+  "lon": 16.0567437,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2384549963,
+  "lat": 50.5557163,
+  "lon": 16.2677229,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Setonova studánka",
+    "natural": "spring",
+    "ref": "1526",
+    "website": "https://www.estudanky.eu/1526-setonova-studanka"
+  }
+},
+{
+  "type": "node",
+  "id": 2415734487,
+  "lat": 50.3928211,
+  "lon": 16.3841142,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "indoor": "yes",
+    "name": "Pijalnia Wód Mineralnych",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa-Su,PH 09:00-21:00",
+    "water_characteristic": "mineral"
+  }
+},
+{
+  "type": "node",
+  "id": 2416704427,
+  "lat": 50.4000480,
+  "lon": 16.3900551,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Źródło Felix",
+    "natural": "spring",
+    "water_characteristic": "mineral"
+  }
+},
+{
+  "type": "node",
+  "id": 2425907067,
+  "lat": 50.2148877,
+  "lon": 16.5501521,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2432924884,
+  "lat": 50.5584175,
+  "lon": 16.2141137,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-08-02"
+  }
+},
+{
+  "type": "node",
+  "id": 2468577188,
+  "lat": 50.3354020,
+  "lon": 16.8953090,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Ujęcie wody zbudowane w 1911 r., z pomnikiem św. Jadwigi.",
+    "name": "Źródło Św. Jadwigi",
+    "natural": "spring",
+    "source": "gps;survey",
+    "start_date": "1911"
+  }
+},
+{
+  "type": "node",
+  "id": 2601999947,
+  "lat": 50.6074767,
+  "lon": 16.0000548,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Studánka pod Jánským vrchem",
+    "natural": "spring",
+    "wikimedia_commons": "File:Źródło pod Jańskim Wierchem.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 2612288577,
+  "lat": 50.0890084,
+  "lon": 16.3223172,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Studánka Panny Marie",
+    "natural": "spring",
+    "ref": "9920",
+    "source": "gps",
+    "website": "https://www.estudanky.eu/9920-studanka-panny-marie"
+  }
+},
+{
+  "type": "node",
+  "id": 2612513087,
+  "lat": 50.7217058,
+  "lon": 16.8255785,
+  "tags": {
+    "charge": "1PLN/10l",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 2670870205,
+  "lat": 50.1641584,
+  "lon": 16.7901660,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "yes",
+    "name": "źródło Nysy Kłodzkiej „Szczodre”",
+    "natural": "spring",
+    "source": "Wikipedia",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2718537733,
+  "lat": 50.4089058,
+  "lon": 16.5125082,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "man_made": "water_tap",
+    "name": "Wielka Pieniawa",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2835742788,
+  "lat": 50.3636992,
+  "lon": 16.9039362,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 2908446390,
+  "lat": 50.1466516,
+  "lon": 16.7860967,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "pramen Lipkovského potoka",
+    "natural": "spring",
+    "wikimedia_commons": "File:Pramen Lipkovského potoka.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 2910467038,
+  "lat": 50.1973352,
+  "lon": 16.8801760,
+  "tags": {
+    "amenity": "shelter",
+    "bench": "yes",
+    "drinking_water": "yes",
+    "fireplace": "yes",
+    "image": "http://www.estudanky.eu/foto2/1647.jpg",
+    "shelter_type": "weather_shelter",
+    "source": "survey;gps"
+  }
+},
+{
+  "type": "node",
+  "id": 3094326513,
+  "lat": 50.7285012,
+  "lon": 16.3448519,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Pijalnia wody minerlanej \"Charlotta\"",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3375049188,
+  "lat": 50.4164048,
+  "lon": 16.1639995,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-03-17",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3448768920,
+  "lat": 50.3045017,
+  "lon": 16.8803841,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3457278227,
+  "lat": 50.7120502,
+  "lon": 16.8573045,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 3497178236,
+  "lat": 50.2685847,
+  "lon": 16.9577920,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3509966727,
+  "lat": 50.8669599,
+  "lon": 16.7024513,
+  "tags": {
+    "alt_name": "Źródło Friedricha Ludwiga Jahna",
+    "drinking_water": "yes",
+    "inscription": "Fr.L.Jahn-Quelle",
+    "name": "Źródło św. Jana",
+    "name:de": "Friedrich Ludwig Jahn Quelle",
+    "name:pl": "Źródło św. Jana",
+    "natural": "spring",
+    "note": "aktualna nazwa to św. Jana-patrz fotopolska.eu i mapy Planu",
+    "source:name": "http://sobotka.fotopolska.eu/404165,foto.html"
+  }
+},
+{
+  "type": "node",
+  "id": 3529227985,
+  "lat": 50.6081244,
+  "lon": 16.1159491,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3538921358,
+  "lat": 50.2844173,
+  "lon": 16.4302738,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Valinův pramen",
+    "natural": "spring",
+    "ref": "1524",
+    "website": "https://www.estudanky.eu/1524-valinuv-pramen"
+  }
+},
+{
+  "type": "node",
+  "id": 3609821551,
+  "lat": 50.0891860,
+  "lon": 16.5647068,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-06-30",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3609835300,
+  "lat": 50.0771626,
+  "lon": 16.5683583,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-06-30",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3679432797,
+  "lat": 50.5239072,
+  "lon": 16.2856219,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3719794822,
+  "lat": 50.8034295,
+  "lon": 16.2565026,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-09-17",
+    "source:geometry": "geoportal.gov.pl:ortofoto"
+  }
+},
+{
+  "type": "node",
+  "id": 3720146734,
+  "lat": 50.8033539,
+  "lon": 16.2563482,
+  "tags": {
+    "addr:city": "Szczawno-Zdrój",
+    "addr:housenumber": "23",
+    "addr:postcode": "58-310",
+    "addr:street": "Tadeusza Kościuszki",
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "indoor": "yes",
+    "name": "Pijalnia wód mineralnych",
+    "opening_hours": "Mo-Fr 07:00-18:00, Sa 07:00-18:00, Su 10:00-18:00",
+    "water_characteristic": "mineral"
+  }
+},
+{
+  "type": "node",
+  "id": 3754232163,
+  "lat": 50.4085048,
+  "lon": 16.5119048,
+  "tags": {
+    "addr:city": "Polanica-Zdrój",
+    "addr:housenumber": "39",
+    "addr:postcode": "57-320",
+    "addr:street": "Zdrojowa",
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "fountain": "bubbler",
+    "indoor": "yes",
+    "name": "Pijalnia Wód Mineralnych Wielka Pieniawa",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 09:00-19:00; PH 09:00-19:00",
+    "website": "http://wielka-pieniawa.pl",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3763030005,
+  "lat": 50.5931444,
+  "lon": 16.1704287,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-06-25",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3777862647,
+  "lat": 50.8433841,
+  "lon": 16.7260546,
+  "tags": {
+    "alt_name": "Źródło Życia",
+    "drinking_water": "yes",
+    "full_name": "Studnia św. Andrzeja Świerada",
+    "image": "https://fotopolska.eu/385750,foto.html",
+    "name": "Studnia św. Świerada",
+    "natural": "spring",
+    "url": "https://fotopolska.eu/Sulistrowiczki/b38488,Studnia_sw_Swierada_Zrodlo_zycia.html"
+  }
+},
+{
+  "type": "node",
+  "id": 3802845449,
+  "lat": 50.4092150,
+  "lon": 16.5109152,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Wielka Pieniawa"
+  }
+},
+{
+  "type": "node",
+  "id": 3808085863,
+  "lat": 50.3448545,
+  "lon": 16.1513641,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-07-16",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 3985721706,
+  "lat": 50.5376586,
+  "lon": 16.7230910,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4033780084,
+  "lat": 50.4907124,
+  "lon": 16.2794514,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4304816478,
+  "lat": 50.1851006,
+  "lon": 16.8985996,
+  "tags": {
+    "description": "Léčivý minerální radioaktivní pramen nad trojicí rustikálních božích muk při hlavní výstupové turistické cestě na Kralický Sněžník. Vyvěrá asi 40 m pod rozvalinami domu. Aktivita 222Rn kolísá mezi 1380 až 2300 Bq/l. Zdroj: Estudanky.eu",
+    "drinking_water": "yes",
+    "image": "http://www.estudanky.eu/foto1/916.jpg",
+    "name": "Marie",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4309170687,
+  "lat": 50.0820847,
+  "lon": 16.7637540,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4344370907,
+  "lat": 50.0746970,
+  "lon": 16.7820188,
+  "tags": {
+    "amenity": "drinking_water",
+    "artwork_type": "statue",
+    "description": "Panna Maria",
+    "description:de": "Jungfrau Maria",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 4398949637,
+  "lat": 50.3753300,
+  "lon": 16.9886650,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "pramen Panny Marie",
+    "natural": "spring",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4403804662,
+  "lat": 50.0478898,
+  "lon": 16.6627240,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4421825519,
+  "lat": 50.2379009,
+  "lon": 16.8490219,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Marianna"
+  }
+},
+{
+  "type": "node",
+  "id": 4437723151,
+  "lat": 50.3309361,
+  "lon": 16.5609646,
+  "tags": {
+    "access": "no",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "Źródło Studzienne",
+    "source:name": "geoportal.gov.pl:PRNG",
+    "source:position": "geoportal.gov.pl:ortofoto",
+    "water_characteristic": "calcium_magnesium_bicarbonate"
+  }
+},
+{
+  "type": "node",
+  "id": 4466910032,
+  "lat": 50.0828376,
+  "lon": 16.3353901,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Nad Brnnou",
+    "natural": "spring",
+    "ref": "3062",
+    "website": "https://www.estudanky.eu/3062-studanka-nad-brnou"
+  }
+},
+{
+  "type": "node",
+  "id": 4760365665,
+  "lat": 50.0681633,
+  "lon": 16.4305918,
+  "tags": {
+    "bottle": "yes",
+    "cold_water": "no",
+    "description": "Národní registr pramenů a studánek Záznam č. 420 Zaregistrováno dne 25.8.2008",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "yes",
+    "name": "Urbanova studánka",
+    "natural": "spring",
+    "opening_hours": "24/7",
+    "ref": "420",
+    "room_temperature_water": "no",
+    "seasonal": "no",
+    "warm_water": "no",
+    "website": "https://www.estudanky.eu/420-urbanova-studanka"
+  }
+},
+{
+  "type": "node",
+  "id": 4848152717,
+  "lat": 50.1606880,
+  "lon": 16.0230550,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "U Indiána",
+    "natural": "spring",
+    "ref": "3021",
+    "source": "GPS",
+    "website": "https://www.estudanky.eu/3021"
+  }
+},
+{
+  "type": "node",
+  "id": 4979122252,
+  "lat": 50.5345750,
+  "lon": 16.0507272,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5021912830,
+  "lat": 50.0845745,
+  "lon": 16.7599796,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5045660615,
+  "lat": 50.7048980,
+  "lon": 16.2030517,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Zbyszko",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5075922709,
+  "lat": 50.1460152,
+  "lon": 16.7991042,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5178207117,
+  "lat": 50.0296672,
+  "lon": 16.6000266,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5211183389,
+  "lat": 50.1630189,
+  "lon": 16.8198862,
+  "tags": {
+    "drinking_water": "yes",
+    "ele": "750",
+    "hiking": "yes",
+    "information": "guidepost",
+    "name": "Mléčný pramen",
+    "operator": "cz:KČT",
+    "ref": "UO308",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 5739704621,
+  "lat": 50.6160366,
+  "lon": 16.2288704,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "email": "bertenmien@hetnet.nl",
+    "internet_access": "wlan",
+    "name": "Camping - Aktief",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "phone": "+31612236194",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.aktief.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 5844580548,
+  "lat": 50.4101065,
+  "lon": 16.5090316,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "name": "Wielka Pieniawa",
+    "natural": "spring",
+    "water_characteristic": "mineral"
+  }
+},
+{
+  "type": "node",
+  "id": 5914093269,
+  "lat": 50.7292894,
+  "lon": 16.3452643,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5971380363,
+  "lat": 50.6619944,
+  "lon": 16.5309601,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6234277298,
+  "lat": 50.4432726,
+  "lon": 16.8787189,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Źródło arsenowo-żelazowe",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6399173163,
+  "lat": 50.0753301,
+  "lon": 16.5705829,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6565795425,
+  "lat": 50.8283258,
+  "lon": 16.2834975,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Wodociągi Wałbrzych",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6565795426,
+  "lat": 50.8214355,
+  "lon": 16.2662568,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Wodociągi Wałbrzych",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6715580914,
+  "lat": 50.2451655,
+  "lon": 16.6317236,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Pijalnia Wody Mineralnej",
+    "indoor": "yes",
+    "mineral_water": "yes",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa-Su 11:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6728994695,
+  "lat": 50.3440506,
+  "lon": 16.8876084,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "mineral",
+    "fountain": "bubbler",
+    "image": "https://commons.wikimedia.org/wiki/File:L%C4%85dek-Zdr%C3%B3j_-_%C5%BAr%C3%B3d%C5%82o_Chrobry.jpg",
+    "name": "Źródło Chrobry"
+  }
+},
+{
+  "type": "node",
+  "id": 6729101198,
+  "lat": 50.3437862,
+  "lon": 16.8885332,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "drinking_water": "mineral",
+    "fee": "yes",
+    "indoor": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6928018352,
+  "lat": 50.4990854,
+  "lon": 16.2764792,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "name": "Drinking water point",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 7009181302,
+  "lat": 50.4389991,
+  "lon": 16.6536089,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2024-07-15",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7159487398,
+  "lat": 50.4228882,
+  "lon": 16.1923330,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "name": "Jan a Běla",
+    "operator": "město Náchod",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7390611606,
+  "lat": 50.5096741,
+  "lon": 16.1861323,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Pramen U Vavřenů",
+    "natural": "spring",
+    "website": "https://geopark.broumovsko.cz/geologicke-lokality/pramen-u-vavrenu"
+  }
+},
+{
+  "type": "node",
+  "id": 7417859635,
+  "lat": 50.5077811,
+  "lon": 16.3117473,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "yes",
+    "name": "Studánka pod Machovským křížem",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7437443294,
+  "lat": 50.3940417,
+  "lon": 16.2574935,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Sejřava",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7666430917,
+  "lat": 50.3598681,
+  "lon": 16.6473015,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7807119470,
+  "lat": 50.5783596,
+  "lon": 16.1917678,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7807119471,
+  "lat": 50.5612957,
+  "lon": 16.1864946,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7903027874,
+  "lat": 50.3535842,
+  "lon": 16.3061615,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7927814307,
+  "lat": 50.8364901,
+  "lon": 16.4899490,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7948810606,
+  "lat": 50.5556450,
+  "lon": 16.2051894,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "intermittent": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8060004486,
+  "lat": 50.1811987,
+  "lon": 16.0188802,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Krištofova studánka",
+    "natural": "spring",
+    "ref": "2159",
+    "source": "GPS",
+    "website": "https://www.estudanky.eu/2159-kristofova-studanka"
+  }
+},
+{
+  "type": "node",
+  "id": 8372511589,
+  "lat": 50.3879433,
+  "lon": 16.9046292,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Biała Studnia",
+    "name:de": "Silberquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8381509165,
+  "lat": 50.2108808,
+  "lon": 16.8588465,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8516083158,
+  "lat": 50.2753283,
+  "lon": 16.3623475,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8556365334,
+  "lat": 50.6911311,
+  "lon": 16.1999745,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8556365342,
+  "lat": 50.6911493,
+  "lon": 16.1993998,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8557814160,
+  "lat": 50.6180221,
+  "lon": 16.4749789,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8569417770,
+  "lat": 50.6286268,
+  "lon": 16.4763999,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8586910454,
+  "lat": 50.1311303,
+  "lon": 16.0240148,
+  "tags": {
+    "description": "Betonová skruž v dřevěné boudě (podobná latrině)",
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Studánka U Miráčků",
+    "natural": "spring",
+    "ref": "2981",
+    "website": "https://www.estudanky.eu/2981"
+  }
+},
+{
+  "type": "node",
+  "id": 8821343617,
+  "lat": 50.0796986,
+  "lon": 16.3076199,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "studánka",
+    "natural": "spring",
+    "ref": "8854",
+    "website": "https://www.estudanky.eu/8854-pramen-bez-jmena"
+  }
+},
+{
+  "type": "node",
+  "id": 8821343618,
+  "lat": 50.0794794,
+  "lon": 16.3082177,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "studánka",
+    "natural": "spring",
+    "ref": "2406",
+    "website": "https://www.estudanky.eu/2406-studanka-bez-jmena"
+  }
+},
+{
+  "type": "node",
+  "id": 9003034109,
+  "lat": 50.1269746,
+  "lon": 16.5657673,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Jeřabinka",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9038310780,
+  "lat": 50.4164970,
+  "lon": 16.1632202,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "source": "survey;local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 9241288925,
+  "lat": 50.4230224,
+  "lon": 16.2207553,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "źródło  Marii",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9278834488,
+  "lat": 50.6160663,
+  "lon": 16.4574245,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 9545610248,
+  "lat": 50.4176315,
+  "lon": 16.1646764,
+  "tags": {
+    "amenity": "drinking_water",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 9851261812,
+  "lat": 50.9219863,
+  "lon": 16.1003833,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9893968754,
+  "lat": 50.6153752,
+  "lon": 16.1224808,
+  "tags": {
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "cold_water": "yes",
+    "dog": "yes",
+    "fountain": "bubbler",
+    "hot_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9893980527,
+  "lat": 50.6161296,
+  "lon": 16.1233398,
+  "tags": {
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "cold_water": "yes",
+    "dog": "yes",
+    "hot_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9895924251,
+  "lat": 50.6191572,
+  "lon": 16.1151074,
+  "tags": {
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "cold_water": "yes",
+    "dog": "no",
+    "hot_water": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10221676193,
+  "lat": 50.2240982,
+  "lon": 16.9209995,
+  "tags": {
+    "alt_name": "Pramen Gutwinského",
+    "description": "Opraven 2022. Pamětní desku na čelním líci zdobí zlacená půlkruhová grafická symbolika vycházejícího slunce se siluetami dvou smrků, nad níž lze číst nápis In memoriam. Dolní partie nese nápis Dr. Oskar Gutwinski a vročení – 1933.",
+    "drinking_water": "yes",
+    "name": "Gutwinski pramen",
+    "natural": "spring",
+    "refitted": "yes",
+    "website": "https://www.estudanky.eu/463-gutwinski-pramen"
+  }
+},
+{
+  "type": "node",
+  "id": 10251333226,
+  "lat": 50.2950884,
+  "lon": 16.6554692,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Wodozdrój"
+  }
+},
+{
+  "type": "node",
+  "id": 10269374938,
+  "lat": 50.1915016,
+  "lon": 16.8892002,
+  "tags": {
+    "description": "Velmi vydatný léčivý radioaktivní minerální pramen při silničce ze Stříbrnice k chatě Návrší. Aktivita 222Rn v rozmezí 2243 - 2990 Bq/l. Zdroj estudanky.eu",
+    "drinking_water": "yes",
+    "name": "Čtrnáctka",
+    "natural": "spring",
+    "refitted": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10269585132,
+  "lat": 50.1922989,
+  "lon": 16.8876991,
+  "tags": {
+    "description": "Léčivý minerální radioaktivní pramen nedaleko pramene Čtrnáctka nad silničkou ze Stříbrnice k chatě Návrší. Aktivita 222Rn kolísá mezi 1780 až 2530 Bq/l. Vyvěrá na úpatí strmého terénního stupně zpod mohutného pařezu.",
+    "drinking_water": "yes",
+    "name": "Jakubův pramen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10270048490,
+  "lat": 50.1755905,
+  "lon": 16.8583107,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "U Šindelky 1",
+    "natural": "spring",
+    "refitted": "yes",
+    "website": "https://www.estudanky.eu/12872-studanka-u-sindelky-1"
+  }
+},
+{
+  "type": "node",
+  "id": 10270077201,
+  "lat": 50.1758077,
+  "lon": 16.8585254,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "U Šindelky 2",
+    "natural": "spring",
+    "refitted": "yes",
+    "website": "https://www.estudanky.eu/12873-studanka-u-sindelky-2"
+  }
+},
+{
+  "type": "node",
+  "id": 10797378513,
+  "lat": 50.1714035,
+  "lon": 16.0065860,
+  "tags": {
+    "description": "Spolehlivý a bohatý zdroj vody u chaty č.p.28, využívaný hojně celý rok. Cca 1 m od studánky je starý vývod (téměř bez vody).\n\nBřezen 2021 - voda je pitná, parametry kojenecké vody. S pozdravem Vaněk",
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Na Tužilově palouku",
+    "natural": "spring",
+    "ref": "3026",
+    "source": "GPS",
+    "website": "https://www.estudanky.eu/3026-studanka-na-tuzilove-palouku"
+  }
+},
+{
+  "type": "node",
+  "id": 10924402279,
+  "lat": 50.5848862,
+  "lon": 16.3302764,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10974496641,
+  "lat": 50.0739413,
+  "lon": 16.3728550,
+  "tags": {
+    "access": "private",
+    "description": "Uzamčená! Nachází se v prostoru \"Na Hranicicíh\" v místech kde není žádný vodovod a majitelé nemovistostí se starají o zdroje vody.",
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Dostálova",
+    "natural": "spring",
+    "ref": "2403",
+    "website": "https://www.estudanky.eu/2403-studanka-dostalova"
+  }
+},
+{
+  "type": "node",
+  "id": 11068844729,
+  "lat": 50.7627295,
+  "lon": 16.3239516,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2023-07-20",
+    "fee": "no",
+    "operator": "Gmina Wałbrzych",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11149793754,
+  "lat": 50.8371566,
+  "lon": 16.4900143,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11149793755,
+  "lat": 50.8362318,
+  "lon": 16.4876422,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11178614147,
+  "lat": 50.3379413,
+  "lon": 16.9233844,
+  "tags": {
+    "amenity": "drinking_water",
+    "emergency": "fire_hydrant"
+  }
+},
+{
+  "type": "node",
+  "id": 11200655231,
+  "lat": 50.5266112,
+  "lon": 16.3641816,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11200685706,
+  "lat": 50.5120884,
+  "lon": 16.3252195,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "no",
+    "start_date": "1922"
+  }
+},
+{
+  "type": "node",
+  "id": 11200685707,
+  "lat": 50.5132872,
+  "lon": 16.3306382,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Hochbehälter 1 Barzdorf.",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11306480442,
+  "lat": 50.4195308,
+  "lon": 16.1899398,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Ida",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11802879327,
+  "lat": 50.4265452,
+  "lon": 16.6441497,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11851171507,
+  "lat": 50.8613334,
+  "lon": 16.1109841,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11879004103,
+  "lat": 50.2736852,
+  "lon": 16.7694857,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11917430153,
+  "lat": 50.3947146,
+  "lon": 16.0434847,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12064556170,
+  "lat": 50.0371338,
+  "lon": 16.6351183,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12103869940,
+  "lat": 50.5823838,
+  "lon": 16.1639438,
+  "tags": {
+    "description": "Zdejší pramen je zdrojem pitné vody pro minimálně tři okolní chaty. Je velmi vydatný. Je označován jako Pramen v lesním Zátiší 1 a má číslo PP0009.",
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Pramen v lesním Zátiší 1",
+    "natural": "spring",
+    "ref": "PP0009",
+    "website": "https://coord.info/GC7A424"
+  }
+},
+{
+  "type": "node",
+  "id": 12309176546,
+  "lat": 50.6188378,
+  "lon": 16.1307249,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Staropramen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12468435539,
+  "lat": 50.4051351,
+  "lon": 16.2090799,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "natural": "spring",
+    "note": "přetok vodního zdroje"
+  }
+},
+{
+  "type": "node",
+  "id": 12505497003,
+  "lat": 50.3005687,
+  "lon": 16.3390249,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12553317196,
+  "lat": 50.1805781,
+  "lon": 16.4337502,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Studánka U Jůlinčina Údolí",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12688550357,
+  "lat": 50.5748270,
+  "lon": 16.1317300,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,891 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:53:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 301102094,
+  "lat": 52.8061542,
+  "lon": 11.9858479,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 392731928,
+  "lat": 52.5916471,
+  "lon": 11.3098412,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Elf-Quellen",
+    "natural": "spring",
+    "wikidata": "Q1328413",
+    "wikipedia": "de:Elf Quellen"
+  }
+},
+{
+  "type": "node",
+  "id": 425827296,
+  "lat": 52.5331609,
+  "lon": 11.5969808,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 494830487,
+  "lat": 52.1954226,
+  "lon": 11.1087739,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Marienquelle"
+  }
+},
+{
+  "type": "node",
+  "id": 506392432,
+  "lat": 52.5376398,
+  "lon": 11.9710220,
+  "tags": {
+    "caravans": "yes",
+    "contact:phone": "+49 160-281 44 08",
+    "drinking_water": "yes",
+    "email": "kontakt@tangermuender-wassersportverein.de",
+    "name": "Radfahrer-Zeltplatz",
+    "operator": "Tangermünder Wassersportverein",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "http://www.tangermuender-wassersportverein.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 930158536,
+  "lat": 52.3191233,
+  "lon": 11.5700019,
+  "tags": {
+    "amenity": "drinking_water",
+    "fixme": "exact location",
+    "man_made": "water_well",
+    "water_well": "pump"
+  }
+},
+{
+  "type": "node",
+  "id": 986955662,
+  "lat": 52.1600854,
+  "lon": 11.6354288,
+  "tags": {
+    "addr:city": "Magdeburg",
+    "addr:housenumber": "98",
+    "addr:postcode": "39124",
+    "addr:street": "Lübecker Straße",
+    "brand": "dm",
+    "brand:wikidata": "Q266572",
+    "brand:wikipedia": "en:Dm-drogerie markt",
+    "drinking_water": "yes",
+    "name": "dm",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "payment:cash": "yes",
+    "payment:payback_app": "yes",
+    "phone": "+49 391 2448904",
+    "shop": "chemist",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1577283655,
+  "lat": 52.2280176,
+  "lon": 11.0054816,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-07-18",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1845116745,
+  "lat": 52.2167375,
+  "lon": 11.7087997,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "2. Weinbergquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2435469620,
+  "lat": 52.6902389,
+  "lon": 11.1418357,
+  "tags": {
+    "access": "customers",
+    "caravans": "no",
+    "contact:email": "info@siebenlinden.org",
+    "contact:fax": "+49 39000 51232",
+    "contact:phone": "+49 39000 51235",
+    "contact:website": "https://siebenlinden.org/",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "group_only": "no",
+    "name": "Zeltplatz",
+    "operator": "Freundeskreis Ökodorf e.V., Sieben Linden",
+    "power_supply": "yes",
+    "reservation": "required",
+    "shower": "no",
+    "static_caravans": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 2792383259,
+  "lat": 52.0601851,
+  "lon": 11.8561307,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "check_date": "2022-06-24",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3092333648,
+  "lat": 52.9626787,
+  "lon": 11.9473377,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3092333649,
+  "lat": 52.9628610,
+  "lon": 11.9466374,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3092333652,
+  "lat": 52.9629469,
+  "lon": 11.9478717,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3092713612,
+  "lat": 52.9623165,
+  "lon": 11.9478428,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3789931011,
+  "lat": 52.6290200,
+  "lon": 11.1846919,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "charge": "1 EUR",
+    "check_date": "2022-03-02",
+    "drinking_water": "yes",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3880823755,
+  "lat": 52.1612828,
+  "lon": 11.6062654,
+  "tags": {
+    "addr:city": "Magdeburg",
+    "addr:country": "DE",
+    "addr:housenumber": "37",
+    "addr:postcode": "39128",
+    "addr:street": "Olvenstedter Graseweg",
+    "brand": "dm",
+    "brand:wikidata": "Q266572",
+    "changing_table": "yes",
+    "changing_table:fee": "no",
+    "check_date": "2025-05-24",
+    "check_date:opening_hours": "2025-05-24",
+    "description:payment": "Payback App",
+    "drinking_water": "yes",
+    "level": "0",
+    "name": "dm",
+    "nursing_room": "yes",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "payment:american_express": "yes",
+    "payment:app": "yes",
+    "payment:apple_pay": "yes",
+    "payment:girocard": "yes",
+    "payment:google_pay": "yes",
+    "payment:mastercard": "yes",
+    "payment:v_pay": "yes",
+    "payment:visa": "yes",
+    "phone": "+49 391 25443372",
+    "service:photo_printing": "yes",
+    "shop": "chemist",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4445996205,
+  "lat": 52.1678445,
+  "lon": 11.9143357,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5430650304,
+  "lat": 52.1305011,
+  "lon": 11.6304910,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "check_date": "2024-05-12",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "level": "-1",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5430650305,
+  "lat": 52.1327192,
+  "lon": 11.6361904,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "level": "2",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 5430650306,
+  "lat": 52.1308766,
+  "lon": 11.6267962,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "brand": "SANIFAIR",
+    "brand:wikidata": "Q104814416",
+    "changing_table": "yes",
+    "charge": "1,00 EUR",
+    "check_date": "2024-05-12",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "level": "-1",
+    "male": "yes",
+    "operator": "SANIFAIR GmbH",
+    "operator:wikidata": "Q104814416",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "urinal;seated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5430650307,
+  "lat": 52.1208997,
+  "lon": 11.6122887,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Kaufland",
+    "operator:wikidata": "Q685967",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5616447525,
+  "lat": 52.2201794,
+  "lon": 11.0582608,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5966296762,
+  "lat": 52.1692287,
+  "lon": 11.6414550,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:location": "female_toilet;male_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6015349290,
+  "lat": 52.1407616,
+  "lon": 11.6779321,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "kostenlose Trinkwasserstation im Erdgeschoss",
+    "level": "0"
+  }
+},
+{
+  "type": "node",
+  "id": 6176092424,
+  "lat": 52.7907781,
+  "lon": 11.7538798,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 6538059020,
+  "lat": 52.2732439,
+  "lon": 11.7906690,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 9563505288,
+  "lat": 52.5334614,
+  "lon": 11.5983241,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9563505294,
+  "lat": 52.5335476,
+  "lon": 11.5969697,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9732096916,
+  "lat": 52.2975141,
+  "lon": 11.5352247,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "TWM"
+  }
+},
+{
+  "type": "node",
+  "id": 9732107417,
+  "lat": 52.2966640,
+  "lon": 11.5407236,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "TWM"
+  }
+},
+{
+  "type": "node",
+  "id": 9732107418,
+  "lat": 52.2962635,
+  "lon": 11.5450131,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "TWM"
+  }
+},
+{
+  "type": "node",
+  "id": 9732107419,
+  "lat": 52.2958328,
+  "lon": 11.5493345,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "TWM"
+  }
+},
+{
+  "type": "node",
+  "id": 9732107420,
+  "lat": 52.2962356,
+  "lon": 11.5530289,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "TWM"
+  }
+},
+{
+  "type": "node",
+  "id": 9732107421,
+  "lat": 52.2970560,
+  "lon": 11.5560740,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "TWM"
+  }
+},
+{
+  "type": "node",
+  "id": 9732107422,
+  "lat": 52.2975808,
+  "lon": 11.5291476,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "TWM"
+  }
+},
+{
+  "type": "node",
+  "id": 9732107423,
+  "lat": 52.2971220,
+  "lon": 11.5253394,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "TWM"
+  }
+},
+{
+  "type": "node",
+  "id": 9732107424,
+  "lat": 52.2972172,
+  "lon": 11.5216374,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "TWM"
+  }
+},
+{
+  "type": "node",
+  "id": 9732107425,
+  "lat": 52.2979502,
+  "lon": 11.5179428,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "TWM"
+  }
+},
+{
+  "type": "node",
+  "id": 9732107426,
+  "lat": 52.2977820,
+  "lon": 11.5144451,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "TWM"
+  }
+},
+{
+  "type": "node",
+  "id": 9732107427,
+  "lat": 52.2974014,
+  "lon": 11.5114142,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "TWM"
+  }
+},
+{
+  "type": "node",
+  "id": 9876661741,
+  "lat": 52.3557760,
+  "lon": 11.8424543,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9876661742,
+  "lat": 52.3548361,
+  "lon": 11.8430646,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9876661743,
+  "lat": 52.3546331,
+  "lon": 11.8417442,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9876661744,
+  "lat": 52.3555072,
+  "lon": 11.8416184,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9929415927,
+  "lat": 52.2349378,
+  "lon": 11.0108656,
+  "tags": {
+    "amenity": "drinking_water",
+    "charge": "1€",
+    "fee": "yes",
+    "payment": "coins"
+  }
+},
+{
+  "type": "node",
+  "id": 9960097136,
+  "lat": 52.1355662,
+  "lon": 11.6014626,
+  "tags": {
+    "access": "private",
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10250610213,
+  "lat": 52.2863916,
+  "lon": 11.6776715,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11157614390,
+  "lat": 52.2744323,
+  "lon": 11.8426807,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11164817467,
+  "lat": 52.0609590,
+  "lon": 11.8567396,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11951420749,
+  "lat": 52.2374336,
+  "lon": 11.5830409,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11951420750,
+  "lat": 52.2375965,
+  "lon": 11.5834093,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12002703515,
+  "lat": 52.1603939,
+  "lon": 11.6048157,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "indoor": "yes",
+    "level": "0",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12059097237,
+  "lat": 52.1130037,
+  "lon": 11.5861987,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12059133487,
+  "lat": 52.0648796,
+  "lon": 11.3141243,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12059150825,
+  "lat": 52.2307743,
+  "lon": 11.7125054,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12072311568,
+  "lat": 52.6393501,
+  "lon": 11.9499613,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12072334669,
+  "lat": 52.6387398,
+  "lon": 11.9498286,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12072334673,
+  "lat": 52.6387800,
+  "lon": 11.9518295,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 12072334674,
+  "lat": 52.6376457,
+  "lon": 11.9510850,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 12163706928,
+  "lat": 52.1281576,
+  "lon": 11.6322158,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 12202210023,
+  "lat": 52.0199458,
+  "lon": 11.7401125,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12309321941,
+  "lat": 52.1663970,
+  "lon": 11.6063984,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "indoor": "yes",
+    "operator": "Hornbach",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12384151335,
+  "lat": 52.2901466,
+  "lon": 11.4099834,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Stadt Haldensleben"
+  }
+},
+{
+  "type": "node",
+  "id": 12410994791,
+  "lat": 52.1406375,
+  "lon": 11.6738790,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkwasserspender im Erdgeschoss. Über den Haupteingang barrierefrei zu erreichen",
+    "fountain": "bottle_refill",
+    "level": "0"
+  }
+},
+{
+  "type": "node",
+  "id": 12802495904,
+  "lat": 52.1277468,
+  "lon": 11.6338154,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Städtische Werke Magdeburg"
+  }
+},
+{
+  "type": "node",
+  "id": 12895900643,
+  "lat": 52.9950893,
+  "lon": 11.7538040,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12997883058,
+  "lat": 52.0189850,
+  "lon": 11.8242689,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12997883063,
+  "lat": 52.2475101,
+  "lon": 11.3977650,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12997883076,
+  "lat": 52.1190668,
+  "lon": 11.4338473,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+}
+
+  ]
+}

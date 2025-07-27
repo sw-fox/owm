@@ -1,0 +1,608 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T14:01:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 54849217,
+  "lat": 53.9244770,
+  "lon": 13.4134227,
+  "tags": {
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Wasserwanderrastplatz Gützkow",
+    "openfire": "yes",
+    "operator": "Kanuverein Gützkow",
+    "phone": "+49 160 97221638; +49 38353 277",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://kanuverein-guetzkow.de/gaeste-info/"
+  }
+},
+{
+  "type": "node",
+  "id": 449587816,
+  "lat": 53.2627062,
+  "lon": 13.0863117,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "operator": "Naturcamping Drewensee"
+  }
+},
+{
+  "type": "node",
+  "id": 451972912,
+  "lat": 53.2452987,
+  "lon": 13.1982537,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 503655509,
+  "lat": 53.1857508,
+  "lon": 13.1434335,
+  "tags": {
+    "alt_name": "Biwakplatz",
+    "bicycle": "yes",
+    "canoe": "yes",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "fireplace": "yes",
+    "hiking": "yes",
+    "name": "Wasserwander-Rastplatz",
+    "picnic_table": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "waterway": "biwak"
+  }
+},
+{
+  "type": "node",
+  "id": 748356010,
+  "lat": 53.2828845,
+  "lon": 13.4301098,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-09-15",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1353947285,
+  "lat": 53.1836118,
+  "lon": 13.1257275,
+  "tags": {
+    "draught": "2",
+    "drinking_water": "yes",
+    "email": "info@cardinalboating.com",
+    "leisure": "marina",
+    "name": "Marina Röblinsee Cardinal Boating",
+    "phone": "+49 3309 360260",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Röblinsee",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "http://www.cardinalboating.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1929828803,
+  "lat": 53.1727366,
+  "lon": 13.2348964,
+  "tags": {
+    "access": "customers",
+    "amenity": "shower",
+    "drinking_water": "yes",
+    "seamark:small_craft_facility:category": "toilets;showers",
+    "seamark:type": "small_craft_facility",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2036660583,
+  "lat": 53.1683037,
+  "lon": 13.2337858,
+  "tags": {
+    "description": "Nur für kleine Boote bis 5m Länge, 2m Breite, 0,6m Tiefgang",
+    "draft": "0.6",
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Campingpark Himmelpfort",
+    "phone": "+49 33089 41238",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Campingpark Himmelpfort",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "waste": "no",
+    "website": "https://zeltplatz-himmelpfort.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2132453382,
+  "lat": 53.1863036,
+  "lon": 13.1298655,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "HKietzmann@t-online.de",
+    "leisure": "marina",
+    "name": "Anleger Campingplatz Röblinsee",
+    "phone": "+49 33093 38278",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Anleger Campingplatz Röblinsee",
+    "seamark:type": "harbour",
+    "toilets": "yes",
+    "website": "http://www.camping-amröblinsee.de/index.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2400290275,
+  "lat": 53.2203408,
+  "lon": 13.0421735,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2757805925,
+  "lat": 53.1384808,
+  "lon": 13.2399339,
+  "tags": {
+    "draft": "1.5",
+    "drinking_water": "yes",
+    "email": "info@bootshaus-bandelow.de",
+    "leisure": "marina",
+    "name": "Bootshaus-Bandelow",
+    "phone": "+49 33087 52310",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Bootshaus-Bandelow",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://www.bootshaus-bandelow.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3505158461,
+  "lat": 53.3659258,
+  "lon": 13.0560261,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3505158462,
+  "lat": 53.3653536,
+  "lon": 13.0558075,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3524554358,
+  "lat": 53.1486275,
+  "lon": 13.0438591,
+  "tags": {
+    "amenity": "toilets",
+    "check_date": "2023-09-10",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3699566888,
+  "lat": 53.1853157,
+  "lon": 13.1452458,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2022-11-07",
+    "fountain": "drinking",
+    "panoramax": "0016f704-2355-435b-b35f-7bba46253a3e",
+    "source": "local_knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 3731543415,
+  "lat": 53.9352247,
+  "lon": 13.0833842,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3731803387,
+  "lat": 53.8737242,
+  "lon": 13.5595760,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "description": "Zugang mit Zahlenschloss gesichert.",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 4370152874,
+  "lat": 53.2234998,
+  "lon": 13.2835313,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4907039153,
+  "lat": 53.1727237,
+  "lon": 13.2348467,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "seamark:small_craft_facility:category": "toilets;showers",
+    "seamark:type": "small_craft_facility",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4911483156,
+  "lat": 53.2066726,
+  "lon": 13.3013399,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "cold_water": "yes",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "hot_water": "yes",
+    "indoor": "yes",
+    "toilets:changing_table": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4911492459,
+  "lat": 53.2064832,
+  "lon": 13.3012789,
+  "tags": {
+    "amenity": "diaper",
+    "changing_table": "yes",
+    "cold_water": "yes",
+    "drinking_water": "yes",
+    "hot_water": "yes",
+    "indoor": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4917628971,
+  "lat": 53.5063257,
+  "lon": 13.9811258,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5598927622,
+  "lat": 53.1677330,
+  "lon": 13.2345852,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-06-08",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5631072921,
+  "lat": 53.1236604,
+  "lon": 13.4962862,
+  "tags": {
+    "amenity": "water_point",
+    "charge": "1 EUR",
+    "check_date": "2018-05-19",
+    "description": "tap for caravans",
+    "description:de": "Anschluß für Wohnmobile",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "motorhome": "designated",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 6750543516,
+  "lat": 53.0220969,
+  "lon": 13.8258038,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6752878072,
+  "lat": 53.0116878,
+  "lon": 13.8756476,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7261873002,
+  "lat": 53.5579311,
+  "lon": 13.2607872,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description:de": "Steht direkt neben dem Ausleih-Automaten der Regionalbibliothek Neubrandenburg.",
+    "description:en": "Located directly next to the book-renting-machine of the library \"Regionalbibliothek Neubrandenburg\".",
+    "fee": "no",
+    "fixme": "Re-check opening_hours after 2023-06-30 (test-time for new opening_hours startet 2023-01-02).",
+    "indoor": "yes",
+    "level": "-1",
+    "object:city": "Neubrandenburg",
+    "object:country": "DE",
+    "object:housenumber": "1",
+    "object:postcode": "17033",
+    "object:street": "Marktplatz",
+    "opening_hours": "Mo,We 13:00-18:00; Tu,Th,Fr 10:00-18:00; Sa 10:00-14:00; PH off",
+    "operator": "Förderverein der Regionalbibliothek Neubrandenburg;Neubrandenburger Stadtwerke GmbH",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7476837166,
+  "lat": 53.1374960,
+  "lon": 13.2412600,
+  "tags": {
+    "addr:city": "Fürstenberg/Havel",
+    "addr:country": "DE",
+    "addr:postcode": "16798",
+    "addr:street": "Schleusenstraße",
+    "addr:suburb": "Bredereiche",
+    "backcountry": "yes",
+    "contact:website": "https://bootshaus-bandelow.de",
+    "drinking_water": "yes",
+    "fixme:de": "Auf der Website des Bootshauses steht nichts davon, dass man hier Zelten darf!",
+    "name": "Biwakplatz Bredereiche",
+    "operator": "Gaststätte Bootshaus Bandelow",
+    "post:postcode": "16798",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 8783719879,
+  "lat": 53.2828441,
+  "lon": 13.4330150,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8865994384,
+  "lat": 53.7126808,
+  "lon": 13.7816745,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Altwigshagen",
+    "addr:housenumber": "32",
+    "addr:postcode": "17379",
+    "addr:street": "Dorfstraße",
+    "addr:suburb": "Wietstock",
+    "capacity:caravans": "3",
+    "capacity:persons": "6",
+    "caravans": "yes",
+    "charge": "12",
+    "contact:email": "17379wietstock@gmail.com",
+    "contact:mobile": "+49-174-6900914",
+    "description": "natürlich ruhiger Stellplatz auf 3000 m²",
+    "dog": "leashed",
+    "drinking_water": "yes",
+    "ele": "11",
+    "fee": "yes",
+    "internet_access": "terminal",
+    "name": "Wietstocker ∆ Weitblick",
+    "opening_hours": "01.05.-30.09.",
+    "picnic_table": "yes",
+    "power_supply": "yes",
+    "reservation": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "static_caravans": "no",
+    "tents": "no",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 8938487294,
+  "lat": 53.9471043,
+  "lon": 13.8574382,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9927097856,
+  "lat": 53.1171343,
+  "lon": 13.4976912,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9952335773,
+  "lat": 53.3663072,
+  "lon": 13.0530574,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9952378577,
+  "lat": 53.3074704,
+  "lon": 13.0062706,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9952382980,
+  "lat": 53.3081665,
+  "lon": 13.0060355,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12085242930,
+  "lat": 53.1775111,
+  "lon": 13.2293063,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12115098504,
+  "lat": 53.1192994,
+  "lon": 13.5006170,
+  "tags": {
+    "access": "private",
+    "amenity": "water_point",
+    "description": "Versorgung mobier Händler auf dem markt.",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12128062169,
+  "lat": 53.8430398,
+  "lon": 13.8649204,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12153661024,
+  "lat": 53.3113904,
+  "lon": 13.8526945,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12189139417,
+  "lat": 53.5570144,
+  "lon": 13.2606717,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "man_made": "water_tap",
+    "note": "\"opening_hours\" muss immer identisch mit neu.sw-Kundenzentrum!",
+    "object:city": "Neubrandenburg",
+    "object:country": "DE",
+    "object:housenumber": "1",
+    "object:postcode": "17033",
+    "object:street": "Treptower Straße",
+    "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-14:00; Su,PH off",
+    "operator": "neu.sw Neubrandenburger Stadtwerke GmbH Kundenzentrum",
+    "start_date": "2024-08"
+  }
+},
+{
+  "type": "node",
+  "id": 12339658558,
+  "lat": 53.8559801,
+  "lon": 13.6886669,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Stadt Anklam"
+  }
+}
+
+  ]
+}

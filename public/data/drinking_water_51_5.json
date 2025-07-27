@@ -1,0 +1,6186 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:44:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 268875614,
+  "lat": 51.3482887,
+  "lon": 5.5209639,
+  "tags": {
+    "addr:city": "Leende",
+    "addr:housenumber": "5",
+    "addr:postcode": "5595XR",
+    "addr:street": "Strijperpad",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "group_only": "no",
+    "name": "Natuurkampeerterrein Het Leenderbos",
+    "operator": "Staatsbosbeheer",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.natuurkampeerterreinen.nl/terreinen/noord-brabant/het-leenderbos/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 768192154,
+  "lat": 51.8759850,
+  "lon": 5.9890121,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Camping Waalstrand",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "source": "www.waalstrand.nl",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 865015451,
+  "lat": 51.3699135,
+  "lon": 5.4764538,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 865015551,
+  "lat": 51.3690768,
+  "lon": 5.4770991,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1648658598,
+  "lat": 51.8464453,
+  "lon": 5.8681863,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1751073079,
+  "lat": 51.7829429,
+  "lon": 5.8873070,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Free of charge low capacity water tap, for runners,bicyclists, etc. covered by oak trees. offered by local people.",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1751079005,
+  "lat": 51.7801111,
+  "lon": 5.9183870,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 2300560269,
+  "lat": 51.1866335,
+  "lon": 5.1191898,
+  "tags": {
+    "amenity": "drinking_water",
+    "mapillary": "https://www.mapillary.com/app/?lat=51.18659468414749&lng=5.119220598975837&z=17&mapStyle=mapbox_streets&pKey=oB1964s1pZd-hAsk0jTACA&focus=photo",
+    "note": "not to be confused with the ornamental historic not working pump before it",
+    "panoramax": "5d700ce9-4de9-4ab2-9b74-f240f876b63d"
+  }
+},
+{
+  "type": "node",
+  "id": 2300561980,
+  "lat": 51.1839487,
+  "lon": 5.1156547,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "mapillary": "https://www.mapillary.com/app/?lat=51.18396163498382&lng=5.115735381293941&z=17&mapStyle=mapbox_streets&pKey=4sHh50lmNQFXBM-C_FI2bg&focus=photo",
+    "opening_hours": "24/7",
+    "panoramax": "9fb202f7-4abc-4ef2-b7be-84b30c317e11"
+  }
+},
+{
+  "type": "node",
+  "id": 2346153870,
+  "lat": 51.3883694,
+  "lon": 5.5322245,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 2347232874,
+  "lat": 51.8966319,
+  "lon": 5.3219132,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "De Karekiet",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.natuurkampeerterreinen.nl/terreinen/gelderland/de-karekiet/"
+  }
+},
+{
+  "type": "node",
+  "id": 2528680776,
+  "lat": 51.0825137,
+  "lon": 5.3220954,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "historic": "yes",
+    "inscription": "drink het water van deze bron",
+    "natural": "spring",
+    "start_date": "1826",
+    "wikimedia_commons": "File:Koersel Fonteintje Bron.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 2636975332,
+  "lat": 51.8259492,
+  "lon": 5.8398709,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2674650267,
+  "lat": 51.3510558,
+  "lon": 5.5160786,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 2792211838,
+  "lat": 51.6047186,
+  "lon": 5.4108314,
+  "tags": {
+    "addr:city": "Schijndel",
+    "addr:housenumber": "23",
+    "addr:postcode": "5481VE",
+    "addr:street": "Boxtelseweg",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Winery and Herbs",
+    "power_supply": "yes",
+    "shower": "yes",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.wineryandherbs.nl/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2825958954,
+  "lat": 51.4663641,
+  "lon": 5.2535916,
+  "tags": {
+    "addr:city": "Oost West en Middelbeers",
+    "addr:housenumber": "14",
+    "addr:postcode": "5091EG",
+    "addr:street": "Zonnedauw",
+    "amenity": "drinking_water",
+    "source": "BAG",
+    "source:date": "2014-03-24"
+  }
+},
+{
+  "type": "node",
+  "id": 2917810362,
+  "lat": 51.8517042,
+  "lon": 5.3127890,
+  "tags": {
+    "drinking_water": "yes",
+    "historic": "yes",
+    "man_made": "water_well",
+    "note": "Drinkwater op eigen risico; eerts goed doorpompen",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 2924309630,
+  "lat": 51.8474962,
+  "lon": 5.8632739,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2924309631,
+  "lat": 51.8483772,
+  "lon": 5.8565634,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3081040991,
+  "lat": 51.8480044,
+  "lon": 5.8689531,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-04-12",
+    "image": "https://photos.app.goo.gl/XPnoU35tPbetR9HKA",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963"
+  }
+},
+{
+  "type": "node",
+  "id": 3227981470,
+  "lat": 51.1013564,
+  "lon": 5.0041244,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "mapillary": "https://www.mapillary.com/app/?lat=51.101502583585535&lng=5.004209452389239&z=17&mapStyle=mapbox_streets&pKey=8nHQ2R8gE3sy0nAfqjGbZg&focus=photo",
+    "panoramax": "e2d3b3fc-d6d7-456c-8ae3-a5cc1a49e882",
+    "stateofrepair": "ok"
+  }
+},
+{
+  "type": "node",
+  "id": 3577430151,
+  "lat": 51.8472665,
+  "lon": 5.8655136,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3709777402,
+  "lat": 51.1969986,
+  "lon": 5.9853715,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3732045765,
+  "lat": 51.4389157,
+  "lon": 5.4071970,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 3740323528,
+  "lat": 51.2372659,
+  "lon": 5.5804467,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 3765762488,
+  "lat": 51.1622197,
+  "lon": 5.0017447,
+  "tags": {
+    "access": "yes",
+    "bottle": "yes",
+    "check_date": "2025-05-01",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "mapillary": "977177177554544"
+  }
+},
+{
+  "type": "node",
+  "id": 3798153311,
+  "lat": 51.8449801,
+  "lon": 5.8674263,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3798160857,
+  "lat": 51.8452047,
+  "lon": 5.8654439,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3799922235,
+  "lat": 51.8437588,
+  "lon": 5.8581036,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3799928457,
+  "lat": 51.1924958,
+  "lon": 5.9932650,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-07-05",
+    "fountain": "bottle_refill",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3951779783,
+  "lat": 51.8838217,
+  "lon": 5.2895876,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4069363699,
+  "lat": 51.0232660,
+  "lon": 5.0193070,
+  "tags": {
+    "amenity": "drinking_water",
+    "in_cemetery": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4109056172,
+  "lat": 51.6938604,
+  "lon": 5.9731016,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4232177600,
+  "lat": 51.8428203,
+  "lon": 5.8538295,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4253844264,
+  "lat": 51.8334497,
+  "lon": 5.7898427,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4278818937,
+  "lat": 51.6603076,
+  "lon": 5.2322021,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 4295889732,
+  "lat": 51.8900946,
+  "lon": 5.0913301,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Drinkwatertappunt Oasen",
+    "note": "Tijdens de winterperiode worden de tappunten weggehaald.",
+    "operator": "Oasen",
+    "website": "https://oasen.nl/drinkwater/tappunten"
+  }
+},
+{
+  "type": "node",
+  "id": 4296237004,
+  "lat": 51.5785051,
+  "lon": 5.6659959,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 4309802617,
+  "lat": 51.4469337,
+  "lon": 5.0429002,
+  "tags": {
+    "amenity": "drinking_water",
+    "mapillary": "https://www.mapillary.com/app/?lat=51.446922574858874&lng=5.043018129939305&z=17&pKey=fKCf8bewIYWjudm0DnDLcQ&focus=photo",
+    "opening_hours": "Mar 15-Oct 15 00:00-24:00",
+    "operator": "PIDPA",
+    "panoramax": "d8f89660-4484-402e-aa2a-5aa3e3b37368",
+    "stateofrepair": "ok"
+  }
+},
+{
+  "type": "node",
+  "id": 4348992525,
+  "lat": 51.1338447,
+  "lon": 5.6246684,
+  "tags": {
+    "addr:city": "Bree",
+    "addr:country": "BE",
+    "addr:housenumber": "2",
+    "addr:postcode": "3960",
+    "addr:street": "Grensstraat",
+    "capacity": "6",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "group_only": "yes",
+    "name": "Stukkenheidehof",
+    "tents": "yes",
+    "tourism": "camp_site",
+    "website": "http://www.stukkenheidehof.be/camping.php"
+  }
+},
+{
+  "type": "node",
+  "id": 4354256702,
+  "lat": 51.8240430,
+  "lon": 5.8373730,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4361714998,
+  "lat": 51.8328693,
+  "lon": 5.8536935,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4400891643,
+  "lat": 51.8262145,
+  "lon": 5.8377092,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-04-27",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4516288795,
+  "lat": 51.9649867,
+  "lon": 5.6621224,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "yes",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 4577957932,
+  "lat": 51.9173960,
+  "lon": 5.8545341,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4581725433,
+  "lat": 51.4472572,
+  "lon": 5.4871740,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "level": "0",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4581725434,
+  "lat": 51.4473041,
+  "lon": 5.4915031,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-01-31",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4755118237,
+  "lat": 51.4406211,
+  "lon": 5.4799544,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 4782718914,
+  "lat": 51.2516080,
+  "lon": 5.7048538,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719124,
+  "lat": 51.1053372,
+  "lon": 5.8659568,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719126,
+  "lat": 51.7222851,
+  "lon": 5.9505661,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719135,
+  "lat": 51.1905704,
+  "lon": 5.9918713,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719136,
+  "lat": 51.1895305,
+  "lon": 5.9096456,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885255,
+  "lat": 51.7605514,
+  "lon": 5.1318025,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885262,
+  "lat": 51.5203418,
+  "lon": 5.0666669,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bottle_refill",
+    "operator": "JoinThePipe, for Brabant Water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885263,
+  "lat": 51.7409022,
+  "lon": 5.4619555,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885264,
+  "lat": 51.6874155,
+  "lon": 5.3074734,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885265,
+  "lat": 51.5849570,
+  "lon": 5.3193314,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885266,
+  "lat": 51.5882136,
+  "lon": 5.3249928,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885267,
+  "lat": 51.5876870,
+  "lon": 5.3274252,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885268,
+  "lat": 51.3289140,
+  "lon": 5.9811668,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-07-25",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885270,
+  "lat": 51.6440967,
+  "lon": 5.6616944,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885271,
+  "lat": 51.6005972,
+  "lon": 5.6060942,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885273,
+  "lat": 51.5086505,
+  "lon": 5.4789947,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885274,
+  "lat": 51.4408110,
+  "lon": 5.4801581,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134",
+    "operator:wikipedia": "nl:Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885276,
+  "lat": 51.4360270,
+  "lon": 5.4827825,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 4788666704,
+  "lat": 51.3683964,
+  "lon": 5.0104636,
+  "tags": {
+    "amenity": "drinking_water",
+    "mapillary": "https://www.mapillary.com/app/?pKey=DFPVYLDsck9S6Rb1pnmgJA&lat=51.368385462951665&lng=5.010251850334271&z=17&focus=photo",
+    "panoramax": "ccb8d802-be94-4fd0-a611-cb87e60b109d",
+    "stateofrepair": "ok"
+  }
+},
+{
+  "type": "node",
+  "id": 4793414354,
+  "lat": 51.5236154,
+  "lon": 5.9664351,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4835314577,
+  "lat": 51.8511648,
+  "lon": 5.8398723,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4866813021,
+  "lat": 51.8298932,
+  "lon": 5.9214442,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-09-30",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4880351422,
+  "lat": 51.8489716,
+  "lon": 5.8700524,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4886011121,
+  "lat": 51.8090649,
+  "lon": 5.8610288,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4910841948,
+  "lat": 51.4562474,
+  "lon": 5.7877499,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 5011551318,
+  "lat": 51.9627652,
+  "lon": 5.9690582,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5021541373,
+  "lat": 51.8415198,
+  "lon": 5.7250018,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5054250931,
+  "lat": 51.9917422,
+  "lon": 5.0955382,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5058926181,
+  "lat": 51.5173570,
+  "lon": 5.5097469,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 5137562887,
+  "lat": 51.4962933,
+  "lon": 5.3950859,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5210606126,
+  "lat": 51.7638753,
+  "lon": 5.5756296,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5221866059,
+  "lat": 51.6900693,
+  "lon": 5.2953306,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 5237197826,
+  "lat": 51.0535551,
+  "lon": 5.3906219,
+  "tags": {
+    "amenity": "drinking_water",
+    "in_cemetery": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5312486677,
+  "lat": 51.2995272,
+  "lon": 5.9018361,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5316376380,
+  "lat": 51.3269935,
+  "lon": 5.9835212,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5523644766,
+  "lat": 51.5117898,
+  "lon": 5.3911681,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "openbare drinkwaterkraan van Brabant Water. Kraan wordt in winter verwijderd",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 5600393868,
+  "lat": 51.5806767,
+  "lon": 5.7170805,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5600393869,
+  "lat": 51.5811132,
+  "lon": 5.7164551,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5600393870,
+  "lat": 51.5813328,
+  "lon": 5.7160575,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5694276984,
+  "lat": 51.2820813,
+  "lon": 5.7554029,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5714900260,
+  "lat": 51.7691115,
+  "lon": 5.4942584,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 5782034654,
+  "lat": 51.8056189,
+  "lon": 5.8265742,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "JoinThePipe"
+  }
+},
+{
+  "type": "node",
+  "id": 5793543269,
+  "lat": 51.5655328,
+  "lon": 5.3729115,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5794365654,
+  "lat": 51.4839215,
+  "lon": 5.6389115,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 5796148297,
+  "lat": 51.0168781,
+  "lon": 5.5809286,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5801012806,
+  "lat": 51.3527864,
+  "lon": 5.3868974,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 5801012807,
+  "lat": 51.3074485,
+  "lon": 5.2903875,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bottle_refill",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 5810564356,
+  "lat": 51.9875243,
+  "lon": 5.9021048,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5845701606,
+  "lat": 51.7667989,
+  "lon": 5.0732721,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5859336925,
+  "lat": 51.9615966,
+  "lon": 5.1739451,
+  "tags": {
+    "caravans": "yes",
+    "contact:website": "http://forteverdingen.com/camping",
+    "drinking_water": "yes",
+    "name": "Camping fort Everdingen",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 5889992223,
+  "lat": 51.7968524,
+  "lon": 5.6513204,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 5988173617,
+  "lat": 51.7178440,
+  "lon": 5.8572083,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "JoinThePipe, for Brabant Water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5998601380,
+  "lat": 51.6044337,
+  "lon": 5.5543119,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 6122259154,
+  "lat": 51.8497962,
+  "lon": 5.8606525,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6211769139,
+  "lat": 51.5556389,
+  "lon": 5.0777567,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://d1cuyjsrcm0gby.cloudfront.net/uMEkoLikQozqKx0PvChnfw/thumb-2048.jpg",
+    "man_made": "water_tap",
+    "mapillary": "476360143576507"
+  }
+},
+{
+  "type": "node",
+  "id": 6211769140,
+  "lat": 51.5557085,
+  "lon": 5.0776784,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://d1cuyjsrcm0gby.cloudfront.net/e42aIe5dXuKwSowpmLAWfQ/thumb-2048.jpg",
+    "mapillary": "219008499676024"
+  }
+},
+{
+  "type": "node",
+  "id": 6211769147,
+  "lat": 51.5561259,
+  "lon": 5.0775801,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6211769152,
+  "lat": 51.5559912,
+  "lon": 5.0758042,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://d1cuyjsrcm0gby.cloudfront.net/nh-RFls9w1dTVyNNRPf0mQ/thumb-2048.jpg",
+    "mapillary": "526160525495809"
+  }
+},
+{
+  "type": "node",
+  "id": 6211769155,
+  "lat": 51.5556534,
+  "lon": 5.0759056,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6213952420,
+  "lat": 51.5557461,
+  "lon": 5.0763701,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://d1cuyjsrcm0gby.cloudfront.net/48sekqDyP7-LvOCQp1Yh0g/thumb-2048.jpg",
+    "mapillary": "316580313186079"
+  }
+},
+{
+  "type": "node",
+  "id": 6213952423,
+  "lat": 51.5559410,
+  "lon": 5.0772535,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6220475619,
+  "lat": 51.5523467,
+  "lon": 5.0928433,
+  "tags": {
+    "amenity": "drinking_water",
+    "mapillary": "917162212194215"
+  }
+},
+{
+  "type": "node",
+  "id": 6256107976,
+  "lat": 51.8761955,
+  "lon": 5.8845218,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6268029140,
+  "lat": 51.3863954,
+  "lon": 5.4435600,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 6351593840,
+  "lat": 51.6265683,
+  "lon": 5.0705087,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 6372567797,
+  "lat": 51.8455898,
+  "lon": 5.8627751,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6374255773,
+  "lat": 51.8431456,
+  "lon": 5.8608104,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6420450287,
+  "lat": 51.8478196,
+  "lon": 5.5652359,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6424127008,
+  "lat": 51.1325474,
+  "lon": 5.4539338,
+  "tags": {
+    "OnroerendErfgoed:criteria": "BE",
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "heritage": "4",
+    "heritage:operator": "OnroerendErfgoed",
+    "heritage:website": "https://id.erfgoed.net/erfgoedobjecten/80677",
+    "mapillary": "https://www.mapillary.com/app/?lat=51.132580138117284&lng=5.45393005169753&z=17&pKey=KLD3PyDFA7cX6BEdiaEpvg&focus=photo&x=0.5030571862067731&y=0.5361249957025777&zoom=0",
+    "panoramax": "c6aa282f-8ea7-43ad-8708-db60f6861e00",
+    "ref:OnroerendErfgoed": "80677",
+    "start_date": "1863",
+    "stateofrepair": "ok"
+  }
+},
+{
+  "type": "node",
+  "id": 6511634389,
+  "lat": 51.3258908,
+  "lon": 5.8014940,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6512115370,
+  "lat": 51.6890780,
+  "lon": 5.3037837,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 6517638763,
+  "lat": 51.4434361,
+  "lon": 5.4782736,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6550950185,
+  "lat": 51.7681205,
+  "lon": 5.5234424,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 6550950286,
+  "lat": 51.7653563,
+  "lon": 5.5307764,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 6553452796,
+  "lat": 51.5616438,
+  "lon": 5.0655452,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 6570674758,
+  "lat": 51.5612089,
+  "lon": 5.0737752,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 6636876109,
+  "lat": 51.5796903,
+  "lon": 5.7662690,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6655434261,
+  "lat": 51.8283651,
+  "lon": 5.6886300,
+  "tags": {
+    "addr:city": "Hernen",
+    "addr:housenumber": "9",
+    "addr:postcode": "6616AK",
+    "addr:street": "Dassenloop",
+    "camp_site": "serviced",
+    "caravans": "yes",
+    "dog": "yes",
+    "drinking_water": "yes",
+    "email": "info@minicampingzusenzus.nl",
+    "fee": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "motor_vehicle": "yes",
+    "name": "Minicamping Zus & Zus",
+    "phone": "+31 6 22017485",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "tents": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.minicampingzusenzus.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 6658620755,
+  "lat": 51.8433959,
+  "lon": 5.8532882,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "operator": "Nederlandse Spoorwegen",
+    "operator:wikidata": "Q23076"
+  }
+},
+{
+  "type": "node",
+  "id": 6659003170,
+  "lat": 51.9786114,
+  "lon": 5.9108364,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6673474676,
+  "lat": 51.9804509,
+  "lon": 5.9050582,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "operator": "Join the Pipe"
+  }
+},
+{
+  "type": "node",
+  "id": 6711534238,
+  "lat": 51.9775166,
+  "lon": 5.9107063,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6711612358,
+  "lat": 51.2769318,
+  "lon": 5.1502244,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "mapillary": "https://www.mapillary.com/app/?lat=51.2769648&lng=5.14993&z=19.750097779633876&menu=false&pKey=137336001778287&x=0.5077385522725923&y=0.7540362526069733&zoom=0.3869303525365433&focus=photo&dateFrom=2019-08-01",
+    "operator": "Pidpa",
+    "panoramax": "e8779a83-60bf-4e5e-9399-e99425112f5a"
+  }
+},
+{
+  "type": "node",
+  "id": 6782725023,
+  "lat": 51.9819402,
+  "lon": 5.9136844,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6796835412,
+  "lat": 51.1775724,
+  "lon": 5.3849745,
+  "tags": {
+    "access": "customers",
+    "amenity": "kitchen",
+    "bin": "yes",
+    "cooker": "yes",
+    "drinking_water": "yes",
+    "fridge": "yes",
+    "operator": "De Winner"
+  }
+},
+{
+  "type": "node",
+  "id": 6797409730,
+  "lat": 51.9791176,
+  "lon": 5.9081326,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 6801384440,
+  "lat": 51.9833052,
+  "lon": 5.9064521,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6804096856,
+  "lat": 51.6519407,
+  "lon": 5.0492785,
+  "tags": {
+    "amenity": "drinking_water",
+    "artwork_type": "statue",
+    "name": "Drinkebroer",
+    "tourism": "artwork",
+    "url": "https://www.eftepedia.nl/lemma/Drinkebroer"
+  }
+},
+{
+  "type": "node",
+  "id": 6808276872,
+  "lat": 51.6141946,
+  "lon": 5.5403961,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 6812318608,
+  "lat": 51.4311865,
+  "lon": 5.4912338,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6851190406,
+  "lat": 51.9628493,
+  "lon": 5.1736714,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Oasen",
+    "operator:wikidata": "Q2594590"
+  }
+},
+{
+  "type": "node",
+  "id": 6871573207,
+  "lat": 51.4638223,
+  "lon": 5.5596261,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 6889250008,
+  "lat": 51.9829138,
+  "lon": 5.9119423,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6897475610,
+  "lat": 51.5386528,
+  "lon": 5.6277438,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6959521892,
+  "lat": 51.4074667,
+  "lon": 5.5455787,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6985910273,
+  "lat": 51.6033821,
+  "lon": 5.4979425,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6985910274,
+  "lat": 51.7440710,
+  "lon": 5.7448879,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source---",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6986641401,
+  "lat": 51.6599257,
+  "lon": 5.0320943,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6986641402,
+  "lat": 51.7722044,
+  "lon": 5.5092193,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6986641403,
+  "lat": 51.7281280,
+  "lon": 5.4333513,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bottle_refill",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6986641404,
+  "lat": 51.6179890,
+  "lon": 5.4630781,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6986641405,
+  "lat": 51.4667701,
+  "lon": 5.4749388,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "note": "permission from Brabant Water to use source",
+    "opening_hours": "24/7",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6986930280,
+  "lat": 51.7054668,
+  "lon": 5.4619038,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6986930281,
+  "lat": 51.6937334,
+  "lon": 5.3303555,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6986989553,
+  "lat": 51.7286111,
+  "lon": 5.8832686,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6986989554,
+  "lat": 51.7611047,
+  "lon": 5.5280894,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6986989555,
+  "lat": 51.3223836,
+  "lon": 5.3581439,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6987006247,
+  "lat": 51.5783712,
+  "lon": 5.0457971,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6987006249,
+  "lat": 51.4795044,
+  "lon": 5.6678214,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6987006251,
+  "lat": 51.4428247,
+  "lon": 5.5189562,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989372999,
+  "lat": 51.8081072,
+  "lon": 5.4411478,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6989373000,
+  "lat": 51.6340304,
+  "lon": 5.5803927,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989373001,
+  "lat": 51.4634150,
+  "lon": 5.4820049,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989431734,
+  "lat": 51.5805516,
+  "lon": 5.0397388,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989431735,
+  "lat": 51.5466441,
+  "lon": 5.0624561,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989478854,
+  "lat": 51.4606083,
+  "lon": 5.6104535,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bottle_refill",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989483875,
+  "lat": 51.3565273,
+  "lon": 5.7333406,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989483876,
+  "lat": 51.7515897,
+  "lon": 5.5186873,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989545416,
+  "lat": 51.5615196,
+  "lon": 5.0835429,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989545417,
+  "lat": 51.3315388,
+  "lon": 5.3982517,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989545418,
+  "lat": 51.4712172,
+  "lon": 5.4684706,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989545419,
+  "lat": 51.4041176,
+  "lon": 5.7455795,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989601756,
+  "lat": 51.3495305,
+  "lon": 5.4578907,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989601757,
+  "lat": 51.4620367,
+  "lon": 5.6288046,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989601758,
+  "lat": 51.4754706,
+  "lon": 5.6604962,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bottle_refill",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989601759,
+  "lat": 51.6712314,
+  "lon": 5.0238981,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6989602678,
+  "lat": 51.6910481,
+  "lon": 5.0986945,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6990239775,
+  "lat": 51.4197614,
+  "lon": 5.6820909,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6990239776,
+  "lat": 51.6139666,
+  "lon": 5.5474135,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6990263205,
+  "lat": 51.6663834,
+  "lon": 5.6121096,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6990263206,
+  "lat": 51.7507870,
+  "lon": 5.5021168,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bottle_refill",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6990263207,
+  "lat": 51.7352635,
+  "lon": 5.5266754,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bottle_refill",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6990366489,
+  "lat": 51.2871342,
+  "lon": 5.3227994,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6990366490,
+  "lat": 51.4515086,
+  "lon": 5.4568029,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992347517,
+  "lat": 51.3488287,
+  "lon": 5.6959948,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992347519,
+  "lat": 51.6883653,
+  "lon": 5.0880816,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992348272,
+  "lat": 51.3859583,
+  "lon": 5.7127389,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992348273,
+  "lat": 51.5383221,
+  "lon": 5.0904228,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992348274,
+  "lat": 51.5875478,
+  "lon": 5.0779231,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992348275,
+  "lat": 51.6893183,
+  "lon": 5.0654332,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992378272,
+  "lat": 51.7408712,
+  "lon": 5.4610250,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992395005,
+  "lat": 51.3082116,
+  "lon": 5.3364530,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 6992395006,
+  "lat": 51.7861472,
+  "lon": 5.0081500,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992395007,
+  "lat": 51.5802443,
+  "lon": 5.0195768,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992395008,
+  "lat": 51.5710120,
+  "lon": 5.0564758,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992395009,
+  "lat": 51.5725170,
+  "lon": 5.0676839,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992402640,
+  "lat": 51.6871986,
+  "lon": 5.0715311,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992402641,
+  "lat": 51.5500264,
+  "lon": 5.4224019,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992439211,
+  "lat": 51.5888354,
+  "lon": 5.0894401,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992439212,
+  "lat": 51.6938886,
+  "lon": 5.3096264,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992439213,
+  "lat": 51.7692484,
+  "lon": 5.5446087,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992439214,
+  "lat": 51.4246172,
+  "lon": 5.5690057,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992465063,
+  "lat": 51.5684289,
+  "lon": 5.0608453,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bottle_refill",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 6992465064,
+  "lat": 51.6253142,
+  "lon": 5.5589456,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7003970115,
+  "lat": 51.8239758,
+  "lon": 5.5670723,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7003984456,
+  "lat": 51.4712725,
+  "lon": 5.4817705,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7003984457,
+  "lat": 51.6913114,
+  "lon": 5.3041494,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7004006978,
+  "lat": 51.6908011,
+  "lon": 5.3167346,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7004006979,
+  "lat": 51.4412201,
+  "lon": 5.4596256,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7004006980,
+  "lat": 51.4200687,
+  "lon": 5.5081661,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 7004035875,
+  "lat": 51.2983443,
+  "lon": 5.4441170,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7004035876,
+  "lat": 51.4435501,
+  "lon": 5.6200139,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7004035877,
+  "lat": 51.4744741,
+  "lon": 5.4903337,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7004035878,
+  "lat": 51.4797471,
+  "lon": 5.4962136,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "note": "permission from Brabant Water to use source",
+    "opening_hours": "24/7",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7006093974,
+  "lat": 51.5920073,
+  "lon": 5.5424316,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7006093975,
+  "lat": 51.5605380,
+  "lon": 5.6274166,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 7006093976,
+  "lat": 51.4479274,
+  "lon": 5.7848787,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7006093977,
+  "lat": 51.5513566,
+  "lon": 5.8110299,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7006843843,
+  "lat": 51.5449704,
+  "lon": 5.0761464,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7006848653,
+  "lat": 51.5046019,
+  "lon": 5.7427182,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7006848654,
+  "lat": 51.5879839,
+  "lon": 5.5857333,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7006852606,
+  "lat": 51.6735855,
+  "lon": 5.6045649,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7011286786,
+  "lat": 51.7758371,
+  "lon": 5.1143071,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7011286787,
+  "lat": 51.7182193,
+  "lon": 5.3593748,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7011286788,
+  "lat": 51.5805846,
+  "lon": 5.4062612,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7011286790,
+  "lat": 51.4354783,
+  "lon": 5.6214273,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from Brabant Water to use source",
+    "operator": "JoinThePipe, for Brabant Water",
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028564990,
+  "lat": 51.0322005,
+  "lon": 5.8115581,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "operator:wikipedia": "nl:Waterleiding Maatschappij Limburg",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7028612075,
+  "lat": 51.0408204,
+  "lon": 5.7675843,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7028612076,
+  "lat": 51.1838385,
+  "lon": 5.8992991,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028612077,
+  "lat": 51.2493918,
+  "lon": 5.9357757,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028612078,
+  "lat": 51.6960183,
+  "lon": 5.9643559,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028627353,
+  "lat": 51.1374076,
+  "lon": 5.8857993,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028627354,
+  "lat": 51.1429188,
+  "lon": 5.8950683,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028669152,
+  "lat": 51.7642203,
+  "lon": 5.9076078,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028682472,
+  "lat": 51.0044266,
+  "lon": 5.8956004,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028720761,
+  "lat": 51.0277826,
+  "lon": 5.7818685,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028751341,
+  "lat": 51.1296463,
+  "lon": 5.8498290,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028751342,
+  "lat": 51.0014763,
+  "lon": 5.8593435,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028751345,
+  "lat": 51.0608297,
+  "lon": 5.8625901,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028791020,
+  "lat": 51.2440251,
+  "lon": 5.6684727,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028791021,
+  "lat": 51.2517763,
+  "lon": 5.7048582,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028842211,
+  "lat": 51.4866002,
+  "lon": 5.8978672,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028842212,
+  "lat": 51.2490000,
+  "lon": 5.7038187,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7072495223,
+  "lat": 51.8239341,
+  "lon": 5.8693743,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "drinking",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7152198730,
+  "lat": 51.4109395,
+  "lon": 5.4601318,
+  "tags": {
+    "addr:city": "Eindhoven",
+    "addr:housenumber": "1",
+    "addr:postcode": "5656AE",
+    "addr:street": "High Tech Campus",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 7167842219,
+  "lat": 51.6519370,
+  "lon": 5.0492873,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 7277538304,
+  "lat": 51.4623296,
+  "lon": 5.6092531,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill",
+    "name": "Brabant Water drinkpunt",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 7277625519,
+  "lat": 51.9993588,
+  "lon": 5.4765319,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "MTB Heuvelrug",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7389222815,
+  "lat": 51.5522254,
+  "lon": 5.4824650,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 7398895867,
+  "lat": 51.8012123,
+  "lon": 5.2385265,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "yes",
+    "operator": "JointhePipe, voor gemeente Zaltbommel"
+  }
+},
+{
+  "type": "node",
+  "id": 7405886646,
+  "lat": 51.3376052,
+  "lon": 5.9435278,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7411979603,
+  "lat": 51.7063890,
+  "lon": 5.3961725,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "yes",
+    "operator": "MHC Rosmalen"
+  }
+},
+{
+  "type": "node",
+  "id": 7419928428,
+  "lat": 51.6033259,
+  "lon": 5.6684912,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7440733684,
+  "lat": 51.7152335,
+  "lon": 5.3692413,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "yes",
+    "operator": "NS",
+    "operator:wikidata": "Q23076",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7444366615,
+  "lat": 51.9951146,
+  "lon": 5.9808580,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "NS",
+    "operator:wikidata": "Q23076",
+    "operator:wikipedia": "nl:Nederlandse Spoorwegen"
+  }
+},
+{
+  "type": "node",
+  "id": 7503913657,
+  "lat": 51.1320132,
+  "lon": 5.0777810,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "historic": "yes",
+    "man_made": "water_well",
+    "pump": "no",
+    "start_date": "1993"
+  }
+},
+{
+  "type": "node",
+  "id": 7554260102,
+  "lat": 51.5864622,
+  "lon": 5.1357300,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 7603157336,
+  "lat": 51.5818200,
+  "lon": 5.1935776,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "NS",
+    "operator:wikidata": "Q23076"
+  }
+},
+{
+  "type": "node",
+  "id": 7652746634,
+  "lat": 51.5572373,
+  "lon": 5.1126295,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7726224186,
+  "lat": 51.9665945,
+  "lon": 5.1550512,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7726224187,
+  "lat": 51.9473378,
+  "lon": 5.2268190,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7726224188,
+  "lat": 51.8843878,
+  "lon": 5.2108170,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Join the Pipe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7726224189,
+  "lat": 51.8791121,
+  "lon": 5.1815536,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7735135580,
+  "lat": 51.9468619,
+  "lon": 5.1994461,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7747275087,
+  "lat": 51.8111530,
+  "lon": 5.7300277,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7794875344,
+  "lat": 51.9577225,
+  "lon": 5.5783352,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "NS",
+    "operator:wikidata": "Q23076",
+    "operator:wikipedia": "nl:Nederlandse Spoorwegen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7859473813,
+  "lat": 51.9841525,
+  "lon": 5.9019191,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "level": "0",
+    "man_made": "water_tap",
+    "operator": "Nederlandse Spoorwegen",
+    "operator:wikidata": "Q23076",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7859504551,
+  "lat": 51.8900016,
+  "lon": 5.4239563,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "operator": "ProRail",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7859522367,
+  "lat": 51.9198095,
+  "lon": 5.7232415,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7875350698,
+  "lat": 51.8227934,
+  "lon": 5.8682277,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Join the Pipe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7893210843,
+  "lat": 51.6587209,
+  "lon": 5.3019159,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 7902706459,
+  "lat": 51.8847530,
+  "lon": 5.4403147,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7914042917,
+  "lat": 51.5640448,
+  "lon": 5.0404114,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 7922178361,
+  "lat": 51.7602808,
+  "lon": 5.1311723,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8033604688,
+  "lat": 51.9577613,
+  "lon": 5.5658603,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "yes",
+    "fountain": "bottle_refill",
+    "indoor": "no",
+    "operator": "JoinThePipe"
+  }
+},
+{
+  "type": "node",
+  "id": 8284981649,
+  "lat": 51.8902954,
+  "lon": 5.2701493,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8299508815,
+  "lat": 51.8890060,
+  "lon": 5.2781498,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8369690133,
+  "lat": 51.8235064,
+  "lon": 5.9423368,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8432940258,
+  "lat": 51.8407424,
+  "lon": 5.8288528,
+  "tags": {
+    "amenity": "drinking_water",
+    "note": "Ook fietspomp aanwezig"
+  }
+},
+{
+  "type": "node",
+  "id": 8473527998,
+  "lat": 51.8477235,
+  "lon": 5.8613792,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8540879839,
+  "lat": 51.9730966,
+  "lon": 5.5561445,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "MTB Utrechtse Heuvelrug",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 8664232666,
+  "lat": 51.0844717,
+  "lon": 5.3253107,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8677031958,
+  "lat": 51.3280860,
+  "lon": 5.0809643,
+  "tags": {
+    "amenity": "drinking_water",
+    "mapillary": "1396086640770517",
+    "panoramax": "8ee662c7-4980-4d5a-8776-df730d788343"
+  }
+},
+{
+  "type": "node",
+  "id": 8679963587,
+  "lat": 51.6441151,
+  "lon": 5.7033899,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 8803742257,
+  "lat": 51.9786982,
+  "lon": 5.6765493,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8827031009,
+  "lat": 51.9830760,
+  "lon": 5.9037225,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "operator": "Join the Pipe"
+  }
+},
+{
+  "type": "node",
+  "id": 8867481489,
+  "lat": 51.7271631,
+  "lon": 5.8741422,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9063741342,
+  "lat": 51.6796589,
+  "lon": 5.0902180,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9109297410,
+  "lat": 51.7382956,
+  "lon": 5.9194477,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9161325229,
+  "lat": 51.4370044,
+  "lon": 5.3194027,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9178225164,
+  "lat": 51.9908986,
+  "lon": 5.9250081,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9187471062,
+  "lat": 51.9629103,
+  "lon": 5.9009899,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9189826883,
+  "lat": 51.8079154,
+  "lon": 5.2630717,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "NS",
+    "operator:wikidata": "Q23076",
+    "operator:wikipedia": "nl:Nederlandse Spoorwegen"
+  }
+},
+{
+  "type": "node",
+  "id": 9203060229,
+  "lat": 51.6657469,
+  "lon": 5.0536096,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Waternet",
+    "operator:wikidata": "Q2137469",
+    "operator:wikipedia": "nl:Waternet (bedrijf)"
+  }
+},
+{
+  "type": "node",
+  "id": 9321394939,
+  "lat": 51.6551341,
+  "lon": 5.6121387,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9383290699,
+  "lat": 51.9628779,
+  "lon": 5.9680744,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9383318505,
+  "lat": 51.9493041,
+  "lon": 5.9955568,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9407772076,
+  "lat": 51.7596423,
+  "lon": 5.7412213,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134",
+    "operator:wikipedia": "nl:Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9437924618,
+  "lat": 51.9895416,
+  "lon": 5.9027970,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "green",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9437924619,
+  "lat": 51.9909468,
+  "lon": 5.9002649,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9507194811,
+  "lat": 51.9194793,
+  "lon": 5.8490047,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9551808804,
+  "lat": 51.9544287,
+  "lon": 5.5775222,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9587944240,
+  "lat": 51.6773717,
+  "lon": 5.8125908,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "note": "Watertappunt, verplaatst op februari '24 vanaf plein bij St. Hubertuskerk",
+    "start_date": "2021",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9702580393,
+  "lat": 51.6610325,
+  "lon": 5.6230188,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9739008814,
+  "lat": 51.5621528,
+  "lon": 5.0616398,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9748980704,
+  "lat": 51.9861414,
+  "lon": 5.8436712,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Vitens"
+  }
+},
+{
+  "type": "node",
+  "id": 9786572994,
+  "lat": 51.8828134,
+  "lon": 5.2720168,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Nederlandse Spoorwegen",
+    "operator:wikidata": "Q23076"
+  }
+},
+{
+  "type": "node",
+  "id": 9833122424,
+  "lat": 51.4640435,
+  "lon": 5.4807699,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9835938318,
+  "lat": 51.9221795,
+  "lon": 5.6734070,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9860306303,
+  "lat": 51.6475638,
+  "lon": 5.0526454,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9862641342,
+  "lat": 51.7726790,
+  "lon": 5.6420507,
+  "tags": {
+    "amenity": "drinking_water",
+    "not:operator:wikidata": "Q2458134",
+    "operator": "Brabant water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9878485987,
+  "lat": 51.4774078,
+  "lon": 5.4529934,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9894719596,
+  "lat": 51.6437308,
+  "lon": 5.6550716,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9894719597,
+  "lat": 51.6435250,
+  "lon": 5.6334650,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9895769372,
+  "lat": 51.9850323,
+  "lon": 5.9198707,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "operator": "Nederlandse Spoorwegen"
+  }
+},
+{
+  "type": "node",
+  "id": 9915437756,
+  "lat": 51.8545157,
+  "lon": 5.8589181,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9919177175,
+  "lat": 51.3375372,
+  "lon": 5.2929252,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 9919973015,
+  "lat": 51.6479233,
+  "lon": 5.9494972,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "note": "Watertappunt",
+    "start_date": "2022"
+  }
+},
+{
+  "type": "node",
+  "id": 9922360482,
+  "lat": 51.2333415,
+  "lon": 5.4345272,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9928834390,
+  "lat": 51.6555112,
+  "lon": 5.2922284,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9934315509,
+  "lat": 51.8260764,
+  "lon": 5.8575119,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9934410818,
+  "lat": 51.8244412,
+  "lon": 5.8617160,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9934410824,
+  "lat": 51.8193759,
+  "lon": 5.8592404,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9934410825,
+  "lat": 51.8185060,
+  "lon": 5.8656351,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9937606914,
+  "lat": 51.7838729,
+  "lon": 5.0538310,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9937617456,
+  "lat": 51.6729137,
+  "lon": 5.0388704,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9937664445,
+  "lat": 51.6930001,
+  "lon": 5.0728060,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9937674143,
+  "lat": 51.6102275,
+  "lon": 5.1516344,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9937675901,
+  "lat": 51.6812285,
+  "lon": 5.0648857,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9937680710,
+  "lat": 51.5864482,
+  "lon": 5.0711270,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9937680711,
+  "lat": 51.5853324,
+  "lon": 5.0713105,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9937680712,
+  "lat": 51.5834454,
+  "lon": 5.0845832,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9937680713,
+  "lat": 51.5911256,
+  "lon": 5.0863215,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9937843115,
+  "lat": 51.5489437,
+  "lon": 5.0431435,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9937843116,
+  "lat": 51.5494759,
+  "lon": 5.0551883,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9937865786,
+  "lat": 51.5442892,
+  "lon": 5.0960596,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9937929419,
+  "lat": 51.5540732,
+  "lon": 5.1078456,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9938075056,
+  "lat": 51.5494773,
+  "lon": 5.0911851,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9938088195,
+  "lat": 51.5636491,
+  "lon": 5.0996079,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9938094544,
+  "lat": 51.5652070,
+  "lon": 5.0518299,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Nederlandse Spoorwegen",
+    "operator:wikidata": "Q23076",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9942820651,
+  "lat": 51.6442385,
+  "lon": 5.7232426,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9944151653,
+  "lat": 51.6944860,
+  "lon": 5.2909800,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9944151654,
+  "lat": 51.6930150,
+  "lon": 5.2760619,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9945911324,
+  "lat": 51.3676225,
+  "lon": 5.1620493,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9945923721,
+  "lat": 51.3565403,
+  "lon": 5.4317738,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9945948115,
+  "lat": 51.4130341,
+  "lon": 5.4805601,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9945975408,
+  "lat": 51.6105319,
+  "lon": 5.5541575,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9945998532,
+  "lat": 51.6615919,
+  "lon": 5.6272929,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9945998533,
+  "lat": 51.6602320,
+  "lon": 5.6178389,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "opening_hours": "24/7",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134",
+    "panoramax": "bebb00db-ff3b-493d-ac3e-a29fb996d359",
+    "panoramax:0": "b7059686-e118-4dbd-847e-39e2086b5fcc"
+  }
+},
+{
+  "type": "node",
+  "id": 9945998534,
+  "lat": 51.6588966,
+  "lon": 5.6161167,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9945998535,
+  "lat": 51.6575449,
+  "lon": 5.6137594,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9945998536,
+  "lat": 51.6536026,
+  "lon": 5.6296066,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9948117638,
+  "lat": 51.3992244,
+  "lon": 5.3395895,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9948126952,
+  "lat": 51.6445719,
+  "lon": 5.9397032,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9948167935,
+  "lat": 51.7351325,
+  "lon": 5.8727574,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9948253525,
+  "lat": 51.5095175,
+  "lon": 5.3888959,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "NS",
+    "operator:wikidata": "Q23076"
+  }
+},
+{
+  "type": "node",
+  "id": 9948253527,
+  "lat": 51.7785868,
+  "lon": 5.5145503,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9948253528,
+  "lat": 51.7754376,
+  "lon": 5.5220125,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9948253529,
+  "lat": 51.7667477,
+  "lon": 5.5282258,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9948253530,
+  "lat": 51.7465521,
+  "lon": 5.6829859,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9950856337,
+  "lat": 51.4473144,
+  "lon": 5.4379666,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "not:operator:wikidata": "Q2458134",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9950856338,
+  "lat": 51.3810809,
+  "lon": 5.3552596,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9950986311,
+  "lat": 51.6810384,
+  "lon": 5.6433352,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9950986312,
+  "lat": 51.6404857,
+  "lon": 5.7096593,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9950986313,
+  "lat": 51.5625199,
+  "lon": 5.6951152,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9950986314,
+  "lat": 51.4708763,
+  "lon": 5.7014395,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "NS",
+    "operator:wikidata": "Q23076"
+  }
+},
+{
+  "type": "node",
+  "id": 9950986315,
+  "lat": 51.4681444,
+  "lon": 5.6311879,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "NS",
+    "operator:wikidata": "Q23076"
+  }
+},
+{
+  "type": "node",
+  "id": 9950986316,
+  "lat": 51.4201216,
+  "lon": 5.5511739,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "NS"
+  }
+},
+{
+  "type": "node",
+  "id": 9951124664,
+  "lat": 51.5523084,
+  "lon": 5.0750391,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9951124665,
+  "lat": 51.6552777,
+  "lon": 5.7735663,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9951124666,
+  "lat": 51.7406502,
+  "lon": 5.6374430,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 9951590264,
+  "lat": 51.6976442,
+  "lon": 5.6743690,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9951590266,
+  "lat": 51.4436246,
+  "lon": 5.3411647,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 9953438832,
+  "lat": 51.7307868,
+  "lon": 5.0537773,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9957997030,
+  "lat": 51.1362937,
+  "lon": 5.0837346,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "mapillary": "126858886748694",
+    "panoramax": "19dd81b3-6f7f-4b8f-8a71-7df01ee7d55a",
+    "survey:date": "2022-08-16"
+  }
+},
+{
+  "type": "node",
+  "id": 9966271358,
+  "lat": 51.5094735,
+  "lon": 5.3967380,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9995251974,
+  "lat": 51.4467414,
+  "lon": 5.4590407,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10000408487,
+  "lat": 51.8237204,
+  "lon": 5.7940588,
+  "tags": {
+    "amenity": "drinking_water",
+    "note": "Telefoonnummer is voor storingen - is phone de correcte key?",
+    "operator": "NS",
+    "operator:wikidata": "Q23076",
+    "phone": "+31 30 751 51 55"
+  }
+},
+{
+  "type": "node",
+  "id": 10000493653,
+  "lat": 51.8326863,
+  "lon": 5.8115186,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10015509584,
+  "lat": 51.8042221,
+  "lon": 5.7287711,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10016143678,
+  "lat": 51.8233974,
+  "lon": 5.8686290,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "wikidata:Q632004",
+    "wheelchair": "yes",
+    "wikidata": "Q632004",
+    "wikipedia": "nl:Radboud Universiteit"
+  }
+},
+{
+  "type": "node",
+  "id": 10016143679,
+  "lat": 51.8237631,
+  "lon": 5.8688108,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "level": "1",
+    "operator": "wikidata:Q632004",
+    "wikidata": "Q632004",
+    "wikipedia": "nl:Radboud Universiteit"
+  }
+},
+{
+  "type": "node",
+  "id": 10062510504,
+  "lat": 51.0229361,
+  "lon": 5.7499252,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 10069991557,
+  "lat": 51.9778821,
+  "lon": 5.9195341,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10074947943,
+  "lat": 51.0059748,
+  "lon": 5.7680426,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill",
+    "name": "Limburgs Drinkwater"
+  }
+},
+{
+  "type": "node",
+  "id": 10120757251,
+  "lat": 51.6356146,
+  "lon": 5.8732800,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10161910463,
+  "lat": 51.4479212,
+  "lon": 5.4861664,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "level": "0",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10240366068,
+  "lat": 51.6448179,
+  "lon": 5.6247765,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134"
+  }
+},
+{
+  "type": "node",
+  "id": 10242280452,
+  "lat": 51.6614992,
+  "lon": 5.6042463,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10242280453,
+  "lat": 51.6640688,
+  "lon": 5.6347943,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10271630268,
+  "lat": 51.8195699,
+  "lon": 5.8576818,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10565277822,
+  "lat": 51.2331458,
+  "lon": 5.0488314,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fee": "no",
+    "indoor": "yes",
+    "mapillary": "1000049708289980",
+    "panoramax": "daab1de4-cb37-4310-956b-892a2bd1587a"
+  }
+},
+{
+  "type": "node",
+  "id": 10704221441,
+  "lat": 51.9832103,
+  "lon": 5.9248608,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Gemeente Arnhem",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10704232803,
+  "lat": 51.9778079,
+  "lon": 5.9341854,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Gemeente Arnhem"
+  }
+},
+{
+  "type": "node",
+  "id": 10704265934,
+  "lat": 51.9818550,
+  "lon": 5.9317763,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Gemeente Arnhem"
+  }
+},
+{
+  "type": "node",
+  "id": 10704280141,
+  "lat": 51.9770766,
+  "lon": 5.9186856,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Gemeente Arnhem"
+  }
+},
+{
+  "type": "node",
+  "id": 10704414942,
+  "lat": 51.9886398,
+  "lon": 5.9170708,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Gemeente Arnhem",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 10788556621,
+  "lat": 51.2312292,
+  "lon": 5.0872110,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "indoor": "no",
+    "panoramax": "d42bd18a-83b8-41d1-b203-aee92366ee0f",
+    "survey:date": "2023-04-05"
+  }
+},
+{
+  "type": "node",
+  "id": 10796628095,
+  "lat": 51.6252241,
+  "lon": 5.1710610,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10840495122,
+  "lat": 51.0865755,
+  "lon": 5.7247996,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10905765318,
+  "lat": 51.9987525,
+  "lon": 5.8937789,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10905781902,
+  "lat": 51.9900924,
+  "lon": 5.9062781,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10910790857,
+  "lat": 51.5674599,
+  "lon": 5.3739893,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10933809442,
+  "lat": 51.3760897,
+  "lon": 5.2105146,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "Gemeente Bladel"
+  }
+},
+{
+  "type": "node",
+  "id": 10936625727,
+  "lat": 51.9855969,
+  "lon": 5.8992522,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 10943683254,
+  "lat": 51.3424836,
+  "lon": 5.2406833,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "JoinThePipe, for Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 10970834795,
+  "lat": 51.2346480,
+  "lon": 5.1630136,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10976505127,
+  "lat": 51.1777691,
+  "lon": 5.6635910,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "description": "ook toegankelijk buiten de openingsuren van het bezoekerscentrum",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 10977126038,
+  "lat": 51.3692025,
+  "lon": 5.2563938,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "Gemeente Bladel"
+  }
+},
+{
+  "type": "node",
+  "id": 10977126047,
+  "lat": 51.3629288,
+  "lon": 5.2736005,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "Gemeente Bladel"
+  }
+},
+{
+  "type": "node",
+  "id": 10977126049,
+  "lat": 51.3984442,
+  "lon": 5.2717785,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "Gemeente Bladel"
+  }
+},
+{
+  "type": "node",
+  "id": 10977126050,
+  "lat": 51.3964570,
+  "lon": 5.2383663,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "Gemeente Bladel"
+  }
+},
+{
+  "type": "node",
+  "id": 10977126051,
+  "lat": 51.4044534,
+  "lon": 5.2081080,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "Gemeente Bladel"
+  }
+},
+{
+  "type": "node",
+  "id": 10977126052,
+  "lat": 51.3701635,
+  "lon": 5.2238647,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "Gemeente Bladel"
+  }
+},
+{
+  "type": "node",
+  "id": 10982019916,
+  "lat": 51.8635423,
+  "lon": 5.8765997,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963"
+  }
+},
+{
+  "type": "node",
+  "id": 11032002784,
+  "lat": 51.9470691,
+  "lon": 5.2269010,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11044356273,
+  "lat": 51.7681608,
+  "lon": 5.8735210,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 11122128885,
+  "lat": 51.1317322,
+  "lon": 5.4357585,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "operator": "Aquafin",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11166736827,
+  "lat": 51.8905485,
+  "lon": 5.6102310,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11166746513,
+  "lat": 51.8511996,
+  "lon": 5.6653172,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11176615303,
+  "lat": 51.6529637,
+  "lon": 5.0486867,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11185413465,
+  "lat": 51.9851591,
+  "lon": 5.1199073,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Oasen",
+    "operator:wikidata": "Q2594590"
+  }
+},
+{
+  "type": "node",
+  "id": 11202204554,
+  "lat": 51.9820546,
+  "lon": 5.6680601,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11256325582,
+  "lat": 51.6524444,
+  "lon": 5.0479895,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11343142607,
+  "lat": 51.5774740,
+  "lon": 5.0983373,
+  "tags": {
+    "access": "permissive",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11349376918,
+  "lat": 51.1543663,
+  "lon": 5.0020605,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11494685574,
+  "lat": 51.1234566,
+  "lon": 5.0702100,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11498694246,
+  "lat": 51.4677498,
+  "lon": 5.2500430,
+  "tags": {
+    "amenity": "drinking_water",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 11498796027,
+  "lat": 51.4772330,
+  "lon": 5.5514514,
+  "tags": {
+    "amenity": "drinking_water",
+    "source": "survey",
+    "website": "https://www.erfgoed-beleving.nl/waterpomp-nuenen/"
+  }
+},
+{
+  "type": "node",
+  "id": 11679029001,
+  "lat": 51.6482161,
+  "lon": 5.0485804,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11750209197,
+  "lat": 51.0685102,
+  "lon": 5.6547452,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11756452861,
+  "lat": 51.7013586,
+  "lon": 5.9692539,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11784730626,
+  "lat": 51.2576083,
+  "lon": 5.7089059,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "yes",
+    "drinking_water": "yes",
+    "fountain": "bottle_refill",
+    "hot_water": "no",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11863027550,
+  "lat": 51.0074910,
+  "lon": 5.5293974,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 11873364338,
+  "lat": 51.0999999,
+  "lon": 5.8784274,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 11929334183,
+  "lat": 51.7588738,
+  "lon": 5.9426157,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11966360397,
+  "lat": 51.4519533,
+  "lon": 5.4807707,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11980354666,
+  "lat": 51.7362195,
+  "lon": 5.3578979,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Dopper",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12009373686,
+  "lat": 51.1082037,
+  "lon": 5.3679285,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "buitentappunt",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "name": "Kraanwater",
+    "operator": "De Watergroep",
+    "panoramax": "53f3dcac-8222-4a61-bd2d-5de4dff47548",
+    "seasonal": "no",
+    "website": "https://www.dewatergroep.be/nl-be/drinkwater/extra-services/drinkwatertappunten"
+  }
+},
+{
+  "type": "node",
+  "id": 12072326802,
+  "lat": 51.6243059,
+  "lon": 5.8525653,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12072326811,
+  "lat": 51.6244611,
+  "lon": 5.8525291,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12078090136,
+  "lat": 51.0074336,
+  "lon": 5.5956572,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "operator": "De Watergroep",
+    "panoramax": "95afd3e8-fab8-4bfa-8524-cf29111baa93"
+  }
+},
+{
+  "type": "node",
+  "id": 12095727641,
+  "lat": 51.6629322,
+  "lon": 5.4185112,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12106360061,
+  "lat": 51.9261634,
+  "lon": 5.6373006,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12106432851,
+  "lat": 51.9745456,
+  "lon": 5.6611130,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12106439696,
+  "lat": 51.9468372,
+  "lon": 5.5191323,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12106459352,
+  "lat": 51.9627783,
+  "lon": 5.6508073,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12106462073,
+  "lat": 51.9787189,
+  "lon": 5.6617291,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12106479907,
+  "lat": 51.9892032,
+  "lon": 5.8893834,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12117561029,
+  "lat": 51.8650819,
+  "lon": 5.8540345,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12118001718,
+  "lat": 51.9512817,
+  "lon": 5.9824021,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12118345155,
+  "lat": 51.1927507,
+  "lon": 5.9634453,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12118346736,
+  "lat": 51.1930140,
+  "lon": 5.9634405,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12118393069,
+  "lat": 51.1932828,
+  "lon": 5.9636762,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12118393361,
+  "lat": 51.1924261,
+  "lon": 5.9631781,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12148358619,
+  "lat": 51.8337986,
+  "lon": 5.8815744,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12149452882,
+  "lat": 51.9941001,
+  "lon": 5.1846993,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12150147541,
+  "lat": 51.8783205,
+  "lon": 5.4212797,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12161982825,
+  "lat": 51.8068560,
+  "lon": 5.7946725,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12166178385,
+  "lat": 51.8992723,
+  "lon": 5.1960933,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12166178386,
+  "lat": 51.8815413,
+  "lon": 5.1543910,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12168309805,
+  "lat": 51.9980025,
+  "lon": 5.4609714,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12174472061,
+  "lat": 51.1090315,
+  "lon": 5.1758480,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "mapillary": "340047755768793",
+    "panoramax": "3b49dd89-949e-43b9-8a22-2f48cff4546e"
+  }
+},
+{
+  "type": "node",
+  "id": 12174472062,
+  "lat": 51.1090239,
+  "lon": 5.1758299,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "mapillary": "570175868674871",
+    "panoramax": "5d336e9a-d305-457e-9650-280b0a411ce1",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12178734067,
+  "lat": 51.0372724,
+  "lon": 5.7262528,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "panoramax": "46005ebc-d68e-4d1e-b7c2-15f00c9db6bd"
+  }
+},
+{
+  "type": "node",
+  "id": 12222350318,
+  "lat": 51.1166989,
+  "lon": 5.2175349,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "mapillary": "561526569639867"
+  }
+},
+{
+  "type": "node",
+  "id": 12260549696,
+  "lat": 51.1544426,
+  "lon": 5.3769393,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "mapillary": "2891474951006926",
+    "panoramax": "5b88e79e-7018-412b-bdbb-dfba2dc0b391"
+  }
+},
+{
+  "type": "node",
+  "id": 12293918769,
+  "lat": 51.6239501,
+  "lon": 5.0135565,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12324073796,
+  "lat": 51.0231453,
+  "lon": 5.7499232,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "mapillary": "2423394971197253",
+    "opening_hours": "24/7",
+    "panoramax": "6254e6cb-24b5-423e-9bb2-1a3f887b3548",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12351736751,
+  "lat": 51.2238103,
+  "lon": 5.4954875,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "drinking",
+    "mapillary": "523400920540117"
+  }
+},
+{
+  "type": "node",
+  "id": 12354188081,
+  "lat": 51.1937920,
+  "lon": 5.4105252,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "panoramax": "3bc33a3b-a4df-435c-b37c-153bedbc2b7d"
+  }
+},
+{
+  "type": "node",
+  "id": 12431888377,
+  "lat": 51.9799006,
+  "lon": 5.9435709,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12476588369,
+  "lat": 51.0195385,
+  "lon": 5.2896763,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "panoramax": "aee9b2c7-54f9-4174-9ff2-6a385ab994ef",
+    "seasonal": "spring;summer;autumn"
+  }
+},
+{
+  "type": "node",
+  "id": 12552475992,
+  "lat": 51.7528384,
+  "lon": 5.8952689,
+  "tags": {
+    "access": "unknown",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12552475993,
+  "lat": 51.7528189,
+  "lon": 5.8953604,
+  "tags": {
+    "access": "unknown",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12624194100,
+  "lat": 51.0983044,
+  "lon": 5.1518999,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "opening_hours": "24/7",
+    "panoramax": "7c498248-2979-4c2e-a1be-f2aa494b9f11"
+  }
+},
+{
+  "type": "node",
+  "id": 12625782178,
+  "lat": 51.0527977,
+  "lon": 5.0359139,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "opening_hours": "24/7",
+    "panoramax": "c1cdbc0a-54a6-4107-b35c-0a6a4e3cf18c"
+  }
+},
+{
+  "type": "node",
+  "id": 12628603988,
+  "lat": 51.0713008,
+  "lon": 5.0874622,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12629948011,
+  "lat": 51.6557747,
+  "lon": 5.8195935,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12633603365,
+  "lat": 51.6171118,
+  "lon": 5.7943936,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12652039046,
+  "lat": 51.5387621,
+  "lon": 5.0786403,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "note": "dispenses about 700ml of water with one press",
+    "operator": "Fontys"
+  }
+},
+{
+  "type": "node",
+  "id": 12652039047,
+  "lat": 51.5386960,
+  "lon": 5.0794412,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "note": "dispenses about 700ml of water with one press",
+    "operator": "Fontys"
+  }
+},
+{
+  "type": "node",
+  "id": 12656741383,
+  "lat": 51.1469722,
+  "lon": 5.7364424,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "mapillary": "2634140966785255",
+    "panoramax": "e48bf4cc-0af1-4090-a322-4e2fb3bab95f"
+  }
+},
+{
+  "type": "node",
+  "id": 12656826569,
+  "lat": 51.1081194,
+  "lon": 5.7734831,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "panoramax": "36c2382e-5734-4deb-8771-cf308f2d357a"
+  }
+},
+{
+  "type": "node",
+  "id": 12662675623,
+  "lat": 51.1550878,
+  "lon": 5.5614658,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "panoramax": "8940db01-e90d-4b8e-8215-079f921bf16d"
+  }
+},
+{
+  "type": "node",
+  "id": 12734546157,
+  "lat": 51.9665854,
+  "lon": 5.6891390,
+  "tags": {
+    "amenity": "drinking_water",
+    "support": "wall"
+  }
+},
+{
+  "type": "node",
+  "id": 12770576178,
+  "lat": 51.9088735,
+  "lon": 5.8882228,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Watertappunt Park Bredelaar",
+    "start_date": "2025",
+    "website": "https://parklingezegen.nl/activiteiten/watertappunt-park-bredelaar/"
+  }
+},
+{
+  "type": "node",
+  "id": 12770576179,
+  "lat": 51.9078811,
+  "lon": 5.9004481,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Watertappunt Heuvelsestraat",
+    "start_date": "2025",
+    "website": "https://parklingezegen.nl/activiteiten/watertappunt-heuvelsestraat/"
+  }
+},
+{
+  "type": "node",
+  "id": 12803728537,
+  "lat": 51.9372362,
+  "lon": 5.8398853,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Watertappunt De Park",
+    "start_date": "2025",
+    "website": "https://parklingezegen.nl/activiteiten/watertappunt-de-park/"
+  }
+},
+{
+  "type": "node",
+  "id": 12805948727,
+  "lat": 51.1612658,
+  "lon": 5.0027114,
+  "tags": {
+    "access": "yes",
+    "bottle": "yes",
+    "check_date": "2025-05-01",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "water_tap",
+    "man_made": "water_tap",
+    "mapillary": "1961791387688793"
+  }
+},
+{
+  "type": "node",
+  "id": 12819042377,
+  "lat": 51.9463744,
+  "lon": 5.8320823,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12856937576,
+  "lat": 51.5630095,
+  "lon": 5.0591590,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12862874550,
+  "lat": 51.0281892,
+  "lon": 5.8762394,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12896065586,
+  "lat": 51.3482041,
+  "lon": 5.5212612,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12913106900,
+  "lat": 51.0228438,
+  "lon": 5.9354214,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12944414201,
+  "lat": 51.6495329,
+  "lon": 5.9567409,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12949366470,
+  "lat": 51.7245291,
+  "lon": 5.2968088,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 12990412309,
+  "lat": 51.8707049,
+  "lon": 5.8728103,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12995287836,
+  "lat": 51.2003736,
+  "lon": 5.2134385,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "water_tap",
+    "indoor": "no",
+    "mapillary": "1464732104552344",
+    "panoramax": "4803b876-1732-456a-b368-875b508e9dfa",
+    "survey:date": "2025-07-11"
+  }
+},
+{
+  "type": "node",
+  "id": 12995290068,
+  "lat": 51.2008621,
+  "lon": 5.2134123,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "water_tap",
+    "indoor": "no",
+    "mapillary": "1415019796213730",
+    "panoramax": "93e4038f-fea7-4ec9-9bf8-2fae8935db5f",
+    "survey:date": "2025-07-11"
+  }
+},
+{
+  "type": "node",
+  "id": 12995290253,
+  "lat": 51.2007484,
+  "lon": 5.2134490,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "water_tap",
+    "indoor": "no",
+    "mapillary": "1759250818024897",
+    "panoramax": "cfa22b1c-c4df-4ad0-ab19-86d72c2c0b89",
+    "survey:date": "2025-07-11"
+  }
+},
+{
+  "type": "node",
+  "id": 13009477550,
+  "lat": 51.4139762,
+  "lon": 5.3589361,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 13009477551,
+  "lat": 51.3945953,
+  "lon": 5.3989978,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill",
+    "operator": "Brabant Water"
+  }
+},
+{
+  "type": "node",
+  "id": 13017123397,
+  "lat": 51.6029269,
+  "lon": 5.6733464,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134",
+    "remark": "Getest dat ie water geeft op 22 juli 2025.",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}

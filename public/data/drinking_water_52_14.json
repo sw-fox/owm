@@ -1,0 +1,828 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:54:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 431045557,
+  "lat": 52.8637462,
+  "lon": 14.0715351,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@marina-oderberg.de",
+    "leisure": "marina",
+    "name": "Marina Oderberg",
+    "phone": "+49 33369 75540; +49 160 3120161",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Oderberg",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://www.marina-oderberg.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1259874049,
+  "lat": 52.9134890,
+  "lon": 14.0045826,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1259897296,
+  "lat": 52.9131707,
+  "lon": 14.0010969,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1259897304,
+  "lat": 52.9138601,
+  "lon": 14.0019684,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1259897305,
+  "lat": 52.9131029,
+  "lon": 14.0039749,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1259897306,
+  "lat": 52.9136664,
+  "lon": 14.0045019,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 2026233639,
+  "lat": 52.2503022,
+  "lon": 14.0499727,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@cafe-dorsch.de",
+    "image": "http://www.cafe-dorsch.de/images/slider/slide_7.jpg",
+    "leisure": "marina",
+    "name": "Marina am Cafe Dorsch",
+    "phone": "+49 33631 2404",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina am Cafe Dorsch",
+    "seamark:type": "harbour",
+    "toilets": "yes",
+    "website": "http://www.52grad-badsaarow.de/index.php/yachthafen"
+  }
+},
+{
+  "type": "node",
+  "id": 2352307423,
+  "lat": 52.4499995,
+  "lon": 14.1647086,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Wasserhahn"
+  }
+},
+{
+  "type": "node",
+  "id": 2411519373,
+  "lat": 52.4240649,
+  "lon": 14.5407192,
+  "tags": {
+    "caravans": "no",
+    "drinking_water": "yes",
+    "name": "Bikers Inn",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 2465808075,
+  "lat": 52.6771584,
+  "lon": 14.4359476,
+  "tags": {
+    "addr:city": "Letschin",
+    "addr:housenumber": "9",
+    "addr:postcode": "15324",
+    "addr:street": "Deichweg",
+    "addr:suburb": "Kienitz",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Naturerlebnishof Uferloos",
+    "phone": "+493347838976",
+    "power_supply": "yes",
+    "shower": "yes",
+    "source": "http://www.uferloos.de/",
+    "tents": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.uferloos.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2821798730,
+  "lat": 52.9231491,
+  "lon": 14.0251862,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2821798733,
+  "lat": 52.9232627,
+  "lon": 14.0245482,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2821798736,
+  "lat": 52.9248215,
+  "lon": 14.0206528,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2821798737,
+  "lat": 52.9251377,
+  "lon": 14.0195533,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2821798741,
+  "lat": 52.9260449,
+  "lon": 14.0167301,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2821798742,
+  "lat": 52.9262238,
+  "lon": 14.0150607,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2832052001,
+  "lat": 52.2523148,
+  "lon": 14.4197249,
+  "tags": {
+    "addr:city": "Müllrose",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "15299",
+    "addr:street": "Biegener Straße",
+    "amenity": "boat_rental",
+    "drinking_water": "yes",
+    "email": "info@bootsvermietung-schlaubetal.de",
+    "fee": "yes",
+    "image": "http://www.bootsvermietung-schlaubetal.de/images/android_website_builder_app.png",
+    "internet_access": "wlan",
+    "name": "Bootsvermietung Schlaubetal",
+    "operator": "Ralf Supplieth",
+    "operator:type": "private",
+    "phone": "+49 33606 71514;+491714556655",
+    "power_supply": "yes",
+    "seamark:name": "Bootsvermietung Schlaubetal",
+    "shower": "yes",
+    "toilets": "yes",
+    "washing_machine": "yes",
+    "website": "http://www.bootsvermietung-schlaubetal.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2833922588,
+  "lat": 52.0515726,
+  "lon": 14.1985984,
+  "tags": {
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Marina Schwielochsee",
+    "phone": "+49 170 2046748; +49 35478 522",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Schwielochsee",
+    "seamark:type": "harbour",
+    "website": "http://www.camping-am-schwielochsee.de/zaue/de/marina-schwielochsee.html#/zaue/de/marina-schwielochsee.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2986213425,
+  "lat": 52.2444866,
+  "lon": 14.0644375,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "kontakt2014@yachtclub-diensdorf.de",
+    "leisure": "marina",
+    "name": "Yachtclub Diensdorf",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Yachtclub Diensdorf",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://www.yachtclub-diensdorf.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3322500090,
+  "lat": 52.4274512,
+  "lon": 14.3579300,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Tiefbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3657542326,
+  "lat": 52.0480171,
+  "lon": 14.1991861,
+  "tags": {
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Marina Zaue",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Zaue",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 3732521168,
+  "lat": 52.4570187,
+  "lon": 14.2155934,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4238144637,
+  "lat": 52.5535292,
+  "lon": 14.1293895,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 4707335031,
+  "lat": 52.3491459,
+  "lon": 14.5658223,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4970990423,
+  "lat": 52.3419383,
+  "lon": 14.8438550,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "studnia artezyjska",
+    "natural": "spring",
+    "note": "studnia artezyjska"
+  }
+},
+{
+  "type": "node",
+  "id": 4971000222,
+  "lat": 52.3253283,
+  "lon": 14.9079850,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5924162959,
+  "lat": 52.3343783,
+  "lon": 14.5987950,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "treated",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6615137745,
+  "lat": 52.3370972,
+  "lon": 14.5919091,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 6753459936,
+  "lat": 52.8368827,
+  "lon": 14.1174545,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6753459937,
+  "lat": 52.8368630,
+  "lon": 14.1178962,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6757886308,
+  "lat": 52.1637801,
+  "lon": 14.2405517,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6758181807,
+  "lat": 52.1639584,
+  "lon": 14.2399201,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6886152247,
+  "lat": 52.9663297,
+  "lon": 14.9283798,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7638122406,
+  "lat": 52.0483332,
+  "lon": 14.0370941,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7645757385,
+  "lat": 52.0426577,
+  "lon": 14.8618414,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://images.mapillary.com/y6k3Z54RLbm59wu3Lqgtgz/thumb-2048.jpg",
+    "mapillary": "889186614996026"
+  }
+},
+{
+  "type": "node",
+  "id": 8912038559,
+  "lat": 52.3864991,
+  "lon": 14.8121680,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8975003333,
+  "lat": 52.3217057,
+  "lon": 14.6071854,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8988976641,
+  "lat": 52.9435470,
+  "lon": 14.1566419,
+  "tags": {
+    "access": "customers",
+    "addr:housenumber": "2a",
+    "addr:place": "Bielinek",
+    "addr:postcode": "74-520",
+    "caravans": "yes",
+    "check_date": "2024-09-21",
+    "dog": "yes",
+    "drinking_water": "yes",
+    "email": "paulina.suder94@wp.pl",
+    "fee": "yes",
+    "group_only": "no",
+    "name": "Camping Bielinek",
+    "openfire": "yes",
+    "payment:cash": "yes",
+    "phone": "+48 730 871 875;+48 517 733 186",
+    "picnic_table": "yes",
+    "power_supply": "yes",
+    "reservation": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 9383616782,
+  "lat": 52.8453842,
+  "lon": 14.1279151,
+  "tags": {
+    "amenity": "water_point",
+    "charge": "1 EUR/100 litre",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "payment:coins": "yes",
+    "payment:notes": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9416664589,
+  "lat": 52.3258830,
+  "lon": 14.6521029,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9646829234,
+  "lat": 52.2381730,
+  "lon": 14.9738072,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9735460886,
+  "lat": 52.1365219,
+  "lon": 14.4582843,
+  "tags": {
+    "access": "customers",
+    "addr:city": "Schlaubetal OT Bremsdorf",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "15890",
+    "addr:street": "Bremsdorfer Mühle",
+    "camp_site": "serviced",
+    "caravans": "yes",
+    "dog": "yes",
+    "drinking_water": "yes",
+    "email": "info@schlaubetal-camping.de",
+    "mobile": "+49 1522/6702232",
+    "name": "Anmeldung",
+    "operator": "Naturcampingplatz Großer Treppelsee",
+    "picnic_table": "yes",
+    "power_supply": "yes",
+    "reservation": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "static_caravans": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://schlaubetal-camping.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 9937586114,
+  "lat": 52.7890956,
+  "lon": 14.2501512,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9956855236,
+  "lat": 52.5807182,
+  "lon": 14.1482721,
+  "tags": {
+    "description": "Ein Holzwagen mit Mineralwasser in Flaschen, Saft, Plastikbechern, Souvenirs und einer Spendenkasse. Im Winter vermutlich nicht verfügbar.",
+    "drink:juice": "yes",
+    "drink:water": "bottled",
+    "drinking_water": "yes",
+    "fee": "donation",
+    "name": "Getränkewagen",
+    "shop": "beverages"
+  }
+},
+{
+  "type": "node",
+  "id": 10722304564,
+  "lat": 52.7873379,
+  "lon": 14.0218742,
+  "tags": {
+    "check_date": "08.03.2023",
+    "drinking_water": "yes",
+    "ele": "11",
+    "image": "https://de.wikipedia.org/wiki/Datei:Eberswalder_Stra%C3%9Fe_Luisenquelle_Bad_Freienwalde_Oder.jpg",
+    "intermittent": "yes",
+    "name": "Luisenquelle",
+    "natural": "spring",
+    "note": "Ein Schild kündet da: \"Kein Trinkwasser.\" Das dürfte unrichtig sein. Auch an der Fuldaquelle (Wasserkuppe, Gersfeld) behauptet ein Schild \"Kein Trinkwasser\". Die Kommune Gersfeld müsste sonst bürgen für die Unbedenklichkeit. Dafür fehlt ihr das Budget.",
+    "source": "Eigener Besuch am 08.03.2023"
+  }
+},
+{
+  "type": "node",
+  "id": 11129482096,
+  "lat": 52.1529901,
+  "lon": 14.1600563,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11381349478,
+  "lat": 52.8735681,
+  "lon": 14.3105032,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11749973257,
+  "lat": 52.3434900,
+  "lon": 14.5531082,
+  "tags": {
+    "access": "yes",
+    "amenity": "no_drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7",
+    "operator": "FWA mbH",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Brunnen (Michael Fischer-Art) 2023 001.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 11771661516,
+  "lat": 52.8372530,
+  "lon": 14.0117707,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11871423627,
+  "lat": 52.0304919,
+  "lon": 14.0760378,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11900999721,
+  "lat": 52.1723043,
+  "lon": 14.2472391,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11979222151,
+  "lat": 52.0139952,
+  "lon": 14.1936734,
+  "tags": {
+    "addr:city": "Schwielochsee",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "15913",
+    "addr:street": "Geisterschlucht",
+    "addr:suburb": "Jessern",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "email": "jessern-camping-am-schwielochsee@gmx.de",
+    "fax": "+4935478179099",
+    "fee": "yes",
+    "hot_water": "yes",
+    "kitchen": "yes",
+    "mobile": "+491754652288",
+    "motor_vehicle": "yes",
+    "motorhome": "yes",
+    "name": "Campingplatz \"An der Geisterschlucht\"",
+    "opening_hours": "Mo-Su 09:00-13:00, 15:00-18:00; Nov-Mar off",
+    "phone": "+4935478608",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "swimming_pool": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "http://www.campingplatz-jessern.de"
+  }
+},
+{
+  "type": "node",
+  "id": 12012727824,
+  "lat": 52.8605883,
+  "lon": 14.3870051,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12104194116,
+  "lat": 52.6389326,
+  "lon": 14.5412515,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12531640447,
+  "lat": 52.1843021,
+  "lon": 14.4423922,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Siehdichum",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "15890",
+    "addr:street": "Am Schervenzsee",
+    "camp_site": "serviced",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "email": "camping@schervenzsee.de",
+    "fee": "yes",
+    "name": "Schlaubetal Camping Schervenzsee",
+    "operator": "Schlaubetal Camping Schervenzsee GmbH",
+    "phone": "+49 33606 770800",
+    "picnic_table": "yes",
+    "power_supply": "yes",
+    "reservation": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "stars": "4",
+    "static_caravans": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.schlaubetal-camping-schervenzsee.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12737345292,
+  "lat": 52.3434906,
+  "lon": 14.5531446,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12782350950,
+  "lat": 52.1669289,
+  "lon": 14.2320791,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12782524555,
+  "lat": 52.1112664,
+  "lon": 14.0758961,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12877326348,
+  "lat": 52.1385766,
+  "lon": 14.2230722,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12888274975,
+  "lat": 52.2460449,
+  "lon": 14.4147611,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "04.06.2025",
+    "fee": "no",
+    "name": "Trinkbrunnen",
+    "operator": "Frankfurter Wasser- und Abwasser GmbH",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}

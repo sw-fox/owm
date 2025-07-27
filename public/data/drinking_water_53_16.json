@@ -1,0 +1,225 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T14:04:54Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1359740466,
+  "lat": 53.2516689,
+  "lon": 16.8000304,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1359740848,
+  "lat": 53.3346903,
+  "lon": 16.7637130,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1362151962,
+  "lat": 53.3604647,
+  "lon": 16.7567791,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3995810411,
+  "lat": 53.9378490,
+  "lon": 16.2915011,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5003695726,
+  "lat": 53.7623313,
+  "lon": 16.0921477,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6599446486,
+  "lat": 53.1544867,
+  "lon": 16.7407176,
+  "tags": {
+    "amenity": "drinking_water",
+    "name:de": "Trinkwasser Wasserhahn",
+    "name:en": "Drinking Water"
+  }
+},
+{
+  "type": "node",
+  "id": 6766017715,
+  "lat": 53.2296568,
+  "lon": 16.4529758,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6766017771,
+  "lat": 53.2430582,
+  "lon": 16.3861722,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6766060861,
+  "lat": 53.5237289,
+  "lon": 16.3095836,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9484613371,
+  "lat": 53.1115493,
+  "lon": 16.8777746,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9687624957,
+  "lat": 53.5335631,
+  "lon": 16.0143369,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9810629086,
+  "lat": 53.7658629,
+  "lon": 16.0931535,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9914005904,
+  "lat": 53.8370589,
+  "lon": 16.4345332,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9966619249,
+  "lat": 53.5892750,
+  "lon": 16.0973780,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10196559556,
+  "lat": 53.7313657,
+  "lon": 16.0434753,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10949789544,
+  "lat": 53.1438485,
+  "lon": 16.7380373,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "seasonal": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10949789559,
+  "lat": 53.1445257,
+  "lon": 16.7451112,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "animal": "yes",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10949789560,
+  "lat": 53.1456099,
+  "lon": 16.7479819,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "animal": "yes",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11007235024,
+  "lat": 53.3222642,
+  "lon": 16.0853371,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12149443874,
+  "lat": 53.2487392,
+  "lon": 16.3874493,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12186223434,
+  "lat": 53.2338844,
+  "lon": 16.7909249,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring",
+    "source": "survey"
+  }
+}
+
+  ]
+}

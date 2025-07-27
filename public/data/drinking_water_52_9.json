@@ -1,0 +1,1124 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:52:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 278358034,
+  "lat": 52.3714361,
+  "lon": 9.7810905,
+  "tags": {
+    "amenity": "fountain",
+    "check_date": "2023-03-29",
+    "drinking_water": "yes",
+    "lit": "no",
+    "name": "Pferdetränke Kleefeld",
+    "wikidata": "Q117324685"
+  }
+},
+{
+  "type": "node",
+  "id": 394883770,
+  "lat": 52.3636732,
+  "lon": 9.7552910,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-09-29",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 510826436,
+  "lat": 52.2849678,
+  "lon": 9.1953534,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-07-28",
+    "name": "Fürstenbrunnen",
+    "natural": "spring",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 747916914,
+  "lat": 52.3973980,
+  "lon": 9.5518298,
+  "tags": {
+    "addr:city": "Seelze",
+    "addr:housenumber": "3",
+    "addr:postcode": "30926",
+    "addr:street": "Am Zweigkanal",
+    "amenity": "fuel",
+    "brand": "Esso",
+    "brand:wikidata": "Q867662",
+    "description": "W. Arnemann GmbH; Dieselkraftstoff (auch für Yachten), Frischwasser, Getränke, Bootszubehör. Mo-Fr 8.00- 17.00 Uhr und Sa 8.00-14.00Uhr. Sonst nach telefonischer Absprache 05137-4636 oder -2401, VHF 14",
+    "drinking_water": "yes",
+    "name": "ESSO-Bunkerstation Lohnde",
+    "phone": "+49 5137 4636",
+    "seamark:small_craft_facility:category": "fuel_station",
+    "seamark:type": "small_craft_facility",
+    "vhf": "14",
+    "waterway": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 798802154,
+  "lat": 52.2834785,
+  "lon": 9.2211978,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Schwefelquelle",
+    "natural": "spring",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 906476488,
+  "lat": 52.0158370,
+  "lon": 9.8021105,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Quelle"
+  }
+},
+{
+  "type": "node",
+  "id": 949804595,
+  "lat": 52.1908173,
+  "lon": 9.3131247,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "yes",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 1760670196,
+  "lat": 52.4528389,
+  "lon": 9.3514414,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1782502295,
+  "lat": 52.4528360,
+  "lon": 9.3513307,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1870267446,
+  "lat": 52.4891750,
+  "lon": 9.2886753,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "Öffentliches WC",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1885273367,
+  "lat": 52.3617168,
+  "lon": 9.7589665,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-04-21",
+    "fountain": "bubbler",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1965638164,
+  "lat": 52.3382817,
+  "lon": 9.8337616,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2987639657,
+  "lat": 52.4421298,
+  "lon": 9.1998257,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Dinosaurierpark Münchehagen",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2987639660,
+  "lat": 52.4422088,
+  "lon": 9.2001737,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Dinosaurierpark Münchehagen",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3006410196,
+  "lat": 52.0826720,
+  "lon": 9.9617841,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "name": "Harzklub Quelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3597271156,
+  "lat": 52.9987902,
+  "lon": 9.8590410,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3643649581,
+  "lat": 52.5102441,
+  "lon": 9.0807274,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3651150106,
+  "lat": 52.2140278,
+  "lon": 9.6261416,
+  "tags": {
+    "access": "yes",
+    "amenity": "fountain",
+    "bottle": "yes",
+    "description": "small access, no wheelchairs",
+    "drinking_water": "yes",
+    "ele": "103",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "man_made": "water_well",
+    "name": "Schöpfstelle Heiliger Brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 3707906049,
+  "lat": 52.3962256,
+  "lon": 9.7860679,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Trinkwasserbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 3716614603,
+  "lat": 52.1574232,
+  "lon": 9.1543957,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Schlingborner Quelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3778058220,
+  "lat": 52.4741012,
+  "lon": 9.2334061,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3783599586,
+  "lat": 52.1156964,
+  "lon": 9.5351399,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3842619596,
+  "lat": 52.3937607,
+  "lon": 9.6849168,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-03-02",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 4016237969,
+  "lat": 52.9854364,
+  "lon": 9.8220308,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Ewiger Brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 4177675460,
+  "lat": 52.3883622,
+  "lon": 9.8134993,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "E-center Wucherpfennig",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4310945508,
+  "lat": 52.5112546,
+  "lon": 9.0802592,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4332550080,
+  "lat": 52.3983981,
+  "lon": 9.8072165,
+  "tags": {
+    "amenity": "fountain",
+    "artist_name": "Bernd Maro",
+    "drinking_water": "yes",
+    "name": "Dorfbrunnen",
+    "start_date": "1997",
+    "wikidata": "Q28916733",
+    "wikimedia_commons": "Category:Dorfbrunnen (Bernd Maro)",
+    "wikipedia": "de:Dorfbrunnen (Hannover)"
+  }
+},
+{
+  "type": "node",
+  "id": 4338713622,
+  "lat": 52.8128401,
+  "lon": 9.9642249,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-11-11",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4404873748,
+  "lat": 52.6641127,
+  "lon": 9.4814989,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4411643906,
+  "lat": 52.1912132,
+  "lon": 9.3132485,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-05-20",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 4471834094,
+  "lat": 52.1536651,
+  "lon": 9.5304604,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4585362501,
+  "lat": 52.4143307,
+  "lon": 9.7782752,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-02-27",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 4738323523,
+  "lat": 52.3398384,
+  "lon": 9.8653449,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4738325224,
+  "lat": 52.3400739,
+  "lon": 9.8655157,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4738325234,
+  "lat": 52.3321873,
+  "lon": 9.8644208,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4752745327,
+  "lat": 52.4391998,
+  "lon": 9.5889318,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4772699915,
+  "lat": 52.0344592,
+  "lon": 9.1360547,
+  "tags": {
+    "addr:city": "Barntrup",
+    "addr:housenumber": "34",
+    "addr:postcode": "32683",
+    "addr:street": "Ostersiek",
+    "amenity": "drinking_water",
+    "description:de": "Wanderreiter bitte Voranmeldung / Kontaktaufnahme über die Mobilnummer - privates Gestüt, Distanzreiter, wir helfen gern, wenn wir können,Notfalls auch mit \"Taxi\" und/oder Quartier für Ross & Reiter..",
+    "email": "araber@el-dimor.de",
+    "name": "EL DIMOR - Vollblutaraber zum Reiten",
+    "phone": "+49 171 8047611"
+  }
+},
+{
+  "type": "node",
+  "id": 4826772375,
+  "lat": 52.3151825,
+  "lon": 9.5994365,
+  "tags": {
+    "amenity": "drinking_water",
+    "start_date": "2024-10"
+  }
+},
+{
+  "type": "node",
+  "id": 4986258410,
+  "lat": 52.6714991,
+  "lon": 9.9356342,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4986258411,
+  "lat": 52.6718362,
+  "lon": 9.9346894,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5072217446,
+  "lat": 52.3353050,
+  "lon": 9.3765501,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Heilwasser Trinkquelle (Schwefelquelle)",
+    "opening_hours": "Nov-Apr: Mo-Tu 09:00-18:00, Tu 09:00-14:00, Th-Fr 09:00-18:00; May-Oct: Mo-Tu 09:00-18:00, Tu 09:00-14:00, Th-Fr 09:00-18:00, Sa-Su 14:00-18:00",
+    "website": "https://www.badnenndorf.de/assets/PDF-Dokumente/HEILWASSER-TRINKQUELLE-2015.pdf",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5876351192,
+  "lat": 52.4869249,
+  "lon": 9.0233521,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Kostenloses Trinkwasser von Privat",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6139071985,
+  "lat": 52.4222089,
+  "lon": 9.5576290,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "unknown",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7481967914,
+  "lat": 52.0880554,
+  "lon": 9.1364408,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7529957666,
+  "lat": 52.2300147,
+  "lon": 9.5631864,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 7605730775,
+  "lat": 52.0421889,
+  "lon": 9.6160826,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "An der Strulle"
+  }
+},
+{
+  "type": "node",
+  "id": 7643538787,
+  "lat": 52.3575260,
+  "lon": 9.8248001,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7746286480,
+  "lat": 52.2350063,
+  "lon": 9.8508981,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 7775580405,
+  "lat": 52.4296120,
+  "lon": 9.2063866,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7775580406,
+  "lat": 52.4296044,
+  "lon": 9.2065271,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7847658347,
+  "lat": 52.1930889,
+  "lon": 9.2902553,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8438602170,
+  "lat": 52.6836367,
+  "lon": 9.2239461,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 8443128679,
+  "lat": 52.2133173,
+  "lon": 9.8362741,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9035493205,
+  "lat": 52.3503465,
+  "lon": 9.7234616,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9038715696,
+  "lat": 52.1121620,
+  "lon": 9.6233301,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "name": "Pferde Brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 9592713994,
+  "lat": 52.9209839,
+  "lon": 9.2290396,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Verden GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 9867433076,
+  "lat": 52.4131605,
+  "lon": 9.8128950,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Die Freie Waldorfschule Hannover-Bothfeld hat für ihre Schüler einen Trinkbrunnen auf dem Schulhof installiert. Das Schulgelände ist öffentlich betretbar. Bitte die Hinweise am Eingang beachten, wie z.B. keine Handynutzung und Fahrräder zu schieben.",
+    "fountain": "bottle_refill",
+    "image": "https://waldorfschule-bothfeld.de/images/Trinkflaschenbrunnen_21.jpeg",
+    "operator": "Freie Waldorfschule Hannover-Bothfeld",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9870525205,
+  "lat": 52.8107391,
+  "lon": 9.3272601,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Trinkwasserverband Verden"
+  }
+},
+{
+  "type": "node",
+  "id": 9922874381,
+  "lat": 52.3723274,
+  "lon": 9.7374146,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadt Hannover"
+  }
+},
+{
+  "type": "node",
+  "id": 9922971027,
+  "lat": 52.3755952,
+  "lon": 9.7065311,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadt Hannover"
+  }
+},
+{
+  "type": "node",
+  "id": 9922971036,
+  "lat": 52.3704130,
+  "lon": 9.7138592,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadt Hannover"
+  }
+},
+{
+  "type": "node",
+  "id": 9934986113,
+  "lat": 52.3428440,
+  "lon": 9.7554576,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "enercity"
+  }
+},
+{
+  "type": "node",
+  "id": 9937794896,
+  "lat": 52.3560284,
+  "lon": 9.7380773,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadt Hannover",
+    "source": "https://www.hannover.de/Service/Presse-Medien/Landeshauptstadt-Hannover/Aktuelle-Meldungen-und-Veranstaltungen/Vier-neue-Trinkwasserbrunnen-in-Betrieb"
+  }
+},
+{
+  "type": "node",
+  "id": 9939425899,
+  "lat": 52.4405587,
+  "lon": 9.3861611,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10012283908,
+  "lat": 52.1670491,
+  "lon": 9.2516165,
+  "tags": {
+    "addr:city": "Hessisch Oldendorf",
+    "addr:postcode": "31840",
+    "addr:street": "Weserstraße",
+    "amenity": "drinking_water",
+    "capacity:caravans": "5",
+    "caravan_site": "motorhome_stopover",
+    "caravan_site:type": "parking_lot",
+    "caravans": "no",
+    "fee": "no",
+    "maxstay": "5 days",
+    "name": "P Südwall",
+    "sanitary_dump_station": "yes",
+    "sanitary_dump_station:grey_water": "yes",
+    "tents": "no",
+    "tourism": "caravan_site"
+  }
+},
+{
+  "type": "node",
+  "id": 10285784687,
+  "lat": 52.3755739,
+  "lon": 9.7973947,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11066817799,
+  "lat": 52.2724241,
+  "lon": 9.9488568,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Privat",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11099577856,
+  "lat": 52.3006141,
+  "lon": 9.4613381,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11238054995,
+  "lat": 52.3135244,
+  "lon": 9.6003166,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "operator": "Stadt Gehrden"
+  }
+},
+{
+  "type": "node",
+  "id": 11517757435,
+  "lat": 52.8453583,
+  "lon": 9.2270961,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "charge": "1 EUR",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "operator": "Wohnmobilstellplatz Dörverden",
+    "wikimedia_commons": "File:Dörverden RV stopover power and water supply.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 11781213586,
+  "lat": 52.2713551,
+  "lon": 9.5669315,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11953469488,
+  "lat": 52.4172106,
+  "lon": 9.4319119,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11984968198,
+  "lat": 52.5102319,
+  "lon": 9.0773916,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12031157647,
+  "lat": 52.9822202,
+  "lon": 9.9226141,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Trinkwasser-Spender steht im Raum der Information",
+    "fee": "no",
+    "indoor": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12102054059,
+  "lat": 52.4216508,
+  "lon": 9.7968593,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12154105270,
+  "lat": 52.1523351,
+  "lon": 9.9532918,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12154105271,
+  "lat": 52.1574677,
+  "lon": 9.9525032,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12168386917,
+  "lat": 52.8908277,
+  "lon": 9.0979275,
+  "tags": {
+    "addr:city": "Martfeld",
+    "addr:housenumber": "3",
+    "addr:postcode": "27327",
+    "addr:street": "Mallenweg",
+    "capacity": "3",
+    "caravans": "yes",
+    "contact:email": "info@mallenhof.de",
+    "contact:mobile": "+49 160 97979493",
+    "contact:phone": "+49 4255 9838888",
+    "contact:website": "https://www.mallenhof.de/camping/",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "motorhome": "yes",
+    "name": "Mallenhof",
+    "operator": "Dirk Bröer",
+    "shower": "yes",
+    "toilets": "yes",
+    "tourism": "caravan_site"
+  }
+},
+{
+  "type": "node",
+  "id": 12189744449,
+  "lat": 52.9839622,
+  "lon": 9.1191427,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 12199189701,
+  "lat": 52.4260100,
+  "lon": 9.4277690,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Avacon Wasser"
+  }
+},
+{
+  "type": "node",
+  "id": 12215903671,
+  "lat": 52.8243196,
+  "lon": 9.0528711,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "check_date": "2024-09-19",
+    "covered": "no",
+    "operator": "Lüttsche-Hoff"
+  }
+},
+{
+  "type": "node",
+  "id": 12362096817,
+  "lat": 52.3677781,
+  "lon": 9.0054743,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Stadt Petershagen"
+  }
+},
+{
+  "type": "node",
+  "id": 12382069143,
+  "lat": 52.1045631,
+  "lon": 9.3567418,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12430825880,
+  "lat": 52.3396579,
+  "lon": 9.7634918,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 12513034444,
+  "lat": 52.7606933,
+  "lon": 9.5887869,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12541777314,
+  "lat": 52.9922681,
+  "lon": 9.2484896,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Join the pipe"
+  }
+},
+{
+  "type": "node",
+  "id": 12740983374,
+  "lat": 52.3883645,
+  "lon": 9.7456494,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "hot_water": "no",
+    "iced_water": "no",
+    "panoramax": "4eab73ef-8390-4bd2-9001-470020e9c589",
+    "room_temperature_water": "yes",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12753285930,
+  "lat": 52.3913726,
+  "lon": 9.7355190,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12825603440,
+  "lat": 52.4474888,
+  "lon": 9.6525366,
+  "tags": {
+    "drinking_water": "yes",
+    "handle": "lever",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 12880808769,
+  "lat": 52.7710999,
+  "lon": 9.4276603,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "operator": "Campingplatz Rittergut Frankenfeld"
+  }
+},
+{
+  "type": "node",
+  "id": 12880808772,
+  "lat": 52.7715117,
+  "lon": 9.4286808,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "operator": "Campingplatz Rittergut Frankenfeld"
+  }
+}
+
+  ]
+}

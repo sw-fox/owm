@@ -1,0 +1,5531 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:50:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1524999973,
+  "lat": 52.6634887,
+  "lon": 6.2858343,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "historic": "yes",
+    "indoor": "no",
+    "man_made": "water_well",
+    "operator": "WMD Drents drinkwater",
+    "pump": "yes",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1563458166,
+  "lat": 52.2535932,
+  "lon": 6.7271327,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Camping Mooi Delden",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.mooidelden.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 1712794372,
+  "lat": 52.5119733,
+  "lon": 6.0927068,
+  "tags": {
+    "amenity": "drinking_water",
+    "source": "http://join-the-pipe.org/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1988629082,
+  "lat": 52.9974995,
+  "lon": 6.5604794,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "indoor": "yes",
+    "level": "0",
+    "name": "Join the Pipe",
+    "operational_status": "broken",
+    "website": "https://join-the-pipe.org/nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2172133175,
+  "lat": 52.5369212,
+  "lon": 6.1297517,
+  "tags": {
+    "addr:city": "Zwolle",
+    "addr:housenumber": "27",
+    "addr:postcode": "8034PJ",
+    "addr:street": "Haersterveerweg",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "De Agnietenberg",
+    "operator": "Molecaten",
+    "phone": "+31 38 453 1530",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.campingagnietenberg.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2389029068,
+  "lat": 52.1992618,
+  "lon": 6.2001733,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2831327754,
+  "lat": 52.4250166,
+  "lon": 6.9917511,
+  "tags": {
+    "addr:city": "Lattrop-Breklenkamp",
+    "addr:housenumber": "12",
+    "addr:postcode": "7635NH",
+    "addr:street": "Breemorsweg",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Camping De Rammelbeek",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 2924461735,
+  "lat": 52.2388816,
+  "lon": 6.8558018,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3096571154,
+  "lat": 52.2851782,
+  "lon": 6.6043297,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3157172020,
+  "lat": 52.5201196,
+  "lon": 6.0104249,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "Waterpomp"
+  }
+},
+{
+  "type": "node",
+  "id": 3354504392,
+  "lat": 52.0778093,
+  "lon": 6.9834745,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3473804963,
+  "lat": 52.3515667,
+  "lon": 6.1926949,
+  "tags": {
+    "cabins": "yes",
+    "capacity": "25",
+    "capacity:cabins": "2",
+    "caravans": "yes",
+    "cooker": "yes",
+    "dish_washing": "yes",
+    "dish_washing:fee": "yes",
+    "dog": "leashed",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "fridge": "icebox",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "kettle": "yes",
+    "kitchen": "true",
+    "laundry_centrifuge": "no",
+    "microwave": "yes",
+    "motorhome": "yes",
+    "name": "Natuurkampeerterrein De Marsbelte",
+    "permanent_camping": "no",
+    "picnic_table": "yes",
+    "power_supply": "yes",
+    "sanitary_dump_station": "customers",
+    "shelter": "yes",
+    "shower": "hot",
+    "shower:fee": "yes",
+    "static_caravans": "no",
+    "swimming_pool": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "washing_machine": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3581805693,
+  "lat": 52.5045687,
+  "lon": 6.4121894,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3629267462,
+  "lat": 52.2517003,
+  "lon": 6.1532397,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-08-31",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 3639728266,
+  "lat": 52.1409334,
+  "lon": 6.1968525,
+  "tags": {
+    "amenity": "drinking_water",
+    "contact:website": "https://www.destentor.nl/regio/zutphen/watertappunt-bij-fontein-op-zutphense-houtmarkt-1.3908528",
+    "description": "Sponsored by Gemeente Zutphen & Woonwinkel Bella Tinta",
+    "man_made": "water_tap",
+    "name": "Join The Pipe",
+    "start_date": "11-07-2013",
+    "website": "https://join-the-pipe.org/nl"
+  }
+},
+{
+  "type": "node",
+  "id": 3679154141,
+  "lat": 52.2333685,
+  "lon": 6.4055903,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3682617435,
+  "lat": 52.3966679,
+  "lon": 6.3732201,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3725327687,
+  "lat": 52.6972311,
+  "lon": 6.1902515,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3740323699,
+  "lat": 52.2193166,
+  "lon": 6.8963469,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3756251706,
+  "lat": 52.1963939,
+  "lon": 6.1010056,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "operator": "LeisureLands",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 3756251713,
+  "lat": 52.1972296,
+  "lon": 6.0939903,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "LeisureLands",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 3799918058,
+  "lat": 52.5057338,
+  "lon": 6.0909651,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-04-01",
+    "man_made": "water_tap",
+    "operator": "NS",
+    "panoramax": "151192de-7d94-477e-a9fb-8283a261ce9c"
+  }
+},
+{
+  "type": "node",
+  "id": 3804210148,
+  "lat": 52.4389828,
+  "lon": 6.0721258,
+  "tags": {
+    "amenity": "drinking_water",
+    "note": "check: operational on 19 Sep 2016"
+  }
+},
+{
+  "type": "node",
+  "id": 3876062348,
+  "lat": 52.3575103,
+  "lon": 6.6590852,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 3896157226,
+  "lat": 52.2820014,
+  "lon": 6.4218393,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Dorpspomp",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 3938067249,
+  "lat": 52.0424979,
+  "lon": 6.6172391,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-05-25",
+    "indoor": "no",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 4178692801,
+  "lat": 52.2071808,
+  "lon": 6.2979959,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4213398000,
+  "lat": 52.4797570,
+  "lon": 6.4121720,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Drinkwater voor dieren",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4261368489,
+  "lat": 52.7593115,
+  "lon": 6.2315626,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4429677703,
+  "lat": 52.4380507,
+  "lon": 6.0889281,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4585502167,
+  "lat": 52.4597086,
+  "lon": 6.4211128,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 4611525608,
+  "lat": 52.2532736,
+  "lon": 6.1633507,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4747350879,
+  "lat": 52.5076471,
+  "lon": 6.1056435,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "water point"
+  }
+},
+{
+  "type": "node",
+  "id": 4756769733,
+  "lat": 52.3786122,
+  "lon": 6.8285772,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4787814677,
+  "lat": 52.2514268,
+  "lon": 6.1598662,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "room_temperature_water": "yes",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4802307646,
+  "lat": 52.4749689,
+  "lon": 6.0665951,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4807802840,
+  "lat": 52.2103233,
+  "lon": 6.0745775,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "darkblue",
+    "fee": "no",
+    "man_made": "water_tap",
+    "material": "steel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4829449534,
+  "lat": 52.0065494,
+  "lon": 6.3496028,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4840265593,
+  "lat": 52.4568815,
+  "lon": 6.0770961,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4852101022,
+  "lat": 52.2206992,
+  "lon": 6.8955755,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-03-06",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 4856049895,
+  "lat": 52.5749360,
+  "lon": 6.6134435,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4856049899,
+  "lat": 52.5755784,
+  "lon": 6.6205489,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4878850223,
+  "lat": 52.2173511,
+  "lon": 6.8993471,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4952054778,
+  "lat": 52.2145455,
+  "lon": 6.0044107,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4994183116,
+  "lat": 52.2039479,
+  "lon": 6.1100144,
+  "tags": {
+    "addr:city": "Wilp",
+    "addr:housenumber": "21",
+    "addr:street": "Kneuterstraat",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "LeisureLands",
+    "source": "BAG",
+    "source:date": "2017-07-26",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 4995656925,
+  "lat": 52.2035864,
+  "lon": 6.0933532,
+  "tags": {
+    "addr:city": "Wilp",
+    "addr:housenumber": "27",
+    "addr:street": "Kneuterstraat",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "LeisureLands",
+    "source": "BAG",
+    "source:date": "2017-07-26",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5254550014,
+  "lat": 52.0669749,
+  "lon": 6.5623496,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5309977722,
+  "lat": 52.1389774,
+  "lon": 6.2278932,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Join The Pipe",
+    "website": "https://www.join-the-pipe.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 5313750001,
+  "lat": 52.6740841,
+  "lon": 6.7751352,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5331491213,
+  "lat": 52.3078686,
+  "lon": 6.6560204,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5376695621,
+  "lat": 52.2571053,
+  "lon": 6.1604187,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Drinkfontein Stationsplein",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5437595824,
+  "lat": 52.1665019,
+  "lon": 6.0254069,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Klarenbeek",
+    "addr:housenumber": "2016",
+    "addr:postcode": "7381AZ",
+    "addr:street": "Rijksweg A50",
+    "amenity": "toilets",
+    "atmotorway": "yes",
+    "brand": "2theloo",
+    "brand:wikidata": "Q124769436",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "2theloo",
+    "toilets:disposal": "flush",
+    "website": "https://2theloo.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5540542951,
+  "lat": 52.1638554,
+  "lon": 6.3175427,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5590823613,
+  "lat": 52.2537584,
+  "lon": 6.1564945,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5615258880,
+  "lat": 52.1389329,
+  "lon": 6.5275154,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5624342753,
+  "lat": 52.2438417,
+  "lon": 6.8527140,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5671476819,
+  "lat": 52.5254710,
+  "lon": 6.0809985,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5720188521,
+  "lat": 52.5172759,
+  "lon": 6.1995609,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5752402278,
+  "lat": 52.4555240,
+  "lon": 6.0402837,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-05-11",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 5771743876,
+  "lat": 52.4536856,
+  "lon": 6.0030323,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5771743877,
+  "lat": 52.4609844,
+  "lon": 6.0003237,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5804166411,
+  "lat": 52.2623847,
+  "lon": 6.7948836,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-02-27",
+    "description": "Drinking water fountain with four faucets. Only cold water can be tapped. A Dutch sponsor's designation plate is recessed in the ground close by. NB: Might not operate during a frost period.",
+    "fee": "no",
+    "man_made": "water_tap",
+    "source": "survey;aerial imagery"
+  }
+},
+{
+  "type": "node",
+  "id": 5826922285,
+  "lat": 52.9873092,
+  "lon": 6.6456316,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5928165853,
+  "lat": 52.5122435,
+  "lon": 6.0959436,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6025456277,
+  "lat": 52.1431256,
+  "lon": 6.1961274,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "drinkwaterpunt Vitens",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6030008393,
+  "lat": 52.1706201,
+  "lon": 6.2267190,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6051686485,
+  "lat": 52.2052864,
+  "lon": 6.0006382,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Apeldoorn",
+    "addr:housenumber": "60",
+    "addr:postcode": "7325AV",
+    "addr:street": "Laan van Zonnehoeve",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "join the piper-happer tapper",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6082536368,
+  "lat": 52.0294945,
+  "lon": 6.0217765,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2024-07-02",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours": "10:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6269396616,
+  "lat": 52.5037056,
+  "lon": 6.0898040,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-04-07",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 6313080217,
+  "lat": 52.1072581,
+  "lon": 6.3172131,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "join the pipe"
+  }
+},
+{
+  "type": "node",
+  "id": 6349558927,
+  "lat": 52.0171394,
+  "lon": 6.1310701,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2024-07-03",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6377666116,
+  "lat": 52.2046763,
+  "lon": 6.0088340,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "material": "metal",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 6406666068,
+  "lat": 52.9454002,
+  "lon": 6.7409491,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6424081267,
+  "lat": 52.5345724,
+  "lon": 6.4923062,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6481271485,
+  "lat": 52.3122013,
+  "lon": 6.9293132,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-08-14",
+    "name": "Watertap",
+    "name:en": "tap water",
+    "operator": "Gemeente Oldenzaal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6536948585,
+  "lat": 52.1575423,
+  "lon": 6.1440785,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Join the pipe"
+  }
+},
+{
+  "type": "node",
+  "id": 6536948686,
+  "lat": 52.1782121,
+  "lon": 6.0838807,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Join the pipe"
+  }
+},
+{
+  "type": "node",
+  "id": 6679891943,
+  "lat": 52.5811613,
+  "lon": 6.2824820,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6688200184,
+  "lat": 52.3569360,
+  "lon": 6.6564779,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "operator": "Nederlandse Spoorwegen",
+    "operator:wikidata": "Q23076"
+  }
+},
+{
+  "type": "node",
+  "id": 6695759345,
+  "lat": 52.7855957,
+  "lon": 6.9002285,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6707570929,
+  "lat": 52.8524405,
+  "lon": 6.7508512,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Ellert en Brammert",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6749761578,
+  "lat": 52.6893991,
+  "lon": 6.2683730,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 6751300148,
+  "lat": 52.7908294,
+  "lon": 6.1174254,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "panoramax": "4757e2aa-86a1-491f-857d-63bcfbe6cfae"
+  }
+},
+{
+  "type": "node",
+  "id": 6795238487,
+  "lat": 52.2179841,
+  "lon": 6.3459119,
+  "tags": {
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "54",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 6795238498,
+  "lat": 52.2184200,
+  "lon": 6.3463518,
+  "tags": {
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "50",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 6795238524,
+  "lat": 52.2181713,
+  "lon": 6.3442980,
+  "tags": {
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "64",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 6795238525,
+  "lat": 52.2178073,
+  "lon": 6.3456533,
+  "tags": {
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "56",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 6795238535,
+  "lat": 52.2185195,
+  "lon": 6.3463818,
+  "tags": {
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "ref": "51",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 6795268150,
+  "lat": 52.2177195,
+  "lon": 6.3441301,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "no",
+    "changing_table:location": "room",
+    "check_date": "2024-07-21",
+    "drinking_water": "yes",
+    "fee": "no",
+    "gender_segregated": "no",
+    "toilets:hand_drying": "paper_towel",
+    "toilets:handwashing": "yes",
+    "toilets:hot_water": "yes",
+    "toilets:paper_supplied": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6812511347,
+  "lat": 52.2164260,
+  "lon": 6.3485987,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "handwashing:creme": "no",
+    "handwashing:hand_cleaning_paste": "no",
+    "handwashing:hand_disinfection": "no",
+    "handwashing:soap": "no",
+    "indoor": "no",
+    "lit": "yes",
+    "supervised": "no",
+    "toilets:disposal": "flush",
+    "toilets:hand_drying": "no",
+    "toilets:handwashing": "yes",
+    "toilets:hot_water": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6812511350,
+  "lat": 52.2160079,
+  "lon": 6.3469592,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "check_date": "2024-07-21",
+    "drinking_water": "yes",
+    "fee": "no",
+    "handwashing:creme": "no",
+    "handwashing:hand_cleaning_paste": "no",
+    "handwashing:hand_disinfection": "no",
+    "handwashing:soap": "no",
+    "indoor": "no",
+    "lit": "yes",
+    "supervised": "no",
+    "toilets:disposal": "flush",
+    "toilets:hand_drying": "no",
+    "toilets:handwashing": "yes",
+    "toilets:hot_water": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6812511351,
+  "lat": 52.2172911,
+  "lon": 6.3465003,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "check_date": "2024-07-21",
+    "drinking_water": "yes",
+    "fee": "no",
+    "handwashing:creme": "no",
+    "handwashing:hand_cleaning_paste": "no",
+    "handwashing:hand_disinfection": "no",
+    "handwashing:soap": "no",
+    "indoor": "no",
+    "lit": "yes",
+    "supervised": "no",
+    "toilets:disposal": "flush",
+    "toilets:hand_drying": "no",
+    "toilets:handwashing": "yes",
+    "toilets:hot_water": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6812511353,
+  "lat": 52.2182360,
+  "lon": 6.3463535,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2024-07-21",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "supervised": "no",
+    "toilets:hand_drying": "no",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 6814582473,
+  "lat": 52.9934093,
+  "lon": 6.5633536,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drents drinkwater",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 6848277851,
+  "lat": 52.1673127,
+  "lon": 6.1225076,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6908807352,
+  "lat": 52.0809573,
+  "lon": 6.4495286,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "name": "Join the Pipe"
+  }
+},
+{
+  "type": "node",
+  "id": 6952199702,
+  "lat": 52.1691264,
+  "lon": 6.0684014,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "yes",
+    "fee": "no",
+    "operator": "Vitens",
+    "warm_water": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6985623434,
+  "lat": 52.0178501,
+  "lon": 6.0492199,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7031028542,
+  "lat": 52.6769197,
+  "lon": 6.4291473,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "note": "source used with permission from WMD",
+    "opening_hours": "24/7",
+    "operator": "WMD Drents drinkwater",
+    "panoramax": "69e250ca-672b-458d-8a33-c0f9c5f6422d",
+    "source": "https://wmd.nl/wmd/wmd-watertap/",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7031028543,
+  "lat": 52.7242119,
+  "lon": 6.5108236,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drents drinkwater",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 7031028544,
+  "lat": 52.6955277,
+  "lon": 6.6096414,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "note": "source used with permission from WMD",
+    "operator": "WMD Drents drinkwater",
+    "source": "https://wmd.nl/wmd/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 7031028545,
+  "lat": 52.6634194,
+  "lon": 6.8844167,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "note": "source used with permission from WMD",
+    "operator": "WMD Drents drinkwater",
+    "source": "https://wmd.nl/wmd/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 7031038879,
+  "lat": 52.9924012,
+  "lon": 6.5701422,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Drinking water, available outside the winter season",
+    "fee": "no",
+    "man_made": "water_tap",
+    "note": "source used with permission from WMD; Only available outside winter",
+    "opening_hours": "24/7",
+    "operator": "WMD Drents drinkwater",
+    "panoramax": "4ee957ae-d8b3-4e4c-abaa-b02bb22f451d",
+    "seasonal": "spring;summer;autumn",
+    "source": "https://wmd.nl/wmd/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 7037691048,
+  "lat": 52.5722495,
+  "lon": 6.6276799,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bottle_refill",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7083631685,
+  "lat": 52.0447146,
+  "lon": 6.1021359,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7089823608,
+  "lat": 52.2984844,
+  "lon": 6.7490047,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "ProRail"
+  }
+},
+{
+  "type": "node",
+  "id": 7093000985,
+  "lat": 52.0457723,
+  "lon": 6.0979633,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7115645597,
+  "lat": 52.1444572,
+  "lon": 6.1942326,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Nederlandse Spoorwegen",
+    "operator:wikidata": "Q23076",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7264482170,
+  "lat": 52.3114804,
+  "lon": 6.5193115,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7376764124,
+  "lat": 52.3658143,
+  "lon": 6.4433243,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Watertappunt aan het begin van de Nijverdalsebergweg.",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7444366614,
+  "lat": 52.0100430,
+  "lon": 6.0312541,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "NS",
+    "operator:wikidata": "Q23076",
+    "operator:wikipedia": "nl:Nederlandse Spoorwegen",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Station Rheden watertappunt (2).jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 7498803793,
+  "lat": 52.5091155,
+  "lon": 6.5739996,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7537555710,
+  "lat": 52.2568805,
+  "lon": 6.1649129,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7537555711,
+  "lat": 52.2543471,
+  "lon": 6.1758455,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "operator": "Join the Pipe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7549437578,
+  "lat": 52.2631332,
+  "lon": 6.1175910,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7559550723,
+  "lat": 52.2220381,
+  "lon": 6.0134465,
+  "tags": {
+    "amenity": "drinking_water",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 7632744796,
+  "lat": 52.8872062,
+  "lon": 6.2460048,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 7655071425,
+  "lat": 52.3910810,
+  "lon": 6.2785941,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7656891604,
+  "lat": 52.4002245,
+  "lon": 6.0121107,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7702414782,
+  "lat": 52.4036614,
+  "lon": 6.0117898,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7702437189,
+  "lat": 52.4017806,
+  "lon": 6.0130346,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7756922992,
+  "lat": 52.9203513,
+  "lon": 6.5596463,
+  "tags": {
+    "access": "customers",
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7756922993,
+  "lat": 52.9201389,
+  "lon": 6.5597031,
+  "tags": {
+    "access": "customers",
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7756922994,
+  "lat": 52.9207953,
+  "lon": 6.5590748,
+  "tags": {
+    "access": "customers",
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7756922995,
+  "lat": 52.9205549,
+  "lon": 6.5589514,
+  "tags": {
+    "access": "customers",
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7756922997,
+  "lat": 52.9204933,
+  "lon": 6.5591204,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Camping Tikvah",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7756923001,
+  "lat": 52.9205641,
+  "lon": 6.5590385,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "no",
+    "operator": "Camping Tikvah",
+    "toilets:disposal": "flush",
+    "unisex": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7756923015,
+  "lat": 52.9205721,
+  "lon": 6.5590862,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "no",
+    "male": "yes",
+    "operator": "Camping Tikvah",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7781634563,
+  "lat": 52.7244112,
+  "lon": 6.4776148,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7820900373,
+  "lat": 52.0142714,
+  "lon": 6.1347993,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7826978605,
+  "lat": 52.1626981,
+  "lon": 6.4199332,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7844505185,
+  "lat": 52.3754763,
+  "lon": 6.0142444,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7865559422,
+  "lat": 52.3951172,
+  "lon": 6.0408760,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7904744840,
+  "lat": 52.9891766,
+  "lon": 6.9511007,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt Stadskanaal Menistenlaan",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 7942030529,
+  "lat": 52.6638544,
+  "lon": 6.2859415,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7944305273,
+  "lat": 52.8003405,
+  "lon": 6.0549593,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Public water tap located on the outside wall of the \" Don Bosco\" school building.",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8008178737,
+  "lat": 52.7865243,
+  "lon": 6.8878561,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8041898850,
+  "lat": 52.3499992,
+  "lon": 6.8554647,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8084698193,
+  "lat": 52.1780239,
+  "lon": 6.0840689,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8296358541,
+  "lat": 52.2839709,
+  "lon": 6.4214115,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "NS",
+    "operator:wikidata": "Q23076"
+  }
+},
+{
+  "type": "node",
+  "id": 8314867810,
+  "lat": 52.5182672,
+  "lon": 6.4215715,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8366710664,
+  "lat": 52.7833982,
+  "lon": 6.8918514,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8380651451,
+  "lat": 52.3899256,
+  "lon": 6.4475544,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8425524680,
+  "lat": 52.4319140,
+  "lon": 6.0745259,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8478324971,
+  "lat": 52.5361109,
+  "lon": 6.8380047,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8478341953,
+  "lat": 52.6026837,
+  "lon": 6.8489910,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8494568419,
+  "lat": 52.8552911,
+  "lon": 6.3168598,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8603258227,
+  "lat": 52.3051553,
+  "lon": 6.8870340,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8665777843,
+  "lat": 52.4047749,
+  "lon": 6.8878849,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8665777848,
+  "lat": 52.4046932,
+  "lon": 6.8881598,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8688625346,
+  "lat": 52.9209925,
+  "lon": 6.5699408,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drents drinkwater",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 8693045488,
+  "lat": 52.0294999,
+  "lon": 6.0219486,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725339692,
+  "lat": 52.9222451,
+  "lon": 6.7961419,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fixme": "Controleren op aanwezigheid i.v.m. nieuwbouw sporthal",
+    "operator": "WMD Drents water",
+    "source": "survey",
+    "survey:date": "2021-05-12",
+    "url": "https://wmd.nl/wmd/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 8725497059,
+  "lat": 52.7155665,
+  "lon": 6.8567660,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8777193270,
+  "lat": 52.5100926,
+  "lon": 6.4175530,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8779164819,
+  "lat": 52.3994200,
+  "lon": 6.5086947,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8779387880,
+  "lat": 52.7929805,
+  "lon": 6.9356218,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8779392982,
+  "lat": 52.7258194,
+  "lon": 6.9856912,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drents drinkwater",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 8780830418,
+  "lat": 52.8562106,
+  "lon": 6.6078396,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drents drinkwater",
+    "operator:wikidata": "Q63152976",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 8805438699,
+  "lat": 52.6631341,
+  "lon": 6.7361128,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8844695487,
+  "lat": 52.6921507,
+  "lon": 6.1976300,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "panoramax": "9dde964b-ba18-45f0-ba56-731bbf3ed0ae"
+  }
+},
+{
+  "type": "node",
+  "id": 8846533376,
+  "lat": 52.2537237,
+  "lon": 6.1522154,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "drinking",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8857112785,
+  "lat": 52.9936996,
+  "lon": 6.6867311,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drents drinkwater",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 8901065703,
+  "lat": 52.7900512,
+  "lon": 6.8995087,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "panoramax": "db0652f0-5307-4969-b95b-713b04d3fa5b",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8919101109,
+  "lat": 52.3793007,
+  "lon": 6.5907841,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "jul-aug: sunrise-sunset"
+  }
+},
+{
+  "type": "node",
+  "id": 8919101110,
+  "lat": 52.3812965,
+  "lon": 6.5873623,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "jul-aug: sunrise-sunset"
+  }
+},
+{
+  "type": "node",
+  "id": 8919101111,
+  "lat": 52.3816291,
+  "lon": 6.5922025,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "may-sep: sunrise-sunset"
+  }
+},
+{
+  "type": "node",
+  "id": 8920400573,
+  "lat": 52.1289410,
+  "lon": 6.3643836,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8951093385,
+  "lat": 52.9869548,
+  "lon": 6.9560970,
+  "tags": {
+    "amenity": "drinking_water",
+    "fixme": "exacte locatie",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Stadskanaal",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078"
+  }
+},
+{
+  "type": "node",
+  "id": 8978424087,
+  "lat": 52.8605557,
+  "lon": 6.7348055,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "parking": "no",
+    "permanent_camping": "no",
+    "power_supply": "yes",
+    "ref": "5",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 8978424088,
+  "lat": 52.8604816,
+  "lon": 6.7350206,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "parking": "no",
+    "permanent_camping": "no",
+    "power_supply": "yes",
+    "ref": "4",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 8978424089,
+  "lat": 52.8606559,
+  "lon": 6.7347470,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "parking": "no",
+    "permanent_camping": "no",
+    "power_supply": "yes",
+    "ref": "6",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 8978424090,
+  "lat": 52.8607857,
+  "lon": 6.7349640,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "parking": "no",
+    "permanent_camping": "no",
+    "power_supply": "yes",
+    "ref": "1",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 8978424091,
+  "lat": 52.8606707,
+  "lon": 6.7351903,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "parking": "no",
+    "permanent_camping": "no",
+    "power_supply": "yes",
+    "ref": "2",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 8978424092,
+  "lat": 52.8605317,
+  "lon": 6.7352149,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "parking": "no",
+    "permanent_camping": "no",
+    "power_supply": "yes",
+    "ref": "3",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 8978424093,
+  "lat": 52.8602573,
+  "lon": 6.7346452,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "parking": "no",
+    "permanent_camping": "no",
+    "power_supply": "yes",
+    "ref": "9",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 8978424094,
+  "lat": 52.8605679,
+  "lon": 6.7342177,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "parking": "no",
+    "permanent_camping": "no",
+    "power_supply": "yes",
+    "ref": "12",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 8978424095,
+  "lat": 52.8603888,
+  "lon": 6.7342264,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "parking": "no",
+    "permanent_camping": "no",
+    "power_supply": "yes",
+    "ref": "11",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 9015302954,
+  "lat": 52.1783461,
+  "lon": 6.1422340,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9137279877,
+  "lat": 52.7333147,
+  "lon": 6.4728933,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9155674456,
+  "lat": 52.2622229,
+  "lon": 6.7939979,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "operator": "Nederlandse Spoorwegen",
+    "operator:wikidata": "Q23076",
+    "panoramax": "3ca767e8-9f75-4bbb-a5b7-fe1290f054c4",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9181078502,
+  "lat": 52.9346332,
+  "lon": 6.2868275,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9561232916,
+  "lat": 52.1405025,
+  "lon": 6.5772761,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Hof van moeder aarde",
+    "ref": "Waterkraan z1"
+  }
+},
+{
+  "type": "node",
+  "id": 9561253917,
+  "lat": 52.1397126,
+  "lon": 6.5759736,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Hof van moeder aarde",
+    "ref": "Waterkraan z1"
+  }
+},
+{
+  "type": "node",
+  "id": 9561253983,
+  "lat": 52.1408853,
+  "lon": 6.5750790,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Hof van moeder aarde",
+    "ref": "Waterkraan t1"
+  }
+},
+{
+  "type": "node",
+  "id": 9641223220,
+  "lat": 52.0038948,
+  "lon": 6.5195868,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Watertappunt",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 9654278132,
+  "lat": 52.5138433,
+  "lon": 6.0891683,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-04-01",
+    "fountain": "bottle_refill",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9686563522,
+  "lat": 52.9903411,
+  "lon": 6.5796585,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drents drinkwater",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 9686602156,
+  "lat": 52.9949333,
+  "lon": 6.5606263,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drents drinkwater",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 9686716248,
+  "lat": 52.8590100,
+  "lon": 6.5120423,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drents drinkwater",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 9686823707,
+  "lat": 52.7244968,
+  "lon": 6.5349596,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drents drinkwater",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 9740008710,
+  "lat": 52.4363733,
+  "lon": 6.2339269,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "image": "https://kraanwatertappunten.nl/files/2022/05/Drinkwater-heino-1024x576.jpg",
+    "operator": "join the pipe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9748281697,
+  "lat": 52.0886369,
+  "lon": 6.0258031,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9748281698,
+  "lat": 52.0892072,
+  "lon": 6.0248247,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9748281700,
+  "lat": 52.0880814,
+  "lon": 6.0241223,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9748281701,
+  "lat": 52.0883945,
+  "lon": 6.0246627,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9798695143,
+  "lat": 52.5651207,
+  "lon": 6.7554924,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "operator": "Camping Grenszicht",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9798695144,
+  "lat": 52.5651818,
+  "lon": 6.7555275,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "male": "yes",
+    "operator": "Camping Grenszicht",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9862664434,
+  "lat": 52.5886060,
+  "lon": 6.0936664,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 9874205518,
+  "lat": 52.6991928,
+  "lon": 6.7566560,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9874263117,
+  "lat": 52.7008059,
+  "lon": 6.7548434,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9936860553,
+  "lat": 52.6429785,
+  "lon": 6.0724252,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9937078327,
+  "lat": 52.7151621,
+  "lon": 6.8615769,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9947476679,
+  "lat": 52.2372072,
+  "lon": 6.1038896,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9958160278,
+  "lat": 52.6009497,
+  "lon": 6.4563356,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9967410555,
+  "lat": 52.2438939,
+  "lon": 6.8471783,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9990603328,
+  "lat": 52.2448578,
+  "lon": 6.8480800,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10004197681,
+  "lat": 52.6992116,
+  "lon": 6.1876735,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10028874779,
+  "lat": 52.3581655,
+  "lon": 6.5910825,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Join the Pipe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10102622472,
+  "lat": 52.2611592,
+  "lon": 6.7935013,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10106299991,
+  "lat": 52.2475600,
+  "lon": 6.2169101,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "name": "Join the Pipe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10124931608,
+  "lat": 52.8262893,
+  "lon": 6.0910744,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10636911144,
+  "lat": 52.2662640,
+  "lon": 6.7923926,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10816290369,
+  "lat": 52.2304297,
+  "lon": 6.5846777,
+  "tags": {
+    "access": "yes",
+    "bottle": "yes",
+    "capacity": "1",
+    "disused:amenity": "drinking_water",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "operator": "NS",
+    "operator:wikidata": "Q23076",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10855572931,
+  "lat": 52.4078485,
+  "lon": 6.8974685,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10878283417,
+  "lat": 52.5139820,
+  "lon": 6.3964673,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://www.adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10879116524,
+  "lat": 52.5135538,
+  "lon": 6.3962863,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://www.adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10880298673,
+  "lat": 52.5147665,
+  "lon": 6.3958684,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://www.adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10880325338,
+  "lat": 52.5150379,
+  "lon": 6.3957380,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://www.adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10880355162,
+  "lat": 52.5165969,
+  "lon": 6.3970117,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://www.adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10880356755,
+  "lat": 52.5162343,
+  "lon": 6.3951745,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://www.adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10880359572,
+  "lat": 52.5170649,
+  "lon": 6.3975332,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://www.adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10880365764,
+  "lat": 52.5158961,
+  "lon": 6.3959262,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://www.adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10880408456,
+  "lat": 52.5148877,
+  "lon": 6.3973350,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://www.adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10898775440,
+  "lat": 52.5171985,
+  "lon": 6.4002763,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10898889915,
+  "lat": 52.5155131,
+  "lon": 6.4031174,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10898892911,
+  "lat": 52.5161720,
+  "lon": 6.4034500,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10898893065,
+  "lat": 52.5158558,
+  "lon": 6.4037779,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10898893066,
+  "lat": 52.5161606,
+  "lon": 6.4040944,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10898931252,
+  "lat": 52.5156312,
+  "lon": 6.4071953,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10898934884,
+  "lat": 52.5157920,
+  "lon": 6.4068837,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10898934961,
+  "lat": 52.5157936,
+  "lon": 6.4076282,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10898941965,
+  "lat": 52.5150417,
+  "lon": 6.4032824,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10898947755,
+  "lat": 52.5151390,
+  "lon": 6.4049969,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10898963638,
+  "lat": 52.5159920,
+  "lon": 6.4075264,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10898964218,
+  "lat": 52.5151022,
+  "lon": 6.4068124,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10898968811,
+  "lat": 52.5158136,
+  "lon": 6.4071047,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10899003897,
+  "lat": 52.5148576,
+  "lon": 6.4060085,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10899009645,
+  "lat": 52.5154343,
+  "lon": 6.4059317,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10899009654,
+  "lat": 52.5160791,
+  "lon": 6.4057994,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10899030902,
+  "lat": 52.5146783,
+  "lon": 6.4027997,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Ada's Hoeve",
+    "website": "https://adashoeve.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 11016768758,
+  "lat": 52.4641832,
+  "lon": 6.4951515,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 11033196630,
+  "lat": 52.8797124,
+  "lon": 6.0050980,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11063414503,
+  "lat": 52.4959498,
+  "lon": 6.1496378,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11112408122,
+  "lat": 52.8613032,
+  "lon": 6.7344877,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "parking": "no",
+    "permanent_camping": "no",
+    "power_supply": "yes",
+    "ref": "14",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 11112408123,
+  "lat": 52.8616133,
+  "lon": 6.7341484,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "parking": "no",
+    "permanent_camping": "no",
+    "power_supply": "no",
+    "ref": "17",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 11112408124,
+  "lat": 52.8614222,
+  "lon": 6.7340304,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "parking": "no",
+    "permanent_camping": "no",
+    "power_supply": "no",
+    "ref": "34",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 11112408125,
+  "lat": 52.8615145,
+  "lon": 6.7339258,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "parking": "no",
+    "permanent_camping": "no",
+    "power_supply": "no",
+    "ref": "33",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 11137092087,
+  "lat": 52.8604520,
+  "lon": 6.7346462,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "permanent_camping": "no",
+    "power_supply": "yes",
+    "ref": "8",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 11137092099,
+  "lat": 52.8602594,
+  "lon": 6.7343630,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "permanent_camping": "no",
+    "power_supply": "yes",
+    "ref": "10",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 11137092101,
+  "lat": 52.8605546,
+  "lon": 6.7345151,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "permanent_camping": "no",
+    "power_supply": "yes",
+    "ref": "7",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 11145841769,
+  "lat": 52.8580451,
+  "lon": 6.3201572,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11163111614,
+  "lat": 52.3271587,
+  "lon": 6.7582363,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11170109298,
+  "lat": 52.0329702,
+  "lon": 6.8209920,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11183492687,
+  "lat": 52.4999596,
+  "lon": 6.0812301,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11189949410,
+  "lat": 52.4907696,
+  "lon": 6.4400196,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Scouting kampeerterrein Eerde",
+    "website": "https://eerde.scouting.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 11189989642,
+  "lat": 52.4895621,
+  "lon": 6.4404555,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Scouting kampeerterrein Eerde",
+    "website": "https://eerde.scouting.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 11189990829,
+  "lat": 52.4893004,
+  "lon": 6.4408443,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Scouting kampeerterrein Eerde",
+    "website": "https://eerde.scouting.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 11190009743,
+  "lat": 52.4894835,
+  "lon": 6.4393140,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Scouting kampeerterrein Eerde",
+    "website": "https://eerde.scouting.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 11190014050,
+  "lat": 52.4893402,
+  "lon": 6.4409335,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Scouting kampeerterrein Eerde",
+    "website": "https://eerde.scouting.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 11190031596,
+  "lat": 52.4900326,
+  "lon": 6.4398663,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Scouting kampeerterrein Eerde",
+    "website": "https://eerde.scouting.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 11190041205,
+  "lat": 52.4900192,
+  "lon": 6.4388285,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Scouting kampeerterrein Eerde",
+    "website": "https://eerde.scouting.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 11190042642,
+  "lat": 52.4902564,
+  "lon": 6.4384697,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Scouting kampeerterrein Eerde",
+    "website": "https://eerde.scouting.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 11190058028,
+  "lat": 52.4905965,
+  "lon": 6.4388820,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Scouting kampeerterrein Eerde",
+    "website": "https://eerde.scouting.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 11199372991,
+  "lat": 52.5438153,
+  "lon": 6.4912244,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11215564691,
+  "lat": 52.6259366,
+  "lon": 6.2715358,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11225729227,
+  "lat": 52.9511809,
+  "lon": 6.7958959,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drents drinkwater",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 11230857337,
+  "lat": 52.8501300,
+  "lon": 6.6062274,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11265228396,
+  "lat": 52.7196184,
+  "lon": 6.4476274,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11277466165,
+  "lat": 52.7738217,
+  "lon": 6.8014321,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Waterleiding Maatschappij Drenthe"
+  }
+},
+{
+  "type": "node",
+  "id": 11279240176,
+  "lat": 52.3613559,
+  "lon": 6.5926573,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11324769740,
+  "lat": 52.0366167,
+  "lon": 6.0894346,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "vitens",
+    "operator:wikidata": "Q1943963"
+  }
+},
+{
+  "type": "node",
+  "id": 11365108039,
+  "lat": 52.3008855,
+  "lon": 6.8369928,
+  "tags": {
+    "amenity": "fountain",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 11509603756,
+  "lat": 52.2602173,
+  "lon": 6.7148041,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "Nederlandse spoorwegen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11672216133,
+  "lat": 52.8550487,
+  "lon": 6.5209697,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11883184455,
+  "lat": 52.2055891,
+  "lon": 6.5606824,
+  "tags": {
+    "addr:city": "Diepenheim",
+    "addr:housenumber": "1a",
+    "addr:postcode": "7478SH",
+    "addr:street": "1e Zomerdijk",
+    "capacity:pitches": "10",
+    "caravans": "yes",
+    "dog": "leashed",
+    "drinking_water": "yes",
+    "email": "info@vinckeboom.nl",
+    "fee": "yes",
+    "internet_access": "wlan",
+    "name": "Buitenplaats Vinckeboom",
+    "picnic_table": "yes",
+    "power_supply": "yes",
+    "shower": "yes",
+    "source": "BAG",
+    "source:date": "2024-04-12",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.vinckeboom.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 11883282050,
+  "lat": 52.8553110,
+  "lon": 6.0194318,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "man_made": "water_tap",
+    "seamark:small_craft_facility:category": "water_tap",
+    "seamark:type": "small_craft_facility"
+  }
+},
+{
+  "type": "node",
+  "id": 11926861048,
+  "lat": 52.9171682,
+  "lon": 6.6035211,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2024-05-22",
+    "cover": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Waterleiding Maatschappij Drenthe",
+    "source": "local knowledge;survey",
+    "source:url": "https://drinkwaterkaart.nl/waar-kan-ik-gratis-water-tappen/"
+  }
+},
+{
+  "type": "node",
+  "id": 11928089308,
+  "lat": 52.8910810,
+  "lon": 6.7100654,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drinkwater NV"
+  }
+},
+{
+  "type": "node",
+  "id": 11928100645,
+  "lat": 52.8833832,
+  "lon": 6.8623776,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drinkwater NV"
+  }
+},
+{
+  "type": "node",
+  "id": 11928117716,
+  "lat": 52.9652290,
+  "lon": 6.6759730,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "name": "Receptie Hof van Saksen",
+    "operator": "Hof van Saksen"
+  }
+},
+{
+  "type": "node",
+  "id": 12009105269,
+  "lat": 52.8815183,
+  "lon": 6.8642083,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fountain": "drinking",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12012414781,
+  "lat": 52.3866395,
+  "lon": 6.0381972,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12056891782,
+  "lat": 52.5300956,
+  "lon": 6.3603198,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12066589539,
+  "lat": 52.2173782,
+  "lon": 6.3475035,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12091779302,
+  "lat": 52.2421997,
+  "lon": 6.2183623,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12110368194,
+  "lat": 52.3133418,
+  "lon": 6.9292354,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12114118851,
+  "lat": 52.2642724,
+  "lon": 6.7926233,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12118364821,
+  "lat": 52.3654925,
+  "lon": 6.4626680,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12148081451,
+  "lat": 52.9508304,
+  "lon": 6.3296778,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 12148099551,
+  "lat": 52.9502364,
+  "lon": 6.3296691,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "panoramax": "29836d38-bf26-4c58-8e47-12f70b984e34"
+  }
+},
+{
+  "type": "node",
+  "id": 12148108070,
+  "lat": 52.9505567,
+  "lon": 6.3296766,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "panoramax": "8c81c04b-7b7e-4ffd-b55a-ac3c16a8ffa4"
+  }
+},
+{
+  "type": "node",
+  "id": 12148114204,
+  "lat": 52.9499101,
+  "lon": 6.3296556,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 12149734930,
+  "lat": 52.9503411,
+  "lon": 6.3295526,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988907,
+  "lat": 52.9465377,
+  "lon": 6.3628194,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "35",
+    "addr:place": "Zwaluw",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988908,
+  "lat": 52.9466080,
+  "lon": 6.3628274,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "34",
+    "addr:place": "Zwaluw",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988909,
+  "lat": 52.9466355,
+  "lon": 6.3627349,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "33",
+    "addr:place": "Zwaluw",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988910,
+  "lat": 52.9465094,
+  "lon": 6.3626008,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "32",
+    "addr:place": "Zwaluw",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988911,
+  "lat": 52.9466161,
+  "lon": 6.3625900,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "31",
+    "addr:place": "Zwaluw",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988912,
+  "lat": 52.9466670,
+  "lon": 6.3625418,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "30",
+    "addr:place": "Zwaluw",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988913,
+  "lat": 52.9467009,
+  "lon": 6.3623902,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "29",
+    "addr:place": "Zwaluw",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988914,
+  "lat": 52.9466743,
+  "lon": 6.3622722,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "28",
+    "addr:place": "Zwaluw",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988915,
+  "lat": 52.9466355,
+  "lon": 6.3622172,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "27",
+    "addr:place": "Zwaluw",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988916,
+  "lat": 52.9465353,
+  "lon": 6.3621086,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "26",
+    "addr:place": "Zwaluw",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988917,
+  "lat": 52.9464278,
+  "lon": 6.3619879,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "25",
+    "addr:place": "Zwaluw",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988918,
+  "lat": 52.9464149,
+  "lon": 6.3621555,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "24",
+    "addr:place": "Zwaluw",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988919,
+  "lat": 52.9464440,
+  "lon": 6.3623191,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "23",
+    "addr:place": "Zwaluw",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988921,
+  "lat": 52.9461579,
+  "lon": 6.3627054,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "20",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988922,
+  "lat": 52.9461708,
+  "lon": 6.3629186,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "19",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988923,
+  "lat": 52.9462686,
+  "lon": 6.3629200,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "18",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988924,
+  "lat": 52.9463381,
+  "lon": 6.3628650,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "17",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988925,
+  "lat": 52.9463219,
+  "lon": 6.3626879,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "16",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988926,
+  "lat": 52.9462961,
+  "lon": 6.3625203,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "15",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988927,
+  "lat": 52.9462096,
+  "lon": 6.3625699,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "14",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988928,
+  "lat": 52.9459146,
+  "lon": 6.3626920,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "4",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988929,
+  "lat": 52.9459041,
+  "lon": 6.3628757,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "3",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988930,
+  "lat": 52.9459995,
+  "lon": 6.3628797,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "2",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988931,
+  "lat": 52.9460092,
+  "lon": 6.3627134,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "1",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988932,
+  "lat": 52.9462977,
+  "lon": 6.3623366,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "12",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988933,
+  "lat": 52.9463058,
+  "lon": 6.3622172,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "11",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988934,
+  "lat": 52.9461951,
+  "lon": 6.3624291,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "13",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988935,
+  "lat": 52.9463090,
+  "lon": 6.3619557,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "10",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988936,
+  "lat": 52.9462322,
+  "lon": 6.3618417,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "11",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988937,
+  "lat": 52.9461143,
+  "lon": 6.3618457,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "8",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988938,
+  "lat": 52.9461296,
+  "lon": 6.3620321,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "7",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988939,
+  "lat": 52.9461054,
+  "lon": 6.3622534,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "6",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12149988940,
+  "lat": 52.9460528,
+  "lon": 6.3623406,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "5",
+    "addr:place": "Merel",
+    "capacity": "1",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150066905,
+  "lat": 52.9469046,
+  "lon": 6.3629280,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "45",
+    "addr:place": "Ransuil",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150066906,
+  "lat": 52.9469668,
+  "lon": 6.3628864,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "44",
+    "addr:place": "Ransuil",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150066907,
+  "lat": 52.9470912,
+  "lon": 6.3627738,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "43",
+    "addr:place": "Ransuil",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150066908,
+  "lat": 52.9470549,
+  "lon": 6.3626397,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "42",
+    "addr:place": "Ransuil",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150066909,
+  "lat": 52.9469587,
+  "lon": 6.3625216,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "41",
+    "addr:place": "Ransuil",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150066910,
+  "lat": 52.9468819,
+  "lon": 6.3624546,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "40",
+    "addr:place": "Ransuil",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150066911,
+  "lat": 52.9467963,
+  "lon": 6.3625485,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "39",
+    "addr:place": "Ransuil",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150066912,
+  "lat": 52.9467300,
+  "lon": 6.3627470,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "38",
+    "addr:place": "Ransuil",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150066913,
+  "lat": 52.9466718,
+  "lon": 6.3629521,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "37",
+    "addr:place": "Ransuil",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150066914,
+  "lat": 52.9467745,
+  "lon": 6.3630393,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "36",
+    "addr:place": "Ransuil",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150088889,
+  "lat": 52.9469640,
+  "lon": 6.3633726,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "52",
+    "addr:place": "Scholekster",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150088890,
+  "lat": 52.9470440,
+  "lon": 6.3633297,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "51",
+    "addr:place": "Scholekster",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150088893,
+  "lat": 52.9470064,
+  "lon": 6.3630614,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "48",
+    "addr:place": "Scholekster",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150088894,
+  "lat": 52.9469320,
+  "lon": 6.3630849,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "47",
+    "addr:place": "Scholekster",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150103509,
+  "lat": 52.9471236,
+  "lon": 6.3632727,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "50",
+    "addr:place": "Scholekster",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150103510,
+  "lat": 52.9470945,
+  "lon": 6.3630393,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "49",
+    "addr:place": "Scholekster",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12150103513,
+  "lat": 52.9468807,
+  "lon": 6.3632579,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "46",
+    "addr:place": "Scholekster",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155305793,
+  "lat": 52.9464836,
+  "lon": 6.3657014,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "53",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155305794,
+  "lat": 52.9464011,
+  "lon": 6.3656196,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "52",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155305795,
+  "lat": 52.9463187,
+  "lon": 6.3655338,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "51",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155305796,
+  "lat": 52.9464052,
+  "lon": 6.3659066,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "50",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155305797,
+  "lat": 52.9463268,
+  "lon": 6.3659804,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "49",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155305798,
+  "lat": 52.9462403,
+  "lon": 6.3660608,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "48",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155305799,
+  "lat": 52.9461741,
+  "lon": 6.3661024,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "47",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155305800,
+  "lat": 52.9461926,
+  "lon": 6.3658798,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "46T",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381701,
+  "lat": 52.9462605,
+  "lon": 6.3657108,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "46",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381702,
+  "lat": 52.9460464,
+  "lon": 6.3656746,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "45",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381703,
+  "lat": 52.9460019,
+  "lon": 6.3658141,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "45T",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381704,
+  "lat": 52.9461245,
+  "lon": 6.3652656,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "44a",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381705,
+  "lat": 52.9460881,
+  "lon": 6.3653917,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "44b",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381706,
+  "lat": 52.9461926,
+  "lon": 6.3654748,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "43b",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381707,
+  "lat": 52.9462290,
+  "lon": 6.3653487,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "43a",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381708,
+  "lat": 52.9461635,
+  "lon": 6.3655968,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "42",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381709,
+  "lat": 52.9461264,
+  "lon": 6.3657229,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "41",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381710,
+  "lat": 52.9460827,
+  "lon": 6.3659120,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "40",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381711,
+  "lat": 52.9460439,
+  "lon": 6.3661963,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "39",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381712,
+  "lat": 52.9459639,
+  "lon": 6.3661896,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "38",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381713,
+  "lat": 52.9458694,
+  "lon": 6.3661788,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "37",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381714,
+  "lat": 52.9457805,
+  "lon": 6.3660420,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "36",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381715,
+  "lat": 52.9458379,
+  "lon": 6.3658717,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "35",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381716,
+  "lat": 52.9458783,
+  "lon": 6.3657255,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "34",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381717,
+  "lat": 52.9459114,
+  "lon": 6.3655968,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "33",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381718,
+  "lat": 52.9459349,
+  "lon": 6.3654640,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "32",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12155381719,
+  "lat": 52.9459898,
+  "lon": 6.3652696,
+  "tags": {
+    "addr:city": "Appelscha",
+    "addr:housenumber": "31",
+    "addr:place": "Specht",
+    "capacity": "1",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "power_supply": "yes",
+    "source": "https://www.campingalkenhaer.nl/nl/camping-friesland/plattegrond-camping;aerial_imagery;local_knowledge",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "camp_pitch"
+  }
+},
+{
+  "type": "node",
+  "id": 12301336530,
+  "lat": 52.2374121,
+  "lon": 6.8389876,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 12642928918,
+  "lat": 52.2046578,
+  "lon": 6.1170968,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fixme": "check existence",
+    "operator": "LeisureLands",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12694795462,
+  "lat": 52.3069444,
+  "lon": 6.7727756,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Op oostgevel Spanjaardgemaal",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12710705757,
+  "lat": 52.1426759,
+  "lon": 6.1985964,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Join the Pipe"
+  }
+},
+{
+  "type": "node",
+  "id": 12718339167,
+  "lat": 52.1418475,
+  "lon": 6.1907093,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Join the Pipe"
+  }
+},
+{
+  "type": "node",
+  "id": 12748849208,
+  "lat": 52.2383264,
+  "lon": 6.8433311,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12754559470,
+  "lat": 52.5881989,
+  "lon": 6.4670168,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12773127336,
+  "lat": 52.5013079,
+  "lon": 6.4465840,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12786104683,
+  "lat": 52.4592586,
+  "lon": 6.6190944,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12786770892,
+  "lat": 52.1346127,
+  "lon": 6.2296586,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Join the Pipe"
+  }
+},
+{
+  "type": "node",
+  "id": 12798703323,
+  "lat": 52.4860537,
+  "lon": 6.2289775,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12814195318,
+  "lat": 52.0114706,
+  "lon": 6.5937357,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12887329694,
+  "lat": 52.4592143,
+  "lon": 6.4570748,
+  "tags": {
+    "access": "customers",
+    "amenity": "shower",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "De Regge-Vallei",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12887329696,
+  "lat": 52.4578329,
+  "lon": 6.4581311,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "De Regge-Vallei",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12887329700,
+  "lat": 52.4591604,
+  "lon": 6.4570428,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "De Regge-Vallei",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12944583881,
+  "lat": 52.7639118,
+  "lon": 6.3605554,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12956804855,
+  "lat": 52.8166582,
+  "lon": 6.3650752,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Labelterrein Dwingeloo"
+  }
+},
+{
+  "type": "node",
+  "id": 12956804856,
+  "lat": 52.8159166,
+  "lon": 6.3664765,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Labelterrein Dwingeloo"
+  }
+},
+{
+  "type": "node",
+  "id": 12956804857,
+  "lat": 52.8143654,
+  "lon": 6.3665065,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Labelterrein Dwingeloo"
+  }
+},
+{
+  "type": "node",
+  "id": 12956804858,
+  "lat": 52.8139913,
+  "lon": 6.3682428,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Labelterrein Dwingeloo"
+  }
+},
+{
+  "type": "node",
+  "id": 12956804859,
+  "lat": 52.8151515,
+  "lon": 6.3681976,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Labelterrein Dwingeloo"
+  }
+},
+{
+  "type": "node",
+  "id": 12956804860,
+  "lat": 52.8162582,
+  "lon": 6.3678757,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Labelterrein Dwingeloo"
+  }
+},
+{
+  "type": "node",
+  "id": 12961314641,
+  "lat": 52.0357413,
+  "lon": 6.8231214,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13001198619,
+  "lat": 52.1058731,
+  "lon": 6.3191401,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "note": "Not available in winter"
+  }
+}
+
+  ]
+}

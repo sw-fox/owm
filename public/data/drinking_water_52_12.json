@@ -1,0 +1,738 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:53:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 282629736,
+  "lat": 52.1578096,
+  "lon": 12.9236460,
+  "tags": {
+    "access": "customers",
+    "addr:city": "Beelitz",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "14547",
+    "addr:street": "Dorfstraße",
+    "addr:suburb": "Buchholz",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "fax": "+49 33204 607998",
+    "guest_house": "pension",
+    "name": "Pension & Campingplatz \"Gartenidylle\"",
+    "operator": "Olaf Siebach",
+    "phone": "+49 33204 33977",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "http://www.landurlaub-siebach.de"
+  }
+},
+{
+  "type": "node",
+  "id": 430191617,
+  "lat": 52.4170427,
+  "lon": 12.5674625,
+  "tags": {
+    "description": "Am Grillendamm 4 14776 Brandenburg an der Havel Telefon: +49 3381 213943 Gastliegeplätze direkt am rauschenden Wehr, Stromsäulen ca. 20 - 40 m entfernt, WC, Dusche, Wasser ca. 100 m vom Steg entfernt, Kiosk, info@marina-am-dom.de",
+    "drinking_water": "yes",
+    "email": "info@marina-am-dom.de",
+    "leisure": "marina",
+    "name": "Marina am Dom",
+    "phone": "+49 3381 213943",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina am Dom",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "http://www.marina-am-dom.de"
+  }
+},
+{
+  "type": "node",
+  "id": 672099243,
+  "lat": 52.4112324,
+  "lon": 12.5554281,
+  "tags": {
+    "check_date": "2024-04-14",
+    "description": "BHv 57.4, Tel. 0175-2157686, www.bas-brandenburg.de W-LAN Hotspot",
+    "drinking_water": "yes",
+    "ft_link": "www.freietonne.de?edit=25549",
+    "internet_access": "wlan",
+    "leisure": "marina",
+    "name": "Wasserwanderrastplatz Salzhofufer",
+    "phone": "+49 175 2157686",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Wasserwanderrastplatz Salzhofufer",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "waterway:sign": "mooring_24h"
+  }
+},
+{
+  "type": "node",
+  "id": 672099253,
+  "lat": 52.4093641,
+  "lon": 12.5519094,
+  "tags": {
+    "description": "km 58, Reservierungen möglich, Tel. erreichbar April bis Oktober 9 - 18 Uhr, Tel. oben. Versorgung: Wasser 100 ltr. 1 € , Strom, Duschen. Liegegeld 1,80 € je Meter. Stand 2023.",
+    "drinking_water": "yes",
+    "email": "tourismus@bas-brandenburg.de",
+    "ft_link": "www.freietonne.de?edit=25550",
+    "leisure": "marina",
+    "name": "Wasserwanderrastplatz »Am Slawendorf«",
+    "phone": "+49 175 2157774",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Wasserwanderrastplatz Am Slawendorf",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "waterway:sign": "mooring",
+    "website": "https://www.bas-brandenburg.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 848724923,
+  "lat": 52.3865921,
+  "lon": 12.4979319,
+  "tags": {
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "Buhnenhaus",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "toilets": "yes",
+    "tourism": "caravan_site"
+  }
+},
+{
+  "type": "node",
+  "id": 860003068,
+  "lat": 52.3704983,
+  "lon": 12.4724246,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@malge.com",
+    "leisure": "marina",
+    "name": "Malge Marina & Camping",
+    "phone": "+49 3381 7989691",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Malge Marina & Camping",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://www.malge.com/marina_malge_brandenburg.html"
+  }
+},
+{
+  "type": "node",
+  "id": 972942909,
+  "lat": 52.4202137,
+  "lon": 12.5769295,
+  "tags": {
+    "description": "Marine & Yachtcharter",
+    "drinking_water": "yes",
+    "email": "info@schoners-wehr.de",
+    "leisure": "marina",
+    "name": "Schoners Wehr",
+    "phone": "+49 3381 794030",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Schoners Wehr",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://www.schoners-wehr.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1298693678,
+  "lat": 52.3458818,
+  "lon": 12.9388283,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@hogab.de",
+    "internet_access": "wlan",
+    "leisure": "marina",
+    "name": "Yachthafen Porta Elisa",
+    "phone": "+49 171 4083666; +49 3327 40855",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Yachthafen Porta Elisa",
+    "seamark:type": "harbour",
+    "website": "https://www.hogab.de/ferienpark-porta-elisa/yachthafen-porta-elisa.html"
+  }
+},
+{
+  "type": "node",
+  "id": 1422532853,
+  "lat": 52.4685431,
+  "lon": 12.5666333,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@wwr-brielow.de",
+    "harbour": "yes",
+    "leisure": "marina",
+    "name": "Wasserwanderrastplatz Brielow",
+    "operator": "BBG Brielower Beteiligungs- und Grundbesitz GmbH",
+    "phone": "+49 33837 40205; +49 172 3868061",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Wasserwanderrastplatz Brielow",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "http://www.wwr-brielow.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1685719194,
+  "lat": 52.3543305,
+  "lon": 12.9626083,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "schwielowsee@precisehotels.com",
+    "leisure": "marina",
+    "name": "Marina im Precise Resort Schwielowsee",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina im Resort Schwielowsee",
+    "seamark:small_craft_facility:category": "gelbe_welle",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "washing_machine": "yes",
+    "website": "https://www.precisehotels.com/werder/marina"
+  }
+},
+{
+  "type": "node",
+  "id": 1760469068,
+  "lat": 52.0224030,
+  "lon": 12.8148776,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1996973305,
+  "lat": 52.3791636,
+  "lon": 12.9368547,
+  "tags": {
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Wasserwanderrastplatz Werder",
+    "phone": "+49 171 4010206; +49 171 7241225; +49 332 740855",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Wasserwanderrastplatz Werder",
+    "seamark:type": "harbour",
+    "toilets": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2076087432,
+  "lat": 52.3146287,
+  "lon": 12.9323601,
+  "tags": {
+    "addr:city": "Schwielowsee",
+    "addr:country": "DE",
+    "addr:housenumber": "10",
+    "addr:postcode": "14548",
+    "addr:street": "Seeweg",
+    "addr:suburb": "Ferch",
+    "capacity": "40",
+    "contact:email": "kontakt@marina-ferch.de",
+    "contact:phone": "+49 160 95950300",
+    "contact:webcam": "http://www.marina-ferch.de/webcam/image.jpg",
+    "contact:website": "http://www.marina-ferch.de/",
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Marina Ferch",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Ferch",
+    "seamark:small_craft_facility:category": "gelbe_welle",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2076150598,
+  "lat": 52.4684944,
+  "lon": 12.8493582,
+  "tags": {
+    "draft": "1.2",
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Bootsliegeplatz Ketzin",
+    "phone": "+49 33233 80631",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Bootsliegeplatz Ketzin",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://www.bootsliegeplatz-ketzin.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2076369257,
+  "lat": 52.3919173,
+  "lon": 12.9330067,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@marina-vulkan.de",
+    "leisure": "marina",
+    "name": "Marina Vulkan",
+    "phone": "+49 3327 730011",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Vulkan",
+    "seamark:small_craft_facility:category": "gelbe_welle",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://marina-vulkan.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2076369263,
+  "lat": 52.4058349,
+  "lon": 12.5487463,
+  "tags": {
+    "addr:city": "Brandenburg an der Havel",
+    "addr:country": "DE",
+    "addr:housenumber": "28",
+    "addr:postcode": "14776",
+    "addr:street": "Franz-Ziegler-Straße",
+    "check_date": "2024-04-11",
+    "contact:email": "info@wassersportzentrum-alte-feuerwache.de",
+    "contact:phone": "+49 3381 222018",
+    "contact:website": "https://www.wassersportzentrum-alte-feuerwache.de/hafen",
+    "drinking_water": "yes",
+    "email": "info@wassersportzentrum-alte-feuerwache.de",
+    "leisure": "marina",
+    "name": "Marina Wassersportzentrum Alte Feuerwache",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Wassersportzentrum Alte Feuerwache",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2110965096,
+  "lat": 52.3885201,
+  "lon": 12.4971489,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@buhnenhaus.de",
+    "leisure": "marina",
+    "name": "Marina Buhnenhaus",
+    "phone": "+49 3381 6190090",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Marina Buhnenhaus",
+    "seamark:type": "harbour",
+    "website": "https://www.buhnenhaus.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2125133255,
+  "lat": 52.4329063,
+  "lon": 12.5625431,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "info@mtc-brandenburg.de",
+    "leisure": "marina",
+    "name": "Motoryacht- und Touristikclub Brandenburg",
+    "phone": "+49 3381 522444",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Motoryacht- und Touristikclub Brandenburg",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "https://www.mtc-brandenburg.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2292211148,
+  "lat": 52.8496488,
+  "lon": 12.8686361,
+  "tags": {
+    "draft": "1.8",
+    "drinking_water": "yes",
+    "email": "Frank.Kindt@gmx.de",
+    "leisure": "marina",
+    "name": "Yachthafen Wustrau",
+    "phone": "+49 173 4657939",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Yachthafen Wustrau",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website": "http://www.yachthafen-wustrau.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2471748942,
+  "lat": 52.8269275,
+  "lon": 12.9729515,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2830345870,
+  "lat": 52.5329610,
+  "lon": 12.9960077,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2024-08-08",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2866115733,
+  "lat": 52.9409189,
+  "lon": 12.4004117,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4329529870,
+  "lat": 52.4376077,
+  "lon": 12.5128611,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-08-13",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4329529871,
+  "lat": 52.4377802,
+  "lon": 12.5137731,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-08-13",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4330417872,
+  "lat": 52.4085005,
+  "lon": 12.4206756,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4331830961,
+  "lat": 52.4120572,
+  "lon": 12.5514783,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-05-26",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "yes",
+    "operator": "BRAWAG",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 4753909824,
+  "lat": 52.1312664,
+  "lon": 12.7516815,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-05-19"
+  }
+},
+{
+  "type": "node",
+  "id": 4937954963,
+  "lat": 52.8265205,
+  "lon": 12.0699272,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 5808390474,
+  "lat": 52.2351845,
+  "lon": 12.9781835,
+  "tags": {
+    "amenity": "fountain",
+    "artist_name": "José Nuevo",
+    "drinking_water": "yes",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 5811956666,
+  "lat": 52.2915374,
+  "lon": 12.8313754,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2022-05-30",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6900060705,
+  "lat": 52.9238594,
+  "lon": 12.8060954,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Stadtwerke Neuruppin",
+    "start_date": "2024",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7092989319,
+  "lat": 52.9218215,
+  "lon": 12.8103442,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Edelstahlsäule",
+    "operator": "Stadtwerke Neuruppin",
+    "start_date": "2019",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7714449789,
+  "lat": 52.7539813,
+  "lon": 12.0189174,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8993843055,
+  "lat": 52.6690632,
+  "lon": 12.3765389,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9860279110,
+  "lat": 52.2307642,
+  "lon": 12.9788992,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9944513136,
+  "lat": 52.9392731,
+  "lon": 12.8241040,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Stadtwerke Neuruppin",
+    "panoramax": "bd6b0677-00eb-4e36-9fab-7da5cf474e9c",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10072854655,
+  "lat": 52.3615543,
+  "lon": 12.3949886,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10782484407,
+  "lat": 52.7922833,
+  "lon": 12.3250402,
+  "tags": {
+    "access": "customers",
+    "backcountry": "no",
+    "capacity:caravans": "6",
+    "capacity:tents": "5",
+    "charge": "18 - 22 €",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "group_only": "no",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Sternencamp Rübehorst",
+    "note": "Laut Website wurde der Campingplatz geschlossen.",
+    "openfire": "yes",
+    "payment:credit_cards": "yes",
+    "phone": "+49 151 51216494",
+    "power_supply": "yes",
+    "reservation": "recommended",
+    "shower": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://sternencamp.de"
+  }
+},
+{
+  "type": "node",
+  "id": 11773362391,
+  "lat": 52.1682170,
+  "lon": 12.1229092,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11774913804,
+  "lat": 52.6709520,
+  "lon": 12.0045635,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11948490780,
+  "lat": 52.3696331,
+  "lon": 12.4707706,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12254988428,
+  "lat": 52.6047888,
+  "lon": 12.8733307,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12384227141,
+  "lat": 52.8261485,
+  "lon": 12.0721555,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Stadt Havelberg"
+  }
+},
+{
+  "type": "node",
+  "id": 12847294769,
+  "lat": 52.6615566,
+  "lon": 12.2815806,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+}
+
+  ]
+}

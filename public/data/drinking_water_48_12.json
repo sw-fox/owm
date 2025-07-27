@@ -1,0 +1,2114 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:33:40Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 364774355,
+  "lat": 48.0624965,
+  "lon": 12.2324057,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "panoramax": "3a8dcf8b-ae80-49f2-9cc4-5c99347e958d",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 412816229,
+  "lat": 48.0611260,
+  "lon": 12.2311204,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "artist_name": "Rudol Köll",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "drinking",
+    "mapillary": "460473591718191",
+    "start_date": "1973",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 772932763,
+  "lat": 48.6367914,
+  "lon": 12.5640822,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Johannesbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 981737006,
+  "lat": 48.6283153,
+  "lon": 12.5027789,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Wasser Ver&entsorgung"
+  }
+},
+{
+  "type": "node",
+  "id": 1130735195,
+  "lat": 48.5975101,
+  "lon": 12.9388871,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1255100596,
+  "lat": 48.0599300,
+  "lon": 12.7590806,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "yes",
+    "fee": "no",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1376431885,
+  "lat": 48.5049089,
+  "lon": 12.0580971,
+  "tags": {
+    "amenity": "drinking_water",
+    "note": "Wasserstelle Friedhof, in den Sommermonaten"
+  }
+},
+{
+  "type": "node",
+  "id": 1401019340,
+  "lat": 48.1469508,
+  "lon": 12.6634976,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1401670505,
+  "lat": 48.9310677,
+  "lon": 12.9528155,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "drinking",
+    "material": "stone",
+    "panoramax": "79b899ea-eafb-47f4-a85b-163348a92b59",
+    "start_date": "2004"
+  }
+},
+{
+  "type": "node",
+  "id": 1412649870,
+  "lat": 48.9469980,
+  "lon": 12.0191530,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 1446180184,
+  "lat": 48.8194325,
+  "lon": 12.3253667,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1493361927,
+  "lat": 48.9333348,
+  "lon": 12.9364673,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2022-09-11",
+    "fountain": "drinking",
+    "panoramax": "bdd963ca-d7fc-426d-9d59-85d9e8a7963c",
+    "watering_place": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1738652532,
+  "lat": 48.9742239,
+  "lon": 12.8832615,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Ödwies"
+  }
+},
+{
+  "type": "node",
+  "id": 1743955467,
+  "lat": 48.8336640,
+  "lon": 12.9605203,
+  "tags": {
+    "access": "yes",
+    "artist_name": "Erika Einhellinger",
+    "artwork_type": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "construction:amenity": "drinking_water",
+    "description": "Ist aktuell 07/2025 im Reparaturstatus",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "panoramax": "6ee44be8-b380-40d8-84d9-c4eb03a4ac0b",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "tourism": "artwork",
+    "warm_water": "no",
+    "wikimedia_commons": "File:Trinkwasser Brunnen 4 (Deggendorf).jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 1806455682,
+  "lat": 48.7380154,
+  "lon": 12.2516699,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1999323585,
+  "lat": 48.2090790,
+  "lon": 12.6068265,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2141613266,
+  "lat": 48.4621972,
+  "lon": 12.7331649,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2321309811,
+  "lat": 48.6444016,
+  "lon": 12.5969851,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2321309828,
+  "lat": 48.6452057,
+  "lon": 12.5981462,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2379243366,
+  "lat": 48.3663986,
+  "lon": 12.0345033,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2522657612,
+  "lat": 48.6292132,
+  "lon": 12.4942316,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2882993138,
+  "lat": 48.0658334,
+  "lon": 12.9636367,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-03-08",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 2959576765,
+  "lat": 48.9953665,
+  "lon": 12.0650160,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 2965186541,
+  "lat": 48.2271364,
+  "lon": 12.6746809,
+  "tags": {
+    "amenity": "drinking_water",
+    "denomination": "roman_catholic",
+    "name": "Hl. Bruder Konrad Brunnen",
+    "religion": "christian",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2975077394,
+  "lat": 48.7782740,
+  "lon": 12.2217073,
+  "tags": {
+    "amenity": "drinking_water",
+    "historic": "wayside_shrine",
+    "name": "Quellkapelle",
+    "natural": "spring",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 3495714986,
+  "lat": 48.0927437,
+  "lon": 12.2252229,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap",
+    "operator:type": "public"
+  }
+},
+{
+  "type": "node",
+  "id": 4234066883,
+  "lat": 48.0100459,
+  "lon": 12.1473336,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4316949906,
+  "lat": 48.0599892,
+  "lon": 12.7588625,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "name": "Maria-Brunn"
+  }
+},
+{
+  "type": "node",
+  "id": 4394633193,
+  "lat": 48.0609224,
+  "lon": 12.2348876,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Kleiner Brunnen mit Trinkwasser",
+    "drinking_water:legal": "yes",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 4417927384,
+  "lat": 48.2746608,
+  "lon": 12.4250871,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4463776678,
+  "lat": 48.2350766,
+  "lon": 12.5276569,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5043091440,
+  "lat": 48.9920855,
+  "lon": 12.1561263,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "yes",
+    "name": "retex Burgweinting",
+    "opening_hours": "Mo-Fr 07:30-16:00",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 5111787457,
+  "lat": 48.8844989,
+  "lon": 12.5372975,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5111787458,
+  "lat": 48.8850574,
+  "lon": 12.5373394,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5269888189,
+  "lat": 48.2320910,
+  "lon": 12.5154582,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water:legal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5326336238,
+  "lat": 48.1591530,
+  "lon": 12.8328818,
+  "tags": {
+    "amenity": "drinking_water",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 5722775230,
+  "lat": 48.9092273,
+  "lon": 12.9754098,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5732050863,
+  "lat": 48.9084793,
+  "lon": 12.6243434,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5733482145,
+  "lat": 48.8461334,
+  "lon": 12.9094605,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "panoramax": "b1199fe1-866e-45f2-bb6b-35ad6ce7109e",
+    "seasonal": "spring;summer;autumn"
+  }
+},
+{
+  "type": "node",
+  "id": 5736695137,
+  "lat": 48.4492278,
+  "lon": 12.3545943,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 5781598672,
+  "lat": 48.1398082,
+  "lon": 12.7943134,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "legal:no"
+  }
+},
+{
+  "type": "node",
+  "id": 5790094022,
+  "lat": 48.8312042,
+  "lon": 12.9543460,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "artist_name": "Edel Maria Göpfert",
+    "artwork_type": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "description": "Nr 38",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "no",
+    "operator": "Stadt Deggendorf",
+    "panoramax": "ee384682-c2b8-4c4d-a560-e1f183143b80",
+    "seasonal": "spring;summer;autumn",
+    "tourism": "artwork",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Trinkwasser Brunnen 5 (Deggendorf).jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 5970424004,
+  "lat": 48.8329294,
+  "lon": 12.9620051,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "artist_name": "Engl-Radlinger, Birgit",
+    "artwork_type": "drinking_water",
+    "bottle": "yes",
+    "description": "Der Sammer Xidi wurde 1896 geboren und ist fast 100 Jahre alt geworden. Er war ein schlitzohriges Deggendorfer Original und Kenner aller Pilz- und Kräuterarten. Die selbst gesammelten Pilze hat er stets auch selbst genossen.",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "name": "Der Sammer-Xidi",
+    "opening_hours": "24/7",
+    "operator": "Stadt Deggendorf",
+    "panoramax": "6df779fd-fa34-4b3d-956e-67dad81a7337",
+    "seasonal": "spring;summer;autumn",
+    "start_date": "2003",
+    "tourism": "artwork",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Statue des Franz Xaver Sammer genannt Xidi.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 6158466988,
+  "lat": 48.1852306,
+  "lon": 12.4187422,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 6158466989,
+  "lat": 48.1856550,
+  "lon": 12.4185923,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 6370936443,
+  "lat": 48.9165742,
+  "lon": 12.6671827,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6370936444,
+  "lat": 48.9166418,
+  "lon": 12.6664208,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6372543728,
+  "lat": 48.0023384,
+  "lon": 12.3055907,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6452583461,
+  "lat": 48.2423935,
+  "lon": 12.5307523,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Gießwasserstationen",
+    "drinking_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6452583462,
+  "lat": 48.2419470,
+  "lon": 12.5309895,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Gießwasserstationen",
+    "drinking_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6521922964,
+  "lat": 48.3831522,
+  "lon": 12.3832853,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Schuhwaschanlage"
+  }
+},
+{
+  "type": "node",
+  "id": 6595132565,
+  "lat": 48.8317551,
+  "lon": 12.9460765,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "artist_name": "Edel Maria Göpfert",
+    "artwork_type": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "operator": "Wasserversorgung Bayerischer Wald",
+    "panoramax": "50487b9a-8750-4715-aebc-84a11e1f6c81",
+    "ref": "40",
+    "seasonal": "spring;summer;autumn",
+    "tourism": "artwork",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Trinkwasser Brunnen Deggendorf.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 6635520190,
+  "lat": 48.0441634,
+  "lon": 12.8460045,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6697822936,
+  "lat": 48.5069285,
+  "lon": 12.4279648,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 6744535779,
+  "lat": 48.2592996,
+  "lon": 12.1877143,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 7014021336,
+  "lat": 48.9593357,
+  "lon": 12.8831557,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water:legal": "no",
+    "name": "Schanzenenbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7026140676,
+  "lat": 48.9724569,
+  "lon": 12.2188797,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7236278314,
+  "lat": 48.1156301,
+  "lon": 12.0543541,
+  "tags": {
+    "amenity": "drinking_water",
+    "heritage": "4",
+    "heritage:operator": "BLfD",
+    "operator": "Familie Kopp"
+  }
+},
+{
+  "type": "node",
+  "id": 7317041350,
+  "lat": 48.0509021,
+  "lon": 12.2288651,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "indoor": "yes",
+    "male": "yes",
+    "operator": "Zuschauer WC",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7326195034,
+  "lat": 48.5224512,
+  "lon": 12.1063873,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 7326195035,
+  "lat": 48.5229749,
+  "lon": 12.1057779,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 7326195036,
+  "lat": 48.5235272,
+  "lon": 12.1055438,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 7326195037,
+  "lat": 48.5220465,
+  "lon": 12.1045511,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 7463966989,
+  "lat": 48.6430877,
+  "lon": 12.5955208,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7483208085,
+  "lat": 48.2296788,
+  "lon": 12.5400167,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7546180710,
+  "lat": 48.5705999,
+  "lon": 12.1684264,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7590452434,
+  "lat": 48.7250512,
+  "lon": 12.0145545,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fixme": "Position bitte bestätigen",
+    "operator": "Wasserwerk Rottenburg",
+    "start_date": "2019",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8042256609,
+  "lat": 48.5308771,
+  "lon": 12.1595152,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2024-03-06",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8109585704,
+  "lat": 48.2668916,
+  "lon": 12.1633529,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 8207128034,
+  "lat": 48.5420369,
+  "lon": 12.1477993,
+  "tags": {
+    "access": "permit",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Schulstiftung Seligenthal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8397447750,
+  "lat": 48.5215905,
+  "lon": 12.1051403,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8532120508,
+  "lat": 48.8192808,
+  "lon": 12.9517557,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "bottle": "no",
+    "changing_table": "no",
+    "description": "öffentliche Toiletten von außen zugänglich",
+    "door:width": "1 m",
+    "drinking_water": "yes",
+    "fee": "no",
+    "panoramax": "e3e3a57c-9ee1-40ae-a9b6-1ed192e9ee9f",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8656525465,
+  "lat": 48.8334409,
+  "lon": 12.9641121,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "artist_name": "Andreas Sobek",
+    "artwork_type": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "inscription": "Die Erinnerung ist das einzige Paradies, aus dem wir nicht vertrieben werden können. Jean Paul",
+    "opening_hours": "24/7",
+    "operator": "Stadt Deggndorf",
+    "panoramax": "2b906ad3-62ce-464c-b80d-eadfb07a4eb3",
+    "seasonal": "spring;summer;autumn",
+    "tourism": "artwork",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Trinkwasser Brunnen Deggendorf 3.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 8656525470,
+  "lat": 48.8310953,
+  "lon": 12.9487979,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "artist_name": "Edel Maria Göpfert",
+    "artwork_type": "drinking_water",
+    "bottle": "yes",
+    "drinking_water:seasonal": "summer",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "panoramax": "e17f6431-ae0b-406a-8472-b2576bd99205",
+    "panoramax:1": "a98bf62f-c798-4b4d-9fcb-f51a6d00705d",
+    "panoramax:2": "deaf7e50-1172-43b4-bcf4-128c7aa76945",
+    "ref": "39",
+    "seasonal": "spring;summer;autumn",
+    "tourism": "artwork",
+    "wikimedia_commons": "File:Trinkwasser Brunnen Deggendorf 1.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 8676379269,
+  "lat": 48.8319878,
+  "lon": 12.9636098,
+  "tags": {
+    "amenity": "drinking_water",
+    "artist_name": "Edel Maria Göpfert",
+    "artwork_type": "drinking_water",
+    "bottle": "yes",
+    "description": "Öffentlicher Zugang zu den Öffnungszeiten der Bibliothek.",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-12:00",
+    "ref": "55",
+    "tourism": "artwork",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Trinkwasser Brunnen Deggendorf 11.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 8676480235,
+  "lat": 48.8339606,
+  "lon": 12.9620105,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "artist_name": "Edel Maria Göpfert",
+    "bottle": "yes",
+    "description": "Öffentlicher Zugang zu den Öffnungszeiten der Tourist-Info.",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "opening_hours": "Jun-Sep Mo-Fr 09:00-18:00; Jun-Sep Sa 09:00-12:00; Jan-May, Oct-Dec Mo-Fr 09:00-12:00, 13:00-18:00; Jan-May, Oct-Dec Sa 09:00-12:00",
+    "panoramax": "e8ef7ca9-cb6d-4874-b653-c62f8f2e7ddc",
+    "ref": "75",
+    "seasonal": "no",
+    "tourism": "artwork",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8696999855,
+  "lat": 48.8171096,
+  "lon": 12.9016775,
+  "tags": {
+    "description": "zugänglicher Wasserhahn am Parkplatz des Sportgelände, freie Nutzung ungeklärt",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8755170318,
+  "lat": 48.8703730,
+  "lon": 12.5829789,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Refill-Station für Trinkwasser",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8868406997,
+  "lat": 48.8886325,
+  "lon": 12.0624165,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Gemeinde"
+  }
+},
+{
+  "type": "node",
+  "id": 8900345975,
+  "lat": 48.8108579,
+  "lon": 12.8894142,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "support": "wall"
+  }
+},
+{
+  "type": "node",
+  "id": 8958112298,
+  "lat": 48.1529086,
+  "lon": 12.2765095,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8958112299,
+  "lat": 48.1526119,
+  "lon": 12.2774662,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9142642567,
+  "lat": 48.1432093,
+  "lon": 12.7898230,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 9350421842,
+  "lat": 48.7754673,
+  "lon": 12.8747669,
+  "tags": {
+    "disused": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9431194638,
+  "lat": 48.9606512,
+  "lon": 12.0934610,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 9554555300,
+  "lat": 48.9222580,
+  "lon": 12.8944385,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water:legal": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9655409934,
+  "lat": 48.9819580,
+  "lon": 12.9897123,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9655409945,
+  "lat": 48.9817576,
+  "lon": 12.9889520,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9762424593,
+  "lat": 48.2383202,
+  "lon": 12.5150102,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9796388382,
+  "lat": 48.7845101,
+  "lon": 12.9957804,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9796623876,
+  "lat": 48.7722249,
+  "lon": 12.8921537,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9803820983,
+  "lat": 48.0796160,
+  "lon": 12.8250474,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9803820993,
+  "lat": 48.0797597,
+  "lon": 12.8246841,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "flush": "no",
+    "male": "yes",
+    "toilets": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9891377542,
+  "lat": 48.8423363,
+  "lon": 12.9554500,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "artwork_type": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkwasser Brunnen in der Mittelschule Sankt Martin",
+    "fountain": "drinking",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 9917582381,
+  "lat": 48.8496431,
+  "lon": 12.9830191,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9926497127,
+  "lat": 48.8143462,
+  "lon": 12.9776069,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "gender_segregated": "yes",
+    "male": "yes",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "panoramax": "3ab9a648-d8d8-4e41-8ed3-53e1f07590cd",
+    "seasonal": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9935581584,
+  "lat": 48.7984314,
+  "lon": 12.9947409,
+  "tags": {
+    "amenity": "watering_place",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9968062521,
+  "lat": 48.1692343,
+  "lon": 12.8302108,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 9976724257,
+  "lat": 48.7569414,
+  "lon": 12.7682805,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9990441233,
+  "lat": 48.8252012,
+  "lon": 12.9412969,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9993012243,
+  "lat": 48.8294870,
+  "lon": 12.9559097,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "artist_name": "Edel Maria Göpfert",
+    "artwork_type": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "yes",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 10003676567,
+  "lat": 48.8389339,
+  "lon": 12.9543983,
+  "tags": {
+    "amenity": "drinking_water",
+    "artist_name": "Edel Maria Göpfert",
+    "artwork_type": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "yes",
+    "opening_hours": "Mo-We 07:30-12:30, Mo,Tu 13:30-16:00, Th 07:30-17:00, Fr 07:30-12:00",
+    "ref": "20",
+    "tourism": "artwork",
+    "wikimedia_commons": "File:Trinkwasser Brunnen 7 (Deggendorf).jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 10004034753,
+  "lat": 48.5319116,
+  "lon": 12.1589767,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fountain": "drinking",
+    "lit": "no",
+    "name": "Gickerlbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 10028265688,
+  "lat": 48.0076951,
+  "lon": 12.7484226,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10101356985,
+  "lat": 48.8933314,
+  "lon": 12.5743342,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10101365662,
+  "lat": 48.8931210,
+  "lon": 12.5755616,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10101377899,
+  "lat": 48.8930502,
+  "lon": 12.5752379,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10101406934,
+  "lat": 48.8930263,
+  "lon": 12.5748608,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10101410919,
+  "lat": 48.8930806,
+  "lon": 12.5745364,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10101411482,
+  "lat": 48.8932834,
+  "lon": 12.5749026,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10101440138,
+  "lat": 48.8935388,
+  "lon": 12.5738323,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10119601380,
+  "lat": 48.0940283,
+  "lon": 12.2263784,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap",
+    "operator:type": "public"
+  }
+},
+{
+  "type": "node",
+  "id": 10162175965,
+  "lat": 48.0030503,
+  "lon": 12.4715873,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10270873760,
+  "lat": 48.9553955,
+  "lon": 12.5780528,
+  "tags": {
+    "capacity": "100",
+    "covered": "yes",
+    "description": "Unterirdische Löschwasserzisterne mit Saugstelle für Feuerwehr",
+    "drinking_water": "yes",
+    "emergency": "water_tank",
+    "man_made": "reservoir_covered",
+    "name": "Löschwasserzisterne",
+    "operator": "Gemeinde Steinach",
+    "source": "FF Münster",
+    "water_tank:volume": "100000"
+  }
+},
+{
+  "type": "node",
+  "id": 10557693436,
+  "lat": 48.0619469,
+  "lon": 12.7666485,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fountain": "drinking",
+    "wikidata": "Q41270515"
+  }
+},
+{
+  "type": "node",
+  "id": 10574457864,
+  "lat": 48.8143585,
+  "lon": 12.9744590,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10717804771,
+  "lat": 48.8252440,
+  "lon": 12.9411927,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10920223279,
+  "lat": 48.9582320,
+  "lon": 12.8842539,
+  "tags": {
+    "alt_name": "Grandlbrunnen",
+    "amenity": "watering_place",
+    "description": "Quellwasser, im Regelfall trinkbar",
+    "drinking_water": "yes",
+    "name": "Grandl",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10948915556,
+  "lat": 48.8267755,
+  "lon": 12.8043794,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10962028390,
+  "lat": 48.0537231,
+  "lon": 12.1110468,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10971391994,
+  "lat": 48.8787507,
+  "lon": 12.9306246,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10991475383,
+  "lat": 48.8179945,
+  "lon": 12.9010053,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkwasser Brunnen in der Grundschule Haidhof",
+    "fountain": "drinking",
+    "ref": "89"
+  }
+},
+{
+  "type": "node",
+  "id": 11005777922,
+  "lat": 48.8252917,
+  "lon": 12.7692679,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11062083769,
+  "lat": 48.8989288,
+  "lon": 12.9753389,
+  "tags": {
+    "access": "permissive",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "seasonal": "summer"
+  }
+},
+{
+  "type": "node",
+  "id": 11066543316,
+  "lat": 48.8303960,
+  "lon": 12.9669848,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "artist_name": "Edel Maria Göpfert",
+    "artwork_type": "drinking_water",
+    "description": "Trinkwasser Brunnen in der Grundschule Theodor Eckert",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "yes",
+    "ref": "72",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 11238126314,
+  "lat": 48.7211049,
+  "lon": 12.1317990,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wikimedia_commons": "File:Trinkwasser Nachfüllstation Ettenkofen-Hebramsdorf.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 11338867935,
+  "lat": 48.8292878,
+  "lon": 12.9549236,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "artist_name": "Edel Maria Göpfert",
+    "artwork_type": "drinking_water",
+    "bottle": "no",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "yes",
+    "ref": "84",
+    "tourism": "artwork",
+    "wikimedia_commons": "File:Trinkwasser Brunnen 6 (Deggendorf).jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 11344866826,
+  "lat": 48.0601741,
+  "lon": 12.2323346,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "ref:BLfD": "D-1-87-182-30",
+    "wikidata": "Q98749644"
+  }
+},
+{
+  "type": "node",
+  "id": 11361465476,
+  "lat": 48.8204914,
+  "lon": 12.9090006,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "artist_name": "Edel Maria Göpfert",
+    "artwork_type": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkwasser Brunnen im Sauna Bereich des Elypso",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "yes",
+    "tourism": "artwork",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11531571192,
+  "lat": 48.8339870,
+  "lon": 12.9631180,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7",
+    "operator": "Stadt Deggendorf",
+    "panoramax": "6f645426-8c76-4d1f-a0b4-58e8f0f03637",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Trinkwasser Brunnen 8 (Deggendorf).jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 11662735351,
+  "lat": 48.8568659,
+  "lon": 12.9088159,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "gender_segregated": "no",
+    "socket:schuko": "1",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11662794697,
+  "lat": 48.8645190,
+  "lon": 12.8884306,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "gender_segregated": "yes",
+    "male": "yes",
+    "socket:schuko": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11737420477,
+  "lat": 48.8375675,
+  "lon": 12.6086988,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "gender_segregated": "no",
+    "socket:schuko": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:menstrual_products": "no",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Wheelchair toilet with grab rail.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 11770944815,
+  "lat": 48.8275127,
+  "lon": 12.9552087,
+  "tags": {
+    "caravans": "no",
+    "charge": "10 EUR / pro Person",
+    "contact:website": "https://www.ruderverein-deggendorf.de/uebernachtungen/",
+    "description": "Zeltplatz für Ruderer Kanufahrer auf Wanderfahrt.",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "motor_vehicle": "no",
+    "motorhome": "no",
+    "name:signed": "no",
+    "operator": "Deggendorfer Ruderverein",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 11892666284,
+  "lat": 48.3614676,
+  "lon": 12.5081483,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11899298069,
+  "lat": 48.2148966,
+  "lon": 12.0579845,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11916287992,
+  "lat": 48.1518470,
+  "lon": 12.2772360,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11958747597,
+  "lat": 48.8151987,
+  "lon": 12.9798941,
+  "tags": {
+    "access": "yes",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "drinking_water:refill": "yes",
+    "drinking_water:refill:network": "Refill Deutschland",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "manufacturer": "Kemper",
+    "opening_hours": "24/7",
+    "operator:type": "private",
+    "panoramax": "2c29218b-c3f2-4960-9b16-f6bcea9e56d9",
+    "seasonal": "no",
+    "support": "wall",
+    "wikimedia_commons": "File:Wasserhahn Refill Trinkwasser.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 12037823230,
+  "lat": 48.0711245,
+  "lon": 12.3704660,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12063216204,
+  "lat": 48.8437496,
+  "lon": 12.9589255,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "fixme": "Freeform input used",
+    "man_made": "water_well",
+    "manufacturer": "Richter Spielgeräte GmbH",
+    "playground": "pump",
+    "pump": "manual",
+    "wikimedia_commons": "File:Spielplatzpumpe (Deggendorf).jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 12064496402,
+  "lat": 48.7920045,
+  "lon": 12.8961541,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "panoramax": "a3f74ed1-33bf-4842-859d-70c9c300236e",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12069857809,
+  "lat": 48.2561448,
+  "lon": 12.5907801,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "name": "EURO-Trinkbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 12096544673,
+  "lat": 48.8572016,
+  "lon": 12.9974293,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "artist_name": "Edel Maria Göpfert",
+    "bottle": "yes",
+    "indoor": "yes",
+    "ref": "113",
+    "tourism": "artwork",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Trinkwasser Brunnen Deggendorf 9.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 12126161525,
+  "lat": 48.8353197,
+  "lon": 12.9600368,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "artist_name": "Edel Maria Göpfert",
+    "bottle": "yes",
+    "indoor": "yes",
+    "ref": "49",
+    "tourism": "artwork",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Trinkwasser Brunnen Deggendorf 10.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 12130980011,
+  "lat": 48.0728206,
+  "lon": 12.7412373,
+  "tags": {
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "level": "0"
+  }
+},
+{
+  "type": "node",
+  "id": 12136000626,
+  "lat": 48.0732844,
+  "lon": 12.7404041,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12240708847,
+  "lat": 48.0987104,
+  "lon": 12.7244692,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12258339240,
+  "lat": 48.5387570,
+  "lon": 12.1457461,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 12279008730,
+  "lat": 48.8459371,
+  "lon": 12.7778226,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "gender_segregated": "no",
+    "opening_hours": "07:00-20:00",
+    "panoramax": "034bba3d-1f14-43fc-9dee-fa66671ad0b7",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12554919866,
+  "lat": 48.9306586,
+  "lon": 12.0341612,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "name": "Trinkbrunnen Kurpark",
+    "operator": "Markt Bad Abbach",
+    "website": "https://www.bad-abbach.de/poi/trinkbrunnen_im_kurpark-44459/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12554940185,
+  "lat": 48.9405125,
+  "lon": 12.0388166,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "image": "https://www.bad-abbach.de/data/thumbs/img/15739317_img_2056.webp",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "name": "Trinkbrunnen Brücke",
+    "operator": "Markt Bad Abbach",
+    "website": "https://www.bad-abbach.de/poi/trinkbrunnen_fussgaengerbrueck-44457/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12772024861,
+  "lat": 48.8817910,
+  "lon": 12.5691932,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12772038247,
+  "lat": 48.8819744,
+  "lon": 12.5710335,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12775061352,
+  "lat": 48.9998569,
+  "lon": 12.6398506,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "no",
+    "fountain": "bubbler",
+    "height": "1",
+    "lit": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12804424251,
+  "lat": 48.9449451,
+  "lon": 12.8807757,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 12848799246,
+  "lat": 48.9578206,
+  "lon": 12.0433758,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12858932524,
+  "lat": 48.5359943,
+  "lon": 12.1516304,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12917696827,
+  "lat": 48.2414544,
+  "lon": 12.5240788,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 12942216936,
+  "lat": 48.9738845,
+  "lon": 12.6881213,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12994193976,
+  "lat": 48.8472996,
+  "lon": 12.9526069,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "artist:wikidata": "Q135283955",
+    "artist_name": "Edel Maria Göpfert",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "yes",
+    "ref": "50",
+    "tourism": "artwork",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Trinkwasser Brunnen (Robert-Koch-Gymnasium).jpg"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,1127 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:58:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 253774524,
+  "lat": 53.4034630,
+  "lon": 8.5971319,
+  "tags": {
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "group_only": "yes",
+    "name": "KjG Jugendzeltplatz Langendammsmoor",
+    "openfire": "yes",
+    "phone": "+49 4744 7310100",
+    "power_supply": "yes",
+    "reservation": "required",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.langendammsmoor.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 331627995,
+  "lat": 53.7650691,
+  "lon": 8.5358072,
+  "tags": {
+    "addr:city": "Wurster Nordseeküste",
+    "addr:postcode": "27639",
+    "addr:street": "Cappel-Neufelder Sieltrift",
+    "addr:suburb": "Cappel-Neufeld",
+    "caravans": "yes",
+    "contact:email": "info@camping-freizeit-gmbh.de",
+    "contact:phone": "+49 172 4109227",
+    "contact:website": "https://www.camping-freizeit-gmbh.de/",
+    "dog": "no",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Campingplatz Cappel-Neufeld (Außendeich)",
+    "nudism": "no",
+    "operator": "Camping und Freizeit GmbH Wurster Nordseeküste",
+    "power_supply": "yes",
+    "sanitary_dump_station": "customers",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 676815029,
+  "lat": 53.1184869,
+  "lon": 8.2155036,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 676815034,
+  "lat": 53.1181267,
+  "lon": 8.2169889,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 676815048,
+  "lat": 53.1178869,
+  "lon": 8.2179780,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 685461143,
+  "lat": 53.7008576,
+  "lon": 8.0290746,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-07-23",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1499934692,
+  "lat": 53.6258058,
+  "lon": 8.8417177,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 1585383383,
+  "lat": 53.3934926,
+  "lon": 8.0137848,
+  "tags": {
+    "amenity": "townhall",
+    "drinking_water": "yes",
+    "name": "Gemeinde Bockhorn"
+  }
+},
+{
+  "type": "node",
+  "id": 2073147214,
+  "lat": 53.8257807,
+  "lon": 8.8953849,
+  "tags": {
+    "drinking_water": "yes",
+    "leisure": "marina",
+    "name": "Seglerhafen Otterndorf",
+    "phone": "+49 160 91380232",
+    "power_supply": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Seglerhafen Otterndorf",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "website:note": "seglerverein-otterndorf.de requires permission"
+  }
+},
+{
+  "type": "node",
+  "id": 2432614466,
+  "lat": 53.9144533,
+  "lon": 8.4900753,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2025-04-18",
+    "check_date:wheelchair": "2025-04-18",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "no",
+    "operator": "Werner Fock",
+    "shower": "yes",
+    "toilets:disposal": "flush",
+    "unisex": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2432614471,
+  "lat": 53.9145119,
+  "lon": 8.4900855,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2025-04-18",
+    "check_date:wheelchair": "2025-04-18",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "no",
+    "male": "yes",
+    "operator": "Werner Fock",
+    "shower": "yes",
+    "toilets:disposal": "flush",
+    "unisex": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2725176263,
+  "lat": 53.4575210,
+  "lon": 8.3583220,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2871558207,
+  "lat": 53.0934771,
+  "lon": 8.8843330,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Botanika",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes",
+    "wheelchair:description": "Euroschlüssel, auch ausleihbar an der Kasse"
+  }
+},
+{
+  "type": "node",
+  "id": 2923194142,
+  "lat": 53.0684655,
+  "lon": 8.8320005,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "indoor": "yes",
+    "level": "-1",
+    "male": "yes",
+    "supervised": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3102991131,
+  "lat": 53.3948270,
+  "lon": 8.2607255,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3113867845,
+  "lat": 53.4500167,
+  "lon": 8.1313008,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2021-10-08",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3116320912,
+  "lat": 53.4476538,
+  "lon": 8.1113909,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3116490090,
+  "lat": 53.1679789,
+  "lon": 8.2343504,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3158407762,
+  "lat": 53.5600122,
+  "lon": 8.5545789,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "comment": "Gay u. Bi Treff",
+    "drinking_water": "yes",
+    "fee": "no",
+    "service": "sex",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3548124623,
+  "lat": 53.4660713,
+  "lon": 8.6454573,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3548124624,
+  "lat": 53.4673858,
+  "lon": 8.6452130,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3634362279,
+  "lat": 53.0734739,
+  "lon": 8.8079596,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-03-20",
+    "fountain": "drinking",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3688012627,
+  "lat": 53.4511300,
+  "lon": 8.1220330,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3688012726,
+  "lat": 53.4511877,
+  "lon": 8.1219348,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours": "10:00-19:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3727483661,
+  "lat": 53.0528552,
+  "lon": 8.7842603,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 3731654069,
+  "lat": 53.1835260,
+  "lon": 8.0149823,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3745672248,
+  "lat": 53.1892485,
+  "lon": 8.0412357,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "operator": "Camping",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 3774244952,
+  "lat": 53.0533151,
+  "lon": 8.7840244,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4201825442,
+  "lat": 53.1832774,
+  "lon": 8.5944786,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "indoor": "yes",
+    "level": "0",
+    "male": "yes",
+    "operator": "Klinikum Bremen-Nord",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4201825456,
+  "lat": 53.1834269,
+  "lon": 8.5952431,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "indoor": "yes",
+    "level": "0",
+    "male": "yes",
+    "operator": "Klinikum Bremen-Nord",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4221815574,
+  "lat": 53.1358186,
+  "lon": 8.4872661,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5851708603,
+  "lat": 53.8604916,
+  "lon": 8.5923860,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6052985973,
+  "lat": 53.0645399,
+  "lon": 8.8310649,
+  "tags": {
+    "amenity": "drinking_water",
+    "seasonal": "summer"
+  }
+},
+{
+  "type": "node",
+  "id": 6432145040,
+  "lat": 53.2487351,
+  "lon": 8.1939785,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "OOWV",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7062419495,
+  "lat": 53.6417121,
+  "lon": 8.0362979,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7512583345,
+  "lat": 53.0954196,
+  "lon": 8.7867239,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "operator": "swb",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7600332296,
+  "lat": 53.5834845,
+  "lon": 8.3705272,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7907364011,
+  "lat": 53.3853140,
+  "lon": 8.2396956,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "level": "0",
+    "operator": "OOWV",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8019497211,
+  "lat": 53.0092372,
+  "lon": 8.6335552,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "WW Annenheide Brunnen 7",
+    "operator": "StadtWerkegruppe Delmenhorst",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 8046855586,
+  "lat": 53.5684233,
+  "lon": 8.5603431,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "name": "WC",
+    "opening_hours": "24/7",
+    "toilets:disposal": "flush",
+    "toilets:hands_drying": "paper_towel",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8075609315,
+  "lat": 53.0010479,
+  "lon": 8.6456811,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "WW Annenheide Brunnen 2",
+    "operator": "StadtWerkegruppe Delmenhorst",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 8075662300,
+  "lat": 53.0055863,
+  "lon": 8.6379848,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "WW Annenheide Brunnen 6",
+    "operator": "StadtWerkegruppe Delmenhorst",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 8075680488,
+  "lat": 53.0022670,
+  "lon": 8.6543519,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "WW Annenheide Brunnen 5",
+    "operator": "StadtWerkegruppe Delmenhorst",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 8094734106,
+  "lat": 53.0069643,
+  "lon": 8.6653916,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "WW Annenheide Brunnen 1",
+    "operator": "StadtWerkegruppe Delmenhorst",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 8094800942,
+  "lat": 53.0051788,
+  "lon": 8.6701952,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "WW Annenheide Brunnen 3",
+    "operator": "StadtWerkegruppe Delmenhorst",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 8980965678,
+  "lat": 53.4513460,
+  "lon": 8.1252968,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9416572789,
+  "lat": 53.1737084,
+  "lon": 8.6170216,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "swb",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9932460836,
+  "lat": 53.5961264,
+  "lon": 8.3586576,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9932460837,
+  "lat": 53.5962481,
+  "lon": 8.3592201,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9968150609,
+  "lat": 53.0159999,
+  "lon": 8.3195857,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10047134679,
+  "lat": 53.0840711,
+  "lon": 8.8171715,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 10766920748,
+  "lat": 53.1815602,
+  "lon": 8.5727655,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11012410399,
+  "lat": 53.0496521,
+  "lon": 8.8926305,
+  "tags": {
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "check_date": "2023-06-28",
+    "fountain": "bubbler",
+    "operator": "swb"
+  }
+},
+{
+  "type": "node",
+  "id": 11157772094,
+  "lat": 53.2512027,
+  "lon": 8.1953874,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11281904032,
+  "lat": 53.0823758,
+  "lon": 8.8131871,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11733504729,
+  "lat": 53.0479609,
+  "lon": 8.7395522,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11896724216,
+  "lat": 53.2208546,
+  "lon": 8.9263937,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 12060974297,
+  "lat": 53.5283758,
+  "lon": 8.1151793,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12078383273,
+  "lat": 53.0728745,
+  "lon": 8.8270131,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12104974372,
+  "lat": 53.0726733,
+  "lon": 8.6360036,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12329582606,
+  "lat": 53.0730966,
+  "lon": 8.8127856,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Stadt Bremen"
+  }
+},
+{
+  "type": "node",
+  "id": 12355962694,
+  "lat": 53.1411445,
+  "lon": 8.9079513,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Gemeinde Lilienthal"
+  }
+},
+{
+  "type": "node",
+  "id": 12533864973,
+  "lat": 53.0734913,
+  "lon": 8.9262712,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12555973561,
+  "lat": 53.5445145,
+  "lon": 8.5740851,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "name": "Euro-Trinkbrunnen",
+    "operator": "Stadt Bremerhaven"
+  }
+},
+{
+  "type": "node",
+  "id": 12739962446,
+  "lat": 53.8422395,
+  "lon": 8.6821615,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "EWE Netz",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12739962447,
+  "lat": 53.8422616,
+  "lon": 8.6809460,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "EWE Netz",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12739962448,
+  "lat": 53.8422816,
+  "lon": 8.6795580,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "EWE Netz",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12739962449,
+  "lat": 53.8423037,
+  "lon": 8.6781775,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "EWE Netz",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12739962450,
+  "lat": 53.8426500,
+  "lon": 8.6747173,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "EWE Netz",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12739962451,
+  "lat": 53.8426877,
+  "lon": 8.6726780,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "EWE Netz",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12739962452,
+  "lat": 53.8427723,
+  "lon": 8.6683640,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "EWE Netz",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12739962453,
+  "lat": 53.8428463,
+  "lon": 8.6637557,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "EWE Netz",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12739962454,
+  "lat": 53.8424130,
+  "lon": 8.6643928,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "EWE Netz",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12739962455,
+  "lat": 53.8426349,
+  "lon": 8.6660816,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "EWE Netz",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12739962456,
+  "lat": 53.8470137,
+  "lon": 8.6631978,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "EWE Netz",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12739962457,
+  "lat": 53.8475133,
+  "lon": 8.6617163,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "EWE Netz",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12739962458,
+  "lat": 53.8475767,
+  "lon": 8.6605368,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "EWE Netz",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12739962459,
+  "lat": 53.8469488,
+  "lon": 8.6594544,
+  "tags": {
+    "access": "permit",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "EWE Netz",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12779385174,
+  "lat": 53.5133145,
+  "lon": 8.1443024,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "no",
+    "changing_table:location": "wheelchair_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "1",
+    "male": "yes",
+    "operator": "Aquarium Willhelmshaven - Restaurant",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12779385175,
+  "lat": 53.5132124,
+  "lon": 8.1441575,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "-1",
+    "male": "yes",
+    "operator": "Aquarium Willhelmshaven",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 12887291399,
+  "lat": 53.0710056,
+  "lon": 8.8293303,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 12918747256,
+  "lat": 53.2717361,
+  "lon": 8.1349287,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12921644640,
+  "lat": 53.5784690,
+  "lon": 8.8766541,
+  "tags": {
+    "amenity": "drinking_water",
+    "seasonal": "yes"
+  }
+}
+
+  ]
+}

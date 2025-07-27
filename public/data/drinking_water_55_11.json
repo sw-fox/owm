@@ -1,0 +1,1011 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T14:17:56Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 322549338,
+  "lat": 55.3797032,
+  "lon": 11.5534574,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 799817499,
+  "lat": 55.3988545,
+  "lon": 11.3812816,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1488331690,
+  "lat": 55.5491391,
+  "lon": 11.8756312,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1508513647,
+  "lat": 55.5747258,
+  "lon": 11.2522405,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1563679210,
+  "lat": 55.3771065,
+  "lon": 11.5873843,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1739259478,
+  "lat": 55.3546420,
+  "lon": 11.3906155,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1840022354,
+  "lat": 55.2554200,
+  "lon": 11.6709986,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1862951227,
+  "lat": 55.8413012,
+  "lon": 11.9888631,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2021-08-30",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1862951229,
+  "lat": 55.8408140,
+  "lon": 11.9884125,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2021-08-29",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1862951244,
+  "lat": 55.8417124,
+  "lon": 11.9889329,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2021-08-30",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1874560785,
+  "lat": 55.9044699,
+  "lon": 11.9423952,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-04-24",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1874560802,
+  "lat": 55.9041646,
+  "lon": 11.9424904,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-07-29",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1874560807,
+  "lat": 55.9043353,
+  "lon": 11.9425990,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-07-29",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1874560832,
+  "lat": 55.9040263,
+  "lon": 11.9425749,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-07-29",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 2312553939,
+  "lat": 55.7837540,
+  "lon": 11.9654127,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-01-30"
+  }
+},
+{
+  "type": "node",
+  "id": 2312558670,
+  "lat": 55.7608551,
+  "lon": 11.9135304,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2312621243,
+  "lat": 55.7487558,
+  "lon": 11.9588995,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-01-01",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 2312621246,
+  "lat": 55.7488343,
+  "lon": 11.9581109,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-01-01",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 2351968093,
+  "lat": 55.2983739,
+  "lon": 11.4086213,
+  "tags": {
+    "camp_site": "standard",
+    "capacity:persons": "24",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motor_vehicle": "no",
+    "name": "Dalmose Lejrplads",
+    "openfire": "yes",
+    "operator": "Naturstyrelsen - Storstrøm",
+    "static_caravans": "no",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/5364",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2377188156,
+  "lat": 55.7666694,
+  "lon": 11.8081758,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2377188157,
+  "lat": 55.7663872,
+  "lon": 11.8085487,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2377245403,
+  "lat": 55.7563878,
+  "lon": 11.8015387,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:handwashing": "yes",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2388648314,
+  "lat": 55.7939744,
+  "lon": 11.9146141,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-08-13"
+  }
+},
+{
+  "type": "node",
+  "id": 2391112620,
+  "lat": 55.9369124,
+  "lon": 11.9058837,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-06-19"
+  }
+},
+{
+  "type": "node",
+  "id": 2394143172,
+  "lat": 55.9362259,
+  "lon": 11.9075128,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2394424596,
+  "lat": 55.9851128,
+  "lon": 11.8862708,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3001545535,
+  "lat": 55.3597336,
+  "lon": 11.1492960,
+  "tags": {
+    "amenity": "drinking_water",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3036396355,
+  "lat": 55.9542079,
+  "lon": 11.7855873,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3579094201,
+  "lat": 55.7863046,
+  "lon": 11.7943967,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3623863138,
+  "lat": 55.6730017,
+  "lon": 11.9347558,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3623869521,
+  "lat": 55.7183203,
+  "lon": 11.9780042,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3699745026,
+  "lat": 55.8555262,
+  "lon": 11.9825890,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2021-09-19",
+    "fee": "no",
+    "man_made": "water_tap",
+    "source": "Mapillary"
+  }
+},
+{
+  "type": "node",
+  "id": 3921618996,
+  "lat": 55.7150224,
+  "lon": 11.9720892,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "male": "no",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4235799003,
+  "lat": 55.8096122,
+  "lon": 11.3922333,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4270478609,
+  "lat": 55.2248823,
+  "lon": 11.7223203,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4307355255,
+  "lat": 55.7924442,
+  "lon": 11.8317367,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee:amount": "Customers (Spisestedet or Røgeri) free, else DKR 5",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4827167740,
+  "lat": 55.3501309,
+  "lon": 11.5895868,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4935805551,
+  "lat": 55.2597876,
+  "lon": 11.3876740,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5015888623,
+  "lat": 55.6145258,
+  "lon": 11.8133013,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-04-18"
+  }
+},
+{
+  "type": "node",
+  "id": 5645436329,
+  "lat": 55.5832394,
+  "lon": 11.8692264,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5648067127,
+  "lat": 55.5733439,
+  "lon": 11.8686755,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5755769612,
+  "lat": 55.0843727,
+  "lon": 11.7626873,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5756563197,
+  "lat": 55.0838329,
+  "lon": 11.7647097,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5761277609,
+  "lat": 55.5160322,
+  "lon": 11.1540053,
+  "tags": {
+    "camp_site": "basic",
+    "description": "2 shelters, picnic table, stay is free - donations are welcome",
+    "drinking_water": "yes",
+    "fireplace": "yes",
+    "motor_vehicle": "no",
+    "name": "Dalby shelterplads",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "url": "https://www.facebook.com/groups/2400708233291549/"
+  }
+},
+{
+  "type": "node",
+  "id": 5777577935,
+  "lat": 55.2128220,
+  "lon": 11.2448427,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5981331866,
+  "lat": 55.5559843,
+  "lon": 11.8960563,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6013598980,
+  "lat": 55.8023320,
+  "lon": 11.4453234,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6013599813,
+  "lat": 55.8025496,
+  "lon": 11.4450720,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6013599814,
+  "lat": 55.8027281,
+  "lon": 11.4447581,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6013599825,
+  "lat": 55.8025808,
+  "lon": 11.4442535,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6540347463,
+  "lat": 55.5836318,
+  "lon": 11.6517120,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Ugerløse Idrætsforening",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6724895752,
+  "lat": 55.7567693,
+  "lon": 11.9633751,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7418798842,
+  "lat": 55.5099472,
+  "lon": 11.2714858,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7471724723,
+  "lat": 55.7829143,
+  "lon": 11.9439132,
+  "tags": {
+    "amenity": "drinking_water",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8007950807,
+  "lat": 55.8988321,
+  "lon": 11.6667469,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8007950826,
+  "lat": 55.8993170,
+  "lon": 11.6664398,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8354978219,
+  "lat": 55.3601903,
+  "lon": 11.2591859,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8490910195,
+  "lat": 55.5163948,
+  "lon": 11.1531188,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8849737110,
+  "lat": 55.6627011,
+  "lon": 11.7631341,
+  "tags": {
+    "amenity": "drinking_water",
+    "opening_hours": "Jan-Dec"
+  }
+},
+{
+  "type": "node",
+  "id": 8907163265,
+  "lat": 55.9543118,
+  "lon": 11.5901972,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9039480216,
+  "lat": 55.1534060,
+  "lon": 11.6929535,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9286974943,
+  "lat": 55.9643452,
+  "lon": 11.8469655,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9633235700,
+  "lat": 55.2981000,
+  "lon": 11.4090214,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Naturstyrelsen - Storstrøm"
+  }
+},
+{
+  "type": "node",
+  "id": 9645624177,
+  "lat": 55.6979913,
+  "lon": 11.4091972,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9667857737,
+  "lat": 55.1951847,
+  "lon": 11.5349482,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9675465242,
+  "lat": 55.2681094,
+  "lon": 11.4837211,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9678216311,
+  "lat": 55.8131312,
+  "lon": 11.7204833,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9890948741,
+  "lat": 55.3475241,
+  "lon": 11.1199101,
+  "tags": {
+    "drinking_water": "yes",
+    "highway": "rest_area",
+    "name": "Korsør",
+    "toilets": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9921122968,
+  "lat": 55.7480751,
+  "lon": 11.6178315,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9952682146,
+  "lat": 55.2597989,
+  "lon": 11.6022129,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10185304657,
+  "lat": 55.3757641,
+  "lon": 11.5407771,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10764000467,
+  "lat": 55.3483485,
+  "lon": 11.1088233,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "for caravans",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11067225233,
+  "lat": 55.5694862,
+  "lon": 11.9022165,
+  "tags": {
+    "access": "permissive",
+    "amenity": "shelter",
+    "bench": "yes",
+    "bin": "no",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "email": "Mail@uldstuen.dk",
+    "fee": "yes",
+    "lit": "no",
+    "lockable": "no",
+    "name": "Særløse Overdrev",
+    "payment:app": "yes",
+    "payment:cash": "yes",
+    "phone": "004546498096",
+    "power_supply": "no",
+    "reservation": "no",
+    "sanitary_dump_station": "no",
+    "shelter_type": "lean_to",
+    "shower": "no",
+    "static_caravans": "no",
+    "tents": "yes",
+    "toilets": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11081804346,
+  "lat": 55.6039198,
+  "lon": 11.9847128,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11210105456,
+  "lat": 55.5972444,
+  "lon": 11.6832130,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11512601309,
+  "lat": 55.1684419,
+  "lon": 11.9569116,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motorhome": "designated",
+    "name": "Tappernøje Vest"
+  }
+},
+{
+  "type": "node",
+  "id": 11512601311,
+  "lat": 55.1665001,
+  "lon": 11.9584666,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motorhome": "designated",
+    "name": "Tappernøje Øst"
+  }
+},
+{
+  "type": "node",
+  "id": 11694870154,
+  "lat": 55.4551262,
+  "lon": 11.6059741,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no",
+    "motorhome": "designated"
+  }
+},
+{
+  "type": "node",
+  "id": 11881172465,
+  "lat": 55.6523234,
+  "lon": 11.3957873,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11958588608,
+  "lat": 55.3189231,
+  "lon": 11.3928867,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12057550869,
+  "lat": 55.2521874,
+  "lon": 11.2899809,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Slagelse Kommune",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12136443369,
+  "lat": 55.2116627,
+  "lon": 11.1931497,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12140840584,
+  "lat": 55.2310750,
+  "lon": 11.7528853,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12404385933,
+  "lat": 55.6521494,
+  "lon": 11.3940988,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12623802751,
+  "lat": 55.6062465,
+  "lon": 11.5814509,
+  "tags": {
+    "description": "Outdoor tap meant for watering plants. Closed in winter",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Undløse Kirke"
+  }
+},
+{
+  "type": "node",
+  "id": 12623802752,
+  "lat": 55.6058357,
+  "lon": 11.5818194,
+  "tags": {
+    "description": "Outdoor tap meant for watering plants. Closed in winter",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Undløse Kirke"
+  }
+},
+{
+  "type": "node",
+  "id": 12623802753,
+  "lat": 55.6056358,
+  "lon": 11.5824325,
+  "tags": {
+    "description": "Outdoor tap meant for watering plants. Closed in winter",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Undløse Kirke"
+  }
+},
+{
+  "type": "node",
+  "id": 12752738288,
+  "lat": 55.0634078,
+  "lon": 11.7170979,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12885473696,
+  "lat": 55.4489278,
+  "lon": 11.5486369,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12942046504,
+  "lat": 55.4418759,
+  "lon": 11.5497981,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+}
+
+  ]
+}

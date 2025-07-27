@@ -1,0 +1,1271 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:57:46Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 435145759,
+  "lat": 53.4853241,
+  "lon": 6.1608075,
+  "tags": {
+    "addr:city": "Schiermonnikoog",
+    "addr:housenumber": "1",
+    "addr:postcode": "9166RX",
+    "addr:street": "Seeduneweg",
+    "caravans": "no",
+    "contact:phone": "+31 519 531 398",
+    "contact:website": "http://www.seedune.nl/",
+    "drinking_water": "yes",
+    "name": "Camping Seedune",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 1443385635,
+  "lat": 53.2127793,
+  "lon": 6.5658303,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill",
+    "name": "Watertappunt Ubbo Emmiussingel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1446451036,
+  "lat": 53.1507348,
+  "lon": 6.6148467,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "name": "Watertappunt Harendermolen",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078"
+  }
+},
+{
+  "type": "node",
+  "id": 1867153199,
+  "lat": 53.2190443,
+  "lon": 6.5632952,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "name": "Watertappunt Broerplein",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867157660,
+  "lat": 53.2403608,
+  "lon": 6.5321034,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt Zernike",
+    "opening_hours": "24/7",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen",
+    "panoramax": "08159637-a3b7-4fc4-a9f8-b8c51bd32bd6",
+    "seasonal": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3020560007,
+  "lat": 53.3297222,
+  "lon": 6.5198835,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Winsum",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 3758268864,
+  "lat": 53.3984724,
+  "lon": 6.6745985,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4237201222,
+  "lat": 53.2247726,
+  "lon": 6.5895385,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "yellow",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 4302057226,
+  "lat": 53.2413833,
+  "lon": 6.6018479,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "white",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Watertappunt Kardinge Koerspad",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078"
+  }
+},
+{
+  "type": "node",
+  "id": 4342165910,
+  "lat": 53.2250826,
+  "lon": 6.5570710,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt Noorderplantsoen Nieuw Kijk in 't Jatstraat",
+    "opening_hours": "24/7",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4342513203,
+  "lat": 53.2213008,
+  "lon": 6.5536863,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt Noorderplantsoen Nassaulaan",
+    "opening_hours": "24/7",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen",
+    "seasonal": "no",
+    "survey:date": "2020-05"
+  }
+},
+{
+  "type": "node",
+  "id": 5567348734,
+  "lat": 53.2154835,
+  "lon": 6.5815860,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 5782649397,
+  "lat": 53.0940294,
+  "lon": 6.6867547,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "WMD Drents drinkwater",
+    "operator:wikidata": "Q63152976",
+    "operator:wikipedia": "nl:WMD Drinkwater",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 5820642096,
+  "lat": 53.2193938,
+  "lon": 6.5628162,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "yes",
+    "level": "1",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 5820642097,
+  "lat": 53.2194821,
+  "lon": 6.5628679,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "yes",
+    "level": "-1",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 5909466190,
+  "lat": 53.1085869,
+  "lon": 6.0942722,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
+    "cold_water": "yes",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "Vitens",
+    "operator:wikidata": "Q1943963",
+    "operator:wikipedia": "nl:Vitens",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6404125091,
+  "lat": 53.2735443,
+  "lon": 6.6987364,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Ten Boer",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6715601108,
+  "lat": 53.2050243,
+  "lon": 6.5867495,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "opening_hours": "24/7",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6751306091,
+  "lat": 53.2302050,
+  "lon": 6.5559393,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Groningen-Noord",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "panoramax": "1c999639-e102-4f2d-b189-5ebaf5b06c72"
+  }
+},
+{
+  "type": "node",
+  "id": 6830803791,
+  "lat": 53.2481807,
+  "lon": 6.4060875,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Watertappunt Station Zuidhorn",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "panoramax": "e745516c-0647-4326-bebe-e9ff045b6769"
+  }
+},
+{
+  "type": "node",
+  "id": 6915006585,
+  "lat": 53.2486639,
+  "lon": 6.4057747,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt Transferium",
+    "opening_hours": "24/7",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "panoramax": "12c109f4-ebb5-4ecf-93d6-f1a09e78b2ec"
+  }
+},
+{
+  "type": "node",
+  "id": 7031008743,
+  "lat": 53.0562951,
+  "lon": 6.7220950,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "source used with permission from WMD",
+    "operator": "WMD Drents drinkwater",
+    "source": "https://wmd.nl/wmd/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 7031008744,
+  "lat": 53.0088975,
+  "lon": 6.7509097,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "note": "source used with permission from WMD",
+    "operator": "WMD Drents drinkwater",
+    "source": "https://wmd.nl/wmd/wmd-watertap/",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 7064973819,
+  "lat": 53.3345445,
+  "lon": 6.5155075,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt Onderdendamsterweg",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 7159601224,
+  "lat": 53.3610390,
+  "lon": 6.5185545,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "drinking_water": "yes",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Baflo",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078"
+  }
+},
+{
+  "type": "node",
+  "id": 7546038234,
+  "lat": 53.1227569,
+  "lon": 6.6394665,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Landgoed Blanckenborch"
+  }
+},
+{
+  "type": "node",
+  "id": 7744166666,
+  "lat": 53.1750230,
+  "lon": 6.6180123,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt Station Haren",
+    "operator": "Waterbedrijf Groningen",
+    "operator:type": "public",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 7805768585,
+  "lat": 53.1850696,
+  "lon": 6.3803430,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Leek",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078"
+  }
+},
+{
+  "type": "node",
+  "id": 7818037703,
+  "lat": 53.1845237,
+  "lon": 6.3797401,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt Leek Rotonde A7",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078"
+  }
+},
+{
+  "type": "node",
+  "id": 7933661541,
+  "lat": 53.1638152,
+  "lon": 6.3894715,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt Oosterheerdtstraat",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078"
+  }
+},
+{
+  "type": "node",
+  "id": 7997468738,
+  "lat": 53.1617572,
+  "lon": 6.7224050,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Kropswolde",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen",
+    "survey:date": "2020-12",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7997468739,
+  "lat": 53.1598970,
+  "lon": 6.7707835,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Hoogezand-Sappemeer",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7997468741,
+  "lat": 53.3335775,
+  "lon": 6.9241682,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Delfzijl",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7997476764,
+  "lat": 53.1983763,
+  "lon": 6.5505596,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "name": "Watertappunt Cruijffcourt Donderslaan",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7997476765,
+  "lat": 53.2048202,
+  "lon": 6.5860002,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Watertappunt Station Europapark",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7997476766,
+  "lat": 53.2110497,
+  "lon": 6.5653272,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Watertappunt OV Hub Hoofdstation",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen",
+    "panoramax": "2024d8f0-fbdf-4b15-8906-80e7fde5e187",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8507216869,
+  "lat": 53.2962475,
+  "lon": 6.6099489,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Watertappunt Cruijff Court Bedum",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 8532035517,
+  "lat": 53.1975588,
+  "lon": 6.5140126,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Hoogkerk",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078"
+  }
+},
+{
+  "type": "node",
+  "id": 8751160657,
+  "lat": 53.2562525,
+  "lon": 6.1445692,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8828409539,
+  "lat": 53.4104034,
+  "lon": 6.1966250,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Lauwersoog",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "source": "Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 8844276432,
+  "lat": 53.3606243,
+  "lon": 6.3744734,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "removed:amenity": "drinking_water",
+    "removed:man_made": "water_tap",
+    "removed:name": "Watertappunt OV Hub Leens",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8844305524,
+  "lat": 53.3065160,
+  "lon": 6.5936526,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Bedum",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 8844376122,
+  "lat": 53.2134036,
+  "lon": 6.2767103,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "colour": "blue",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Grootegast",
+    "opening_hours": "24/7",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "room_temperature_water": "yes",
+    "seasonal": "no",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8844400762,
+  "lat": 53.3345438,
+  "lon": 6.7476395,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Loppersum",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "source": "Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 8844771934,
+  "lat": 53.1397640,
+  "lon": 6.4297044,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drents drinkwater",
+    "operator:wikidata": "Q63152976",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 8846459895,
+  "lat": 53.1529131,
+  "lon": 6.2710238,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8849786748,
+  "lat": 53.2385611,
+  "lon": 6.5944496,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "colour": "blue",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Kardinge",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "panoramax": "8587e93c-06d5-4df0-9edd-703e683c155d"
+  }
+},
+{
+  "type": "node",
+  "id": 8863857341,
+  "lat": 53.4094649,
+  "lon": 6.6752826,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Uithuizen",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078"
+  }
+},
+{
+  "type": "node",
+  "id": 8920086010,
+  "lat": 53.2337883,
+  "lon": 6.5311360,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "name": "Watertappunt Jaagpad",
+    "opening_hours": "24/7",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8951153135,
+  "lat": 53.1975376,
+  "lon": 6.5690799,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "name": "Watertappunt De Wiardt",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078"
+  }
+},
+{
+  "type": "node",
+  "id": 8951153136,
+  "lat": 53.2189309,
+  "lon": 6.5691084,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "name": "Watertappunt Nieuwe Markt",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 9019656244,
+  "lat": 53.4028354,
+  "lon": 6.2130797,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9019656245,
+  "lat": 53.4021797,
+  "lon": 6.2155607,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9129547504,
+  "lat": 53.2363652,
+  "lon": 6.5204995,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "panoramax": "685a7644-06b2-43f7-86e0-1c31771d556a",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9137769106,
+  "lat": 53.2495677,
+  "lon": 6.8676374,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9327118379,
+  "lat": 53.1959702,
+  "lon": 6.5681212,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen",
+    "panoramax": "200c70f4-b489-47b0-be55-21bfefe5acc0",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9644128848,
+  "lat": 53.0218087,
+  "lon": 6.5897054,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drents drinkwater",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
+  }
+},
+{
+  "type": "node",
+  "id": 9686466415,
+  "lat": 53.0402727,
+  "lon": 6.3895035,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "WMD Drents drinkwater",
+    "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9758108865,
+  "lat": 53.1066541,
+  "lon": 6.0978885,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
+    "cold_water": "yes",
+    "hot_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9831099861,
+  "lat": 53.1044287,
+  "lon": 6.8854393,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Veendam",
+    "operator": "Waterbedrijf Groningen",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 9857832379,
+  "lat": 53.2052765,
+  "lon": 6.2614327,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9901294384,
+  "lat": 53.4867078,
+  "lon": 6.1470888,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9925406760,
+  "lat": 53.1866275,
+  "lon": 6.0016686,
+  "tags": {
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9929883350,
+  "lat": 53.0432435,
+  "lon": 6.7023801,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10251719888,
+  "lat": 53.1140039,
+  "lon": 6.4051634,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10285292349,
+  "lat": 53.1175440,
+  "lon": 6.1030435,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "yes",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10285292351,
+  "lat": 53.1085975,
+  "lon": 6.1095424,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
+    "cold_water": "yes",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10285292352,
+  "lat": 53.1024421,
+  "lon": 6.1174011,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
+    "cold_water": "yes",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10285292353,
+  "lat": 53.1346782,
+  "lon": 6.1369739,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "2",
+    "cold_water": "yes",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10654341705,
+  "lat": 53.1655794,
+  "lon": 6.9783434,
+  "tags": {
+    "amenity": "drinking_water",
+    "colour": "blue",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11161235205,
+  "lat": 53.4786916,
+  "lon": 6.1611540,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11180382811,
+  "lat": 53.0804045,
+  "lon": 6.2566480,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11577102132,
+  "lat": 53.3317011,
+  "lon": 6.5103154,
+  "tags": {
+    "addr:city": "Winsum",
+    "addr:housenumber": "6",
+    "addr:postcode": "9951CG",
+    "addr:street": "Winsumerdiep",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Marenland Recreatie",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.marenland.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 11927687613,
+  "lat": 53.6749016,
+  "lon": 6.9955525,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-04-15",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "no",
+    "website": "https://www.juist.de/auf-der-insel/poi/detail/trinkwassersaeule-am-hafen"
+  }
+},
+{
+  "type": "node",
+  "id": 12066882110,
+  "lat": 53.6802179,
+  "lon": 6.9949165,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 12086200669,
+  "lat": 53.2189075,
+  "lon": 6.5668340,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12087086381,
+  "lat": 53.5940182,
+  "lon": 6.6744654,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12583463401,
+  "lat": 53.3471323,
+  "lon": 6.6417542,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Watertappunt Middelstum",
+    "operator": "Waterbedrijf Groningen"
+  }
+},
+{
+  "type": "node",
+  "id": 12590276384,
+  "lat": 53.2224187,
+  "lon": 6.5663836,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12691535375,
+  "lat": 53.2189491,
+  "lon": 6.5699047,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "-1",
+    "location": "estimate",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 12705916136,
+  "lat": 53.1055520,
+  "lon": 6.8788969,
+  "tags": {
+    "drinking_water": "yes",
+    "indoor": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12737437314,
+  "lat": 53.1063292,
+  "lon": 6.8758487,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12760682256,
+  "lat": 53.6764578,
+  "lon": 6.9545435,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-04-12",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "website": "https://app.juist.de/en/juist/streaming/detail/POI/p_100188566/trinkwassersaeule-am-hammersee"
+  }
+},
+{
+  "type": "node",
+  "id": 12829063727,
+  "lat": 53.5689512,
+  "lon": 6.7426091,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "operator": "Nordseeheilbad Borkum GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 12880598123,
+  "lat": 53.2187375,
+  "lon": 6.5682125,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12946661268,
+  "lat": 53.2355616,
+  "lon": 6.6061647,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "panoramax": "9828ff87-786b-44ad-beef-c150bfedceb9"
+  }
+}
+
+  ]
+}
