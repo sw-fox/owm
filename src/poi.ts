@@ -39,7 +39,7 @@ async function loadJson(lat: number, lon: number): Promise<Marker[]> {
     }
     const latTrunc = Math.trunc(lat);
     const lonTrunc = Math.trunc(lon);
-    return fetch(`/data/drinking_water_${latTrunc}_${lonTrunc}.json`)
+    return fetch(`./data/drinking_water_${latTrunc}_${lonTrunc}.json`)
         .then(response => {
             if (!response.ok) {
                 console.error(`HTTP error! status: ${response.status}`);
