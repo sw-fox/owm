@@ -1,15 +1,552 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-27T11:41:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
 
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
+{
+  "type": "node",
+  "id": 1018788226,
+  "lat": 54.0276783,
+  "lon": 11.5198495,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1070742768,
+  "lat": 54.0284077,
+  "lon": 11.5183524,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1398535801,
+  "lat": 54.9153277,
+  "lon": 11.9817208,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-08-25",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 2530539556,
+  "lat": 54.0244872,
+  "lon": 11.5474831,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2870465641,
+  "lat": 54.6526345,
+  "lon": 11.3465305,
+  "tags": {
+    "alt_name": "Rødbyhavn",
+    "drinking_water": "yes",
+    "email": "tochr@lolland.dk",
+    "internet_access": "wlan",
+    "leisure": "marina",
+    "name": "Rødbyhavn Trafikhavn",
+    "phone": "+45 20 250672",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Rødbyhavn Trafikhavn",
+    "seamark:type": "harbour",
+    "shower": "yes",
+    "toilets": "yes",
+    "washing_machine": "yes",
+    "website": "http://www.rodbyport.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 3008921109,
+  "lat": 54.9496343,
+  "lon": 11.9851405,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3010067094,
+  "lat": 54.9273230,
+  "lon": 11.8733314,
+  "tags": {
+    "drinking_water": "yes",
+    "highway": "rest_area",
+    "toilets": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3091661172,
+  "lat": 54.5598327,
+  "lon": 11.9696056,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3726022872,
+  "lat": 54.8182374,
+  "lon": 11.5145787,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4411084179,
+  "lat": 54.1465527,
+  "lon": 11.7934844,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-06-15",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5127037119,
+  "lat": 54.1128636,
+  "lon": 11.6323838,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5130446075,
+  "lat": 54.1526083,
+  "lon": 11.8994489,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "bottle": "no",
+    "charge": "1€ for around 90L",
+    "covered": "yes",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "indoor": "no",
+    "note": "Gardena Anschluss",
+    "opening_hours": "24/7",
+    "operator": "EuV aqua",
+    "payment:coins": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5709265811,
+  "lat": 54.8304642,
+  "lon": 11.1359856,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5873116057,
+  "lat": 54.6769643,
+  "lon": 11.4537459,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5907142017,
+  "lat": 54.1078421,
+  "lon": 11.6156012,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5907142018,
+  "lat": 54.1075512,
+  "lon": 11.6161646,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6697580887,
+  "lat": 54.7569952,
+  "lon": 11.4893851,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6751876507,
+  "lat": 54.6682879,
+  "lon": 11.8722771,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7823321533,
+  "lat": 54.1974988,
+  "lon": 11.0175477,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Verlangt eine Geldspende für's Wasser",
+    "name": "Trinkwasseranschluss"
+  }
+},
+{
+  "type": "node",
+  "id": 8443139020,
+  "lat": 54.4484764,
+  "lon": 11.0860413,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 8512443299,
+  "lat": 54.9114036,
+  "lon": 11.8414256,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8539617397,
+  "lat": 54.6938960,
+  "lon": 11.8179104,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8602724845,
+  "lat": 54.1072632,
+  "lon": 11.6170139,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8853919417,
+  "lat": 54.9112866,
+  "lon": 11.8413617,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9891353091,
+  "lat": 54.8074708,
+  "lon": 11.7816251,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10127674880,
+  "lat": 54.1061322,
+  "lon": 11.9019291,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10146971891,
+  "lat": 54.0316485,
+  "lon": 11.6718967,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11081793706,
+  "lat": 54.7531973,
+  "lon": 11.4464176,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11192503522,
+  "lat": 54.5711293,
+  "lon": 11.9397382,
+  "tags": {
+    "access": "customers",
+    "amenity": "shower",
+    "drinking_water": "yes",
+    "hot_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11193982014,
+  "lat": 54.7747571,
+  "lon": 11.8424468,
+  "tags": {
+    "description": "Water Point for Sundby Nord Tentplads",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11195959369,
+  "lat": 54.7743601,
+  "lon": 11.5014675,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "panoramax": "0d59889f-2025-490a-922c-8d1415af24aa"
+  }
+},
+{
+  "type": "node",
+  "id": 11196437462,
+  "lat": 54.7702089,
+  "lon": 11.7624250,
+  "tags": {
+    "camp_site": "basic",
+    "drinking_water": "yes",
+    "kitchen": "yes",
+    "name": "Grænge Beboerhus",
+    "openfire": "yes",
+    "shelter": "yes",
+    "shower": "yes",
+    "socket:schuko": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "url": "https://bookenshelter.dk/naturlandet/shelterplads/graenge/"
+  }
+},
+{
+  "type": "node",
+  "id": 11197112150,
+  "lat": 54.6630144,
+  "lon": 11.6007166,
+  "tags": {
+    "access": "yes",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "panoramax": "54fd2830-e53f-48f6-bd25-e896ec3c1f84"
+  }
+},
+{
+  "type": "node",
+  "id": 11197407445,
+  "lat": 54.6618804,
+  "lon": 11.7310562,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11247736685,
+  "lat": 54.5711107,
+  "lon": 11.9397140,
+  "tags": {
+    "dish_washing": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11695136711,
+  "lat": 54.8407048,
+  "lon": 11.8209813,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "Dronninghave"
+  }
+},
+{
+  "type": "node",
+  "id": 11897440700,
+  "lat": 54.4133159,
+  "lon": 11.2461101,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 11897440702,
+  "lat": 54.4133761,
+  "lon": 11.2461118,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 11897440704,
+  "lat": 54.4134568,
+  "lon": 11.2461129,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 11897440705,
+  "lat": 54.4135136,
+  "lon": 11.2461140,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 12887048146,
+  "lat": 54.9219065,
+  "lon": 11.1938885,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "description": "On the shelterplatsen next to the toilett",
+    "fee": "no",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12912771186,
+  "lat": 54.1310117,
+  "lon": 11.6480206,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12913934975,
+  "lat": 54.1305911,
+  "lon": 11.6473706,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12913973599,
+  "lat": 54.1299663,
+  "lon": 11.6466963,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12914253464,
+  "lat": 54.1293982,
+  "lon": 11.6457329,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12996780157,
+  "lat": 54.3617573,
+  "lon": 11.0859195,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+}
 
-</body>
-</html>
+  ]
+}
