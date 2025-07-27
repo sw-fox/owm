@@ -1,0 +1,912 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:49:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 460250268,
+  "lat": 51.2636689,
+  "lon": 15.5634642,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3298527682,
+  "lat": 51.2630521,
+  "lon": 15.5654978,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2024-03-24",
+    "fee": "no",
+    "operator": "Przedsiębiorstwo Wodociągów i Kanalizacji w Bolesławcu Sp. z o.o.",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4335064598,
+  "lat": 51.3451624,
+  "lon": 15.1209703,
+  "tags": {
+    "description": "Miejsce, gdzie można nabierać bardzo dobrą, przebadaną wodę źródlaną",
+    "drinking_water": "yes",
+    "name": "Źródełko św. Elżbiety",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4335472153,
+  "lat": 51.0324871,
+  "lon": 15.2927136,
+  "tags": {
+    "addr:housenumber": "198/7",
+    "addr:place": "Sucha",
+    "addr:postcode": "59-820",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Plaża Czocha",
+    "phone": "+48 601 918 797",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://plaza-czocha.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4471506790,
+  "lat": 51.9297661,
+  "lon": 15.5400005,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4472031801,
+  "lat": 51.9300167,
+  "lon": 15.5400587,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4472031802,
+  "lat": 51.9296785,
+  "lon": 15.5398543,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4472031804,
+  "lat": 51.9294135,
+  "lon": 15.5393913,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4472031805,
+  "lat": 51.9291378,
+  "lon": 15.5389282,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476468164,
+  "lat": 51.9283468,
+  "lon": 15.5392180,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476468167,
+  "lat": 51.9287166,
+  "lon": 15.5396821,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476468169,
+  "lat": 51.9292222,
+  "lon": 15.5403300,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476468171,
+  "lat": 51.9294369,
+  "lon": 15.5402312,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476468172,
+  "lat": 51.9305018,
+  "lon": 15.5398529,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476468174,
+  "lat": 51.9306697,
+  "lon": 15.5384514,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/map/im/utMBqIHh-auOd_wZfi2p4A"
+  }
+},
+{
+  "type": "node",
+  "id": 4476468176,
+  "lat": 51.9308447,
+  "lon": 15.5375323,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476468178,
+  "lat": 51.9311695,
+  "lon": 15.5364399,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476468181,
+  "lat": 51.9312344,
+  "lon": 15.5349279,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476468183,
+  "lat": 51.9305552,
+  "lon": 15.5344285,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476468186,
+  "lat": 51.9298846,
+  "lon": 15.5340931,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476468187,
+  "lat": 51.9297104,
+  "lon": 15.5340301,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476468188,
+  "lat": 51.9293515,
+  "lon": 15.5340737,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476468289,
+  "lat": 51.9288936,
+  "lon": 15.5349148,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476751876,
+  "lat": 51.9269192,
+  "lon": 15.5344974,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4476751878,
+  "lat": 51.9264500,
+  "lon": 15.5344266,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4493894046,
+  "lat": 51.9074872,
+  "lon": 15.5020940,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4493894048,
+  "lat": 51.9077182,
+  "lon": 15.5029343,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4493894050,
+  "lat": 51.9078495,
+  "lon": 15.5034046,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4493894056,
+  "lat": 51.9069441,
+  "lon": 15.5019501,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4493894061,
+  "lat": 51.9065574,
+  "lon": 15.5004948,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4493894063,
+  "lat": 51.9062856,
+  "lon": 15.5015177,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4493894066,
+  "lat": 51.9068308,
+  "lon": 15.5028155,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4493894069,
+  "lat": 51.9072160,
+  "lon": 15.5028495,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4499033523,
+  "lat": 51.9267986,
+  "lon": 15.5359735,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4596193850,
+  "lat": 51.9421650,
+  "lon": 15.5539303,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4870174387,
+  "lat": 51.7660536,
+  "lon": 15.8043714,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4870174388,
+  "lat": 51.7661542,
+  "lon": 15.8048313,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4974667885,
+  "lat": 51.9396412,
+  "lon": 15.4735416,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4980776427,
+  "lat": 51.9535493,
+  "lon": 15.4574691,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5057728088,
+  "lat": 51.9946523,
+  "lon": 15.9754381,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5057728096,
+  "lat": 51.9942543,
+  "lon": 15.9742798,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5059611345,
+  "lat": 51.9279695,
+  "lon": 15.4425896,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5087187334,
+  "lat": 51.9421196,
+  "lon": 15.5092219,
+  "tags": {
+    "amenity": "drinking_water",
+    "artwork_type": "statue",
+    "image": "https://www.mapillary.com/app/?pKey=3882797131838185",
+    "man_made": "water_tap",
+    "mapillary": "3882797131838185",
+    "name": "Bachusik Aquaduktus i Bachuska Aquadukta",
+    "source": "https://gazetalubuska.pl/wielka-feta-w-centrum-zielonogorskie-wodociagi-swietuja-150-lat-wspolnie-z-przedszkolakami-odslonieto-nowe-bachusiki/ar/c1p2-27661517",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 5087187341,
+  "lat": 51.9415279,
+  "lon": 15.5079503,
+  "tags": {
+    "amenity": "drinking_water",
+    "artwork_type": "statue",
+    "image": "https://photos.app.goo.gl/xgDJij3qxEg69zZg9",
+    "name": "Bachusik Magikus Zamiennikus",
+    "tourism": "artwork",
+    "url": "https://dolny-slask.org.pl/5599843,Zielona_Gora,Bachusik_Magikus_Zmiennikus.html",
+    "url:0": "https://fotopolska.eu/Bachus_i_Bachusiki_Bachusik_Magikus_Zmiennikus?map_z=18",
+    "website": "http://bachusiki.cba.pl/bachusik/Magikus_Zamiennikus"
+  }
+},
+{
+  "type": "node",
+  "id": 5135777627,
+  "lat": 51.9608101,
+  "lon": 15.4570694,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5138953105,
+  "lat": 51.9052806,
+  "lon": 15.5297371,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5225114915,
+  "lat": 51.9287685,
+  "lon": 15.5375311,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://photos.app.goo.gl/A1s1yTVE9N8piJAK9",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5225114916,
+  "lat": 51.9286690,
+  "lon": 15.5379683,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-09-14",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5320995685,
+  "lat": 51.9557498,
+  "lon": 15.3915902,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5326189292,
+  "lat": 51.9441029,
+  "lon": 15.5123363,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5430411727,
+  "lat": 51.1107835,
+  "lon": 15.5870168,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5549601211,
+  "lat": 51.9182025,
+  "lon": 15.9585352,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5864533357,
+  "lat": 51.9418408,
+  "lon": 15.5071015,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://photos.app.goo.gl/Tmn34QAK15EaQFno7"
+  }
+},
+{
+  "type": "node",
+  "id": 5867207432,
+  "lat": 51.9393352,
+  "lon": 15.5042313,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/map/im/xayGwIXjNywTWaqYi0zppg"
+  }
+},
+{
+  "type": "node",
+  "id": 5869170363,
+  "lat": 51.9395592,
+  "lon": 15.5039139,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5883161634,
+  "lat": 51.9357683,
+  "lon": 15.5076629,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/map/im/itEg_5CX0e7TCKTdgULiwQ",
+    "name": "Zdrój wody pitnej"
+  }
+},
+{
+  "type": "node",
+  "id": 5883161667,
+  "lat": 51.9347428,
+  "lon": 15.5079612,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/map/im/cm58qT9rL_Glyky1JelF2w",
+    "name": "Zdrój wody pitnej"
+  }
+},
+{
+  "type": "node",
+  "id": 5911584188,
+  "lat": 51.9320514,
+  "lon": 15.5219077,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/map/im/kNrLSqIsRKNA5ABhtJ8s4Q",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5922596453,
+  "lat": 51.9145682,
+  "lon": 15.3630383,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5951297078,
+  "lat": 51.1081052,
+  "lon": 15.5856995,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5952882581,
+  "lat": 51.1077876,
+  "lon": 15.5878593,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6034753272,
+  "lat": 51.9385724,
+  "lon": 15.5132867,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://photos.app.goo.gl/6JH6PP3yPamWeU5Q7",
+    "mapillary": "511774239963187"
+  }
+},
+{
+  "type": "node",
+  "id": 6045116707,
+  "lat": 51.9383525,
+  "lon": 15.5121448,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "image": "https://photos.app.goo.gl/Rs5NaxFyuKzPkznu9",
+    "mapillary": "4716393608375713",
+    "name": "Zdrój wody pitnej"
+  }
+},
+{
+  "type": "node",
+  "id": 6348444587,
+  "lat": 51.9498043,
+  "lon": 15.7065034,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/map/im/ybNaezLRw1W0ivg0O4EOUQ"
+  }
+},
+{
+  "type": "node",
+  "id": 6372973528,
+  "lat": 51.9442321,
+  "lon": 15.7723512,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/map/im/-ETWkfFh4gGewyZRwWsWkw"
+  }
+},
+{
+  "type": "node",
+  "id": 6424851924,
+  "lat": 51.9271903,
+  "lon": 15.5330015,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://photos.app.goo.gl/Nfa3eGKHE7xCb2LN7",
+    "mapillary": "329080745304540"
+  }
+},
+{
+  "type": "node",
+  "id": 6424851925,
+  "lat": 51.9268820,
+  "lon": 15.5323585,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/app/?pKey=136133155170690",
+    "mapillary": "136133155170690"
+  }
+},
+{
+  "type": "node",
+  "id": 6424851926,
+  "lat": 51.9263200,
+  "lon": 15.5317910,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/map/im/mYlte55wfIzmi6cwT2zxeA"
+  }
+},
+{
+  "type": "node",
+  "id": 6468192298,
+  "lat": 51.9131650,
+  "lon": 15.5663842,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/map/im/oHY3T6tyThC2jt2xLYxNGA"
+  }
+},
+{
+  "type": "node",
+  "id": 6468609866,
+  "lat": 51.8972110,
+  "lon": 15.5666455,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6474246211,
+  "lat": 51.9735117,
+  "lon": 15.5348771,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/map/im/heU06ylFN9HcCeSzHAg1Fw"
+  }
+},
+{
+  "type": "node",
+  "id": 6474246212,
+  "lat": 51.9734196,
+  "lon": 15.5350484,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/map/im/3QFeSjKMmSWzzJf2fhm0Uw"
+  }
+},
+{
+  "type": "node",
+  "id": 6498535364,
+  "lat": 51.9360213,
+  "lon": 15.5284226,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://photos.app.goo.gl/JZHgqYxFWj86H98d6",
+    "mapillary": "515066013264299"
+  }
+},
+{
+  "type": "node",
+  "id": 6700731154,
+  "lat": 51.9867849,
+  "lon": 15.3155939,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://photos.app.goo.gl/8BLpVtgkt2mPVU1t8",
+    "mapillary": "1188701611568129"
+  }
+},
+{
+  "type": "node",
+  "id": 6823721834,
+  "lat": 51.9953406,
+  "lon": 15.1283999,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://images.mapillary.com/Mo3NkusfWYrwE1GsE6_g8g/thumb-2048.jpg",
+    "mapillary": "385520736170381"
+  }
+},
+{
+  "type": "node",
+  "id": 6856176756,
+  "lat": 51.9969634,
+  "lon": 15.1991273,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://www.mapillary.com/app/?pKey=5481582838537120",
+    "mapillary": "518633322644196"
+  }
+},
+{
+  "type": "node",
+  "id": 6900689269,
+  "lat": 51.8913323,
+  "lon": 15.4719585,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7652031600,
+  "lat": 51.5170636,
+  "lon": 15.1041452,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7652399586,
+  "lat": 51.4996292,
+  "lon": 15.2049583,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7653330186,
+  "lat": 51.3914696,
+  "lon": 15.4092864,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8481977451,
+  "lat": 51.9153951,
+  "lon": 15.4818185,
+  "tags": {
+    "drinking_water": "yes",
+    "image": "https://photos.app.goo.gl/F5LPAFqVRgF8ymQS9",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10072893844,
+  "lat": 51.7298358,
+  "lon": 15.8253982,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10072893845,
+  "lat": 51.7293402,
+  "lon": 15.8236676,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10074370347,
+  "lat": 51.5972826,
+  "lon": 15.3364831,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10074791764,
+  "lat": 51.8028250,
+  "lon": 15.7250608,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11063207679,
+  "lat": 51.1105776,
+  "lon": 15.5797992,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11196040605,
+  "lat": 51.9055861,
+  "lon": 15.5904461,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11472617789,
+  "lat": 51.9366945,
+  "lon": 15.5031922,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "image": "https://photos.app.goo.gl/GBnV31VN6KVZTiHbA"
+  }
+},
+{
+  "type": "node",
+  "id": 11472617813,
+  "lat": 51.9371522,
+  "lon": 15.5052456,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://photos.app.goo.gl/7t31Hi6EtSoE92pZ7",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12321420877,
+  "lat": 51.9370678,
+  "lon": 15.5036046,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://photos.app.goo.gl/DbtrYPgw1MbtQwfBA"
+  }
+},
+{
+  "type": "node",
+  "id": 13014907192,
+  "lat": 51.7450634,
+  "lon": 15.5955655,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+}
+
+  ]
+}

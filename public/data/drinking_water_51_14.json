@@ -1,0 +1,991 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:48:46Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 401793788,
+  "lat": 51.0134712,
+  "lon": 14.2021963,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 430446186,
+  "lat": 51.2870878,
+  "lon": 14.2263189,
+  "tags": {
+    "amenity": "drinking_water",
+    "historic": "yes",
+    "name:de": "Marienquelle",
+    "name:hsb": "Marijina studnička",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 468329134,
+  "lat": 51.0714833,
+  "lon": 14.2846319,
+  "tags": {
+    "direction": "SSW",
+    "drinking_water": "yes",
+    "ele": "515",
+    "historic": "yes",
+    "image": "File:Wesenitzquelle.jpg",
+    "name": "Wesenitzquelle",
+    "name:hsb": "Žórło Wjazońcy",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 485086520,
+  "lat": 51.4904265,
+  "lon": 14.0365316,
+  "tags": {
+    "addr:city": "Senftenberg",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "01968",
+    "addr:street": "Straße zur Südsee",
+    "addr:suburb": "Großkoschen",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "name": "Hafencamp",
+    "phone": "+49 3573 800600",
+    "shower": "yes",
+    "tents": "yes",
+    "tourism": "camp_site",
+    "website": "http://www.hafencamp.de/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Barrierefreiheit Zimmer und campinghütten, WCs...Bootsverleih mit Lift und Rollstuhlzugänglichen badesteg"
+  }
+},
+{
+  "type": "node",
+  "id": 843358242,
+  "lat": 51.8574123,
+  "lon": 14.0388744,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Wasserwanderrastplatz Spreewaldhof",
+    "operator": "Christa Buchan",
+    "phone": "+49 3542 2805",
+    "power_supply": "yes",
+    "sanitary_dump_station": "no",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "waterway": "biwak",
+    "website": "https://www.spreewaldhof-leipe.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1834490211,
+  "lat": 51.5122342,
+  "lon": 14.0249461,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "seasonal": "summer"
+  }
+},
+{
+  "type": "node",
+  "id": 2020400730,
+  "lat": 51.0298652,
+  "lon": 14.2200488,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2020400739,
+  "lat": 51.0302877,
+  "lon": 14.2201950,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2020400748,
+  "lat": 51.0304479,
+  "lon": 14.2210909,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2048259624,
+  "lat": 51.1817391,
+  "lon": 14.4154783,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-08-21"
+  }
+},
+{
+  "type": "node",
+  "id": 2048273914,
+  "lat": 51.4081593,
+  "lon": 14.4032911,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2598607698,
+  "lat": 51.0330050,
+  "lon": 14.2883782,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2913775658,
+  "lat": 51.1539309,
+  "lon": 14.9867889,
+  "tags": {
+    "access": "yes",
+    "amenity": "fountain",
+    "capacity": "1",
+    "drinking_water": "yes",
+    "drinking_water:seasonal": "yes",
+    "fountain": "bubbler",
+    "man_made": "drinking_fountain",
+    "name": "Der Teufel",
+    "source": "https://www.goerlitz-insider.de/der-trinkwasserbrunnen-von-goerlitz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3044162454,
+  "lat": 51.0109075,
+  "lon": 14.0659711,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3044162511,
+  "lat": 51.0112498,
+  "lon": 14.0656879,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3554895352,
+  "lat": 51.0003777,
+  "lon": 14.4224582,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Bábinčin pramen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4092368906,
+  "lat": 51.1818467,
+  "lon": 14.4278466,
+  "tags": {
+    "description": "Brunnen Ecke Wendischer Graben / Wendische Straße in Bautzen",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "historic": "yes",
+    "image": "https://commons.wikimedia.org/wiki/File%3ABautzen_Brunnen_Wendischer_Graben.jpg",
+    "man_made": "water_well",
+    "name": "Brunnen",
+    "name:hsb": "Studnja"
+  }
+},
+{
+  "type": "node",
+  "id": 4157022968,
+  "lat": 51.1872788,
+  "lon": 14.1268599,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4191577435,
+  "lat": 51.2457699,
+  "lon": 14.7621053,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4332732052,
+  "lat": 51.6925889,
+  "lon": 14.1009742,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4525085934,
+  "lat": 51.0993124,
+  "lon": 14.5036651,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4964617234,
+  "lat": 51.1818728,
+  "lon": 14.4278393,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 5661571705,
+  "lat": 51.1108114,
+  "lon": 14.4946453,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5697120958,
+  "lat": 51.4340166,
+  "lon": 14.2427422,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Wasserhahn an Hauswand, unklar ob Trinkwasser",
+    "fee": "no",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 5952151096,
+  "lat": 51.4390471,
+  "lon": 14.2576615,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "description": "für Kunden kostenlos, ansonsten mit Gebühr",
+    "drinking_water": "yes",
+    "operator": "Bäckerei Dreißig",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6141025742,
+  "lat": 51.0552366,
+  "lon": 14.5202783,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6160187429,
+  "lat": 51.0096032,
+  "lon": 14.3348630,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6374462267,
+  "lat": 51.0231415,
+  "lon": 14.1815545,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 6504083217,
+  "lat": 51.8417711,
+  "lon": 14.1353032,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 6504083218,
+  "lat": 51.8417470,
+  "lon": 14.1353019,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 6759239207,
+  "lat": 51.9392066,
+  "lon": 14.1302031,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6759239208,
+  "lat": 51.9390393,
+  "lon": 14.1298322,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6759239209,
+  "lat": 51.9392615,
+  "lon": 14.1299364,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7737863610,
+  "lat": 51.8438710,
+  "lon": 14.0978281,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7745200985,
+  "lat": 51.7701329,
+  "lon": 14.6456544,
+  "tags": {
+    "addr:city": "Forst (Lausitz)",
+    "addr:housenumber": "75",
+    "addr:postcode": "03149",
+    "addr:street": "Forster Straße",
+    "camp_site": "serviced",
+    "capacity:caravans": "0",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "motor_vehicle": "no",
+    "name": "Camping - Gasthaus Sacro",
+    "permanent_camping": "no",
+    "phone": "+4935627682",
+    "picnic_table": "yes",
+    "power_supply": "yes",
+    "shower": "yes",
+    "static_caravans": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.gasthaussacro.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 7958147717,
+  "lat": 51.0937382,
+  "lon": 14.2889875,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 8284316912,
+  "lat": 51.2601814,
+  "lon": 14.0704646,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 8878499094,
+  "lat": 51.9137828,
+  "lon": 14.0235913,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8893168804,
+  "lat": 51.9950708,
+  "lon": 14.1887929,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8893168805,
+  "lat": 51.9286821,
+  "lon": 14.2097332,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Wiedmann's Brunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8949666202,
+  "lat": 51.2872820,
+  "lon": 14.1473395,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Schwengelpunmpe"
+  }
+},
+{
+  "type": "node",
+  "id": 8986315851,
+  "lat": 51.6350894,
+  "lon": 14.8797459,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9036271050,
+  "lat": 51.7183653,
+  "lon": 14.6660483,
+  "tags": {
+    "addr:city": "Forst (Lausitz)",
+    "addr:housenumber": "6",
+    "addr:postcode": "03149",
+    "addr:street": "Am Sandberg",
+    "caravans": "yes",
+    "description": "tents only",
+    "drinking_water": "yes",
+    "name": "Camp Keune",
+    "phone": "+49 1525 7474270",
+    "power_supply": "yes",
+    "sanitary_dump_station": "no",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 9727082990,
+  "lat": 51.4922532,
+  "lon": 14.1122108,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "operator": "Wasserwanderrastplatz Geierswalde",
+    "seamark:small_craft_facility:category": "toilets",
+    "seamark:type": "small_craft_facility",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9794690671,
+  "lat": 51.0970009,
+  "lon": 14.3079908,
+  "tags": {
+    "access": "customers",
+    "description:de": "Bitte bei Wasserentnahme nachfragen. Wasserhahn muss beim Drehen leicht gedrückt werden.",
+    "description:en": "Please ask when taking water. The tap must be slightly pressed when turning.",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "steel",
+    "operator": "Ev.-Luth. Pfarramt Neukirch/Lausitz"
+  }
+},
+{
+  "type": "node",
+  "id": 9814247591,
+  "lat": 51.1518086,
+  "lon": 14.9853890,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "man_made": "drinking_fountain",
+    "source": "https://www.goerlitz-insider.de/der-trinkwasserbrunnen-von-goerlitz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9814247592,
+  "lat": 51.1545264,
+  "lon": 14.9851340,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "drinking_water:seasonal": "yes",
+    "fountain": "bubbler",
+    "man_made": "drinking_fountain",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9814247593,
+  "lat": 51.1554917,
+  "lon": 14.9886443,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "man_made": "drinking_fountain",
+    "source": "surveyObermarkt",
+    "website": "https://www.goerlitz-insider.de/der-trinkwasserbrunnen-von-goerlitz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9864633976,
+  "lat": 51.5436670,
+  "lon": 14.5697455,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9912213280,
+  "lat": 51.1527649,
+  "lon": 14.9858721,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "capacity": "2",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "man_made": "drinking_fountain",
+    "source": "https://www.goerlitz-insider.de/der-trinkwasserbrunnen-von-goerlitz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10113987818,
+  "lat": 51.1987260,
+  "lon": 14.6948621,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10128354552,
+  "lat": 51.4387699,
+  "lon": 14.2479709,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "source": "survey",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 10268060734,
+  "lat": 51.0488537,
+  "lon": 14.0788318,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "female": "yes",
+    "indoor": "yes",
+    "male": "yes",
+    "operator": "Stadt Stolpen",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10652355051,
+  "lat": 51.0425812,
+  "lon": 14.1171534,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "indoor": "yes",
+    "opening_hours": "08:00-17:00",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10870602654,
+  "lat": 51.1889286,
+  "lon": 14.7434197,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11079171324,
+  "lat": 51.9070322,
+  "lon": 14.5798161,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11132725861,
+  "lat": 51.2676711,
+  "lon": 14.4925286,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11248207593,
+  "lat": 51.1682368,
+  "lon": 14.9771026,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "fee": "no",
+    "fountain": "bubbler",
+    "man_made": "drinking_fountain",
+    "operator": "Stadtwerke Görlitz",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11663618338,
+  "lat": 51.6893236,
+  "lon": 14.3317760,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11663618348,
+  "lat": 51.6889975,
+  "lon": 14.3312764,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11731408254,
+  "lat": 51.5751414,
+  "lon": 14.0100579,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "operator": "Wasserverband Lausitz",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11933757270,
+  "lat": 51.7443376,
+  "lon": 14.6461528,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11950448734,
+  "lat": 51.5132496,
+  "lon": 14.0068118,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7",
+    "operator": "Wasserverband Lausitz",
+    "panoramax": "c20dd5d1-27a5-446d-a642-99485951c1b3",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11950530831,
+  "lat": 51.5205483,
+  "lon": 14.0046453,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7",
+    "operator": "Wasserverband Lausitz",
+    "panoramax": "416c4363-7e8b-42a0-b8b6-65917fc425ad",
+    "seasonal": "spring;summer;autumn",
+    "survey:date": "2024-08-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11950654335,
+  "lat": 51.7590982,
+  "lon": 14.3336405,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "LWG Lausitzer Wasser GmbH & Co. KG",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11950719061,
+  "lat": 51.7613162,
+  "lon": 14.3297583,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Euro-Trinkbrunnen",
+    "opening_hours": "24/7",
+    "operator": "LWG Lausitz Wasser GmbH & Co. KG",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12136571080,
+  "lat": 51.0488974,
+  "lon": 14.0787495,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12168825042,
+  "lat": 51.1968115,
+  "lon": 14.1354605,
+  "tags": {
+    "amenity": "sanitary_dump_station",
+    "drinking_water": "yes",
+    "water_point": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12180552404,
+  "lat": 51.5191229,
+  "lon": 14.0049964,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "yes",
+    "opening_hours": "24/7",
+    "operator": "Wasserverband Lausitz",
+    "seasonal": "spring;summer;autumn",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12432934199,
+  "lat": 51.4364462,
+  "lon": 14.2467198,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "lit": "yes",
+    "operator": "Christliche Schule Johanneum",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12723397736,
+  "lat": 51.1539212,
+  "lon": 14.9883927,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "man_made": "drinking_fountain",
+    "operator": "Stadtwerke Görlitz",
+    "website": "https://www.goerlitz-insider.de/der-trinkwasserbrunnen-von-goerlitz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12749876401,
+  "lat": 51.6497752,
+  "lon": 14.8282796,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Woda pitna",
+    "name:en": "Drinkin water"
+  }
+},
+{
+  "type": "node",
+  "id": 12749876601,
+  "lat": 51.6498444,
+  "lon": 14.8275878,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Woda pitna",
+    "name:en": "Drinking water"
+  }
+},
+{
+  "type": "node",
+  "id": 12749876602,
+  "lat": 51.6498904,
+  "lon": 14.8263818,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Woda pitna",
+    "name:en": "Drinking water"
+  }
+},
+{
+  "type": "node",
+  "id": 12912519438,
+  "lat": 51.6535342,
+  "lon": 14.2225004,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+}
+
+  ]
+}

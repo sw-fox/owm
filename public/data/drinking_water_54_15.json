@@ -1,0 +1,270 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T14:11:56Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1722556904,
+  "lat": 54.1744062,
+  "lon": 15.5752301,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1827443736,
+  "lat": 54.9955791,
+  "lon": 15.0379555,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2629391941,
+  "lat": 54.1540092,
+  "lon": 15.6266390,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 2721974559,
+  "lat": 54.1820689,
+  "lon": 15.5935289,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4936126962,
+  "lat": 54.1816708,
+  "lon": 15.5950345,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4936132083,
+  "lat": 54.1821711,
+  "lon": 15.5962094,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6501528037,
+  "lat": 54.1812590,
+  "lon": 15.5948172,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7090334405,
+  "lat": 54.1440778,
+  "lon": 15.2936230,
+  "tags": {
+    "amenity": "drinking_water",
+    "cold_water": "yes",
+    "fountain": "bubbler",
+    "operator": "Zakład Wodociągów i Kanalizacji w Trzebiatowie"
+  }
+},
+{
+  "type": "node",
+  "id": 7826751799,
+  "lat": 54.0759286,
+  "lon": 15.1177104,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8329018096,
+  "lat": 54.1814328,
+  "lon": 15.5646388,
+  "tags": {
+    "amenity": "drinking_water",
+    "dog": "yes",
+    "fountain": "drinking",
+    "name": "Kołobrzeska kranówka"
+  }
+},
+{
+  "type": "node",
+  "id": 9838095853,
+  "lat": 54.1793531,
+  "lon": 15.5966137,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10720611181,
+  "lat": 54.1907573,
+  "lon": 15.6088870,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 10962941315,
+  "lat": 54.0067980,
+  "lon": 15.9892894,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11171978612,
+  "lat": 54.1757160,
+  "lon": 15.5767696,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fountain": "bubbler",
+    "panoramax": "50742687-a2fe-44d4-a003-3f5158e9cb94"
+  }
+},
+{
+  "type": "node",
+  "id": 11451840490,
+  "lat": 54.1863526,
+  "lon": 15.5622820,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11452091784,
+  "lat": 54.2427356,
+  "lon": 15.8734754,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11877759640,
+  "lat": 54.1711285,
+  "lon": 15.5581583,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12097610852,
+  "lat": 54.1603073,
+  "lon": 15.4258094,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12099311655,
+  "lat": 54.1603835,
+  "lon": 15.4240293,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12107793662,
+  "lat": 54.1616755,
+  "lon": 15.4916681,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12132569264,
+  "lat": 54.1434895,
+  "lon": 15.2894072,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12151897180,
+  "lat": 54.2423547,
+  "lon": 15.8909408,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12168669455,
+  "lat": 54.0634732,
+  "lon": 15.2690382,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12649891940,
+  "lat": 54.0623030,
+  "lon": 15.2660590,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,838 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T14:06:56Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 375995827,
+  "lat": 54.3840866,
+  "lon": 8.6533739,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 473376214,
+  "lat": 54.6744514,
+  "lon": 8.6867711,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2024-08-18",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "gender_segregated": "no",
+    "indoor": "yes",
+    "level": "0",
+    "male": "yes",
+    "opening_hours": "Mar-Oct sunrise-sunset",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:menstrual_products": "no",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 802248499,
+  "lat": 54.6855748,
+  "lon": 8.5692133,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "capacity": "2",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "shower": "outdoor",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 802248527,
+  "lat": 54.6844016,
+  "lon": 8.5687512,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "capacity": "2",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "shower": "outdoor",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 810734134,
+  "lat": 54.6805432,
+  "lon": 8.5445418,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "capacity": "2",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "shower": "outdoor",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 810754843,
+  "lat": 54.6812712,
+  "lon": 8.5368485,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "capacity": "2",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "shower": "outdoor",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 918204723,
+  "lat": 54.3299425,
+  "lon": 8.7785598,
+  "tags": {
+    "access": "customers",
+    "addr:city": "Garding",
+    "addr:country": "DE",
+    "addr:housenumber": "21",
+    "addr:postcode": "25836",
+    "addr:street": "Markt",
+    "amenity": "restaurant",
+    "changing_table": "no",
+    "check_date": "2025-02-14",
+    "cuisine": "italian",
+    "drinking_water": "yes",
+    "email": "A.Berberi@live.com",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "name": "Restaurant Europa",
+    "phone": "+49 4862 102353",
+    "toilets:position": "seated;urinal",
+    "website": "https://ristorante-europa-garding.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1835878456,
+  "lat": 54.8606386,
+  "lon": 8.2956903,
+  "tags": {
+    "amenity": "toilets",
+    "check_date": "2023-04-11",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2234441800,
+  "lat": 54.6816883,
+  "lon": 8.5353397,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "capacity": "2",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "shower": "outdoor",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3030590063,
+  "lat": 54.5780416,
+  "lon": 8.5563849,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3623500139,
+  "lat": 54.6908969,
+  "lon": 8.5725062,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "capacity": "2",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "shower": "outdoor",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3649650976,
+  "lat": 54.9349319,
+  "lon": 8.8676073,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-07-28",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3718642625,
+  "lat": 54.3157316,
+  "lon": 8.9407930,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "yes",
+    "changing_table:location": "wheelchair_toilet",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "payment:coins": "yes",
+    "payment:notes": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4250088352,
+  "lat": 54.3362467,
+  "lon": 8.6044664,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-08-14",
+    "cuisine": "fish",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "indoor_seating": "yes",
+    "male": "yes",
+    "name": "fish & chips for family",
+    "opening_hours": "Th-Tu,PH 12:00-20:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:cryptocurrencies": "no",
+    "payment:electronic_purses": "no",
+    "payment:girocard": "yes",
+    "payment:litecoin": "no",
+    "takeaway": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4375214548,
+  "lat": 54.6927610,
+  "lon": 8.3351124,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5060759380,
+  "lat": 54.6286613,
+  "lon": 8.3660004,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "squat"
+  }
+},
+{
+  "type": "node",
+  "id": 5060759381,
+  "lat": 54.6286061,
+  "lon": 8.3660272,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "squat"
+  }
+},
+{
+  "type": "node",
+  "id": 5060759382,
+  "lat": 54.6284284,
+  "lon": 8.3661103,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "squat"
+  }
+},
+{
+  "type": "node",
+  "id": 5060759383,
+  "lat": 54.6284392,
+  "lon": 8.3662069,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "squat"
+  }
+},
+{
+  "type": "node",
+  "id": 5882810116,
+  "lat": 54.8936494,
+  "lon": 8.2966756,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-07-07",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6604873970,
+  "lat": 54.9159620,
+  "lon": 8.3028227,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6850817700,
+  "lat": 54.3600452,
+  "lon": 8.7410724,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "De Kohstall",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 6850858889,
+  "lat": 54.1284325,
+  "lon": 8.8700558,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "no",
+    "changing_table:location": "wheelchair_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Phänomania",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6861248635,
+  "lat": 54.7138436,
+  "lon": 8.3969638,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 7100168484,
+  "lat": 54.9628636,
+  "lon": 8.6623811,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7931096471,
+  "lat": 54.7722242,
+  "lon": 8.9728574,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "supervised": "no",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8739423004,
+  "lat": 54.7966938,
+  "lon": 8.6603526,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8919973669,
+  "lat": 54.9638839,
+  "lon": 8.6880423,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8933071056,
+  "lat": 54.9125017,
+  "lon": 8.8543938,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9061052117,
+  "lat": 54.8660115,
+  "lon": 8.7328983,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9076488173,
+  "lat": 54.9782289,
+  "lon": 8.6709699,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9763999234,
+  "lat": 54.6279427,
+  "lon": 8.7183373,
+  "tags": {
+    "access": "permit",
+    "amenity": "shower",
+    "drinking_water": "yes",
+    "hot_water": "no",
+    "opening_hours": "Apr-Oct"
+  }
+},
+{
+  "type": "node",
+  "id": 9956751698,
+  "lat": 54.2462953,
+  "lon": 8.8410936,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "emergency": "fire_extinguisher"
+  }
+},
+{
+  "type": "node",
+  "id": 9972329720,
+  "lat": 54.6813346,
+  "lon": 8.5387218,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "capacity": "2",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "shower": "outdoor",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9981898775,
+  "lat": 54.6315872,
+  "lon": 8.7174592,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2024-08-19",
+    "drinking_water": "yes",
+    "fee": "no",
+    "gender_segregated": "no",
+    "level": "0",
+    "opening_hours": "Mar-Oct sunrise-sunset",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:menstrual_products": "no",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 10862020136,
+  "lat": 54.6871809,
+  "lon": 8.3228083,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10951555606,
+  "lat": 54.6799458,
+  "lon": 8.5555058,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "capacity": "2",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "shower": "outdoor",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10951555622,
+  "lat": 54.6872637,
+  "lon": 8.5699287,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "capacity": "2",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "shower": "outdoor",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10951555704,
+  "lat": 54.6900040,
+  "lon": 8.5716383,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "capacity": "2",
+    "drinking_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "shower": "outdoor",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11070265189,
+  "lat": 54.9039023,
+  "lon": 8.3247727,
+  "tags": {
+    "abandoned": "yes",
+    "access": "yes",
+    "addr:city": "Sylt",
+    "addr:housenumber": "25",
+    "addr:postcode": "25980",
+    "addr:street": "Keitumer Landstraße",
+    "check_date": "2024-08-19",
+    "description": "Protestcamp für ein solidarisches Miteinander vom 22. Juli bis 1. September 2024",
+    "disused": "yes",
+    "dog": "leashed",
+    "drinking_water": "yes",
+    "email": "info@aktion-sylt.org",
+    "end_date": "2024-09-01",
+    "fee": "no",
+    "fixme": "Temporäre Veranstaltung, die im Grunde auf der Hauptkarte von OSM nicht gemappt werden sollte.",
+    "internet_access": "no",
+    "name": "Aktion Sylt",
+    "openfire": "no",
+    "operator": "Aktion Sylt",
+    "picnic_table": "yes",
+    "power_supply": "yes",
+    "render": "no",
+    "shower": "no",
+    "start_date": "2024-07-22",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://aktion-sylt.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11074889099,
+  "lat": 54.9628286,
+  "lon": 8.6948178,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11920830212,
+  "lat": 54.9127429,
+  "lon": 8.8332089,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11920830213,
+  "lat": 54.9114809,
+  "lon": 8.6694118,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11964644102,
+  "lat": 54.3091038,
+  "lon": 8.9374328,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "note": "Trinkwasser 1€ ca 100 Ltr über die Key Cart"
+  }
+},
+{
+  "type": "node",
+  "id": 12026080388,
+  "lat": 54.4551287,
+  "lon": 8.9720345,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12082243199,
+  "lat": 54.3255869,
+  "lon": 8.7088108,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Nov-Mar: Mo-Su, PH off; Apr-Oct: Fr-Tu 12:00-17:30; We, Th off",
+    "operator": "Die Waffelstube",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12083289374,
+  "lat": 54.3072076,
+  "lon": 8.6168660,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "no",
+    "changing_table:location": "wheelchair_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "level": "1",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12247120556,
+  "lat": 54.1791702,
+  "lon": 8.8097743,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12298860353,
+  "lat": 54.3060390,
+  "lon": 8.6491068,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "1",
+    "male": "yes",
+    "operator": "Räucherscheune",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12378385724,
+  "lat": 54.9119039,
+  "lon": 8.8377180,
+  "tags": {
+    "camp_site": "basic",
+    "capacity:persons": "8",
+    "caravans": "no",
+    "dog": "leashed",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "motor_vehicle": "no",
+    "name": "Lægan Marskshelters",
+    "openfire": "yes",
+    "reservation": "yes",
+    "shelter": "yes",
+    "shelter_type": "lean_to",
+    "shelters": "2",
+    "static_caravans": "no",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://bookenshelter.dk/vadehavet/shelterplads/marskshelters-ved-laegan/"
+  }
+},
+{
+  "type": "node",
+  "id": 12732433490,
+  "lat": 54.8847870,
+  "lon": 8.9583635,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12953145312,
+  "lat": 54.2843600,
+  "lon": 8.6631735,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+}
+
+  ]
+}

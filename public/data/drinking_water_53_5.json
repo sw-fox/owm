@@ -1,0 +1,520 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:56:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1102604432,
+  "lat": 53.0223634,
+  "lon": 5.6957209,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2102747566,
+  "lat": 53.1995090,
+  "lon": 5.7963474,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-05-13",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 2416969815,
+  "lat": 53.1717846,
+  "lon": 5.4183546,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2653946409,
+  "lat": 53.0489711,
+  "lon": 5.8244284,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "seamark:small_craft_facility:category": "pump-out",
+    "seamark:type": "small_craft_facility"
+  }
+},
+{
+  "type": "node",
+  "id": 2965857859,
+  "lat": 53.0630536,
+  "lon": 5.5282986,
+  "tags": {
+    "addr:city": "Bolsward",
+    "addr:housenumber": "5",
+    "addr:postcode": "8701XG",
+    "addr:street": "Badweg",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Stadscamping Bolsward",
+    "phone": "+31 515 573 573",
+    "source": "BAG",
+    "source:date": "2014-07-16",
+    "tents": "yes",
+    "tourism": "camp_site",
+    "website": "https://sudwestfryslan.nl/onderwerp/vitaloo-stadscamping/"
+  }
+},
+{
+  "type": "node",
+  "id": 3605530776,
+  "lat": 53.0508459,
+  "lon": 5.8321720,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "check_date": "2022-03-05",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 3835623184,
+  "lat": 53.0983261,
+  "lon": 5.9464995,
+  "tags": {
+    "drinking_water": "yes",
+    "fee": "yes",
+    "internet_access": "wlan",
+    "leisure": "marina",
+    "name": "Jachthaven de Veenhoop",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4011467095,
+  "lat": 53.1278895,
+  "lon": 5.9358039,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4788988182,
+  "lat": 53.3024745,
+  "lon": 5.0773908,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 4892628736,
+  "lat": 53.0617182,
+  "lon": 5.5207789,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5095102721,
+  "lat": 53.1045593,
+  "lon": 5.9495017,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5110956260,
+  "lat": 53.3248852,
+  "lon": 5.9989995,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5403959910,
+  "lat": 53.3091134,
+  "lon": 5.6297274,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5629497821,
+  "lat": 53.0950373,
+  "lon": 5.9839227,
+  "tags": {
+    "caravans": "yes",
+    "contact:website": "https://www.kanhoeve.nl",
+    "drinking_water": "yes",
+    "name": "De Kan Hoeve",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 5792764653,
+  "lat": 53.0832873,
+  "lon": 5.8848475,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5792764853,
+  "lat": 53.0825157,
+  "lon": 5.8847216,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5818698544,
+  "lat": 53.3602292,
+  "lon": 5.2141754,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "opening_hours": "24/7",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 6035103201,
+  "lat": 53.2343882,
+  "lon": 5.5121246,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6124099618,
+  "lat": 53.1487477,
+  "lon": 5.9045879,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6553866628,
+  "lat": 53.2963606,
+  "lon": 5.8816949,
+  "tags": {
+    "amenity": "drinking_water",
+    "fixme": "Niet waargenomen tijdens survey 2020-06 (?)",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6665407336,
+  "lat": 53.1719248,
+  "lon": 5.4192736,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2025-05-18",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6665416456,
+  "lat": 53.1861081,
+  "lon": 5.5440780,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "opening_hours": "24/7",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6751300147,
+  "lat": 53.1705999,
+  "lon": 5.4257056,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "operator": "NS",
+    "operator:wikidata": "Q23076"
+  }
+},
+{
+  "type": "node",
+  "id": 7831877230,
+  "lat": 53.1955379,
+  "lon": 5.4609531,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7840025274,
+  "lat": 53.1762131,
+  "lon": 5.4214560,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7840049545,
+  "lat": 53.1749993,
+  "lon": 5.4182172,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7868699295,
+  "lat": 53.1920020,
+  "lon": 5.9938829,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "operator": "www.drinkwaterkaart.nl",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8006281951,
+  "lat": 53.1964602,
+  "lon": 5.7922693,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Watertappunt NS"
+  }
+},
+{
+  "type": "node",
+  "id": 8522279584,
+  "lat": 53.0247855,
+  "lon": 5.4964054,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8522279585,
+  "lat": 53.0244939,
+  "lon": 5.4974194,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8982654443,
+  "lat": 53.2440016,
+  "lon": 5.6438702,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9061645828,
+  "lat": 53.1880055,
+  "lon": 5.9872292,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "www.drinkwaterkaart.nl",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9158152774,
+  "lat": 53.0325260,
+  "lon": 5.6521045,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-05-21",
+    "colour": "yellow",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9742947008,
+  "lat": 53.2351387,
+  "lon": 5.9896827,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "indoor": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9957671369,
+  "lat": 53.2043510,
+  "lon": 5.7933211,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10933501405,
+  "lat": 53.4531361,
+  "lon": 5.7675102,
+  "tags": {
+    "caravans": "no",
+    "drinking_water": "yes",
+    "name": "Duinoord Zuid Little Canvas Escape",
+    "shower": "yes",
+    "tents": "yes",
+    "tourism": "camp_site",
+    "website": "https://littlecanvasescape.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11881626509,
+  "lat": 53.2215999,
+  "lon": 5.8030390,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11891108271,
+  "lat": 53.3675374,
+  "lon": 5.9032720,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12057445743,
+  "lat": 53.0901413,
+  "lon": 5.8223717,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12556162216,
+  "lat": 53.2041264,
+  "lon": 5.8222276,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "room_temperature_water": "yes",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12659421901,
+  "lat": 53.2952833,
+  "lon": 5.0651817,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Waterroute Vlieland"
+  }
+},
+{
+  "type": "node",
+  "id": 12659425201,
+  "lat": 53.2965268,
+  "lon": 5.0751567,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Waterpunt VVV Vlieland",
+    "operator": "Waterroute Vlieland"
+  }
+},
+{
+  "type": "node",
+  "id": 12850571217,
+  "lat": 53.2943482,
+  "lon": 5.0615560,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+}
+
+  ]
+}

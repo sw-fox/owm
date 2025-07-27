@@ -1,0 +1,381 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T14:20:56Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1353018933,
+  "lat": 55.5933259,
+  "lon": 14.1792886,
+  "tags": {
+    "amenity": "drinking_water",
+    "sjorod": "vatten"
+  }
+},
+{
+  "type": "node",
+  "id": 1407115950,
+  "lat": 55.7193878,
+  "lon": 14.0787670,
+  "tags": {
+    "description": "Tockabjärs källa är en kallkälla med grund vattenutflöde. SGU:s inventering 1988 mätte flödet till mellan 0,5-3 l/s. Temperaturen var 7°C. Vattnet är friskt och mycket gott, men du dricker så klart på eget ansvar.",
+    "drinking_water": "yes",
+    "name": "Tockabjärs källa",
+    "natural": "spring",
+    "website": "https://brosarp.se/tockabjar/"
+  }
+},
+{
+  "type": "node",
+  "id": 1554325052,
+  "lat": 55.5924628,
+  "lon": 14.1808753,
+  "tags": {
+    "amenity": "drinking_water",
+    "sjorod": "vatten"
+  }
+},
+{
+  "type": "node",
+  "id": 1554325093,
+  "lat": 55.5955446,
+  "lon": 14.1774956,
+  "tags": {
+    "amenity": "drinking_water",
+    "sjorod": "vatten"
+  }
+},
+{
+  "type": "node",
+  "id": 1554325095,
+  "lat": 55.5958745,
+  "lon": 14.1788884,
+  "tags": {
+    "amenity": "drinking_water",
+    "sjorod": "vatten"
+  }
+},
+{
+  "type": "node",
+  "id": 1849012504,
+  "lat": 55.1016386,
+  "lon": 14.6958539,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-22",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 1851343548,
+  "lat": 55.2530263,
+  "lon": 14.7446905,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-10-28"
+  }
+},
+{
+  "type": "node",
+  "id": 1859068428,
+  "lat": 55.2233096,
+  "lon": 14.8931030,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2292140005,
+  "lat": 55.1242160,
+  "lon": 14.9098005,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Koldekilde",
+    "natural": "spring",
+    "source": "Geodatastyrelsen : SNSOR"
+  }
+},
+{
+  "type": "node",
+  "id": 4233893918,
+  "lat": 55.1139640,
+  "lon": 14.8569910,
+  "tags": {
+    "amenity": "drinking_water",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4234008067,
+  "lat": 55.1266456,
+  "lon": 14.9215296,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4234008068,
+  "lat": 55.1266275,
+  "lon": 14.9218064,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4379649534,
+  "lat": 55.0113556,
+  "lon": 14.9754845,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7460753525,
+  "lat": 55.2424686,
+  "lon": 14.7364286,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8956428040,
+  "lat": 55.3860875,
+  "lon": 14.1952309,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "drinking",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 8983328274,
+  "lat": 55.2424915,
+  "lon": 14.7365710,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9023579672,
+  "lat": 55.1044448,
+  "lon": 14.6934841,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9023579674,
+  "lat": 55.1861960,
+  "lon": 14.7025418,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9023579675,
+  "lat": 55.2489100,
+  "lon": 14.7366579,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9162213530,
+  "lat": 55.1210765,
+  "lon": 14.8790626,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9196202239,
+  "lat": 55.1170118,
+  "lon": 14.9487668,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9196205980,
+  "lat": 55.1119106,
+  "lon": 14.8894489,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9867656545,
+  "lat": 55.9970900,
+  "lon": 14.4449496,
+  "tags": {
+    "addr:street": "Bodavägen",
+    "capacity": "25",
+    "contact:website": "https://www.tallyweb.dk/tostebergahamn/home",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "internet_access": "no",
+    "name": "Tosteberga Hamn",
+    "power_supply": "yes",
+    "reservation": "no",
+    "sanitary_dump_station": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "caravan_site",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 10009073180,
+  "lat": 55.1839872,
+  "lon": 14.9087749,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10873163105,
+  "lat": 55.6563068,
+  "lon": 14.2683311,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 11873481828,
+  "lat": 55.1685914,
+  "lon": 14.8911514,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11873481833,
+  "lat": 55.2037210,
+  "lon": 14.8577930,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11873782603,
+  "lat": 55.1097316,
+  "lon": 14.9039173,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11917435319,
+  "lat": 55.7642416,
+  "lon": 14.0130667,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-05-02",
+    "fee": "no",
+    "opening_hours": "Apr-Oct"
+  }
+},
+{
+  "type": "node",
+  "id": 11966347750,
+  "lat": 55.1049726,
+  "lon": 14.6941836,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11966401988,
+  "lat": 55.1044734,
+  "lon": 14.6934425,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11966405999,
+  "lat": 55.1040145,
+  "lon": 14.6928996,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12156244662,
+  "lat": 55.0099149,
+  "lon": 14.9918371,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12954447511,
+  "lat": 55.4752206,
+  "lon": 14.2855618,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Toalett",
+    "operator": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 12973419510,
+  "lat": 55.1115617,
+  "lon": 14.8889129,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T14:18:54Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 431825274,
+  "lat": 55.6894813,
+  "lon": 13.1716931,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Källby Friluftsbad & Camping",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/camping",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 472574763,
+  "lat": 55.9776319,
+  "lon": 13.4472159,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 745835775,
+  "lat": 55.5557777,
+  "lon": 13.2557390,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 791611957,
+  "lat": 55.9193194,
+  "lon": 13.6292767,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-05-01",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 885848555,
+  "lat": 55.8927289,
+  "lon": 13.6172136,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 978901310,
+  "lat": 55.9717373,
+  "lon": 13.5444734,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1504403079,
+  "lat": 55.6344734,
+  "lon": 13.4306783,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1774009968,
+  "lat": 55.6813578,
+  "lon": 13.0589732,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1855388536,
+  "lat": 55.5968654,
+  "lon": 13.0127761,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-07-07"
+  }
+},
+{
+  "type": "node",
+  "id": 2901500732,
+  "lat": 55.3635550,
+  "lon": 13.2090814,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2901500733,
+  "lat": 55.3636379,
+  "lon": 13.2092819,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-14",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3811527424,
+  "lat": 55.5597018,
+  "lon": 13.6912784,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-07-15"
+  }
+},
+{
+  "type": "node",
+  "id": 4338363189,
+  "lat": 55.6734656,
+  "lon": 13.0598070,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5032984603,
+  "lat": 55.4453711,
+  "lon": 13.2455380,
+  "tags": {
+    "access": "yes",
+    "amenity": "shelter",
+    "bin": "yes",
+    "drinking_water": "yes",
+    "fireplace": "yes",
+    "lockable": "no",
+    "material": "wood",
+    "name": "Lägerplats Fru Alstad",
+    "shelter_type": "lean_to",
+    "surface": "wood",
+    "toilets": "yes",
+    "website": "https://vindskyddskartan.se/places/3424/L%C3%A4gerplats%20Fru%20Alstad%20"
+  }
+},
+{
+  "type": "node",
+  "id": 5035982374,
+  "lat": 55.7161040,
+  "lon": 13.9704935,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5196233941,
+  "lat": 55.3540642,
+  "lon": 13.2427209,
+  "tags": {
+    "access": "customers",
+    "addr:city": "Trelleborg",
+    "addr:country": "SE",
+    "addr:housenumber": "2",
+    "addr:postcode": "231 92",
+    "addr:street": "Hummervägen",
+    "capacity:caravans": "28",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Camping Nybostrand",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://nybostrand.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 5285849901,
+  "lat": 55.4263026,
+  "lon": 13.8141105,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6465652078,
+  "lat": 55.9026686,
+  "lon": 13.7186531,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Water Tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6709573916,
+  "lat": 55.6062890,
+  "lon": 13.0223471,
+  "tags": {
+    "addr:country": "SE",
+    "addr:housenumber": "52",
+    "addr:street": "Östra Förstadsgatan",
+    "amenity": "drinking_water",
+    "description": "In the entrence to ICA Supermarket",
+    "man_made": "water_tap",
+    "opening_hours": "Mo-Su 07:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7350363317,
+  "lat": 55.6172410,
+  "lon": 13.0672841,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7620075333,
+  "lat": 55.6592564,
+  "lon": 13.0583478,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9330068201,
+  "lat": 55.3732784,
+  "lon": 13.1408974,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 9330068202,
+  "lat": 55.3717308,
+  "lon": 13.1587098,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "level": "0",
+    "man_made": "water_tap",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 9674528754,
+  "lat": 55.6054131,
+  "lon": 13.0232567,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9757013185,
+  "lat": 55.7068827,
+  "lon": 13.1890375,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "description": "A bowl for dogs, too.",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9825371799,
+  "lat": 55.8358045,
+  "lon": 13.6200029,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9861209263,
+  "lat": 55.7174351,
+  "lon": 13.9610284,
+  "tags": {
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "cold_water": "yes",
+    "hot_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9925044198,
+  "lat": 55.7019613,
+  "lon": 13.1961312,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9945317071,
+  "lat": 55.6851779,
+  "lon": 13.4961258,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9945320143,
+  "lat": 55.6850313,
+  "lon": 13.4956536,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10092103717,
+  "lat": 55.6961505,
+  "lon": 13.1872238,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10822309527,
+  "lat": 55.5890871,
+  "lon": 13.5598974,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10864531899,
+  "lat": 55.7220827,
+  "lon": 13.2374336,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10873130705,
+  "lat": 55.4278317,
+  "lon": 13.8249303,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11081864995,
+  "lat": 55.5597114,
+  "lon": 13.6911733,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11262878837,
+  "lat": 55.5919802,
+  "lon": 13.0136603,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11262878838,
+  "lat": 55.5931692,
+  "lon": 13.0126765,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11498092026,
+  "lat": 55.5815186,
+  "lon": 13.5851741,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11640705476,
+  "lat": 55.7217102,
+  "lon": 13.2177224,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "AF Bostäder",
+    "operator:type": "private_non_profit"
+  }
+},
+{
+  "type": "node",
+  "id": 11685917865,
+  "lat": 55.6127814,
+  "lon": 13.0603866,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Malmö stad",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11685917870,
+  "lat": 55.6100337,
+  "lon": 13.0478956,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Malmö stad",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12020790745,
+  "lat": 55.7947096,
+  "lon": 13.1106455,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12080196509,
+  "lat": 55.7249899,
+  "lon": 13.2421952,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12144903702,
+  "lat": 55.6883792,
+  "lon": 13.0606160,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12144903706,
+  "lat": 55.6886023,
+  "lon": 13.0602476,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12174750201,
+  "lat": 55.6779774,
+  "lon": 13.4192299,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12223057348,
+  "lat": 55.7213467,
+  "lon": 13.2348430,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12438916161,
+  "lat": 55.9908153,
+  "lon": 13.7852578,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 12784498537,
+  "lat": 55.6058468,
+  "lon": 13.0002538,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12796002891,
+  "lat": 55.5668716,
+  "lon": 13.7174927,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12805983725,
+  "lat": 55.8748239,
+  "lon": 13.8143514,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-05-02",
+    "fee": "no",
+    "opening_hours": "Apr 15 - Oct 15"
+  }
+},
+{
+  "type": "node",
+  "id": 12881802749,
+  "lat": 55.5944193,
+  "lon": 13.0139479,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12894348558,
+  "lat": 55.6086689,
+  "lon": 13.0088959,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-06-07",
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "name": "Water tap",
+    "note": "Outside at the toilet house",
+    "operator": "Malmö Stad",
+    "water_point": "yes"
+  }
+}
+
+  ]
+}

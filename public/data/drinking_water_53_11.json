@@ -1,0 +1,583 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T14:00:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 687779153,
+  "lat": 53.7391016,
+  "lon": 11.4358536,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Elisabethquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1326659193,
+  "lat": 53.7342324,
+  "lon": 11.8640791,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-12-10"
+  }
+},
+{
+  "type": "node",
+  "id": 1564397746,
+  "lat": 53.7039780,
+  "lon": 11.4176069,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1870469392,
+  "lat": 53.6286443,
+  "lon": 11.4147924,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-09-04",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 2325809043,
+  "lat": 53.9809245,
+  "lon": 11.2192186,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-04-09",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 2812153934,
+  "lat": 53.6950050,
+  "lon": 11.4384566,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3164339440,
+  "lat": 53.1370158,
+  "lon": 11.2568197,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "payment:cash": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3577587113,
+  "lat": 53.1513469,
+  "lon": 11.0478901,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "check_date:opening_hours": "2022-05-28",
+    "contact:phone": "+49 171 413 12 54",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours": "08:00-20:00",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3686729478,
+  "lat": 53.9950919,
+  "lon": 11.3778011,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3689916895,
+  "lat": 53.9308757,
+  "lon": 11.2957940,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3689916896,
+  "lat": 53.9318313,
+  "lon": 11.2954990,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3689916897,
+  "lat": 53.9307212,
+  "lon": 11.2953900,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3689916898,
+  "lat": 53.9317811,
+  "lon": 11.2948373,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-04-17"
+  }
+},
+{
+  "type": "node",
+  "id": 3786068899,
+  "lat": 53.9660079,
+  "lon": 11.1625459,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2022-03-05"
+  }
+},
+{
+  "type": "node",
+  "id": 3884141341,
+  "lat": 53.8828774,
+  "lon": 11.4255938,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4230028261,
+  "lat": 53.8608197,
+  "lon": 11.6951818,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5519883718,
+  "lat": 53.7368779,
+  "lon": 11.8346139,
+  "tags": {
+    "addr:city": "Sternberger Burg",
+    "addr:housenumber": "10",
+    "addr:postcode": "19406",
+    "addr:street": "An der Mildenitz",
+    "caravans": "yes",
+    "check_date": "2022-12-25",
+    "drinking_water": "yes",
+    "email": "kanucamphennig@icloud.com",
+    "mobile": "+49 171 4517958",
+    "name": "Kanu-Camp Hennig",
+    "operator": "Sabine Henning",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://kanucamp-hennig.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 5548184022,
+  "lat": 53.8925681,
+  "lon": 11.4650965,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water:refill": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "level": "-1",
+    "man_made": "water_tap",
+    "name": "Refill Station",
+    "note": "Trekking König offers refill in a sink downstairs. Ask the crew.",
+    "operator": "Trekking König",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7416386066,
+  "lat": 53.9292075,
+  "lon": 11.2702722,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "operator": "Campingplatz Osteequelle GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 7506432069,
+  "lat": 53.0249304,
+  "lon": 11.4597010,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Trinkwasseranschluss"
+  }
+},
+{
+  "type": "node",
+  "id": 7651155023,
+  "lat": 53.6309216,
+  "lon": 11.4128328,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "name": "Trinkwasserbrunnen",
+    "operator": "WAG Schwerin",
+    "survey:date": "2020-07-15",
+    "url": "https://www.wag-schwerin.de/home/pk/Einweihung-der-Trinkwasserbrunnen-am-Pfaffenteich,swsr_id,22,swsr_inhalt_id,2373.html"
+  }
+},
+{
+  "type": "node",
+  "id": 7685335886,
+  "lat": 53.6278916,
+  "lon": 11.4112556,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-07-04",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "name": "Trinkwasserbrunnen",
+    "operator": "WAG Schwerin",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8988121678,
+  "lat": 53.1515249,
+  "lon": 11.0454451,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9023820484,
+  "lat": 53.7492164,
+  "lon": 11.4986770,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "male": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9023820485,
+  "lat": 53.7490958,
+  "lon": 11.4986958,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 10143773610,
+  "lat": 53.9994972,
+  "lon": 11.4390870,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10143773612,
+  "lat": 53.9995463,
+  "lon": 11.4385492,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10169718358,
+  "lat": 53.9145433,
+  "lon": 11.6143446,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "mechanical_driver": "electric_motor",
+    "operator": "Zweckverband Wismar Wasser Abwasser Fernwärme Gas",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 10169718359,
+  "lat": 53.9160338,
+  "lon": 11.6141434,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "mechanical_driver": "electric_motor",
+    "operator": "Zweckverband Wismar Wasser Abwasser Fernwärme Gas",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 10202556606,
+  "lat": 53.8921638,
+  "lon": 11.4667520,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11178746558,
+  "lat": 53.8482318,
+  "lon": 11.9826523,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11189940991,
+  "lat": 53.8016247,
+  "lon": 11.7039104,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11234123103,
+  "lat": 53.5786923,
+  "lon": 11.6381498,
+  "tags": {
+    "capacity": "6",
+    "caravans": "yes",
+    "charge": "10 EUR",
+    "description": "am Parkscheinautomat - strom 60cent kWh - 2euro grauwasser entsorgung -",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "maxlength": "none",
+    "maxstay": "3 nights",
+    "name": "Am See Crivitz",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "surface": "grass",
+    "tents": "yes",
+    "tourism": "caravan_site"
+  }
+},
+{
+  "type": "node",
+  "id": 12001499267,
+  "lat": 53.4255764,
+  "lon": 11.5080231,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "shower": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12097545201,
+  "lat": 53.9304667,
+  "lon": 11.2890569,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Campingplatz Liebeslaube"
+  }
+},
+{
+  "type": "node",
+  "id": 12106132359,
+  "lat": 53.4277489,
+  "lon": 11.8442426,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12118445584,
+  "lat": 53.7134251,
+  "lon": 11.8093278,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12122830304,
+  "lat": 53.7133473,
+  "lon": 11.8094270,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12735991651,
+  "lat": 53.1040314,
+  "lon": 11.1963047,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12736059826,
+  "lat": 53.1528243,
+  "lon": 11.0414950,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12853494953,
+  "lat": 53.6232155,
+  "lon": 11.3964172,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12853511995,
+  "lat": 53.6232535,
+  "lon": 11.3976833,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12853522561,
+  "lat": 53.6243599,
+  "lon": 11.3983572,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12853529816,
+  "lat": 53.6235121,
+  "lon": 11.3984400,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12983473346,
+  "lat": 53.9295649,
+  "lon": 11.2714578,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12983473347,
+  "lat": 53.9295668,
+  "lon": 11.2714483,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12983473348,
+  "lat": 53.9296078,
+  "lon": 11.2712463,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12983473349,
+  "lat": 53.9296100,
+  "lon": 11.2712356,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12983473350,
+  "lat": 53.9296121,
+  "lon": 11.2712253,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+}
+
+  ]
+}

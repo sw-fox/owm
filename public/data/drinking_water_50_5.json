@@ -1,0 +1,3366 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:39:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 387213316,
+  "lat": 50.8422874,
+  "lon": 5.5218602,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 440662699,
+  "lat": 50.7050180,
+  "lon": 5.8134669,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "no",
+    "image": "https://www.mapillary.com/app/?pKey=284085833452134",
+    "lit": "no",
+    "name": "Fontaine de Saint-Jean",
+    "natural": "spring",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 554922089,
+  "lat": 50.7461000,
+  "lon": 5.6406071,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1250752719,
+  "lat": 50.0242814,
+  "lon": 5.3705223,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1327327105,
+  "lat": 50.4840923,
+  "lon": 5.1424838,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1356110980,
+  "lat": 50.6505054,
+  "lon": 5.5915483,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "name": "Borne à boire - Vieille montagne",
+    "note": "Horaire En service de mi-avril à octobre sur demande via un bouton pressoir",
+    "operator": "Ville de Liège",
+    "panoramax": "b33e2a31-3d19-403c-aed9-c4628319c064"
+  }
+},
+{
+  "type": "node",
+  "id": 1408543385,
+  "lat": 50.6482059,
+  "lon": 5.5854514,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2023-06-24",
+    "fee": "no",
+    "name": "Borne à boire - Saint-Léonard",
+    "note": "Horaire En service de mi-avril à octobre sur demande via un bouton pressoir",
+    "operator": "Ville de Liège",
+    "panoramax": "5def3653-6e76-40d0-90f0-d5990dc5fcdc",
+    "source": "local_knowledge;opendata.liege.be;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1711695756,
+  "lat": 50.5619946,
+  "lon": 5.5936500,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "name": "Source du Bihet"
+  }
+},
+{
+  "type": "node",
+  "id": 1736991407,
+  "lat": 50.6928149,
+  "lon": 5.2417818,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Fontaine Saint-Michel",
+    "natural": "spring",
+    "note": "sometimes potable"
+  }
+},
+{
+  "type": "node",
+  "id": 1875093562,
+  "lat": 50.7161660,
+  "lon": 5.2812950,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-08-04",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1935021812,
+  "lat": 50.6221062,
+  "lon": 5.5611943,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-07-17"
+  }
+},
+{
+  "type": "node",
+  "id": 2179728715,
+  "lat": 50.7500759,
+  "lon": 5.8174946,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Kolebron",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2283267232,
+  "lat": 50.0245535,
+  "lon": 5.3722292,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2303845212,
+  "lat": 50.7494637,
+  "lon": 5.8131386,
+  "tags": {
+    "amenity": "drinking_water",
+    "mapillary": "1043460836181059",
+    "operational_status": "broken",
+    "operator": "Vlaamse Maatschappij voor Watervoorziening",
+    "panoramax": "ed433e75-569f-4c4f-ac78-0feb1f361867",
+    "survey:date": "2022-08-10"
+  }
+},
+{
+  "type": "node",
+  "id": 2317578247,
+  "lat": 50.6525885,
+  "lon": 5.5893505,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "name": "Borne à boire - Vivegnis",
+    "note": "Horaire En service de mi-avril à octobre sur demande via un bouton pressoir",
+    "operator": "Ville de Liège",
+    "panoramax": "d8c295f9-d716-4d25-9345-db2c34777246"
+  }
+},
+{
+  "type": "node",
+  "id": 2366411848,
+  "lat": 50.4659723,
+  "lon": 5.8714591,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "lit": "yes",
+    "name": "Pouhon de la Géronstère",
+    "natural": "spring",
+    "water_characteristic": "ferruginous",
+    "wikidata": "Q3491879"
+  }
+},
+{
+  "type": "node",
+  "id": 2367837784,
+  "lat": 50.4744732,
+  "lon": 5.8627302,
+  "tags": {
+    "addr:housenumber": "295",
+    "addr:street": "Rue de Barisart",
+    "amenity": "drinking_water",
+    "name": "Source Barisart",
+    "natural": "spring",
+    "wikidata": "Q3491873"
+  }
+},
+{
+  "type": "node",
+  "id": 2404886463,
+  "lat": 50.5757906,
+  "lon": 5.8703623,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "no",
+    "note": "no drinkable water sign is present"
+  }
+},
+{
+  "type": "node",
+  "id": 2448561010,
+  "lat": 50.8107624,
+  "lon": 5.2445881,
+  "tags": {
+    "amenity": "drinking_water",
+    "in_cemetery": "yes",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2515756560,
+  "lat": 50.8562400,
+  "lon": 5.4614281,
+  "tags": {
+    "amenity": "drinking_water",
+    "in_cemetery": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2625776172,
+  "lat": 50.5625625,
+  "lon": 5.2165106,
+  "tags": {
+    "access": "permissive",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Puits de la Xhavée",
+    "pump": "no",
+    "source": "https://www.vinalmont.be/actualites/2020-vinalmont-et-les-puits-d-c-2020"
+  }
+},
+{
+  "type": "node",
+  "id": 2698961170,
+  "lat": 50.8237774,
+  "lon": 5.1918403,
+  "tags": {
+    "amenity": "drinking_water",
+    "mapillary": "https://www.mapillary.com/app/?pKey=2985360818412984",
+    "panoramax": "a7c2a396-0dc4-42ac-bfc6-f9012bae5c44"
+  }
+},
+{
+  "type": "node",
+  "id": 2794289212,
+  "lat": 50.5648664,
+  "lon": 5.2131030,
+  "tags": {
+    "access": "permissive",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Le puits du Pousserou",
+    "pump": "no",
+    "source": "https://www.vinalmont.be/actualites/2020-vinalmont-et-les-puits-d-c-2020"
+  }
+},
+{
+  "type": "node",
+  "id": 2816673875,
+  "lat": 50.4929937,
+  "lon": 5.8628429,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "image": "https://images.mapillary.com/EHB9lyBI4xpGKr2z5qwTzR/thumb-2048.jpg",
+    "indoor": "no",
+    "mapillary": "146161040758969",
+    "name": "Pouhon aux Armes d'Autriche",
+    "natural": "spring",
+    "note": "this was placed here in 2014 (http://www.lavenir.net/cnt/DMF20140625_00495806)",
+    "water_characteristic": "mineral"
+  }
+},
+{
+  "type": "node",
+  "id": 2818444139,
+  "lat": 50.2110877,
+  "lon": 5.5161760,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "name": "La source miraculeuse - Chapelle Saint-Thibaut",
+    "natural": "spring",
+    "wikidata": "Q19317938"
+  }
+},
+{
+  "type": "node",
+  "id": 2818477339,
+  "lat": 50.5388176,
+  "lon": 5.7506732,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Source de Banneux-Notre Dame",
+    "natural": "spring",
+    "note": "Regular quality control",
+    "note:nl": "Regelmatige kwaliteitscontrole van het water"
+  }
+},
+{
+  "type": "node",
+  "id": 2818805166,
+  "lat": 50.4709288,
+  "lon": 5.8770828,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Pouhon Pia",
+    "natural": "spring",
+    "wikidata": "Q27979105"
+  }
+},
+{
+  "type": "node",
+  "id": 2818848023,
+  "lat": 50.3508870,
+  "lon": 5.5825702,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "name": "Source de Ninane",
+    "natural": "spring",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2821219104,
+  "lat": 50.2824723,
+  "lon": 5.5177429,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2822027098,
+  "lat": 50.5626222,
+  "lon": 5.2354928,
+  "tags": {
+    "access": "permissive",
+    "description": "Puits quadrangulaire ouvert par une porte rectangulaire surmontée par un linteau en pierre plat et fermée par une porte en bois",
+    "drinking_water": "yes",
+    "historic": "yes",
+    "man_made": "water_well",
+    "name": "Puits des Potalles",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2942717856,
+  "lat": 50.8079906,
+  "lon": 5.4318714,
+  "tags": {
+    "amenity": "drinking_water",
+    "in_cemetery": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2998050686,
+  "lat": 50.4103056,
+  "lon": 5.4403456,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3001742708,
+  "lat": 50.6756580,
+  "lon": 5.2107883,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3070464162,
+  "lat": 50.5067587,
+  "lon": 5.7296963,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fountain": "drinking",
+    "name": "Source de Deigné"
+  }
+},
+{
+  "type": "node",
+  "id": 3495735979,
+  "lat": 50.6423770,
+  "lon": 5.7908034,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3520773801,
+  "lat": 50.7374628,
+  "lon": 5.8239090,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "mapillary": "302330514902863",
+    "operational_status": "closed",
+    "panoramax": "7ce1dbde-8d17-4ea3-a4b8-bdc99102d34f"
+  }
+},
+{
+  "type": "node",
+  "id": 3649463005,
+  "lat": 50.0277714,
+  "lon": 5.3796711,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3651406153,
+  "lat": 50.8524053,
+  "lon": 5.9475736,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Waterleiding Maatschappij Limburg",
+    "seasonal": "yes",
+    "website": "https://www.wml.nl/alles-over-water/limburgs-water-drinken/watertaps-in-de-buurt"
+  }
+},
+{
+  "type": "node",
+  "id": 3682124937,
+  "lat": 50.8354146,
+  "lon": 5.7133223,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3682128086,
+  "lat": 50.8154814,
+  "lon": 5.8948626,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3711022127,
+  "lat": 50.8400911,
+  "lon": 5.7032889,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3754680492,
+  "lat": 50.8471881,
+  "lon": 5.6943501,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3761955367,
+  "lat": 50.5261729,
+  "lon": 5.2633445,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3818717039,
+  "lat": 50.8392005,
+  "lon": 5.7531426,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3837478396,
+  "lat": 50.7645752,
+  "lon": 5.9057388,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Fröschebron",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3876065421,
+  "lat": 50.8512971,
+  "lon": 5.6902168,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3939508304,
+  "lat": 50.7338246,
+  "lon": 5.7686653,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3939508305,
+  "lat": 50.7331142,
+  "lon": 5.7688509,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3952828248,
+  "lat": 50.6683367,
+  "lon": 5.1710539,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4019749189,
+  "lat": 50.6407866,
+  "lon": 5.5579038,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "name": "Fontaine Jacques Izoard",
+    "panoramax": "ce724513-dac1-4f21-bab4-5cd15677782d"
+  }
+},
+{
+  "type": "node",
+  "id": 4337702193,
+  "lat": 50.0393941,
+  "lon": 5.6693052,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4401566291,
+  "lat": 50.1257431,
+  "lon": 5.1879188,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4415774826,
+  "lat": 50.3293301,
+  "lon": 5.5920672,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 4419534133,
+  "lat": 50.5839069,
+  "lon": 5.7000854,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4472778615,
+  "lat": 50.8406216,
+  "lon": 5.7011057,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782718916,
+  "lat": 50.7876537,
+  "lon": 5.9637077,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782718917,
+  "lat": 50.8646644,
+  "lon": 5.8273164,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782718918,
+  "lat": 50.8352746,
+  "lon": 5.9843789,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Waterleiding Maatschappij Limburg",
+    "seasonal": "yes",
+    "website": "https://www.wml.nl/alles-over-water/limburgs-water-drinken/watertaps-in-de-buurt"
+  }
+},
+{
+  "type": "node",
+  "id": 4782718920,
+  "lat": 50.8874980,
+  "lon": 5.9767961,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719121,
+  "lat": 50.9442442,
+  "lon": 5.9707113,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719122,
+  "lat": 50.9498766,
+  "lon": 5.9080246,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782719123,
+  "lat": 50.9761793,
+  "lon": 5.7364025,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782771661,
+  "lat": 50.8496718,
+  "lon": 5.6888786,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782771662,
+  "lat": 50.8493153,
+  "lon": 5.6939619,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782771663,
+  "lat": 50.8438739,
+  "lon": 5.6913473,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4782771664,
+  "lat": 50.8338915,
+  "lon": 5.7161261,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885277,
+  "lat": 50.9493698,
+  "lon": 5.7966441,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4782885278,
+  "lat": 50.9837307,
+  "lon": 5.8451856,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5103661228,
+  "lat": 50.5097999,
+  "lon": 5.3936487,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5143997594,
+  "lat": 50.8417770,
+  "lon": 5.1239271,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:location": "female_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours": "We-Fr 11:00-18:00; Sa-Su 11:00-19:00",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5261733213,
+  "lat": 50.1114827,
+  "lon": 5.1326272,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5267555738,
+  "lat": 50.1128889,
+  "lon": 5.1359615,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5267555739,
+  "lat": 50.1126655,
+  "lon": 5.1360143,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5267562399,
+  "lat": 50.1127712,
+  "lon": 5.1322664,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5613710267,
+  "lat": 50.8533114,
+  "lon": 5.2180211,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "mapillary": "163364172387447",
+    "panoramax": "1697ca27-acb0-45b9-ade8-b94dfd327921",
+    "stateofrepair": "ok"
+  }
+},
+{
+  "type": "node",
+  "id": 5650360845,
+  "lat": 50.9648792,
+  "lon": 5.4996945,
+  "tags": {
+    "amenity": "drinking_water",
+    "mapillary": "https://www.mapillary.com/app/?pKey=1M5Jks1Szbth-9SVdWg_eg&lat=50.96480453709154&lng=5.499554080045176&z=17&focus=photo",
+    "panoramax": "d6a165e7-9f3e-4376-8076-d7a6270ce3b7",
+    "stateofrepair": "ok"
+  }
+},
+{
+  "type": "node",
+  "id": 5720390521,
+  "lat": 50.8384449,
+  "lon": 5.7123241,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5773176803,
+  "lat": 50.6115413,
+  "lon": 5.5862273,
+  "tags": {
+    "access": "yes",
+    "amenity": "fountain;drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "drinking",
+    "name": "Fontaine Montefiore - Péralta",
+    "note": "Horaire En service de mi-avril à octobre de 9h à 21h",
+    "operator": "Ville de Liège",
+    "panoramax": "9c37e929-7736-4564-843e-9f68f71acc5f"
+  }
+},
+{
+  "type": "node",
+  "id": 5922001387,
+  "lat": 50.9646379,
+  "lon": 5.9762940,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6033721387,
+  "lat": 50.4962671,
+  "lon": 5.8930263,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Pouhon du Tonnelet",
+    "natural": "spring",
+    "note": "it is drinkable based on local knowledge",
+    "operator": "Pouhon du Tonnelet"
+  }
+},
+{
+  "type": "node",
+  "id": 6138058781,
+  "lat": 50.0829963,
+  "lon": 5.6179590,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6165338838,
+  "lat": 50.6444910,
+  "lon": 5.5775368,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "name": "Fontaine Montefiore - Neuvice",
+    "note": "Horaire\nEn service de mi-avril à octobre de 09h à 21h",
+    "source": "https://opendata.liege.be/explore/dataset/points-eau-potable/map/?location=21,50.6445,5.57756&basemap=jawg.streets"
+  }
+},
+{
+  "type": "node",
+  "id": 6165341531,
+  "lat": 50.6438930,
+  "lon": 5.5595792,
+  "tags": {
+    "amenity": "drinking_water",
+    "fixme": "position",
+    "source": "https://opendata.liege.be/explore/dataset/points-eau-potable/map/?location=18,50.64413,5.56046&basemap=jawg.streets"
+  }
+},
+{
+  "type": "node",
+  "id": 6320441421,
+  "lat": 50.4669964,
+  "lon": 5.7388557,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6426498815,
+  "lat": 50.9067306,
+  "lon": 5.7849706,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6446013993,
+  "lat": 50.6004069,
+  "lon": 5.6330611,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6449136504,
+  "lat": 50.8418388,
+  "lon": 5.1239556,
+  "tags": {
+    "amenity": "drinking_water",
+    "mapillary": "https://www.mapillary.com/app/?lat=50.84199840000002&lng=5.123892899999873&z=18.83450445266552&pKey=6HHM47rq_2qw_YAF2ZA7Gw&focus=photo&x=0.469931137816985&y=0.5927380206204154&zoom=0",
+    "panoramax": "9fb795b5-744d-479f-b25d-4d7f09ed73fa",
+    "stateofrepair": "ok"
+  }
+},
+{
+  "type": "node",
+  "id": 6576867690,
+  "lat": 50.8735790,
+  "lon": 5.7414164,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6715278951,
+  "lat": 50.8483176,
+  "lon": 5.6888100,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "name": "Museum Vrijthof",
+    "opening_hours": "Tu-Su 10:00-17:30",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6715994291,
+  "lat": 50.8427448,
+  "lon": 5.7014804,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6736693236,
+  "lat": 50.7909286,
+  "lon": 5.6145140,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "in_cemetery": "yes",
+    "panoramax": "3fb6fe3b-f722-4256-802d-ef472dbb6f09",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6789365600,
+  "lat": 50.8560070,
+  "lon": 5.6908756,
+  "tags": {
+    "addr:street": "Bassinkade",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6795720818,
+  "lat": 50.8311546,
+  "lon": 5.6851469,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "hot_water": "no",
+    "iced_water": "no",
+    "mapillary": "4769571383069988",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "operator:wikipedia": "nl:Waterleiding Maatschappij Limburg",
+    "panoramax": "f1b9e050-0fcd-472a-9087-f53bab77160b",
+    "room_temperature_water": "yes",
+    "seasonal": "yes",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6863042080,
+  "lat": 50.4851381,
+  "lon": 5.8982516,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Pouhon La Sauvenière",
+    "natural": "spring",
+    "note": "survey: drinkable",
+    "water_characteristic": "ferruginous",
+    "wikidata": "Q27959454"
+  }
+},
+{
+  "type": "node",
+  "id": 6863042081,
+  "lat": 50.4850698,
+  "lon": 5.8982590,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Pouhon du Groesbeek",
+    "natural": "spring",
+    "water_characteristic": "ferruginous",
+    "wikidata": "Q27960033"
+  }
+},
+{
+  "type": "node",
+  "id": 7003980077,
+  "lat": 50.4938647,
+  "lon": 5.8592817,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Pouhon du Parc de 7-Heures 1758",
+    "historic": "yes",
+    "image": "https://images.mapillary.com/e3GxHrJahuaIXLelVIqsAr/thumb-2048.jpg",
+    "mapillary": "178046277555850",
+    "name": "Aux Createurs",
+    "operator": "City of Spa",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7028564989,
+  "lat": 50.9469195,
+  "lon": 5.7861849,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "operator:wikipedia": "nl:Waterleiding Maatschappij Limburg",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028605885,
+  "lat": 50.7780892,
+  "lon": 5.7223887,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028605886,
+  "lat": 50.9586962,
+  "lon": 5.8407329,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028605887,
+  "lat": 50.9675789,
+  "lon": 5.8433008,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028605888,
+  "lat": 50.9742620,
+  "lon": 5.8250883,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028605889,
+  "lat": 50.9847593,
+  "lon": 5.8150198,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028627355,
+  "lat": 50.8712080,
+  "lon": 5.7175697,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028654097,
+  "lat": 50.9194975,
+  "lon": 5.9517596,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028669153,
+  "lat": 50.9545487,
+  "lon": 5.9340674,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028669154,
+  "lat": 50.9198589,
+  "lon": 5.8923126,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028669155,
+  "lat": 50.9132068,
+  "lon": 5.8774511,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028669156,
+  "lat": 50.8827812,
+  "lon": 5.7508862,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028682471,
+  "lat": 50.9998377,
+  "lon": 5.8663151,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028720762,
+  "lat": 50.9780373,
+  "lon": 5.9944568,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028751343,
+  "lat": 50.9981509,
+  "lon": 5.8779531,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028751344,
+  "lat": 50.9922517,
+  "lon": 5.8458353,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7028761729,
+  "lat": 50.8690195,
+  "lon": 5.8329331,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "note": "permission from WML to use source",
+    "operator": "WML Limburgs drinkwater",
+    "seasonal": "yes",
+    "source": "WML_Watertaps_2019_RevRK.gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 7059544988,
+  "lat": 50.3762383,
+  "lon": 5.7328710,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7677317860,
+  "lat": 50.8664646,
+  "lon": 5.8900912,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Waterleiding Maatschappij Limburg",
+    "seasonal": "yes",
+    "website": "https://www.wml.nl/alles-over-water/limburgs-water-drinken/watertaps-in-de-buurt"
+  }
+},
+{
+  "type": "node",
+  "id": 7731050488,
+  "lat": 50.9486985,
+  "lon": 5.2755216,
+  "tags": {
+    "amenity": "drinking_water",
+    "in_cemetery": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7813244441,
+  "lat": 50.3523005,
+  "lon": 5.4515008,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7821805815,
+  "lat": 50.5598046,
+  "lon": 5.5749111,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operational_status": "broken",
+    "panoramax": "d4517fa7-a8e0-4c01-896a-f0a762c950b3"
+  }
+},
+{
+  "type": "node",
+  "id": 7823738953,
+  "lat": 50.4669985,
+  "lon": 5.7305406,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7918412138,
+  "lat": 50.7025915,
+  "lon": 5.6520070,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7950749242,
+  "lat": 50.4425468,
+  "lon": 5.6041263,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7959406303,
+  "lat": 50.8212593,
+  "lon": 5.1754779,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Water tap located in the back of the alley.",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "mapillary": "https://www.mapillary.com/app/?pKey=364751251768088",
+    "operator": "Parochie Sint-Augustinus",
+    "panoramax": "9fccf19c-292c-42c2-8805-381677ff3e9f"
+  }
+},
+{
+  "type": "node",
+  "id": 8010514819,
+  "lat": 50.8342834,
+  "lon": 5.9750048,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Waterleiding Maatschappij Limburg",
+    "seasonal": "yes",
+    "website": "https://www.wml.nl/alles-over-water/limburgs-water-drinken/watertaps-in-de-buurt"
+  }
+},
+{
+  "type": "node",
+  "id": 8011255072,
+  "lat": 50.4930414,
+  "lon": 5.8625713,
+  "tags": {
+    "amenity": "drinking_water",
+    "image": "https://images.mapillary.com/42dXK42Dsr9LI9ixlDHWos/thumb-2048.jpg",
+    "mapillary": "137271301681027"
+  }
+},
+{
+  "type": "node",
+  "id": 8033520756,
+  "lat": 50.5657991,
+  "lon": 5.2296980,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8042312524,
+  "lat": 50.8609480,
+  "lon": 5.8446413,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418"
+  }
+},
+{
+  "type": "node",
+  "id": 8069274672,
+  "lat": 50.7806453,
+  "lon": 5.2909056,
+  "tags": {
+    "amenity": "drinking_water",
+    "mapillary": "https://www.mapillary.com/app/?pKey=338548637977894",
+    "panoramax": "9949bdb1-f6e4-433f-93a8-4218edcf3859"
+  }
+},
+{
+  "type": "node",
+  "id": 8075554159,
+  "lat": 50.8412833,
+  "lon": 5.3084381,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "mapillary": "https://www.mapillary.com/app/?pKey=369859154551876",
+    "panoramax": "a35d19ab-e164-47bd-bfe8-7e1f0cfcb3b6"
+  }
+},
+{
+  "type": "node",
+  "id": 8194452154,
+  "lat": 50.9477256,
+  "lon": 5.9042615,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "WML",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8230590928,
+  "lat": 50.2427904,
+  "lon": 5.0919984,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8569055813,
+  "lat": 50.8633781,
+  "lon": 5.9785603,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "WML",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8760793328,
+  "lat": 50.7825546,
+  "lon": 5.4683335,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "artwork_type": "statue",
+    "bottle": "yes",
+    "drinking_water": "pump",
+    "fee": "no",
+    "image": "https://i.imgur.com/eU3aFXT.jpg",
+    "name": "Pumpkeskal",
+    "opening_hours": "24/7",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8761277628,
+  "lat": 50.7917655,
+  "lon": 5.2751864,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "mapillary": "https://www.mapillary.com/app/?pKey=153871106869513",
+    "opening_hours": "24/7",
+    "panoramax": "58106d78-7755-44db-be4c-8f13be778bf1",
+    "panoramax:0": "01d41782-45cc-4a6f-afc0-661a133d5b0d"
+  }
+},
+{
+  "type": "node",
+  "id": 8818138138,
+  "lat": 50.0911813,
+  "lon": 5.3317996,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8847872258,
+  "lat": 50.8495920,
+  "lon": 5.7051945,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bottle_refill",
+    "operator": "wml",
+    "panoramax": "28c9e676-6ce1-4937-a219-6f3ee12faa98",
+    "panoramax:0": "02c4f835-e526-402b-97f8-1978efcca1d2"
+  }
+},
+{
+  "type": "node",
+  "id": 8931192137,
+  "lat": 50.8457074,
+  "lon": 5.7142963,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 8958135382,
+  "lat": 50.4927395,
+  "lon": 5.8621791,
+  "tags": {
+    "access": "permissive",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9006625290,
+  "lat": 50.5541406,
+  "lon": 5.0998557,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "panoramax": "5e61c2cc-a0bc-4d4f-9ba3-597f24b9e7f5"
+  }
+},
+{
+  "type": "node",
+  "id": 9007752015,
+  "lat": 50.5414923,
+  "lon": 5.5586249,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Fontaine publique de Ham",
+    "water_characteristic": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9011125085,
+  "lat": 50.4578272,
+  "lon": 5.5755360,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Cile"
+  }
+},
+{
+  "type": "node",
+  "id": 9024799652,
+  "lat": 50.5499607,
+  "lon": 5.0180817,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9281034078,
+  "lat": 50.5006342,
+  "lon": 5.8927496,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Source Marie-Henriette",
+    "name:etymology:wikidata": "Q234047",
+    "name:fr": "Source Marie-Henriette",
+    "name:nl": "Marie-Henriettebron",
+    "natural": "spring",
+    "wikidata": "Q27979686",
+    "wikipedia": "nl:Marie-Henriettebron"
+  }
+},
+{
+  "type": "node",
+  "id": 9552939078,
+  "lat": 50.8138667,
+  "lon": 5.2341337,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9623345111,
+  "lat": 50.9608180,
+  "lon": 5.3773941,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "panoramax": "d1d3dfde-2576-4596-b9a9-c633288012a2",
+    "survey:date": "2022-03-30"
+  }
+},
+{
+  "type": "node",
+  "id": 9707435528,
+  "lat": 50.2499867,
+  "lon": 5.1209768,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9830799679,
+  "lat": 50.6276439,
+  "lon": 5.5759717,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Horaire En service de mi-avril à octobre de 09h à 21h",
+    "fee": "no",
+    "name": "Borne à boire - Boverie 2",
+    "operator": "Ville de Liège",
+    "panoramax": "88289919-b241-4f77-a8e9-360f81335058",
+    "seasonal": "summer"
+  }
+},
+{
+  "type": "node",
+  "id": 9841537005,
+  "lat": 50.2033686,
+  "lon": 5.3862656,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "natural": "spring",
+    "note": "Source sans nom, l'eau est potable et excellente."
+  }
+},
+{
+  "type": "node",
+  "id": 9850350993,
+  "lat": 50.6547214,
+  "lon": 5.6039528,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Borne à boire - Morinval",
+    "note": "En service de mi-avril à octobre sur demande via un bouton pressoir",
+    "operator": "Ville de Liège",
+    "panoramax": "81a08076-32df-4550-ab80-4179138f8402"
+  }
+},
+{
+  "type": "node",
+  "id": 9850350994,
+  "lat": 50.6464031,
+  "lon": 5.5811045,
+  "tags": {
+    "access": "yes",
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "Fontaine Montefiore - Foulon",
+    "note": "Horaire\nEn service de mi-avril à octobre de 09h à 21h",
+    "operator": "Ville de Liège"
+  }
+},
+{
+  "type": "node",
+  "id": 9850350995,
+  "lat": 50.6473355,
+  "lon": 5.5741002,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "name": "Borne à boire - Citadelle",
+    "note": "Horaire En service de mi-avril à octobre sur demande via un bouton pressoir",
+    "operator": "Ville de Liège",
+    "panoramax": "e7ce3642-6bcc-4181-8dd1-e5382d0e57c4"
+  }
+},
+{
+  "type": "node",
+  "id": 9850350996,
+  "lat": 50.6422406,
+  "lon": 5.5791378,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fountain": "drinking",
+    "name": "Fontaine Montefiore - de Gaulle",
+    "note": "Horaire En service de mi-avril à octobre de 9h à 21h",
+    "operator": "Ville de Liège"
+  }
+},
+{
+  "type": "node",
+  "id": 9850350997,
+  "lat": 50.6400835,
+  "lon": 5.5828367,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fountain": "drinking",
+    "name": "Fontaine Montefiore - Roture",
+    "note": "Horaire\nEn service de mi-avril à octobre de 09h à 21h",
+    "operator": "Ville de Liège"
+  }
+},
+{
+  "type": "node",
+  "id": 9850350998,
+  "lat": 50.6289899,
+  "lon": 5.5754649,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Horaire En service de mi-avril à octobre de 09h à 21h",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Borne à boire - Boverie 1",
+    "operator": "Ville de Liège",
+    "panoramax": "392f6df2-cbb5-4e17-96bb-a99bc10fee3b",
+    "seasonal": "summer"
+  }
+},
+{
+  "type": "node",
+  "id": 9850350999,
+  "lat": 50.6212273,
+  "lon": 5.5992165,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Borne à boire - Albert 1er",
+    "note": "Horaire En service de mi-avril à octobre de 09h à 21h",
+    "operator": "Ville de Liège",
+    "panoramax": "07a5b014-3902-4689-821d-f887f769aa3b",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9850351000,
+  "lat": 50.6286387,
+  "lon": 5.5468543,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Borne à boire - Cointe (parc canin)",
+    "note": "Horaire En service de mi-avril à octobre de 09h à 21h",
+    "operator": "Ville de Liège",
+    "panoramax": "72fc8b19-2e4c-47f6-bbde-f675ce4c3c5e"
+  }
+},
+{
+  "type": "node",
+  "id": 9850351001,
+  "lat": 50.6447720,
+  "lon": 5.5599707,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Borne à boire - Sainte-Agathe",
+    "note": "Horaire En service de mi-avril à octobre de 09h à 21h",
+    "operator": "Ville de Liège",
+    "panoramax": "0830036a-df2c-4086-a749-de475f1f2d57"
+  }
+},
+{
+  "type": "node",
+  "id": 9850351002,
+  "lat": 50.6458695,
+  "lon": 5.5590768,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Borne à boire - Sainte-Marguerite (plaine de jeux)",
+    "note": "Horaire En service de mi-avril à octobre de 09h à 21h",
+    "operator": "Ville de Liège",
+    "panoramax": "b1a09b2f-74c3-4cd6-bb77-72703b5f14f8"
+  }
+},
+{
+  "type": "node",
+  "id": 9951544583,
+  "lat": 50.8743470,
+  "lon": 5.5077726,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9966541327,
+  "lat": 50.8756313,
+  "lon": 5.3094792,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10005869617,
+  "lat": 50.2956988,
+  "lon": 5.0352480,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10006704688,
+  "lat": 50.8314797,
+  "lon": 5.5984723,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10008353435,
+  "lat": 50.8581124,
+  "lon": 5.3923378,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 10049926229,
+  "lat": 50.7304703,
+  "lon": 5.5560069,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10103033430,
+  "lat": 50.7869001,
+  "lon": 5.5959123,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10129008384,
+  "lat": 50.9640181,
+  "lon": 5.5205561,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 10262962079,
+  "lat": 50.3866674,
+  "lon": 5.6861380,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fountain": "drinking",
+    "name": "Résurgence naturelle"
+  }
+},
+{
+  "type": "node",
+  "id": 10263100042,
+  "lat": 50.4850690,
+  "lon": 5.7185204,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fountain": "drinking",
+    "name": "Résurgence naturelle d'eau potable"
+  }
+},
+{
+  "type": "node",
+  "id": 10658475527,
+  "lat": 50.9638204,
+  "lon": 5.2812000,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10742525261,
+  "lat": 50.9948693,
+  "lon": 5.6747369,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10792425042,
+  "lat": 50.8565608,
+  "lon": 5.6902267,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10800189038,
+  "lat": 50.9881289,
+  "lon": 5.3127191,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10800189044,
+  "lat": 50.9875670,
+  "lon": 5.3147019,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10829473507,
+  "lat": 50.8324523,
+  "lon": 5.4808909,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10901360061,
+  "lat": 50.9200006,
+  "lon": 5.3299194,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10901360092,
+  "lat": 50.9193354,
+  "lon": 5.3315310,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10901360102,
+  "lat": 50.9180799,
+  "lon": 5.3311682,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10951269243,
+  "lat": 50.7525781,
+  "lon": 5.0850673,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10982659544,
+  "lat": 50.8901581,
+  "lon": 5.9751526,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 10995579167,
+  "lat": 50.0201815,
+  "lon": 5.1181415,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10995761595,
+  "lat": 50.0732179,
+  "lon": 5.3060523,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10995764939,
+  "lat": 50.0950683,
+  "lon": 5.0361453,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Source de Mossiat"
+  }
+},
+{
+  "type": "node",
+  "id": 10995797843,
+  "lat": 50.0743143,
+  "lon": 5.3059305,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10995804674,
+  "lat": 50.1120449,
+  "lon": 5.2838286,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "name": "Robinet du cimetière de Lesterny"
+  }
+},
+{
+  "type": "node",
+  "id": 10995829820,
+  "lat": 50.1321634,
+  "lon": 5.2775037,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "name": "Robinet du cimetière de Forrières"
+  }
+},
+{
+  "type": "node",
+  "id": 10995837921,
+  "lat": 50.1330894,
+  "lon": 5.2808906,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "name": "Fontaine publique"
+  }
+},
+{
+  "type": "node",
+  "id": 10995855905,
+  "lat": 50.1122988,
+  "lon": 5.3126676,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Robinet du cimetière de Masboug"
+  }
+},
+{
+  "type": "node",
+  "id": 10996527693,
+  "lat": 50.1318978,
+  "lon": 5.3372043,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "name": "Robinet du cimetière de Nassogne"
+  }
+},
+{
+  "type": "node",
+  "id": 11004586916,
+  "lat": 50.6447523,
+  "lon": 5.5906531,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2023-06-24",
+    "covered": "no",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Ville de Liège",
+    "panoramax": "9b20199f-8af0-404a-8477-909ad1bb9bb5",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11021654806,
+  "lat": 50.7830484,
+  "lon": 5.7908611,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11063744457,
+  "lat": 50.9235541,
+  "lon": 5.9780357,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill",
+    "operator": "WML"
+  }
+},
+{
+  "type": "node",
+  "id": 11071107267,
+  "lat": 50.7608809,
+  "lon": 5.9118482,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11083579091,
+  "lat": 50.2316724,
+  "lon": 5.6318340,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11111693844,
+  "lat": 50.0191029,
+  "lon": 5.2938840,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Eau (potable ?)"
+  }
+},
+{
+  "type": "node",
+  "id": 11148130052,
+  "lat": 50.8256121,
+  "lon": 5.9345818,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 11165007527,
+  "lat": 50.8609955,
+  "lon": 5.9928663,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "operator": "WML Limburgs drinkwater"
+  }
+},
+{
+  "type": "node",
+  "id": 11205129186,
+  "lat": 50.7321760,
+  "lon": 5.0032051,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11215889527,
+  "lat": 50.0261592,
+  "lon": 5.3733501,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11220542497,
+  "lat": 50.8433040,
+  "lon": 5.6776506,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Free drinking water inside the Albert Heijn Jan Linders supermarket."
+  }
+},
+{
+  "type": "node",
+  "id": 11290712675,
+  "lat": 50.9436788,
+  "lon": 5.2845302,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "layer": "1",
+    "male": "yes",
+    "operator": "Decathlon"
+  }
+},
+{
+  "type": "node",
+  "id": 11328040088,
+  "lat": 50.6543872,
+  "lon": 5.7090789,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11328040090,
+  "lat": 50.6550465,
+  "lon": 5.7108501,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11338997514,
+  "lat": 50.6419467,
+  "lon": 5.5828819,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "image": "https://www.liege.be/fr/annuaire/borne-a-boire-place-de-lyser/@@images/767aef40-0f52-4d8f-a652-60ed25f6d8d1.jpeg",
+    "name": "Borne à boire - Place de l'Yser",
+    "note": "En service de mi-avril à octobre de 9h à 21h - Robinet poussoir au coin du pavillon",
+    "operator": "Ville de Liège",
+    "source": "https://opendata.liege.be/explore/dataset/points-eau-potable/map/?location=17,50.64293,5.58384&basemap=jawg.streets"
+  }
+},
+{
+  "type": "node",
+  "id": 11469918884,
+  "lat": 50.6439373,
+  "lon": 5.5875093,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Borne à boire - Boulevard de la Constitution",
+    "note": "Horaire : en service de mi-avril à octobre de 09h à 21h.",
+    "operator": "Ville de Liège",
+    "panoramax": "4b8f7dbc-af51-4ae8-bb60-67249b886197",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11483500092,
+  "lat": 50.6244392,
+  "lon": 5.5660215,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "opening_hours": "24/7",
+    "operator": "NMBS/SNCB",
+    "panoramax": "9bb6df7f-b5d8-4ece-bb3e-43c6532840ec",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11587747535,
+  "lat": 50.9467639,
+  "lon": 5.2472761,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11598002295,
+  "lat": 50.1111469,
+  "lon": 5.1357474,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11598002296,
+  "lat": 50.1111633,
+  "lon": 5.1357344,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11643032257,
+  "lat": 50.6881213,
+  "lon": 5.1236191,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11739690912,
+  "lat": 50.9957541,
+  "lon": 5.3343316,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11801560513,
+  "lat": 50.0740601,
+  "lon": 5.3053109,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11801560514,
+  "lat": 50.0737517,
+  "lon": 5.3078036,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11801560515,
+  "lat": 50.0738815,
+  "lon": 5.3066621,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11802330918,
+  "lat": 50.6859239,
+  "lon": 5.9654502,
+  "tags": {
+    "access": "yes",
+    "description": "rund aufgemauert bis auf 2 m, überdacht mit Betondach.\n2024 zur Wasserversorgung der Tiere",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11802653318,
+  "lat": 50.9327178,
+  "lon": 5.3567017,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_point"
+  }
+},
+{
+  "type": "node",
+  "id": 11854282230,
+  "lat": 50.4420473,
+  "lon": 5.4025025,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11891849397,
+  "lat": 50.9644413,
+  "lon": 5.3986066,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "drinking_water:refill": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11932583629,
+  "lat": 50.9027414,
+  "lon": 5.6574574,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11993572397,
+  "lat": 50.6855048,
+  "lon": 5.7226088,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12004419576,
+  "lat": 50.4196826,
+  "lon": 5.3579605,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12063931168,
+  "lat": 50.7340205,
+  "lon": 5.9642934,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fountain": "drinking",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12082901631,
+  "lat": 50.5214391,
+  "lon": 5.2399887,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12083364402,
+  "lat": 50.6164654,
+  "lon": 5.5750881,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12099427533,
+  "lat": 50.6343100,
+  "lon": 5.5622028,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2025-05-12",
+    "fee": "no",
+    "man_made": "water_tap",
+    "manufacturer": "ubidermis",
+    "manufacturer:website": "https://www.urbidermis.com/fr/mobilier-urbain/atlantida/",
+    "operator": "Ville de Liège",
+    "operator:wikidata": "Q3992"
+  }
+},
+{
+  "type": "node",
+  "id": 12101113106,
+  "lat": 50.3063901,
+  "lon": 5.3909141,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12106331973,
+  "lat": 50.1906176,
+  "lon": 5.5679022,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12106331974,
+  "lat": 50.1918870,
+  "lon": 5.5709867,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12106331975,
+  "lat": 50.1915032,
+  "lon": 5.5690455,
+  "tags": {
+    "access": "customers",
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12107132283,
+  "lat": 50.8376712,
+  "lon": 5.8922150,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
+    "seasonal": "yes",
+    "website": "https://www.wml.nl/alles-over-water/limburgs-water-drinken/watertaps-in-de-buurt"
+  }
+},
+{
+  "type": "node",
+  "id": 12114273257,
+  "lat": 50.1907937,
+  "lon": 5.5701041,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12115461859,
+  "lat": 50.0362949,
+  "lon": 5.8692976,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12121068702,
+  "lat": 50.0110866,
+  "lon": 5.8427210,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12121072318,
+  "lat": 50.1188413,
+  "lon": 5.9996939,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12124335654,
+  "lat": 50.8756399,
+  "lon": 5.3114095,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "in de hal achter de ingang",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "panoramax": "1d5cb7e6-32e8-4db5-bf07-63825211b27c",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12155610701,
+  "lat": 50.9292788,
+  "lon": 5.3402632,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bottle_refill",
+    "mapillary": "1438943976810226"
+  }
+},
+{
+  "type": "node",
+  "id": 12158219977,
+  "lat": 50.9867048,
+  "lon": 5.1930857,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water:legal": "yes",
+    "drinking_water:seasonal": "no",
+    "drinking_water:type": "tap",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "image": "https://i.imgur.com/FadW7kf.jpeg",
+    "opening_hours": "24/7",
+    "operator": "De Watergroep",
+    "outdoor": "yes",
+    "seasonal": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12160487807,
+  "lat": 50.9323956,
+  "lon": 5.3421304,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "panoramax": "eaea63b2-d22b-438f-a58e-7277ec820dee"
+  }
+},
+{
+  "type": "node",
+  "id": 12184007775,
+  "lat": 50.5789200,
+  "lon": 5.4268075,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12223957479,
+  "lat": 50.2918493,
+  "lon": 5.6585379,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "panoramax": "fce02b63-da81-418e-9caf-08094a69852c"
+  }
+},
+{
+  "type": "node",
+  "id": 12244365909,
+  "lat": 50.8015891,
+  "lon": 5.3545713,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "panoramax": "06076072-9dd3-4fbb-9da3-74b84d721ae3"
+  }
+},
+{
+  "type": "node",
+  "id": 12245853115,
+  "lat": 50.8425970,
+  "lon": 5.3418201,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "panoramax": "d4339963-4bd4-4ed7-af7a-bb54f600f57c"
+  }
+},
+{
+  "type": "node",
+  "id": 12261435090,
+  "lat": 50.4961659,
+  "lon": 5.4711192,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12288693622,
+  "lat": 50.8927867,
+  "lon": 5.6501142,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "man_made": "water_tap",
+    "panoramax": "b500c6f8-00ac-4b39-87be-8376b2190b35"
+  }
+},
+{
+  "type": "node",
+  "id": 12296543191,
+  "lat": 50.5861336,
+  "lon": 5.5601527,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "panoramax": "2f5690c6-547b-4e3c-8fe8-58dd5559822b",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12378902143,
+  "lat": 50.9903970,
+  "lon": 5.3636554,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "man_made": "water_tap",
+    "panoramax": "d02d83b4-0ed8-4ba7-b02f-c1d8e1dd9d47",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12382031987,
+  "lat": 50.9860713,
+  "lon": 5.3867402,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "dog": "designated",
+    "fountain": "drinking",
+    "panoramax": "8b2ffaed-14f8-42ba-80c9-a038e7387321"
+  }
+},
+{
+  "type": "node",
+  "id": 12398752504,
+  "lat": 50.8650678,
+  "lon": 5.5131277,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "opening_hours": "24/7",
+    "panoramax": "7abad711-bd7f-4e7b-bb31-03d033a28457"
+  }
+},
+{
+  "type": "node",
+  "id": 12403475744,
+  "lat": 50.8356977,
+  "lon": 5.5520897,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "panoramax": "bc1c1c43-10ba-4a44-a0e5-68863839e0a9"
+  }
+},
+{
+  "type": "node",
+  "id": 12407587880,
+  "lat": 50.9279871,
+  "lon": 5.5716877,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "panoramax": "5ae80976-a2df-401f-b7d9-b77770676496"
+  }
+},
+{
+  "type": "node",
+  "id": 12458733964,
+  "lat": 50.7775956,
+  "lon": 5.4672492,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "mapillary": "1626390724756228",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 12462991701,
+  "lat": 50.7523400,
+  "lon": 5.2951909,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "panoramax": "3d0adf78-ea66-4a02-9421-09e780071398",
+    "seasonal": "summer"
+  }
+},
+{
+  "type": "node",
+  "id": 12565501626,
+  "lat": 50.9798807,
+  "lon": 5.1043564,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12768664263,
+  "lat": 50.8592318,
+  "lon": 5.7222701,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12770359057,
+  "lat": 50.9627735,
+  "lon": 5.4126823,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12802267145,
+  "lat": 50.2167457,
+  "lon": 5.4723917,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "water_tap",
+    "panoramax": "8f5aa55c-3fbd-4ffe-9ab3-e6e0e92c41de",
+    "panoramax:0": "bdea4d53-e9d2-4f0a-bce4-923f812e035c"
+  }
+},
+{
+  "type": "node",
+  "id": 12806357236,
+  "lat": 50.8729399,
+  "lon": 5.3071473,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "opening_hours": "Mo-Fr 07:00-12:00,15:30-19:30; We 07:00-12:00,14:00-19:30; Sa,Su 10:00-12:00",
+    "panoramax": "2c894f33-f46f-41a0-a9ba-6bee3efbf676",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12814178389,
+  "lat": 50.6341491,
+  "lon": 5.5622350,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-05-12",
+    "fee": "no",
+    "fountain": "water_tap",
+    "man_made": "water_tap",
+    "manufacturer": "ubidermis",
+    "manufacturer:website": "https://www.urbidermis.com/fr/mobilier-urbain/atlantida/",
+    "operator": "Ville de Liège",
+    "operator:wikidata": "Q3992",
+    "panoramax": "a194c1aa-842b-409e-9bfd-4977aef7cb96"
+  }
+},
+{
+  "type": "node",
+  "id": 12826099701,
+  "lat": 50.2096467,
+  "lon": 5.6384370,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Robinet"
+  }
+},
+{
+  "type": "node",
+  "id": 12843697394,
+  "lat": 50.5662774,
+  "lon": 5.7189331,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "water_tap",
+    "panoramax": "846cf02d-c44f-4a65-8431-3f5d5d751d97"
+  }
+},
+{
+  "type": "node",
+  "id": 12857066446,
+  "lat": 50.6315764,
+  "lon": 5.6126364,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12860668323,
+  "lat": 50.9072982,
+  "lon": 5.4188186,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "opening_hours": "Tu 14:00-19:00; We 10:00-17:00; Th 14:00-17:00; Fr 14:00-17:00; Sa,Su 10:00-12:30",
+    "panoramax": "f582b95b-de07-4a1f-8e8a-0200699da314",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12860856821,
+  "lat": 50.9137870,
+  "lon": 5.4212125,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "panoramax": "bfb4d14f-0188-4373-a654-506805c0dd14",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12883500907,
+  "lat": 50.5883652,
+  "lon": 5.8548837,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "lit": "yes",
+    "operator": "NMBS/SNCB",
+    "panoramax": "ababa1ca-3af0-4f6d-b559-f2fae7f8b965",
+    "seasonal": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12902257857,
+  "lat": 50.7055541,
+  "lon": 5.8584127,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12949983808,
+  "lat": 50.9614428,
+  "lon": 5.6977931,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "covered": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "panoramax": "9a459c63-2023-408a-b4c9-75ab58ff1ed2",
+    "room_temperature_water": "yes",
+    "seasonal": "no",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12951533749,
+  "lat": 50.6413644,
+  "lon": 5.5757426,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill;water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "PH off",
+    "room_temperature_water": "no",
+    "seasonal": "no",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12953635780,
+  "lat": 50.6464521,
+  "lon": 5.8111356,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "La Roue Libre",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12966051118,
+  "lat": 50.0592430,
+  "lon": 5.8134329,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+}
+
+  ]
+}

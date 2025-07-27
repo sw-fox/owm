@@ -1,0 +1,3180 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:32:35Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 205444200,
+  "lat": 48.8502775,
+  "lon": 10.4880197,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "no",
+    "fountain": "bubbler",
+    "name": "Olmützer Gedenkbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 276643064,
+  "lat": 48.6827380,
+  "lon": 10.2037318,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Käsbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 279769666,
+  "lat": 48.7148250,
+  "lon": 10.7789951,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "note:de": "Abwassereinleitungsstelle;Trinkwasserspülung;Ausgussrinne, etc.",
+    "sanitary_dump_station": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 292627140,
+  "lat": 48.7426483,
+  "lon": 10.8834279,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 315746363,
+  "lat": 48.3775961,
+  "lon": 10.8886584,
+  "tags": {
+    "BLfD:criteria": "Baudenkmal",
+    "alt_name": "Brunnen am Bourges-Platz",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Gusseiserner Trinkbrunnen",
+    "heritage": "4",
+    "heritage:operator": "BLfD",
+    "name": "Trinkbrunnen Senkelbach",
+    "operator": "Stadt Augsburg, Hochbauamt",
+    "ref:BLfD": "D-7-61-000-1184",
+    "start_date": "about 1900",
+    "wheelchair": "yes",
+    "wikidata": "Q41422831",
+    "wikipedia": "de:Brunnen am Bourges-Platz"
+  }
+},
+{
+  "type": "node",
+  "id": 334752619,
+  "lat": 48.7988548,
+  "lon": 10.1042196,
+  "tags": {
+    "drinking_water": "yes",
+    "ele": "529",
+    "name": "Langertbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 378072558,
+  "lat": 48.9764740,
+  "lon": 10.9992890,
+  "tags": {
+    "alt_name": "Gunthildisbrunnlein",
+    "drinking_water": "yes",
+    "image": "https://commons.wikimedia.org/wiki/File:Gunthildis-Quelle_im_Schambachtal_bei_Suffersheim.jpg",
+    "name": "Gunthildis-Brünnlein",
+    "natural": "spring",
+    "old_name": "St. Gunthildisquelle",
+    "wikidata": "Q129898813"
+  }
+},
+{
+  "type": "node",
+  "id": 393418154,
+  "lat": 48.1357422,
+  "lon": 10.8663168,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 416676257,
+  "lat": 48.9343020,
+  "lon": 10.9750322,
+  "tags": {
+    "amenity": "drinking_water",
+    "wikidata": "Q41364325"
+  }
+},
+{
+  "type": "node",
+  "id": 424250176,
+  "lat": 48.7962695,
+  "lon": 10.0795542,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "image": "https://commons.wikimedia.org/wiki/File:Eichertbr%C3%BCnnle_im_Wolfertstal.jpg",
+    "name": "Eichertbrünnle"
+  }
+},
+{
+  "type": "node",
+  "id": 431032605,
+  "lat": 48.1252959,
+  "lon": 10.5326637,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Rastplatz Kapelle"
+  }
+},
+{
+  "type": "node",
+  "id": 442677342,
+  "lat": 48.1230148,
+  "lon": 10.5395699,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Brunnentrog",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 442677378,
+  "lat": 48.1210452,
+  "lon": 10.5403846,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Kirchbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 443964858,
+  "lat": 48.7610857,
+  "lon": 10.3453906,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 456824126,
+  "lat": 48.8546258,
+  "lon": 10.1258849,
+  "tags": {
+    "amenity": "fountain",
+    "description": "Gußeiserne Tränke mit frischen Wasser aus Rohr",
+    "drinking_water": "yes",
+    "image": "https://commons.wikimedia.org/wiki/File:Tr%C3%A4nke_R%C3%B6thardt.JPG",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 461829878,
+  "lat": 48.3752127,
+  "lon": 10.9013171,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Die beiden venezianischen Wandbrunnen - ein baugleiches Modell steht am Roten Tor - stammen aus dem 16. Jahrhundert und wurden 1950 vom Münchner Kunsthändler Lois Bernheimer der Stadt geschenkt.",
+    "fountain": "bubbler",
+    "name": "Venezianischer Muschelbrunnen",
+    "note": "Trinkbrunnen Schwedenstiege",
+    "operator": "Stadt Augsburg, Hochbauamt"
+  }
+},
+{
+  "type": "node",
+  "id": 473460220,
+  "lat": 48.6183790,
+  "lon": 10.1716405,
+  "tags": {
+    "description": "Der Stockbrunnen wurde 1898 von der Gemeinde Herbrechtingen zur Trinkwasserversorgung angelegt. Er wurde bis 2006 genutzt und wurde dann stillgelegt. Jährlich wurden 400 bis 500 Mio Liter Wasser gefördert.",
+    "drinking_water": "yes",
+    "name": "Stockbrunnen",
+    "natural": "spring",
+    "start_date": "1898",
+    "wikidata": "Q114674827"
+  }
+},
+{
+  "type": "node",
+  "id": 509609866,
+  "lat": 48.3873337,
+  "lon": 10.7388648,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Griesbergquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 542208920,
+  "lat": 48.1713100,
+  "lon": 10.5024683,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Trinkwasserbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 542209027,
+  "lat": 48.1768326,
+  "lon": 10.5009404,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Trinkwasserbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 599623907,
+  "lat": 48.4215519,
+  "lon": 10.6268611,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Erlenbrünnle"
+  }
+},
+{
+  "type": "node",
+  "id": 640389889,
+  "lat": 48.7794184,
+  "lon": 10.2687948,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 675091175,
+  "lat": 48.0252908,
+  "lon": 10.4580272,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Quellwasser bei Wassertretanlage"
+  }
+},
+{
+  "type": "node",
+  "id": 766883693,
+  "lat": 48.0488306,
+  "lon": 10.8786037,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "man_made": "water_tap",
+    "name": "Trinkwasserbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 767246206,
+  "lat": 48.4898923,
+  "lon": 10.5745392,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 790043412,
+  "lat": 48.3956282,
+  "lon": 10.0007957,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-09-01",
+    "fee": "no",
+    "fountain": "bubbler",
+    "seasonal": "spring;summer;autumn",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 811349772,
+  "lat": 48.6704474,
+  "lon": 10.0944919,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Öschentalbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 813553029,
+  "lat": 48.4439429,
+  "lon": 10.6819780,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Ganghofer Quelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 875454491,
+  "lat": 48.3811949,
+  "lon": 10.8728147,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "no",
+    "male": "yes",
+    "opening_hours": "24/7",
+    "operator": "Stadt Augsburg",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 875454513,
+  "lat": 48.3811946,
+  "lon": 10.8728502,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Augsburg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 890658175,
+  "lat": 48.3474194,
+  "lon": 10.9345148,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "note": "Trinkbrunnen Spickelstraße beim Wasserwerk",
+    "operator": "Stadtwerke Augsburg Wasser GmbH",
+    "seasonal": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 918835510,
+  "lat": 48.2733662,
+  "lon": 10.6859159,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Eisbrünnele",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 927333383,
+  "lat": 48.4261889,
+  "lon": 10.4520222,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 966327527,
+  "lat": 48.2971169,
+  "lon": 10.0540505,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 976002316,
+  "lat": 48.5691277,
+  "lon": 10.5019959,
+  "tags": {
+    "amenity": "drinking_water",
+    "fixme": "bitte richtig posititionieren"
+  }
+},
+{
+  "type": "node",
+  "id": 976755713,
+  "lat": 48.5412541,
+  "lon": 10.7396317,
+  "tags": {
+    "amenity": "drinking_water",
+    "note": "Friedhof"
+  }
+},
+{
+  "type": "node",
+  "id": 992279278,
+  "lat": 48.3377491,
+  "lon": 10.9182178,
+  "tags": {
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "no",
+    "lit": "no",
+    "note": "Trinkbrunnen Ilsungstraße \"Bei den sieben Tischen\"",
+    "operator": "Stadtwerke Augsburg Wasser GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 1032921826,
+  "lat": 48.7508909,
+  "lon": 10.3396398,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "power_supply": "yes",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 1080766493,
+  "lat": 48.6856900,
+  "lon": 10.1999772,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Saumahdbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1177535838,
+  "lat": 48.3668436,
+  "lon": 10.9014167,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnenauf dem Holbeinplatz",
+    "fountain": "drinking",
+    "operator": "Stadt Augsburg, Hochbauamt"
+  }
+},
+{
+  "type": "node",
+  "id": 1177727974,
+  "lat": 48.3623737,
+  "lon": 10.9041742,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Gestiftet von Walter Settele",
+    "fountain": "drinking",
+    "name": "Altstadt-Trinkwasserbrunnen",
+    "name:de": "Altstadt-Trinkwasserbrunnen",
+    "operator": "Stadt Augsburg, Hochbauamt",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1196070330,
+  "lat": 48.2891717,
+  "lon": 10.0997621,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1196977534,
+  "lat": 48.7789225,
+  "lon": 10.2680327,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2022-01-04",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 1234628621,
+  "lat": 48.9906861,
+  "lon": 10.1932305,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1308258140,
+  "lat": 48.3585134,
+  "lon": 10.8843805,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Gusseiserner Trinkbrunnen",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadt Augsburg, Amt für Grünordnung",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1453778530,
+  "lat": 48.7834016,
+  "lon": 10.0415769,
+  "tags": {
+    "amenity": "fountain",
+    "description": "Brunnen aus Holz mit Trog erbaut 2004 Realgenossenschaft Essingen",
+    "drinking_water": "yes",
+    "ele": "640",
+    "image": "https://commons.wikimedia.org/wiki/File:Brunnen_im_Wald_Essingen_Brunnenhalde.JPG"
+  }
+},
+{
+  "type": "node",
+  "id": 1479479953,
+  "lat": 48.3820423,
+  "lon": 10.9164346,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "drinking",
+    "name": "Lechhauser Marktbrunnen",
+    "note": "Gestiftet vom Lechhauser Steinmetz Kramer",
+    "opening_hours": "24/7",
+    "operator": "Stadt Augsburg, Hochbauamt",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1479479958,
+  "lat": 48.3460699,
+  "lon": 10.9115800,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-10-22",
+    "fountain": "bubbler",
+    "note": "Trinkbrunnen Nähe Parkhäusel",
+    "operator": "Amt für Grünordnung",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1479479963,
+  "lat": 48.3502700,
+  "lon": 10.9092699,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-12-18",
+    "fountain": "bubbler",
+    "note": "Trinkbrunnen Nähe TCA Platz",
+    "operator": "Amt für Grünordnung"
+  }
+},
+{
+  "type": "node",
+  "id": 1479479966,
+  "lat": 48.3510406,
+  "lon": 10.9105429,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-08-10",
+    "fountain": "bubbler",
+    "note": "Trinkbrunnen Nähe Botanischer Garten",
+    "operator": "Amt für Grünordnung"
+  }
+},
+{
+  "type": "node",
+  "id": 1479479968,
+  "lat": 48.3595173,
+  "lon": 10.8985883,
+  "tags": {
+    "amenity": "drinking_water",
+    "disused": "yes",
+    "fountain": "drinking",
+    "note": "Trinkbrunnen Theodor-Heuss-Platz",
+    "operator": "Amt für Grünordnung"
+  }
+},
+{
+  "type": "node",
+  "id": 1479479971,
+  "lat": 48.3598991,
+  "lon": 10.9028701,
+  "tags": {
+    "BLfD:criteria": "Baudenkmal",
+    "amenity": "drinking_water",
+    "description": "Der venezianische Wandbrunnenverteilt stammt aus dem 16. Jahrhundert und wurden 1950 vom Münchner Kunsthändler Lois Bernheimer der Stadt geschenkt, 1988 restauriert durch die Steinmetzinnung Augsburg-Nordschwaben und Herrn Walter Settele",
+    "fountain": "bubbler",
+    "heritage": "4",
+    "heritage:operator": "BLfD",
+    "historic": "heritage",
+    "name": "Venezianischer Muschelbrunnen",
+    "note": "Trinkbrunnen Rotes Tor; 1952 als Stiftung aufgestellt",
+    "operator": "Stadt Augsburg, Hochbauamt",
+    "ref:BLfD": "D-7-61-000-1442",
+    "start_date": "mid C16"
+  }
+},
+{
+  "type": "node",
+  "id": 1489698687,
+  "lat": 48.0466233,
+  "lon": 10.4885195,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-10-30",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Stadt Mindelheim",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1552165023,
+  "lat": 48.3684753,
+  "lon": 10.9039165,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Augsburg",
+    "addr:housenumber": "66",
+    "addr:place": "Fuggerei",
+    "addr:postcode": "86152",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "description": "öffentliche Toilette in Fuggerei",
+    "drinking_water": "yes",
+    "fee": "no",
+    "gender_segregated": "yes",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1587118091,
+  "lat": 48.7767923,
+  "lon": 10.1675220,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Härtsfeld Albuch Wasserversorgung"
+  }
+},
+{
+  "type": "node",
+  "id": 1672268642,
+  "lat": 48.9784031,
+  "lon": 10.8749924,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1679656900,
+  "lat": 48.9775320,
+  "lon": 10.7322578,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1792012911,
+  "lat": 48.3066201,
+  "lon": 10.7688649,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Mader-Quelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1792361249,
+  "lat": 48.7789591,
+  "lon": 10.2657080,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1798605718,
+  "lat": 48.1414893,
+  "lon": 10.5795958,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "no",
+    "name": "Jakobs-Brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 1834669586,
+  "lat": 48.9779309,
+  "lon": 10.1234789,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1857840970,
+  "lat": 48.4543744,
+  "lon": 10.2743909,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well",
+    "name": "Brunnen am Schnöllermarkt"
+  }
+},
+{
+  "type": "node",
+  "id": 2058133766,
+  "lat": 48.3241898,
+  "lon": 10.8857189,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "entrance": "yes",
+    "fee": "no",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 2058133771,
+  "lat": 48.3241916,
+  "lon": 10.8858033,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "entrance": "yes",
+    "fee": "no",
+    "female": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated"
+  }
+},
+{
+  "type": "node",
+  "id": 2058133775,
+  "lat": 48.3241934,
+  "lon": 10.8858876,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "entrance": "yes",
+    "fee": "no",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 2202438446,
+  "lat": 48.2678417,
+  "lon": 10.9871577,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-10-14"
+  }
+},
+{
+  "type": "node",
+  "id": 2297965966,
+  "lat": 48.4629405,
+  "lon": 10.2695708,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2297965967,
+  "lat": 48.4630178,
+  "lon": 10.2698670,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2297965968,
+  "lat": 48.4630581,
+  "lon": 10.2696266,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2398691508,
+  "lat": 48.4590535,
+  "lon": 10.9380924,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2399331591,
+  "lat": 48.1726255,
+  "lon": 10.4749244,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2406781751,
+  "lat": 48.7174435,
+  "lon": 10.4128364,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 2518240781,
+  "lat": 48.3509288,
+  "lon": 10.8675187,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "no",
+    "toilets:disposal": "flush",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2541263966,
+  "lat": 48.3702797,
+  "lon": 10.8969868,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Der Trinkbrunnen wurde im Rahmen der Erneuerung der Fußgängerzone aufgestellt.",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "operator": "Stadt Augsburg, Hochbauamt",
+    "start_date": "2013",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2584658573,
+  "lat": 48.0749552,
+  "lon": 10.1952412,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Dorfbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 2589488794,
+  "lat": 48.3741362,
+  "lon": 10.8980539,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "note": "Gestiftet von der Stadtwerke Augsburg Wasser GmbH und dem Tiefbauamt der Stadt Augsburg",
+    "operator": "Stadt Augsburg, Hochbauamt",
+    "start_date": "2011"
+  }
+},
+{
+  "type": "node",
+  "id": 3048451212,
+  "lat": 48.4061335,
+  "lon": 10.9709340,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3113307280,
+  "lat": 48.6986211,
+  "lon": 10.0908441,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3167685327,
+  "lat": 48.3663389,
+  "lon": 10.8934991,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-06-01",
+    "covered": "no",
+    "description": "Der Trinkbrunnen wurde im Zuge des Königsplatz-Umbaus aufgestellt.",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "Stadt Augsburg, Hochbauamt",
+    "start_date": "2014",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3373033792,
+  "lat": 48.9603156,
+  "lon": 10.9181568,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-12-21",
+    "fee": "yes",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 3407472205,
+  "lat": 48.7800083,
+  "lon": 10.2716357,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "source": "bing",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3413217221,
+  "lat": 48.0199115,
+  "lon": 10.5911537,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3415524993,
+  "lat": 48.7343853,
+  "lon": 10.1334897,
+  "tags": {
+    "capacity": "4",
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "Wohnmobilstellplatz Königsbronn Itzelberger See",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "tourism": "caravan_site"
+  }
+},
+{
+  "type": "node",
+  "id": 3416510750,
+  "lat": 48.5284078,
+  "lon": 10.1481652,
+  "tags": {
+    "addr:city": "Öllingen",
+    "addr:country": "DE",
+    "addr:housenumber": "42",
+    "addr:postcode": "89129",
+    "addr:street": "Hauptstraße",
+    "capacity": "4",
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "Wohnmobilstellplätze Öllingen",
+    "note": "Ein Stromanschluss ist nur nach vorheriger Reservierung gegen eine Gebühr möglich",
+    "operator": "Gemeinde Öllingen",
+    "power_supply": "yes",
+    "tents": "no",
+    "tourism": "caravan_site",
+    "waste": "grey_water",
+    "website": "https://www.oellingen.de/sehenswuerdigkeiten/camperparkplatz.php"
+  }
+},
+{
+  "type": "node",
+  "id": 3470030881,
+  "lat": 48.7320892,
+  "lon": 10.1359924,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-08-11"
+  }
+},
+{
+  "type": "node",
+  "id": 3526805580,
+  "lat": 48.0916112,
+  "lon": 10.8787797,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3551324396,
+  "lat": 48.3660405,
+  "lon": 10.8116551,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-05-30",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "name": "Trimm-Dich Pfad Brunnen",
+    "operator": "Stadt Statbergen",
+    "start_date": "1975"
+  }
+},
+{
+  "type": "node",
+  "id": 3627926800,
+  "lat": 48.3720945,
+  "lon": 10.8296716,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Der Trinkbrunnen wurde im Jahr 2005 von der Stadtwerke Augsburg Wasser GmbH anlässlich des 100jährigen Bestehens des Bismarckturmes aufgestellt.",
+    "fountain": "drinking",
+    "owner": "Stadtwerke Augsburg Wasser GmbH",
+    "source": "http://www.unterwegs-wasser-trinken.de/weitere_informationen/#",
+    "start_date": "2005"
+  }
+},
+{
+  "type": "node",
+  "id": 3642138131,
+  "lat": 48.5168092,
+  "lon": 10.9325454,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3978121302,
+  "lat": 48.3894863,
+  "lon": 10.9034875,
+  "tags": {
+    "capacity": "4",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Stellplatz beim TSG Augsburg",
+    "opening_hours": "24/7",
+    "operator": "TSG 1885 Augsburg e.V.",
+    "power_supply": "yes",
+    "reservation": "no",
+    "tourism": "caravan_site",
+    "website": "https://www.tsg-augsburg.de/wohnmobilstellplaetze/"
+  }
+},
+{
+  "type": "node",
+  "id": 4088810923,
+  "lat": 48.2452058,
+  "lon": 10.8041261,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4088810928,
+  "lat": 48.2454354,
+  "lon": 10.8033134,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4117462796,
+  "lat": 48.5941957,
+  "lon": 10.8339591,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4119229301,
+  "lat": 48.3187089,
+  "lon": 10.7668615,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Webers Brünnerle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4144888664,
+  "lat": 48.3486955,
+  "lon": 10.8317046,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkewasserbrunnen",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4149455447,
+  "lat": 48.0485350,
+  "lon": 10.7780933,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4169971548,
+  "lat": 48.0487460,
+  "lon": 10.7776557,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4251209272,
+  "lat": 48.3509110,
+  "lon": 10.8676004,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "no",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4251209273,
+  "lat": 48.3509185,
+  "lon": 10.8675657,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "no",
+    "male": "no",
+    "toilets:disposal": "flush",
+    "toilets:wheelchair": "yes",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4274278954,
+  "lat": 48.3637522,
+  "lon": 10.3340993,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Trinkwasserspender der VGem Ichenhausen"
+  }
+},
+{
+  "type": "node",
+  "id": 4320741108,
+  "lat": 48.6214433,
+  "lon": 10.2413801,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "check_date": "2024-12-28",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Steiff Museum",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4359719702,
+  "lat": 48.7212478,
+  "lon": 10.7806626,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2023-04-07",
+    "drinking_water": "yes",
+    "fee": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4395729258,
+  "lat": 48.5763629,
+  "lon": 10.4938238,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Wilhelm-Bauer-Brunnen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4396597717,
+  "lat": 48.0909945,
+  "lon": 10.3597394,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4401366780,
+  "lat": 48.2532499,
+  "lon": 10.7876571,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4401374931,
+  "lat": 48.2048119,
+  "lon": 10.7685914,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4441259506,
+  "lat": 48.1638792,
+  "lon": 10.3897096,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-04-29",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4442774785,
+  "lat": 48.2166824,
+  "lon": 10.6888704,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4469630842,
+  "lat": 48.7831681,
+  "lon": 10.1084089,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-07-24",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4571779590,
+  "lat": 48.7804014,
+  "lon": 10.2728594,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4571779591,
+  "lat": 48.7800755,
+  "lon": 10.2698815,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4571779592,
+  "lat": 48.7799769,
+  "lon": 10.2693504,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4602220476,
+  "lat": 48.3334370,
+  "lon": 10.8981040,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2023-05-04",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "0",
+    "operator": "Universität Augsburg",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4602220477,
+  "lat": 48.3334128,
+  "lon": 10.8980573,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2023-05-04",
+    "drinking_water": "yes",
+    "fee": "no",
+    "level": "0",
+    "male": "yes",
+    "operator": "Universität Augsburg",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4602220478,
+  "lat": 48.3336500,
+  "lon": 10.8980815,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2023-05-04",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "0",
+    "operator": "Universität Augsburg",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4602220479,
+  "lat": 48.3335856,
+  "lon": 10.8980815,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "check_date": "2023-05-04",
+    "drinking_water": "yes",
+    "fee": "no",
+    "level": "0",
+    "male": "yes",
+    "operator": "Universität Augsburg",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4644979131,
+  "lat": 48.7809592,
+  "lon": 10.2666849,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4714034606,
+  "lat": 48.3334984,
+  "lon": 10.8981203,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "level": "0",
+    "lit": "yes",
+    "operator": "Universität Augsburg",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4740472573,
+  "lat": 48.8445832,
+  "lon": 10.1161891,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "schaut so aus als es hier im Sommer Trinkwasser gibt. (Auf jedenfall steht da ein Brunnen)"
+  }
+},
+{
+  "type": "node",
+  "id": 4743291839,
+  "lat": 48.7925592,
+  "lon": 10.0462978,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Wasser kommt aus Rohr und fließt in gußeisernen Trog",
+    "image": "https://commons.wikimedia.org/wiki/File:Obbronn_(Saures_Mahd).jpg",
+    "name": "Obrunnen (Obbronn)"
+  }
+},
+{
+  "type": "node",
+  "id": 4913101049,
+  "lat": 48.7720685,
+  "lon": 10.0952854,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Kocherursprung",
+    "natural": "spring",
+    "wikidata": "Q1499403"
+  }
+},
+{
+  "type": "node",
+  "id": 4922317371,
+  "lat": 48.2677153,
+  "lon": 10.9821567,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5010309976,
+  "lat": 48.0052846,
+  "lon": 10.4347078,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5038430989,
+  "lat": 48.1455645,
+  "lon": 10.5754650,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5154382666,
+  "lat": 48.3300955,
+  "lon": 10.8953426,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5173560878,
+  "lat": 48.8447513,
+  "lon": 10.8543242,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-01-19",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5568851545,
+  "lat": 48.3595609,
+  "lon": 10.8977283,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkbrunnen Theodor-Heuss-Platz",
+    "fountain": "bubbler",
+    "operator": "SWA"
+  }
+},
+{
+  "type": "node",
+  "id": 5586807854,
+  "lat": 48.0563169,
+  "lon": 10.8722199,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "description": "Wassertankstelle für Wohnmobile",
+    "drinking_water": "yes",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5659210697,
+  "lat": 48.7825195,
+  "lon": 10.5349057,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5774063811,
+  "lat": 48.3041816,
+  "lon": 10.1602604,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap",
+    "panoramax": "d78172bf-95b9-4282-a448-a86b85f1f65b",
+    "panoramax:0": "b1288691-935d-4494-a200-01cce34f8cef"
+  }
+},
+{
+  "type": "node",
+  "id": 5781724374,
+  "lat": 48.8626171,
+  "lon": 10.2243894,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "image": "https://commons.wikimedia.org/wiki/File:Brunnen_(H%C3%BClen).jpg",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 5796858722,
+  "lat": 48.0933577,
+  "lon": 10.7417608,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5843417329,
+  "lat": 48.0842171,
+  "lon": 10.7667279,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkwasserbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 5894306466,
+  "lat": 48.3497641,
+  "lon": 10.9124427,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "description": "Um das Jahr 1900 wurden über die ganze Stadt verteilt gusseiserne Trinkbrunnen aufgestellt",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "note": "Gusseiserner Trinkbrunnen",
+    "opening_hours": "24/7",
+    "operator": "Stadt Augsburg, Amt für Grünordnung",
+    "panoramax": "6cad71ef-2fec-418f-be3c-6259c40321df"
+  }
+},
+{
+  "type": "node",
+  "id": 5894306467,
+  "lat": 48.3618096,
+  "lon": 10.8996324,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Ulrichsbrunnen",
+    "note": "Der Ulrichsbrunnen befindet sich auf dem gemeinsamen Kirchhof zwischen der katholischen Basilika St. Ulrich und Afra und Evangelisch St. Ulrich. Gesponsert wird der Brunnen von den Stadtwerken Augsburg, die das Wasser bereitstellen.",
+    "operator": "Katholisches Stadtpfarramt St. Ulrich und Afra",
+    "start_date": "2017"
+  }
+},
+{
+  "type": "node",
+  "id": 5977587000,
+  "lat": 48.7019795,
+  "lon": 10.2370384,
+  "tags": {
+    "amenity": "sanitary_dump_station",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "fee:drinking_water": "1EUR/100l",
+    "fee:fresh_water": "0,20EUR/1min",
+    "opening_hours": "24/7",
+    "power_supply": "no",
+    "source": "Bing",
+    "water_point": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6064794636,
+  "lat": 48.7179204,
+  "lon": 10.7807581,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 6111055963,
+  "lat": 48.7790207,
+  "lon": 10.2687295,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 6343146380,
+  "lat": 48.8109426,
+  "lon": 10.0332487,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Steinbrunnern wurde 2019 aufgestellt",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 6537311888,
+  "lat": 48.3654556,
+  "lon": 10.8945634,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-06-01",
+    "covered": "no",
+    "description": "at Bus Station B1",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "lit": "no",
+    "name": "Trinkwasserspender am Königsplatz",
+    "opening_hours": "24/7",
+    "seasonal": "spring;summer;autumn"
+  }
+},
+{
+  "type": "node",
+  "id": 6693620754,
+  "lat": 48.8262478,
+  "lon": 10.4093104,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6699937485,
+  "lat": 48.4578200,
+  "lon": 10.3518480,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6735274165,
+  "lat": 48.7011634,
+  "lon": 10.0003432,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6741288934,
+  "lat": 48.0369774,
+  "lon": 10.7297575,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7135130282,
+  "lat": 48.1593633,
+  "lon": 10.6649186,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7258023266,
+  "lat": 48.3764748,
+  "lon": 10.9089742,
+  "tags": {
+    "access": "private",
+    "description": "Wasserentnahme zur Bewässerung der Gemüsegärten. Den Mietern vorenthalten.",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "privat"
+  }
+},
+{
+  "type": "node",
+  "id": 7291427655,
+  "lat": 48.1044899,
+  "lon": 10.6563333,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7476789017,
+  "lat": 48.7908586,
+  "lon": 10.1023983,
+  "tags": {
+    "drinking_water": "yes",
+    "ele": "508",
+    "name": "Luggenlohbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7476789020,
+  "lat": 48.7994369,
+  "lon": 10.0995490,
+  "tags": {
+    "drinking_water": "yes",
+    "ele": "520",
+    "intermittent": "yes",
+    "name": "Neubrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7507014271,
+  "lat": 48.8023906,
+  "lon": 10.1104815,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Obere Schlachtquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7547717189,
+  "lat": 48.1949667,
+  "lon": 10.6281296,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7752678587,
+  "lat": 48.3145006,
+  "lon": 10.8596121,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen Inninger Dorfplatz",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadt Augsburg, Hochbauamt"
+  }
+},
+{
+  "type": "node",
+  "id": 7752678588,
+  "lat": 48.3423815,
+  "lon": 10.8677014,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadt Augsburg Hochbauamt",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7860839864,
+  "lat": 48.3386850,
+  "lon": 10.8789684,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 7875715725,
+  "lat": 48.0235138,
+  "lon": 10.8852251,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7880873640,
+  "lat": 48.7175391,
+  "lon": 10.1498081,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap",
+    "operator": "Reitverein Aufhausen"
+  }
+},
+{
+  "type": "node",
+  "id": 7976297185,
+  "lat": 48.6065343,
+  "lon": 10.7244123,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 7976297186,
+  "lat": 48.6058396,
+  "lon": 10.7220794,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8025687002,
+  "lat": 48.3546186,
+  "lon": 10.9746470,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8033083553,
+  "lat": 48.2327089,
+  "lon": 10.9414634,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "drinking_water:legal": "no",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Brunnen_Schmiechen_Ortsteil_Unterbergen.jpg",
+    "start_date": "1997",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Brunnen_Schmiechen_Ortsteil_Unterbergen.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 8067017820,
+  "lat": 48.3683357,
+  "lon": 10.8976603,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8082575661,
+  "lat": 48.6184847,
+  "lon": 10.2447135,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "payment:coins": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8121669074,
+  "lat": 48.2776344,
+  "lon": 10.7920191,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 8145027853,
+  "lat": 48.3629103,
+  "lon": 10.8503168,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8357447489,
+  "lat": 48.2834645,
+  "lon": 10.7557522,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8357447493,
+  "lat": 48.2827332,
+  "lon": 10.7573030,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8504796603,
+  "lat": 48.4417574,
+  "lon": 10.0831966,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 8504796604,
+  "lat": 48.4418286,
+  "lon": 10.0830755,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 8595085297,
+  "lat": 48.7984001,
+  "lon": 10.1026654,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Langertquelle 2",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8595085298,
+  "lat": 48.7982717,
+  "lon": 10.1026698,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "yes",
+    "name": "Langertquelle 3",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8595085299,
+  "lat": 48.7908405,
+  "lon": 10.1021972,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Luggenlohbrunnnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8595134368,
+  "lat": 48.7850278,
+  "lon": 10.1163630,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8767532911,
+  "lat": 48.9641937,
+  "lon": 10.5541924,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Gemeinde Ehingen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8781319204,
+  "lat": 48.2765262,
+  "lon": 10.3163640,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Quelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8829082506,
+  "lat": 48.9110652,
+  "lon": 10.8451984,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 8850455904,
+  "lat": 48.4719612,
+  "lon": 10.0730685,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8850526369,
+  "lat": 48.0091611,
+  "lon": 10.0360646,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9025891924,
+  "lat": 48.0403987,
+  "lon": 10.2921279,
+  "tags": {
+    "access": "yes",
+    "description": "Donated by \"Obst- und Gartenbauverein\". Permanently flowing.",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Günz"
+  }
+},
+{
+  "type": "node",
+  "id": 9063451653,
+  "lat": 48.0500228,
+  "lon": 10.4554012,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9175542664,
+  "lat": 48.6901955,
+  "lon": 10.9184173,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bench": "no",
+    "bin": "no",
+    "fee": "no",
+    "operator": "Stadt",
+    "platform:width": "1.10",
+    "public_transport": "platform",
+    "ref:IFOPT": "de:09779:5329:0:1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9193639075,
+  "lat": 48.0035194,
+  "lon": 10.6485305,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9193642049,
+  "lat": 48.0368309,
+  "lon": 10.7270430,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9259492814,
+  "lat": 48.0251953,
+  "lon": 10.5308596,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9453567857,
+  "lat": 48.6110554,
+  "lon": 10.5699201,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Stadt Höchstädt"
+  }
+},
+{
+  "type": "node",
+  "id": 9525608738,
+  "lat": 48.4988474,
+  "lon": 10.0211196,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9569070736,
+  "lat": 48.3552778,
+  "lon": 10.9787988,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9621378698,
+  "lat": 48.3596221,
+  "lon": 10.8573314,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Augsburg"
+  }
+},
+{
+  "type": "node",
+  "id": 9621499481,
+  "lat": 48.3788975,
+  "lon": 10.8567527,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Augsburg"
+  }
+},
+{
+  "type": "node",
+  "id": 9661429658,
+  "lat": 48.2321377,
+  "lon": 10.7425028,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Leitenbergquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9735469426,
+  "lat": 48.8514652,
+  "lon": 10.4896165,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9749580262,
+  "lat": 48.0684699,
+  "lon": 10.5812697,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9773514286,
+  "lat": 48.0776906,
+  "lon": 10.5069323,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9776755563,
+  "lat": 48.2669153,
+  "lon": 10.6481714,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9798354170,
+  "lat": 48.2826337,
+  "lon": 10.6151173,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Jakobusweg Trinkbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 9825184824,
+  "lat": 48.8908922,
+  "lon": 10.8992036,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9831115478,
+  "lat": 48.6359448,
+  "lon": 10.6475325,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9907111070,
+  "lat": 48.4156801,
+  "lon": 10.8159063,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9934044172,
+  "lat": 48.1018906,
+  "lon": 10.5614915,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9934051995,
+  "lat": 48.0002404,
+  "lon": 10.8340930,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9951619456,
+  "lat": 48.6240778,
+  "lon": 10.2396884,
+  "tags": {
+    "amenity": "fountain",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "level": "0"
+  }
+},
+{
+  "type": "node",
+  "id": 9955092013,
+  "lat": 48.8927703,
+  "lon": 10.9895677,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9966639147,
+  "lat": 48.2036557,
+  "lon": 10.5108990,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9971633779,
+  "lat": 48.0656840,
+  "lon": 10.6426919,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9971663485,
+  "lat": 48.0899142,
+  "lon": 10.8679194,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9992947958,
+  "lat": 48.0194010,
+  "lon": 10.8245816,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9999544695,
+  "lat": 48.1554465,
+  "lon": 10.5900086,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10286241598,
+  "lat": 48.8708636,
+  "lon": 10.0253805,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10671848740,
+  "lat": 48.3354783,
+  "lon": 10.8967214,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "level": "2",
+    "lit": "yes",
+    "operator": "Universität Augsburg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10846148998,
+  "lat": 48.8734859,
+  "lon": 10.8042410,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10858949669,
+  "lat": 48.3333223,
+  "lon": 10.8964883,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "lit": "yes",
+    "operator": "Universität Augsburg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10858951238,
+  "lat": 48.3685607,
+  "lon": 10.8980801,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-06-01",
+    "description": "Inside the Museum „World Heritage Info-Centrum“",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "yes",
+    "level": "0",
+    "name": "Im welterbe Info-Centrum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10917797551,
+  "lat": 48.7365341,
+  "lon": 10.8737829,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10918240646,
+  "lat": 48.7962421,
+  "lon": 10.8443944,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10951584051,
+  "lat": 48.3484349,
+  "lon": 10.5871289,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 10989813227,
+  "lat": 48.6248526,
+  "lon": 10.2396671,
+  "tags": {
+    "amenity": "fountain",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "level": "0"
+  }
+},
+{
+  "type": "node",
+  "id": 11027455866,
+  "lat": 48.7226254,
+  "lon": 10.7773099,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11027457476,
+  "lat": 48.7071749,
+  "lon": 10.8810536,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11045232474,
+  "lat": 48.7243656,
+  "lon": 10.3875588,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 11051410877,
+  "lat": 48.6208710,
+  "lon": 10.2479850,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 11054957460,
+  "lat": 48.5888198,
+  "lon": 10.8345649,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11109474030,
+  "lat": 48.8536279,
+  "lon": 10.4869870,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Acqua pubblica"
+  }
+},
+{
+  "type": "node",
+  "id": 11129551298,
+  "lat": 48.0473422,
+  "lon": 10.8763992,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "drinking",
+    "opening_hours": "24/7",
+    "operator": "Stadt Landsberg am Lech",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11129669710,
+  "lat": 48.0495102,
+  "lon": 10.8767763,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "operator": "Stadt Landsberg am Lech",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11139456825,
+  "lat": 48.7192777,
+  "lon": 10.7774940,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
+    "dog": "no",
+    "indoor": "no",
+    "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 11257344710,
+  "lat": 48.7066497,
+  "lon": 10.6686199,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11257397067,
+  "lat": 48.8239420,
+  "lon": 10.7047005,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11271540238,
+  "lat": 48.0505976,
+  "lon": 10.8768514,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Stadt Landsberg am Lech",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11310427339,
+  "lat": 48.0504798,
+  "lon": 10.8710014,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11378637517,
+  "lat": 48.7858319,
+  "lon": 10.6917264,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11825826682,
+  "lat": 48.8557620,
+  "lon": 10.4850874,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11891011928,
+  "lat": 48.2708420,
+  "lon": 10.3703600,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11975126691,
+  "lat": 48.6956961,
+  "lon": 10.3923005,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11992381844,
+  "lat": 48.7169954,
+  "lon": 10.7793038,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "fee": "no",
+    "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 12025331451,
+  "lat": 48.6557461,
+  "lon": 10.8017043,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12025507578,
+  "lat": 48.7293476,
+  "lon": 10.6276349,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12037158808,
+  "lat": 48.9346852,
+  "lon": 10.9736859,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12040216943,
+  "lat": 48.2248957,
+  "lon": 10.1101225,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "lit": "yes",
+    "operator": "Stadt Illertissen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12047021035,
+  "lat": 48.2293750,
+  "lon": 10.6371773,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 12058667854,
+  "lat": 48.4934217,
+  "lon": 10.1260002,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12063691109,
+  "lat": 48.4768152,
+  "lon": 10.4447214,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12064608969,
+  "lat": 48.4228644,
+  "lon": 10.3005303,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Legoland"
+  }
+},
+{
+  "type": "node",
+  "id": 12076776124,
+  "lat": 48.3570940,
+  "lon": 10.8416317,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12078286280,
+  "lat": 48.2229318,
+  "lon": 10.1031055,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "yes",
+    "operator": "Stadt Illertissen",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12093736117,
+  "lat": 48.8390684,
+  "lon": 10.0897969,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12149208410,
+  "lat": 48.4392717,
+  "lon": 10.7062734,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12149683169,
+  "lat": 48.5419700,
+  "lon": 10.8518640,
+  "tags": {
+    "access": "yes",
+    "description": "Öffentlicher Trinkwasserspender, wird im Winter demontiert",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "Wasserwerk Meitingen"
+  }
+},
+{
+  "type": "node",
+  "id": 12165438749,
+  "lat": 48.9781486,
+  "lon": 10.0916413,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12165461910,
+  "lat": 48.9784107,
+  "lon": 10.0916479,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12189558963,
+  "lat": 48.1097300,
+  "lon": 10.1092411,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12189775539,
+  "lat": 48.4236008,
+  "lon": 10.3046362,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12347934572,
+  "lat": 48.3345475,
+  "lon": 10.8952168,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "level": "0",
+    "lit": "yes",
+    "operator": "Universität Augsburg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12347934573,
+  "lat": 48.3345808,
+  "lon": 10.8940987,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "level": "0",
+    "lit": "yes",
+    "operator": "Universität Augsburg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12638770688,
+  "lat": 48.4401267,
+  "lon": 10.0588605,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12683950259,
+  "lat": 48.0027400,
+  "lon": 10.2194355,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Gemeinde Trunkelsberg",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12693315250,
+  "lat": 48.9502422,
+  "lon": 10.6024908,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12712881746,
+  "lat": 48.7197183,
+  "lon": 10.6096210,
+  "tags": {
+    "access": "private",
+    "description": "Aus 342 m Tiefe gefördertes Mineralwasser",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Fürstl. Bissinger Auerquelle  W. Hörhammer GmbH & Co. KG",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12816916485,
+  "lat": 48.7802182,
+  "lon": 10.2698032,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12861785201,
+  "lat": 48.4845402,
+  "lon": 10.7381806,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12893372225,
+  "lat": 48.9097591,
+  "lon": 10.8434086,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12969613077,
+  "lat": 48.4617520,
+  "lon": 10.2694190,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12980127966,
+  "lat": 48.2666183,
+  "lon": 10.8378402,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12980368538,
+  "lat": 48.8393459,
+  "lon": 10.0934906,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,1276 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-24T13:52:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 309714221,
+  "lat": 52.0147794,
+  "lon": 8.5089671,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "check_date": "2023-10-17",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 734252735,
+  "lat": 52.0619042,
+  "lon": 8.8325018,
+  "tags": {
+    "amenity": "kneipp_water_cure",
+    "drinking_water": "yes",
+    "kneipp_water_cure:arm": "yes",
+    "kneipp_water_cure:foot": "no",
+    "lit": "no",
+    "name": "Kneipp-Armbecken",
+    "note": "mit Trinkwasser",
+    "operator": "Kneipp Verein Bad Salzuflen",
+    "source": "local knowledge;https://photos.komoot.de/www/ih/ih1tjhyjnavk19p9n1w0omp6t3bv7eewj-p61906512-full/17156d8c721?width=3072&height=2304&q=70",
+    "website": "http://kneipp-verein-bad-salzuflen.de"
+  }
+},
+{
+  "type": "node",
+  "id": 1760191257,
+  "lat": 52.3246675,
+  "lon": 8.0335670,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Brunnen Wasserversorgung Wallenhorst",
+    "operator": "Wasserversorgung Wallenhorst GmbH",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 1882137713,
+  "lat": 52.1687126,
+  "lon": 8.8670611,
+  "tags": {
+    "amenity": "drinking_water",
+    "note": "1 EURO = 100 Liter",
+    "payment:coins": "yes",
+    "vending": "water"
+  }
+},
+{
+  "type": "node",
+  "id": 2307133303,
+  "lat": 52.2496314,
+  "lon": 8.5056815,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "1",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2955084782,
+  "lat": 52.6129099,
+  "lon": 8.3704994,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2021-09-04"
+  }
+},
+{
+  "type": "node",
+  "id": 3683603155,
+  "lat": 52.0213037,
+  "lon": 8.5132224,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3778077714,
+  "lat": 52.0244502,
+  "lon": 8.5390747,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2024-05-30",
+    "covered": "no",
+    "description": "Trinkbrunnen, kostenlos, im Winter außer Betrieb.",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "name": "Trinkbrunnen",
+    "operator": "Stadtwerke Bielefeld",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3865505759,
+  "lat": 52.7300870,
+  "lon": 8.2889207,
+  "tags": {
+    "addr:city": "Vechta",
+    "addr:country": "DE",
+    "addr:housenumber": "90",
+    "addr:postcode": "49377",
+    "addr:street": "Große Straße",
+    "brand": "dm",
+    "brand:wikidata": "Q266572",
+    "brand:wikipedia": "en:Dm-drogerie markt",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "no",
+    "changing_table:location": "sales_area",
+    "contact:phone": "+49 4441 8538461",
+    "contact:website": "https://www.dm.de/",
+    "drinking_water": "yes",
+    "kids_area": "yes",
+    "kids_area:fee": "no",
+    "kids_area:indoor": "yes",
+    "kids_area:outdoor": "no",
+    "kids_area:supervised": "no",
+    "level": "0",
+    "name": "dm",
+    "opening_hours": "Mo-Fr 08:00-19:30; Su,PH off; Sa 08:00-19:00",
+    "payment:cash": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "chemist",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4310768449,
+  "lat": 52.2228359,
+  "lon": 8.8377191,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-10",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4310768450,
+  "lat": 52.2228359,
+  "lon": 8.8386686,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-10",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4310768451,
+  "lat": 52.2230347,
+  "lon": 8.8392600,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-10",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4310768452,
+  "lat": 52.2233469,
+  "lon": 8.8395175,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-10",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4310768453,
+  "lat": 52.2234455,
+  "lon": 8.8381469,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-10",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4310768454,
+  "lat": 52.2235613,
+  "lon": 8.8383226,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-10",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4310768455,
+  "lat": 52.2238332,
+  "lon": 8.8383796,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-10",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4310768460,
+  "lat": 52.2244519,
+  "lon": 8.8365114,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-10",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4310768461,
+  "lat": 52.2244757,
+  "lon": 8.8385056,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-10",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4310768462,
+  "lat": 52.2247920,
+  "lon": 8.8367501,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-10",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4310768463,
+  "lat": 52.2249563,
+  "lon": 8.8386786,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-10",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4310768464,
+  "lat": 52.2250450,
+  "lon": 8.8368386,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-10",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4310768465,
+  "lat": 52.2253144,
+  "lon": 8.8369298,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-10",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4310768466,
+  "lat": 52.2257794,
+  "lon": 8.8387377,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-08-10",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4360492635,
+  "lat": 52.7480155,
+  "lon": 8.3126338,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Gewinnungsbrunnen 3",
+    "operator": "Wasserwerk Vechta",
+    "pump": "powered",
+    "substance": "water"
+  }
+},
+{
+  "type": "node",
+  "id": 4360492636,
+  "lat": 52.7449931,
+  "lon": 8.3195492,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Gewinnungsbrunnen",
+    "operator": "Wasserwerk Vechta",
+    "pump": "powered",
+    "substance": "water"
+  }
+},
+{
+  "type": "node",
+  "id": 4360492637,
+  "lat": 52.7469596,
+  "lon": 8.3076415,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Gewinnungsbrunnen 4",
+    "operator": "Wasserwerk Vechta",
+    "pump": "powered",
+    "substance": "water"
+  }
+},
+{
+  "type": "node",
+  "id": 4393282747,
+  "lat": 52.0241815,
+  "lon": 8.8995130,
+  "tags": {
+    "addr:street": "Breite Straße",
+    "amenity": "drinking_water",
+    "check_date": "2024-05-26",
+    "drinking_water": "yes",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 4398147347,
+  "lat": 52.8265293,
+  "lon": 8.9949576,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4407333124,
+  "lat": 52.3755062,
+  "lon": 8.9686506,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2023-01-13",
+    "fee": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4769548315,
+  "lat": 52.0473762,
+  "lon": 8.5312675,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "opening_hours": "sunrise-sunset",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4987881967,
+  "lat": 52.3359754,
+  "lon": 8.0538080,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4996784766,
+  "lat": 52.7499720,
+  "lon": 8.2964388,
+  "tags": {
+    "amenity": "water_point",
+    "description": "Standrohr benötigt",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5246097495,
+  "lat": 52.3535679,
+  "lon": 8.0142203,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5246097510,
+  "lat": 52.3526328,
+  "lon": 8.0135317,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-07-08",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5355565316,
+  "lat": 52.0720729,
+  "lon": 8.6639635,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "brand": "SANIFAIR",
+    "brand:wikidata": "Q104814416",
+    "changing_table": "yes",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "operator": "SANIFAIR GmbH",
+    "operator:wikidata": "Q104814416",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5574877111,
+  "lat": 52.0438933,
+  "lon": 8.8878488,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 5703747817,
+  "lat": 52.2413407,
+  "lon": 8.8072846,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5851473592,
+  "lat": 52.0742492,
+  "lon": 8.8683153,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Nur Trinknapf für Hunde"
+  }
+},
+{
+  "type": "node",
+  "id": 5876240990,
+  "lat": 52.9995857,
+  "lon": 8.9868861,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Camping Reich",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6066049268,
+  "lat": 52.9425252,
+  "lon": 8.2573368,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6438767905,
+  "lat": 52.2981192,
+  "lon": 8.8585407,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6926662712,
+  "lat": 52.3737963,
+  "lon": 8.4532249,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7925904241,
+  "lat": 52.0236381,
+  "lon": 8.5083763,
+  "tags": {
+    "drinking_water": "yes",
+    "historic": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 8416490646,
+  "lat": 52.3794404,
+  "lon": 8.7706465,
+  "tags": {
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "Naturbadesee Mindernerwald",
+    "opening_hours": "24/7",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "seasonal": "no",
+    "tents": "no",
+    "toilets": "yes",
+    "tourism": "caravan_site"
+  }
+},
+{
+  "type": "node",
+  "id": 8418862884,
+  "lat": 52.2499687,
+  "lon": 8.5063171,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "level": "1",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8443370940,
+  "lat": 52.2499794,
+  "lon": 8.5064053,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "1",
+    "male": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8688565304,
+  "lat": 52.8430891,
+  "lon": 8.0548789,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "brand": "GS energie",
+    "brand:wikidata": "Q111391868",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "level": "0",
+    "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-22:00; Dec 24 07:00-16:00; Dec 25,26,31,Jan 01 07:00-18:00; easter -2 days 07:00-20:00; easter 07:00-18:00; easter +1 day 07:00-18:00",
+    "operator": "GS Die Genossenschaft eG",
+    "operator:wikidata": "Q111391474",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes",
+    "website": "https://www.gs-genossenschaft.de/energie",
+    "wheelchair": "limited",
+    "wheelchair:description": "Normales WC",
+    "wheelchair:entrance_width": "80",
+    "wheelchair:step_height": "5",
+    "wikidata": "Q111391868"
+  }
+},
+{
+  "type": "node",
+  "id": 9147404952,
+  "lat": 52.0258836,
+  "lon": 8.8984319,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Evangelisch-lutherische Kirchengemeinde St. Marien",
+    "wheelchair": "designated"
+  }
+},
+{
+  "type": "node",
+  "id": 9174823468,
+  "lat": 52.0239835,
+  "lon": 8.5080877,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9472162302,
+  "lat": 52.0153240,
+  "lon": 8.4342032,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fountain": "wasserpilz"
+  }
+},
+{
+  "type": "node",
+  "id": 9778880304,
+  "lat": 52.2588163,
+  "lon": 8.0478290,
+  "tags": {
+    "amenity": "water_point",
+    "cold_water": "yes",
+    "drinking_water": "yes",
+    "level": "-0.5"
+  }
+},
+{
+  "type": "node",
+  "id": 9799460842,
+  "lat": 52.9425609,
+  "lon": 8.3286774,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 9824803802,
+  "lat": 52.2735839,
+  "lon": 8.0452914,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 9895044872,
+  "lat": 52.4530608,
+  "lon": 8.0529705,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Osnabrück",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 9895044879,
+  "lat": 52.4512438,
+  "lon": 8.0534952,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Osnabrück",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 9895044896,
+  "lat": 52.4573880,
+  "lon": 8.0609940,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Osnabrück",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 9895044897,
+  "lat": 52.4603322,
+  "lon": 8.0626444,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Osnabrück",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 9895044898,
+  "lat": 52.4636285,
+  "lon": 8.0610637,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Osnabrück",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 9895112284,
+  "lat": 52.2583202,
+  "lon": 8.1072278,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Osnabrück",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 9895112285,
+  "lat": 52.2567270,
+  "lon": 8.1045569,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Osnabrück",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 9895112286,
+  "lat": 52.2566311,
+  "lon": 8.1017275,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Osnabrück",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 9895112287,
+  "lat": 52.2604682,
+  "lon": 8.1061797,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Osnabrück",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 9895127481,
+  "lat": 52.2539359,
+  "lon": 8.1105523,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Osnabrück",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 9895127482,
+  "lat": 52.2538611,
+  "lon": 8.1109320,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Osnabrück",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 9895131549,
+  "lat": 52.2517882,
+  "lon": 8.0834269,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Osnabrück",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 9987887400,
+  "lat": 52.3038783,
+  "lon": 8.6169288,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Lübbecke",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10103442964,
+  "lat": 52.1472945,
+  "lon": 8.2713527,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10245601273,
+  "lat": 52.0864298,
+  "lon": 8.3219081,
+  "tags": {
+    "access": "no",
+    "description": "Grundwassermessstelle",
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10268657061,
+  "lat": 52.1552988,
+  "lon": 8.9174438,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 10871655813,
+  "lat": 52.9826817,
+  "lon": 8.8487968,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "capacity": "1",
+    "dog": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "hot_water": "no",
+    "indoor": "no",
+    "man_made": "drinking_fountain",
+    "operator": "Gemeinde Weyhe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11009710036,
+  "lat": 52.4358309,
+  "lon": 8.3212313,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "- Trinkwasserstelle- verfügbar von April bis Oktober",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Trinkwasserspender am Wasserwerk in Dielingen",
+    "operator": "Gemeinde Stemwede",
+    "website": "https://www.klimaschutz-stemwede.de/stemweder-klima/trinkwasserspender/"
+  }
+},
+{
+  "type": "node",
+  "id": 11295840021,
+  "lat": 52.4387668,
+  "lon": 8.5975444,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11581941227,
+  "lat": 52.2760803,
+  "lon": 8.0375526,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "splash_pad",
+    "start_date": "2024-08-13",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11727733978,
+  "lat": 52.2047947,
+  "lon": 8.7969064,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11908633634,
+  "lat": 52.3503980,
+  "lon": 8.0128735,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11934944602,
+  "lat": 52.0180589,
+  "lon": 8.5669356,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 11990801491,
+  "lat": 52.8276886,
+  "lon": 8.9895442,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "1",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12098641704,
+  "lat": 52.2358248,
+  "lon": 8.1695064,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Gemeinde Bissendorf",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12114687728,
+  "lat": 52.2761496,
+  "lon": 8.0376485,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadt u. Stadtwerke Osnabrück",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12231937459,
+  "lat": 52.2876245,
+  "lon": 8.9175612,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Nur zwischen April und Oktober im Betrieb",
+    "fee": "no",
+    "fountain": "drinking",
+    "name": "Trinkwassersäule Markt",
+    "operator": "Stadtwerke Minden",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12458950301,
+  "lat": 52.2448952,
+  "lon": 8.3013622,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Brunnen Westerhausen",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 12762143927,
+  "lat": 52.2757844,
+  "lon": 8.0448515,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadt Osnabrück",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12880895432,
+  "lat": 52.2726183,
+  "lon": 8.0590284,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 12925190645,
+  "lat": 52.3715348,
+  "lon": 8.2296791,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 12979176577,
+  "lat": 52.3626688,
+  "lon": 8.4745755,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Trinkwasserspender am Wasserwerk in Stemwede-Destel",
+    "operator": "Gemeinde Stemwede",
+    "website": "https://www.klimaschutz-stemwede.de/stemweder-klima/trinkwasserspender/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12979176578,
+  "lat": 52.4409893,
+  "lon": 8.4682291,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Gemeinde Stemwede",
+    "website": "https://www.klimaschutz-stemwede.de/stemweder-klima/trinkwasserspender/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12979179130,
+  "lat": 52.2892432,
+  "lon": 8.5401063,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Trinksäule am Dorfplatz"
+  }
+},
+{
+  "type": "node",
+  "id": 12979179131,
+  "lat": 52.2912699,
+  "lon": 8.5532272,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Trinksäule am Quellpark"
+  }
+},
+{
+  "type": "node",
+  "id": 12979220261,
+  "lat": 52.2887842,
+  "lon": 8.9166537,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Nur zwischen April und Oktober im Betrieb",
+    "fee": "no",
+    "fountain": "drinking",
+    "name": "Wasserspender am Scharn",
+    "operator": "Stadtwerke Minden",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12979508931,
+  "lat": 52.3448428,
+  "lon": 8.5758436,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12979517000,
+  "lat": 52.3784764,
+  "lon": 8.9702911,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Der Trinkbrunnen ist während der Sommermonate von April bis zum Einsetzen des ersten Herbstfrostes 24 Stunden am Tag nutzbar",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12979519367,
+  "lat": 52.1527009,
+  "lon": 8.6386635,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "name": "Trinkwasserbrunnen auf dem Platz der Begegnung",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12979522205,
+  "lat": 52.2037500,
+  "lon": 8.3404358,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "name": "Trinkbrunnen Mühlenstraße",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12979547978,
+  "lat": 52.1995800,
+  "lon": 8.3230122,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "name": "H2Oase Wasserspender",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12979596078,
+  "lat": 52.2010014,
+  "lon": 8.3351145,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "name": "Trinkbrunnen Plettenberger Straße",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}
