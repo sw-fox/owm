@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:47:45Z",
+    "timestamp_osm_base": "2025-08-02T09:54:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -89,7 +89,8 @@
   "tags": {
     "access": "customers",
     "amenity": "toilets",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "wheelchair": "no"
   }
 },
 {
@@ -855,7 +856,8 @@
   "lat": 51.8346487,
   "lon": 12.2460763,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
   }
 },
 {
@@ -1401,7 +1403,8 @@
   "lat": 51.7916382,
   "lon": 12.5712439,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1410,25 +1413,18 @@
   "lat": 51.7909261,
   "lon": 12.5704123,
   "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
-  "id": 13011400951,
-  "lat": 51.7906321,
-  "lon": 12.5704943,
-  "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
   "type": "node",
   "id": 13011400952,
-  "lat": 51.7901769,
-  "lon": 12.5697814,
+  "lat": 51.7902004,
+  "lon": 12.5697790,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1437,7 +1433,8 @@
   "lat": 51.7906243,
   "lon": 12.5699623,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1446,7 +1443,8 @@
   "lat": 51.7907076,
   "lon": 12.5653004,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1455,7 +1453,8 @@
   "lat": 51.7906660,
   "lon": 12.5646064,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1464,7 +1463,8 @@
   "lat": 51.7901268,
   "lon": 12.5647137,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1473,7 +1473,8 @@
   "lat": 51.7900742,
   "lon": 12.5659060,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1482,7 +1483,8 @@
   "lat": 51.7906699,
   "lon": 12.5658807,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1491,7 +1493,8 @@
   "lat": 51.7908025,
   "lon": 12.5664106,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1500,7 +1503,8 @@
   "lat": 51.7905840,
   "lon": 12.5667807,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1509,7 +1513,8 @@
   "lat": 51.7908103,
   "lon": 12.5680172,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1518,7 +1523,8 @@
   "lat": 51.7908337,
   "lon": 12.5692200,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1527,7 +1533,8 @@
   "lat": 51.7904800,
   "lon": 12.5684714,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1536,7 +1543,8 @@
   "lat": 51.7898843,
   "lon": 12.5690812,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1545,7 +1553,8 @@
   "lat": 51.7896579,
   "lon": 12.5681686,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1554,7 +1563,8 @@
   "lat": 51.7896105,
   "lon": 12.5676040,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1563,16 +1573,18 @@
   "lat": 51.7889855,
   "lon": 12.5669426,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
   "type": "node",
   "id": 13011400968,
-  "lat": 51.7885400,
-  "lon": 12.5659491,
+  "lat": 51.7886471,
+  "lon": 12.5659894,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 }
 

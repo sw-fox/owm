@@ -5,28 +5,21 @@
     import "leaflet.locatecontrol/dist/L.Control.Locate.min.css"; // Import styles
     import { LocateControl } from "leaflet.locatecontrol";
     import { renderPopup } from "./components/Popup";
-    import type { MarkupPreprocessor } from "svelte/compiler";
     import type { Marker } from "./components/Marker";
     import { fetchPois } from "./poi";
+    import { MarkerImageConfig } from "./components/MarkerImageConfig";
 
     export var lat = 48.783;
     export var lon = 9.183;
     export var zoom = 13;
 
-    const marker_image = L.icon({
-        iconUrl: "images/marker-icon.png",
-        shadowUrl: "images/marker-shadow.png",
+    const marker_image = L.icon(MarkerImageConfig);
 
-        iconSize: [25, 41], // size of the icon
-        shadowSize: [41, 41], // size of the shadow
-        iconAnchor: [14, 41], // point of the icon which will correspond to marker's location
-        shadowAnchor: [14, 40], // the same for the shadow
-        popupAnchor: [0, -30], // point from which the popup should open relative to the iconAnchor
-    });
+    var markerList = [];
 
     function createMap(container: HTMLDivElement) {
         var map = L.map(container).setView([lat, lon], zoom);
-        map.locate({ setView: true, maxZoom: 16 }); //manual go to user location
+        //map.locate({ setView: true, maxZoom: 16 }); //jump to user location on reload
         L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
             maxZoom: 19,
             attribution:
@@ -35,8 +28,11 @@
 
         let lc = new LocateControl({
             flyTo: true,
-            keepCurrentZoomLevel: true,
+            keepCurrentZoomLevel: false,
             showCompass: true, // optional
+            locateOptions: {
+                maxZoom: 15
+            },
             strings: {
                 title: "Standort anzeigen",
             },
@@ -66,9 +62,9 @@
         window.history.pushState(
             "",
             "open water map",
-            "?lat=" + lat + "&lon=" + lon + "&zoom=" + zoom,
+            "?lat=" + lat + "&lon=" + lon + "&zoom=" + Math.trunc(zoom),
         );
-        var showPoi = zoom > 12;
+        var showPoi = zoom > 10;
         if (showPoi) {
             var east = map.getBounds().getEast();
             var west = map.getBounds().getWest();
@@ -85,9 +81,8 @@
             markersPromise.then((markers) => {
                 map.eachLayer((layer) => {
                     //remove all previous markers for performance reasons
-                    if (layer instanceof L.Marker) {
-                        layer.remove();
-                    }
+                    markerList.forEach(m => map.removeLayer(m));
+                    markerList = [];
                 });
                 markers.forEach((m: Marker) => {
                     if (m.tags.drinking_water == "no") {
@@ -96,10 +91,11 @@
                     if (m.type == "node") {
                         //render if element is point
                         var marker = L.marker([m.lat, m.lon], {
-                            icon: marker_image,
-                        })
+                                icon: marker_image,
+                            })
                             .addTo(map)
                             .bindPopup(renderPopup(m));
+                        markerList.push(marker);
                     }
                 });
             });

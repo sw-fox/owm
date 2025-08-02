@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:59:45Z",
+    "timestamp_osm_base": "2025-08-02T09:55:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1685,7 +1685,13 @@
   "lon": 10.0046343,
   "tags": {
     "amenity": "drinking_water",
-    "fountain": "bottle_refill"
+    "bottle": "yes",
+    "description": "In Bereich der Grenzkontrolle. Blauer Automat zwischen Herren und Damen Toiletten. Füllung von zwei Flaschen mit BRITA Filter. Gekühlt oder ungekühlt.",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "operator": "Airport Hamburg",
+    "wheelchair": "yes"
   }
 },
 {
@@ -1781,6 +1787,63 @@
     "opening_hours": "Mo-Fr 09:00-13:00, 14:00-17:00",
     "operator": "Hamburg Energie & Hamburg Wasser",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13023345794,
+  "lat": 53.9932583,
+  "lon": 10.8268605,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13023345796,
+  "lat": 53.9925302,
+  "lon": 10.8302677,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13023345797,
+  "lat": 53.9929567,
+  "lon": 10.8287247,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13023355302,
+  "lat": 53.9920705,
+  "lon": 10.8323464,
+  "tags": {
+    "access": "yes",
+    "amenity": "shower",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13025163525,
+  "lat": 53.4908408,
+  "lon": 10.2075072,
+  "tags": {
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "dog": "yes",
+    "man_made": "drinking_fountain",
+    "operator": "Hamburg Wasser"
   }
 }
 

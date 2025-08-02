@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:28:32Z",
+    "timestamp_osm_base": "2025-08-02T09:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -55,8 +55,16 @@
   "lon": 9.6158059,
   "tags": {
     "amenity": "drinking_water",
+    "artist:wikipedia": "de:Josef Henger",
+    "artist_name": "Josef Henger",
+    "artwork_type": "fountain",
     "check_date": "2022-08-07",
+    "description": "Die Darstellung thematisiert den Ursprung des Ravensburger Rutenfests, das seit 1645 nachgewiesen ist.",
     "fountain": "drinking",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ravensburg_Rutenfestbrunnen.jpg",
+    "name": "Rutenbrunnen",
+    "start_date": "1987",
+    "tourism": "artwork",
     "wheelchair": "yes"
   }
 },
@@ -3346,8 +3354,8 @@
 {
   "type": "node",
   "id": 2296103294,
-  "lat": 47.4520333,
-  "lon": 9.6610386,
+  "lat": 47.4520256,
+  "lon": 9.6610489,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -16605,7 +16613,8 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "fee": "no"
+    "fee": "no",
+    "fountain": "drinking"
   }
 },
 {
@@ -22362,12 +22371,76 @@
 },
 {
   "type": "node",
+  "id": 13017796801,
+  "lat": 47.0469509,
+  "lon": 9.4333252,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Pumptrack"
+  }
+},
+{
+  "type": "node",
   "id": 13017796901,
   "lat": 47.0473770,
   "lon": 9.4343860,
   "tags": {
     "drinking_water": "yes",
     "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 13023061633,
+  "lat": 47.2729192,
+  "lon": 9.6302814,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 13029205184,
+  "lat": 47.5464991,
+  "lon": 9.6884007,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13035386876,
+  "lat": 47.1269949,
+  "lon": 9.4188299,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13035386877,
+  "lat": 47.1285547,
+  "lon": 9.4214768,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13039562198,
+  "lat": 47.4051963,
+  "lon": 9.3280350,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
   }
 }
 

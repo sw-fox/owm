@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:44:45Z",
+    "timestamp_osm_base": "2025-08-02T09:54:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -268,6 +268,7 @@
   "lon": 5.8565634,
   "tags": {
     "amenity": "drinking_water",
+    "man_made": "water_tap",
     "operator": "Vitens",
     "operator:wikidata": "Q1943963",
     "wheelchair": "yes"
@@ -731,6 +732,7 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
+    "fountain": "drinking",
     "operator": "JoinThePipe, for Brabant Water"
   }
 },
@@ -3978,7 +3980,8 @@
   "lat": 51.8545157,
   "lon": 5.8589181,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -6179,6 +6182,87 @@
     "operator:wikidata": "Q2458134",
     "remark": "Getest dat ie water geeft op 22 juli 2025.",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13026656712,
+  "lat": 51.7857747,
+  "lon": 5.0801524,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "seasonal": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13028078261,
+  "lat": 51.2831917,
+  "lon": 5.7555689,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418"
+  }
+},
+{
+  "type": "node",
+  "id": 13030357369,
+  "lat": 51.1570248,
+  "lon": 5.9433497,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Limburgs Drinkwater"
+  }
+},
+{
+  "type": "node",
+  "id": 13034082052,
+  "lat": 51.9413786,
+  "lon": 5.5002092,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13034082053,
+  "lat": 51.9702902,
+  "lon": 5.3443001,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13034082054,
+  "lat": 51.9956203,
+  "lon": 5.3103383,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13035125730,
+  "lat": 51.9118141,
+  "lon": 5.3313856,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
   }
 }
 

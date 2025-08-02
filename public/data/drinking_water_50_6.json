@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:40:43Z",
+    "timestamp_osm_base": "2025-08-02T09:53:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1619,9 +1619,11 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "description": "Eher salzig",
     "fee": "no",
-    "fountain": "bubbler",
-    "note": "Heilwasser aus der Quelle der Claudius Therme",
+    "man_made": "water_tap",
+    "note": "Heilwasser aus der Quelle der Claudius Therme.",
+    "operator": "Claudius Therme",
     "wheelchair": "yes",
     "wikimedia_commons": "File:Trinkwasserbrunnen-Claudius-Therme-Köln-Deutz.JPG"
   }
@@ -2114,6 +2116,7 @@
   "lon": 6.1136553,
   "tags": {
     "amenity": "drinking_water",
+    "man_made": "water_tap",
     "source": "https://www.aachen.de/DE/stadt_buerger/politik_verwaltung/pressemitteilungen/Trinkbrunnen.html"
   }
 },

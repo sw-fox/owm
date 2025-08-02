@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:30:32Z",
+    "timestamp_osm_base": "2025-08-02T09:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -901,6 +901,24 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13022544633,
+  "lat": 48.5809582,
+  "lon": 5.4648278,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13038059143,
+  "lat": 48.5836113,
+  "lon": 5.4550031,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

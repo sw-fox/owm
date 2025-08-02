@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:31:33Z",
+    "timestamp_osm_base": "2025-08-02T09:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2166,6 +2166,24 @@
 },
 {
   "type": "node",
+  "id": 12037656869,
+  "lat": 48.4963125,
+  "lon": 6.5121220,
+  "tags": {
+    "capacity": "4",
+    "caravan_site": "motorhome_stopover",
+    "caravan_site:type": "river",
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "Aire camping-car de Gerbéviller",
+    "power_supply": "no",
+    "sanitary_dump_station": "yes",
+    "toilets": "no",
+    "tourism": "caravan_site"
+  }
+},
+{
+  "type": "node",
   "id": 12037887534,
   "lat": 48.1144161,
   "lon": 6.9618048,
@@ -2488,6 +2506,16 @@
   "lon": 6.9863850,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13022521475,
+  "lat": 48.3728504,
+  "lon": 6.2957181,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Water"
   }
 }
 

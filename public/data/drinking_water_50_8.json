@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:40:43Z",
+    "timestamp_osm_base": "2025-08-02T09:53:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -483,6 +483,32 @@
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
     "name": "Lithiumquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 473754945,
+  "lat": 50.4142815,
+  "lon": 8.9835808,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "intermittent": "no",
+    "name": "Söderqrundquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 473756312,
+  "lat": 50.4168637,
+  "lon": 8.9872858,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "intermittent": "no",
+    "name": "Stahlquelle",
     "natural": "spring"
   }
 },
@@ -2040,18 +2066,6 @@
     "operator": "Stadt Frankfurt am Main",
     "website": "https://frankfurt.de/trinkbrunnen",
     "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 2397550771,
-  "lat": 50.1164846,
-  "lon": 8.2751180,
-  "tags": {
-    "access": "yes",
-    "amenity": "drinking_water",
-    "drinking_water": "yes",
-    "name": "Brunnen"
   }
 },
 {
@@ -5499,6 +5513,7 @@
     "bottle": "yes",
     "colour": "anthracite",
     "fee": "no",
+    "fountain": "bubbler",
     "name": "Brunnen im Hafenpark",
     "opening_hours": "24/7",
     "operator": "Stadt Frankfurt am Main",
@@ -6422,6 +6437,15 @@
     "panoramax": "e4cd1cba-152f-4567-9bba-0ab09a4c1b61",
     "room_temperature_water": "yes",
     "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13031475463,
+  "lat": 50.6690863,
+  "lon": 8.2243785,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

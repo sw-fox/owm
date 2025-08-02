@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:37:45Z",
+    "timestamp_osm_base": "2025-08-02T09:53:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -359,6 +359,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "description": "Nur im Sommer!",
+    "drinking_water": "yes",
     "fee": "no",
     "fountain": "drinking",
     "wheelchair": "yes"
@@ -416,17 +417,6 @@
     "amenity": "fountain",
     "drinking_water": "yes",
     "watering_place": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 457013036,
-  "lat": 49.9832670,
-  "lon": 11.9332123,
-  "tags": {
-    "amenity": "drinking_water",
-    "ele": "647",
-    "name": "Hans-König-Brunnen"
   }
 },
 {
@@ -4164,6 +4154,24 @@
     "amenity": "drinking_water",
     "fee": "no",
     "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 13031056285,
+  "lat": 49.2737197,
+  "lon": 11.4616892,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13031245594,
+  "lat": 49.0986881,
+  "lon": 11.3407704,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

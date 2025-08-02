@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:35:45Z",
+    "timestamp_osm_base": "2025-08-02T09:53:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -105,12 +105,16 @@
 {
   "type": "node",
   "id": 267800856,
-  "lat": 49.8349626,
-  "lon": 8.6702017,
+  "lat": 49.8349661,
+  "lon": 8.6702012,
   "tags": {
     "drinking_water": "yes",
+    "inscription": "1894 MELITAB RUNNEN",
     "name": "Melitabrunnen",
-    "natural": "spring"
+    "name:etymology:wikidata": "Q164500",
+    "natural": "spring",
+    "wikidata": "Q116748170",
+    "wikimedia_commons": "Category:Melita-Brunnen"
   }
 },
 {
@@ -525,6 +529,8 @@
     "fee": "no",
     "fountain": "drinking",
     "level": "0",
+    "name": "Trinkbrunnen am Wasserturm",
+    "operator": "MVV Energie AG",
     "wheelchair": "no"
   }
 },
@@ -1421,8 +1427,8 @@
 {
   "type": "node",
   "id": 757307315,
-  "lat": 49.3168059,
-  "lon": 8.8648713,
+  "lat": 49.3167966,
+  "lon": 8.8648625,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -1541,8 +1547,8 @@
 {
   "type": "node",
   "id": 771242686,
-  "lat": 49.3154536,
-  "lon": 8.8798229,
+  "lat": 49.3154776,
+  "lon": 8.8798874,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -1550,8 +1556,8 @@
 {
   "type": "node",
   "id": 771242692,
-  "lat": 49.3155136,
-  "lon": 8.8804011,
+  "lat": 49.3155376,
+  "lon": 8.8803486,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -1559,8 +1565,8 @@
 {
   "type": "node",
   "id": 771242693,
-  "lat": 49.3152710,
-  "lon": 8.8805251,
+  "lat": 49.3152572,
+  "lon": 8.8805288,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -1577,8 +1583,8 @@
 {
   "type": "node",
   "id": 771242718,
-  "lat": 49.3155858,
-  "lon": 8.8808676,
+  "lat": 49.3155486,
+  "lon": 8.8808455,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -1586,8 +1592,8 @@
 {
   "type": "node",
   "id": 771242749,
-  "lat": 49.3156789,
-  "lon": 8.8821712,
+  "lat": 49.3156549,
+  "lon": 8.8821691,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -1595,8 +1601,8 @@
 {
   "type": "node",
   "id": 771242751,
-  "lat": 49.3156069,
-  "lon": 8.8816582,
+  "lat": 49.3155937,
+  "lon": 8.8814269,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -2225,8 +2231,8 @@
 {
   "type": "node",
   "id": 1608635582,
-  "lat": 49.3026402,
-  "lon": 8.8612143,
+  "lat": 49.3026083,
+  "lon": 8.8611794,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -3981,6 +3987,34 @@
 },
 {
   "type": "node",
+  "id": 5519406521,
+  "lat": 49.4108822,
+  "lon": 8.7465941,
+  "tags": {
+    "access": "no",
+    "description": "Hinter einer abgeschlossenen Tür der Eingang zur \"Lange-Stollen-Quelle\" (geht 70 m in den Berg).",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Lange-Stollen-Quelle",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5519406528,
+  "lat": 49.4103397,
+  "lon": 8.7459426,
+  "tags": {
+    "access": "no",
+    "description": "Hinter einer abgeschlossenen Tür die \"Rost-Quelle\".",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Rostquelle",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
   "id": 5581413056,
   "lat": 49.6805539,
   "lon": 8.6222444,
@@ -5679,7 +5713,7 @@
   "tags": {
     "drinking_water": "yes",
     "man_made": "water_tap",
-    "ref": "K1 Eingang"
+    "ref": "K1-Eingang"
   }
 },
 {
@@ -7549,6 +7583,21 @@
 },
 {
   "type": "node",
+  "id": 12650823734,
+  "lat": 49.8812591,
+  "lon": 8.6623509,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "image": "https://img.echo-online.de/lokales/darmstadt/dk5ggb-Trinkwasserspender-Darmstadt/alternates/WIDE_960/Trinkwasserspender%20Darmstadt.webp",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 12655699273,
   "lat": 49.9818021,
   "lon": 8.2452438,
@@ -8548,6 +8597,77 @@
     "operator": "Gemeinde Brühl",
     "pump": "manual",
     "ref": "Alte Viehtränke"
+  }
+},
+{
+  "type": "node",
+  "id": 13026723239,
+  "lat": 49.4768957,
+  "lon": 8.6073073,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13026749326,
+  "lat": 49.4771404,
+  "lon": 8.6065093,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13026779912,
+  "lat": 49.4780010,
+  "lon": 8.6078279,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13026791476,
+  "lat": 49.4788546,
+  "lon": 8.6079742,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13026959773,
+  "lat": 49.8195954,
+  "lon": 8.6468532,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Stadt Darmstadt"
+  }
+},
+{
+  "type": "node",
+  "id": 13028482066,
+  "lat": 49.3152455,
+  "lon": 8.8799534,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13040992475,
+  "lat": 49.0008305,
+  "lon": 8.5670165,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water:legal": "no",
+    "fountain": "drinking"
   }
 }
 

@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:50:44Z",
+    "timestamp_osm_base": "2025-08-02T09:55:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1224,14 +1224,16 @@
   "tags": {
     "access": "customers",
     "amenity": "toilets",
-    "check_date": "2024-07-21",
+    "check_date": "2025-07-25",
+    "check_date:wheelchair": "2025-07-25",
     "drinking_water": "yes",
     "fee": "no",
     "indoor": "no",
     "supervised": "no",
     "toilets:hand_drying": "no",
     "toilets:handwashing": "yes",
-    "toilets:position": "seated;urinal"
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
   }
 },
 {

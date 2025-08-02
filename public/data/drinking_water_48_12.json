@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:33:40Z",
+    "timestamp_osm_base": "2025-08-02T09:53:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2107,6 +2107,26 @@
     "tourism": "artwork",
     "wheelchair": "yes",
     "wikimedia_commons": "File:Trinkwasser Brunnen (Robert-Koch-Gymnasium).jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 13022885512,
+  "lat": 48.5517015,
+  "lon": 12.1729056,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13025668601,
+  "lat": 48.1568752,
+  "lon": 12.8128337,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

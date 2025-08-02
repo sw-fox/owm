@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:29:33Z",
+    "timestamp_osm_base": "2025-08-02T09:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3015,7 +3015,8 @@
   "lon": 13.8090442,
   "tags": {
     "amenity": "drinking_water",
-    "fountain": "drinking"
+    "fountain": "drinking",
+    "indoor": "no"
   }
 },
 {
@@ -3913,7 +3914,8 @@
     "drinking_water": "yes",
     "fixme": "genaue Position",
     "name": "Eiblbründl",
-    "natural": "spring"
+    "natural": "spring",
+    "wikidata": "Q21862525"
   }
 },
 {
@@ -6851,7 +6853,8 @@
   "lat": 47.8322901,
   "lon": 13.5488851,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -7134,6 +7137,25 @@
   "tags": {
     "amenity": "drinking_water",
     "name": "Drinking Water"
+  }
+},
+{
+  "type": "node",
+  "id": 13021227828,
+  "lat": 47.3922867,
+  "lon": 13.6653973,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13029607001,
+  "lat": 47.6324667,
+  "lon": 13.0017382,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

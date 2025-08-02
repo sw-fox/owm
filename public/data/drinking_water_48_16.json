@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:34:44Z",
+    "timestamp_osm_base": "2025-08-02T09:53:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -662,7 +662,9 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
-    "man_made": "water_tap"
+    "inscription": "\"Brunnen bis auf weiteres gesperrt\"",
+    "man_made": "water_tap",
+    "sign": "notice"
   }
 },
 {
@@ -4202,7 +4204,9 @@
   "lat": 48.0947344,
   "lon": 16.6620455,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "pump": "manual"
   }
 },
 {
@@ -4652,7 +4656,8 @@
   "lon": 16.4191654,
   "tags": {
     "amenity": "drinking_water",
-    "check_date": "2022-06-19"
+    "check_date": "2022-06-19",
+    "fountain": "drinking"
   }
 },
 {
@@ -6055,8 +6060,8 @@
 {
   "type": "node",
   "id": 3017113272,
-  "lat": 48.1955608,
-  "lon": 16.2610734,
+  "lat": 48.1955381,
+  "lon": 16.2611032,
   "tags": {
     "amenity": "drinking_water",
     "man_made": "water_tap",
@@ -7456,7 +7461,8 @@
   "lon": 16.4193027,
   "tags": {
     "amenity": "drinking_water",
-    "check_date": "2022-06-19"
+    "check_date": "2022-06-19",
+    "fountain": "drinking"
   }
 },
 {
@@ -17797,7 +17803,8 @@
   "lat": 48.2575299,
   "lon": 16.4283586,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -19317,7 +19324,8 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "fee": "no"
+    "fee": "no",
+    "fountain": "drinking"
   }
 },
 {
@@ -19660,6 +19668,7 @@
   "lon": 16.3758858,
   "tags": {
     "amenity": "drinking_water",
+    "man_made": "water_tap",
     "name": "Trinkwasserbrunnen"
   }
 },
@@ -20046,6 +20055,7 @@
   "lon": 16.3197306,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-07-26",
     "fee": "no",
     "man_made": "water_tap"
   }
@@ -20432,7 +20442,8 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "fee": "no"
+    "fee": "no",
+    "fountain": "drinking"
   }
 },
 {
@@ -20684,7 +20695,8 @@
   "lon": 16.5601390,
   "tags": {
     "amenity": "drinking_water",
-    "fountain": "bottle_refill"
+    "fountain": "bottle_refill",
+    "indoor": "yes"
   }
 },
 {
@@ -20779,6 +20791,83 @@
     "fee": "no",
     "operator": "Stadt Wien",
     "operator:wikidata": "Q1884195",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13021705518,
+  "lat": 48.1965510,
+  "lon": 16.3583919,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13021788282,
+  "lat": 48.1924550,
+  "lon": 16.2994779,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13022656649,
+  "lat": 48.3278804,
+  "lon": 16.3634473,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13023014578,
+  "lat": 48.2606444,
+  "lon": 16.4209366,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt Wien",
+    "operator:wikidata": "Q1884195",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13028072940,
+  "lat": 48.0822087,
+  "lon": 16.1860546,
+  "tags": {
+    "amenity": "drinking_water",
+    "covered": "no",
+    "indoor": "no",
+    "lit": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13039261872,
+  "lat": 48.1876993,
+  "lon": 16.3450268,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
     "wheelchair": "yes"
   }
 }

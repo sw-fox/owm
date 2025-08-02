@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:35:45Z",
+    "timestamp_osm_base": "2025-08-02T09:53:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -173,18 +173,6 @@
     "check_date": "2024-07-14",
     "name": "Brunnen",
     "natural": "spring"
-  }
-},
-{
-  "type": "node",
-  "id": 535076134,
-  "lat": 49.4052765,
-  "lon": 7.5761603,
-  "tags": {
-    "amenity": "drinking_water",
-    "check_date": "2024-04-29",
-    "description": "Am Brunnen war im November 2013 der Ausfluss verschlossen. Mai 2025 ebenfalls.",
-    "man_made": "water_tap"
   }
 },
 {
@@ -3327,6 +3315,25 @@
     "name": "Trinkwasserspender",
     "operator": "SWK Stadtwerke Kaiserslautern",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12640885991,
+  "lat": 49.4551260,
+  "lon": 7.7885033,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Mo-Th 08:00-12:30,13:00-17:00; Fr 08:00-12:30,13:00-15:30",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "unisex": "yes",
+    "wheelchair": "no"
   }
 },
 {

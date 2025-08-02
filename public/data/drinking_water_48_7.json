@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:31:33Z",
+    "timestamp_osm_base": "2025-08-02T09:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -738,17 +738,6 @@
   "lon": 7.2200091,
   "tags": {
     "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
-  "id": 1322201233,
-  "lat": 48.2319789,
-  "lon": 7.1616254,
-  "tags": {
-    "amenity": "drinking_water",
-    "name": "Fontaine",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
   }
 },
 {
@@ -2503,7 +2492,8 @@
   "lat": 48.4492363,
   "lon": 7.9430229,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -4088,16 +4078,9 @@
   "lat": 48.1796674,
   "lon": 7.3071213,
   "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
-  "id": 8948881238,
-  "lat": 48.1352821,
-  "lon": 7.0907294,
-  "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "pump": "manual"
   }
 },
 {
@@ -4599,7 +4582,8 @@
   "lat": 48.4576658,
   "lon": 7.9375143,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -6293,7 +6277,6 @@
     "access": "no",
     "drinking_water": "yes",
     "man_made": "water_well",
-    "owner": "Commune de Ban-de-Laveline",
     "pump": "no"
   }
 },
@@ -6979,15 +6962,6 @@
 },
 {
   "type": "node",
-  "id": 12825599355,
-  "lat": 48.4777590,
-  "lon": 7.9432613,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 12835119115,
   "lat": 48.2587034,
   "lon": 7.0358760,
@@ -7156,7 +7130,8 @@
     "toilets:disposal": "flush",
     "toilets:handwashing": "yes",
     "toilets:paper_supplied": "yes",
-    "toilets:position": "seated;urinal"
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
   }
 },
 {
@@ -7236,6 +7211,29 @@
     "access": "yes",
     "drinking_water": "yes",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13021070252,
+  "lat": 48.7293980,
+  "lon": 7.9032600,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13028433914,
+  "lat": 48.1335615,
+  "lon": 7.0947154,
+  "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
+    "covered": "yes",
+    "description": "Robinet d’eau à côté du garage de l’auberge. Remplissage de gourde toléré.",
+    "fee": "no",
+    "indoor": "no"
   }
 }
 

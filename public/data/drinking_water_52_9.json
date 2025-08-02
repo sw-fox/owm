@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:52:45Z",
+    "timestamp_osm_base": "2025-08-02T09:55:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -813,19 +813,6 @@
 },
 {
   "type": "node",
-  "id": 11066817799,
-  "lat": 52.2724241,
-  "lon": 9.9488568,
-  "tags": {
-    "access": "private",
-    "drinking_water": "yes",
-    "man_made": "water_well",
-    "operator": "Privat",
-    "pump": "no"
-  }
-},
-{
-  "type": "node",
   "id": 11099577856,
   "lat": 52.3006141,
   "lon": 9.4613381,
@@ -1117,6 +1104,26 @@
     "amenity": "water_point",
     "drinking_water": "yes",
     "operator": "Campingplatz Rittergut Frankenfeld"
+  }
+},
+{
+  "type": "node",
+  "id": 13038839155,
+  "lat": 52.6728092,
+  "lon": 9.9334085,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13038841998,
+  "lat": 52.6713703,
+  "lon": 9.9344593,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
   }
 }
 

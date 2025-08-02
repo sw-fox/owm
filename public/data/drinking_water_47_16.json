@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:30:32Z",
+    "timestamp_osm_base": "2025-08-02T09:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1424,17 +1424,6 @@
 },
 {
   "type": "node",
-  "id": 3029801765,
-  "lat": 47.3844265,
-  "lon": 16.7861984,
-  "tags": {
-    "amenity": "drinking_water",
-    "check_date": "2025-04-20",
-    "seasonal": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 3030128137,
   "lat": 47.3827233,
   "lon": 16.7505975,
@@ -2777,18 +2766,6 @@
     "source": "turistautak.hu",
     "source:date": "2013-12-08",
     "url": "http://turistautak.hu/poi.php?id=163796"
-  }
-},
-{
-  "type": "node",
-  "id": 3471878063,
-  "lat": 47.2488310,
-  "lon": 16.6140480,
-  "tags": {
-    "amenity": "drinking_water",
-    "source": "turistautak.hu",
-    "source:date": "2013-11-13",
-    "url": "http://turistautak.hu/poi.php?id=162931"
   }
 },
 {
@@ -6677,15 +6654,6 @@
 },
 {
   "type": "node",
-  "id": 12213722263,
-  "lat": 47.6920039,
-  "lon": 16.5919326,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 12289485522,
   "lat": 47.1427759,
   "lon": 16.5886099,
@@ -6932,6 +6900,47 @@
     "fee": "no",
     "note": "Möglicherweis in der kalten Jahreszeit deaktiviert",
     "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13022478629,
+  "lat": 47.5145494,
+  "lon": 16.0291708,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13022987295,
+  "lat": 47.3808531,
+  "lon": 16.7866060,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13028552815,
+  "lat": 47.8423220,
+  "lon": 16.2728260,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Trinkwasserstelle. Ev. in der frostigen Jahreszeit deaktiviert",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13040918320,
+  "lat": 47.8671611,
+  "lon": 16.3697620,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Ev. in der kalten Jahreszeit stillgelegt",
+    "name": "Trinkwasser"
   }
 }
 

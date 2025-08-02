@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:28:32Z",
+    "timestamp_osm_base": "2025-08-02T09:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -427,9 +427,11 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "bottle": "yes",
     "dog": "no",
     "drinking_water:description": "Leitungswasser",
     "fee": "no",
+    "fountain": "drinking",
     "indoor": "no",
     "name": "Dragonerbrunnen",
     "operator": "WVZ",
@@ -1453,8 +1455,10 @@
   "lon": 8.5048136,
   "tags": {
     "amenity": "drinking_water",
-    "check_date": "2022-03-27",
-    "fee": "no"
+    "bottle": "yes",
+    "check_date": "2025-07-30",
+    "fee": "no",
+    "fountain": "drinking"
   }
 },
 {
@@ -7401,6 +7405,7 @@
   "lon": 8.7320832,
   "tags": {
     "amenity": "drinking_water",
+    "fountain": "drinking",
     "start_date": "1869"
   }
 },
@@ -8820,10 +8825,11 @@
 {
   "type": "node",
   "id": 758801647,
-  "lat": 47.3487382,
-  "lon": 8.4908733,
+  "lat": 47.3487390,
+  "lon": 8.4908445,
   "tags": {
     "amenity": "drinking_water",
+    "bottle": "yes",
     "drinking_water:description": "Leitungswasser",
     "fountain": "drinking",
     "operator": "WVZ",
@@ -11709,6 +11715,7 @@
     "fountain": "bubbler",
     "name": "Fischerbrunnen",
     "operator": "WVZ",
+    "operator:wikidata": "Q27229237",
     "ref": "1228",
     "start_date": "2003",
     "wikidata": "Q27230094"
@@ -14229,7 +14236,9 @@
   "lat": 47.5062070,
   "lon": 8.7738030,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-07-29",
+    "fountain": "bubbler"
   }
 },
 {
@@ -16329,7 +16338,9 @@
   "lat": 47.4429088,
   "lon": 8.7964757,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-07-28",
+    "fountain": "drinking"
   }
 },
 {
@@ -22242,13 +22253,9 @@
   "lon": 8.5226218,
   "tags": {
     "amenity": "drinking_water",
-    "artwork_subject": "Rabbit",
-    "artwork_type": "sculpture",
     "drinking_water:description": "Leitungswasser",
-    "material": "wood",
     "operator": "Verschönerungsverein Zürich;WVZ",
-    "ref": "642",
-    "tourism": "artwork"
+    "ref": "642"
   }
 },
 {
@@ -25338,14 +25345,14 @@
 {
   "type": "node",
   "id": 2930265958,
-  "lat": 47.3452650,
-  "lon": 8.4979316,
+  "lat": 47.3452636,
+  "lon": 8.4979392,
   "tags": {
     "amenity": "drinking_water",
-    "bottle": "yes",
-    "dog": "yes",
+    "dog": "designated",
     "drinking_water:description": "Leitungswasser",
-    "fountain": "drinking",
+    "fountain": "bubbler",
+    "indoor": "no",
     "material": "stone",
     "name": "Annaburg-Brunnen",
     "operator": "Verschönerungsverein Zürich;WVZ",
@@ -29507,6 +29514,7 @@
     "changing_table": "no",
     "drinking_water": "yes",
     "fee": "yes",
+    "opening_hours": "24/7",
     "operator": "SBB",
     "toilets:wheelchair": "yes",
     "unisex": "yes",
@@ -33641,7 +33649,9 @@
   "lat": 47.5846200,
   "lon": 8.2921305,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-08-01",
+    "fountain": "drinking"
   }
 },
 {
@@ -34174,7 +34184,8 @@
   "lat": 47.2702992,
   "lon": 8.5043826,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -36306,30 +36317,6 @@
 },
 {
   "type": "node",
-  "id": 4881615623,
-  "lat": 47.8204517,
-  "lon": 8.1632028,
-  "tags": {
-    "addr:city": "Schluchsee",
-    "addr:housenumber": "2",
-    "addr:postcode": "79859",
-    "addr:street": "Gewann Zeltplatz",
-    "caravans": "no",
-    "drinking_water": "yes",
-    "email": "mail@schwarzwaldcamp.com",
-    "fee": "yes",
-    "name": "Schwarzwald-Camp",
-    "opening_hours": "Mo-Su 10:00-18:00",
-    "phone": "+49-7656-9884348",
-    "shower": "yes",
-    "tents": "yes",
-    "toilets": "yes",
-    "tourism": "camp_site",
-    "website": "https://www.schwarzwaldcamp.com/"
-  }
-},
-{
-  "type": "node",
   "id": 4883873189,
   "lat": 47.4279895,
   "lon": 8.0171775,
@@ -37239,7 +37226,6 @@
     "fountain": "bubbler",
     "material": "metal",
     "name": "Notwasserbrunnen",
-    "operational_status": "broken",
     "operator": "WVZ",
     "operator:wikidata": "Q27229237",
     "ref": "6041",
@@ -37383,7 +37369,6 @@
     "fountain": "bubbler",
     "material": "metal",
     "name": "Notwasserbrunnen",
-    "operational_status": "broken",
     "operator": "WVZ",
     "operator:wikidata": "Q27229237",
     "ref": "6068",
@@ -46181,7 +46166,8 @@
   "lat": 47.4449450,
   "lon": 8.4056662,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -47394,15 +47380,6 @@
 },
 {
   "type": "node",
-  "id": 7160738195,
-  "lat": 47.5605568,
-  "lon": 8.8904858,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 7167630650,
   "lat": 47.4318055,
   "lon": 8.6874719,
@@ -48243,7 +48220,8 @@
   "lat": 47.2613042,
   "lon": 8.8638363,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -51621,7 +51599,8 @@
   "lon": 8.4614984,
   "tags": {
     "amenity": "drinking_water",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fountain": "bubbler"
   }
 },
 {
@@ -51899,7 +51878,8 @@
   "lon": 8.7767190,
   "tags": {
     "amenity": "drinking_water",
-    "fountain": "bubbler"
+    "fountain": "bubbler",
+    "start_date": "2017"
   }
 },
 {
@@ -56575,6 +56555,7 @@
     "bottle": "yes",
     "covered": "no",
     "fee": "no",
+    "fountain": "bubbler",
     "indoor": "no",
     "material": "metal",
     "waste": "mixed",
@@ -63021,7 +63002,8 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "fee": "no"
+    "fee": "no",
+    "fountain": "bubbler"
   }
 },
 {
@@ -65184,6 +65166,7 @@
     "bottle": "yes",
     "covered": "no",
     "fee": "no",
+    "fountain": "bubbler",
     "indoor": "no",
     "wheelchair": "yes"
   }
@@ -67048,6 +67031,15 @@
     "toilets:disposal": "flush",
     "toilets:position": "seated",
     "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13028244810,
+  "lat": 47.3754404,
+  "lon": 8.4958925,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

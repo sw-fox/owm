@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:43:45Z",
+    "timestamp_osm_base": "2025-08-02T09:54:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -299,15 +299,17 @@
     "addr:street": "Martin-May-Straße",
     "caravans": "yes",
     "drinking_water": "yes",
+    "email": "info@camping-sebnitz.de",
     "name": "Camping Endler",
     "note": "location approximated to ~200m",
+    "phone": "+49 35971 57295",
     "power_supply": "yes",
     "sanitary_dump_station": "yes",
     "shower": "yes",
     "tents": "yes",
     "toilets": "yes",
     "tourism": "camp_site",
-    "website": "http://www.urlaub-endler.de/"
+    "website": "http://www.camping-sebnitz.de"
   }
 },
 {
@@ -609,18 +611,6 @@
     "demolished:natural": "spring",
     "drinking_water": "yes",
     "name": "Pod Máchalkou"
-  }
-},
-{
-  "type": "node",
-  "id": 923986261,
-  "lat": 50.6019643,
-  "lon": 14.4593142,
-  "tags": {
-    "drinking_water": "yes",
-    "name": "Honzíkův pramen",
-    "natural": "spring",
-    "source": "survey,gps"
   }
 },
 {
@@ -1548,6 +1538,28 @@
 },
 {
   "type": "node",
+  "id": 2391867597,
+  "lat": 50.6210696,
+  "lon": 14.0756722,
+  "tags": {
+    "addr:city": "Ústí nad Labem",
+    "addr:housenumber": "50",
+    "addr:postcode": "40321",
+    "addr:street": "Pod Tratí",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Cyklokemp Loděnice",
+    "phone": "+420 472 741 527",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "http://www.cyklokemplodenice.cz"
+  }
+},
+{
+  "type": "node",
   "id": 2398448655,
   "lat": 50.7517171,
   "lon": 14.9522193,
@@ -2078,7 +2090,8 @@
     "amenity": "drinking_water",
     "image": "https://commons.wikimedia.org/wiki/File%3AHubertova_stud%C3%A1nka_u_Jet%C5%99ichovick%C3%A9_B%C4%9Bl%C3%A9.jpg",
     "name": "Hubertův pramen",
-    "natural": "spring"
+    "natural": "spring",
+    "wikidata": "Q123719578"
   }
 },
 {
@@ -3006,8 +3019,8 @@
 {
   "type": "node",
   "id": 4952461522,
-  "lat": 50.0278882,
-  "lon": 14.5083399,
+  "lat": 50.0279284,
+  "lon": 14.5082610,
   "tags": {
     "access": "yes",
     "amenity": "toilets",
@@ -6907,6 +6920,15 @@
     "amenity": "drinking_water",
     "fountain": "bubbler",
     "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13041979482,
+  "lat": 50.1066595,
+  "lon": 14.2630042,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 
