@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:29:33Z",
+    "timestamp_osm_base": "2025-08-02T09:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -683,6 +683,7 @@
     "amenity": "drinking_water",
     "check_date": "2021-08-19",
     "fountain": "drinking",
+    "indoor": "yes",
     "name": "Kaiser-Karl-AlpenSole-Brunnen",
     "wheelchair": "yes"
   }
@@ -4517,9 +4518,15 @@
   "lon": 12.1277280,
   "tags": {
     "amenity": "fountain",
+    "check_date": "2025-07-31",
+    "covered": "no",
     "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fountain": "bottle_refill",
+    "indoor": "no",
     "lit": "no",
-    "name": "Vogelbrunnen"
+    "name": "Vogelbrunnen",
+    "operator": "Stadtwerke Rosenheim"
   }
 },
 {
@@ -8106,19 +8113,7 @@
   "tags": {
     "description": "Trinkwasser = Überlauf (Froschklappe)",
     "drinking_water": "yes",
-    "man_made": "spring _box"
-  }
-},
-{
-  "type": "node",
-  "id": 12219362469,
-  "lat": 47.9098782,
-  "lon": 12.3007514,
-  "tags": {
-    "access": "customers",
-    "amenity": "toilets",
-    "drinking_water": "yes",
-    "wheelchair": "yes"
+    "man_made": "spring_box"
   }
 },
 {
@@ -8561,6 +8556,75 @@
     "description": "Spender mit Druckknopf",
     "fountain": "drinking",
     "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13031038707,
+  "lat": 47.4489829,
+  "lon": 12.1593429,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Hopfgarten im Brixental",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13031038996,
+  "lat": 47.4497146,
+  "lon": 12.1576451,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Hopfgarten im Brixental",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13031055445,
+  "lat": 47.4504348,
+  "lon": 12.1580721,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Hopfgarten im Brixental",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13031078180,
+  "lat": 47.4609584,
+  "lon": 12.1745673,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Hopfgarten im Brixental",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13031093903,
+  "lat": 47.4575473,
+  "lon": 12.1704152,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "Hopfgarten im Brixental",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13040763757,
+  "lat": 47.3669913,
+  "lon": 12.8314837,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

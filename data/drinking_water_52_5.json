@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:50:44Z",
+    "timestamp_osm_base": "2025-08-02T09:55:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2814,15 +2814,6 @@
 },
 {
   "type": "node",
-  "id": 8708709449,
-  "lat": 52.3291644,
-  "lon": 5.5946380,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 8711798855,
   "lat": 52.3093218,
   "lon": 5.2430081,
@@ -4072,8 +4063,8 @@
 {
   "type": "node",
   "id": 12143940788,
-  "lat": 52.2150557,
-  "lon": 5.4591454,
+  "lat": 52.2150249,
+  "lon": 5.4591333,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -4515,6 +4506,54 @@
     "amenity": "water_point",
     "drinking_water": "yes",
     "water_point": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13030300801,
+  "lat": 52.5072560,
+  "lon": 5.4761071,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Drinkwater",
+    "operator": "jointhepipe"
+  }
+},
+{
+  "type": "node",
+  "id": 13034082055,
+  "lat": 52.0155528,
+  "lon": 5.3293468,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13039782260,
+  "lat": 52.0497976,
+  "lon": 5.6449093,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13039852760,
+  "lat": 52.0140924,
+  "lon": 5.6687592,
+  "tags": {
+    "access": "unknown",
+    "amenity": "drinking_water",
+    "description": "Op het terrein van Atletiekvereniging Climax, toegang mogelijk beperkt",
+    "fee": "no",
+    "wheelchair": "yes"
   }
 }
 

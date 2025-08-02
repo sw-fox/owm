@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:47:45Z",
+    "timestamp_osm_base": "2025-08-02T09:54:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1039,6 +1039,19 @@
     "fee": "no",
     "note": "https://www.trinkwasser-unterwegs.de/trinkwasserbrunnen-osterfeld",
     "operator": "MIDEWA"
+  }
+},
+{
+  "type": "node",
+  "id": 13030176758,
+  "lat": 51.3548928,
+  "lon": 11.9931410,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Trinkbrunnen",
+    "fountain": "bottle_refill"
   }
 }
 

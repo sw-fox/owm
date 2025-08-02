@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:30:32Z",
+    "timestamp_osm_base": "2025-08-02T09:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -860,8 +860,8 @@
 {
   "type": "node",
   "id": 1434109677,
-  "lat": 47.0720622,
-  "lon": 15.4219885,
+  "lat": 47.0720381,
+  "lon": 15.4220549,
   "tags": {
     "amenity": "drinking_water",
     "check_date": "2022-04-21"
@@ -2069,8 +2069,14 @@
   "lat": 47.0751721,
   "lon": 15.4307387,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "check_date": "2021-11-06",
+    "bottle": "yes",
+    "check_date": "2025-07-27",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "yes",
     "man_made": "water_tap",
     "source": "Stadt Graz - data.graz.gv.at",
     "wheelchair": "yes"
@@ -5926,8 +5932,8 @@
 {
   "type": "node",
   "id": 8827012480,
-  "lat": 47.0185734,
-  "lon": 15.3850377,
+  "lat": 47.0185693,
+  "lon": 15.3850343,
   "tags": {
     "amenity": "drinking_water",
     "fee": "no"
@@ -8402,6 +8408,25 @@
   "id": 12999452034,
   "lat": 47.7033570,
   "lon": 15.6689445,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13031321331,
+  "lat": 47.0914225,
+  "lon": 15.4215408,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13039417002,
+  "lat": 47.0715058,
+  "lon": 15.4397818,
   "tags": {
     "amenity": "drinking_water"
   }

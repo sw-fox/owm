@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:32:35Z",
+    "timestamp_osm_base": "2025-08-02T09:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -222,7 +222,11 @@
   "lat": 48.3873337,
   "lon": 10.7388648,
   "tags": {
+    "access": "yes",
+    "bottle": "yes",
+    "check_date": "2025-07-06",
     "drinking_water": "yes",
+    "fee": "no",
     "name": "Griesbergquelle",
     "natural": "spring"
   }
@@ -294,10 +298,15 @@
 {
   "type": "node",
   "id": 767246206,
-  "lat": 48.4898923,
-  "lon": 10.5745392,
+  "lat": 48.4898177,
+  "lon": 10.5747054,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2025-07-06",
+    "fee": "no",
+    "fountain": "bubbler",
+    "wheelchair": "yes"
   }
 },
 {
@@ -403,7 +412,11 @@
   "lat": 48.4261889,
   "lon": 10.4520222,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-07-06",
+    "fee": "no"
   }
 },
 {
@@ -1019,6 +1032,7 @@
     "fee": "no",
     "female": "yes",
     "male": "yes",
+    "opening_hours": "24/7",
     "source": "bing",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
@@ -1098,12 +1112,14 @@
   "lat": 48.3660405,
   "lon": 10.8116551,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "check_date": "2024-05-30",
+    "check_date": "2025-07-06",
     "drinking_water": "yes",
+    "fee": "no",
     "man_made": "water_tap",
     "name": "Trimm-Dich Pfad Brunnen",
-    "operator": "Stadt Statbergen",
+    "operator": "Stadt Stadtbergen",
     "start_date": "1975"
   }
 },
@@ -1394,7 +1410,8 @@
   "lon": 10.2698815,
   "tags": {
     "amenity": "drinking_water",
-    "bottle": "yes"
+    "bottle": "yes",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1795,15 +1812,6 @@
   "id": 6699937485,
   "lat": 48.4578200,
   "lon": 10.3518480,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
-  "id": 6735274165,
-  "lat": 48.7011634,
-  "lon": 10.0003432,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -2383,7 +2391,9 @@
     "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
-    "fee": "no"
+    "check_date": "2025-07-06",
+    "fee": "no",
+    "fountain": "bubbler"
   }
 },
 {
@@ -2394,8 +2404,11 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "bottle": "no",
+    "check_date": "2025-07-06",
     "fee": "no",
-    "name": "Jakobusweg Trinkbrunnen"
+    "name": "Jakobusweg Trinkbrunnen",
+    "wheelchair": "yes"
   }
 },
 {
@@ -2614,10 +2627,12 @@
   "lat": 48.3484349,
   "lon": 10.5871289,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
-    "man_made": "water_tap"
+    "man_made": "water_tap",
+    "wheelchair": "yes"
   }
 },
 {
@@ -2670,9 +2685,12 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-07-20",
     "fee": "no",
     "man_made": "water_tap",
-    "pump": "manual"
+    "pump": "manual",
+    "wheelchair": "yes"
   }
 },
 {
@@ -2888,8 +2906,11 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-07-06",
     "fee": "no",
-    "man_made": "drinking_fountain"
+    "man_made": "drinking_fountain",
+    "wheelchair": "yes"
   }
 },
 {
@@ -3121,7 +3142,8 @@
   "lon": 10.2698032,
   "tags": {
     "amenity": "drinking_water",
-    "bottle": "yes"
+    "bottle": "yes",
+    "man_made": "water_tap"
   }
 },
 {
@@ -3173,6 +3195,82 @@
   "tags": {
     "amenity": "drinking_water",
     "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13030575251,
+  "lat": 48.7201560,
+  "lon": 10.6077882,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-05-25",
+    "fee": "no",
+    "lit": "no",
+    "operator": "Auerquelle Bissingen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13030575252,
+  "lat": 48.6847088,
+  "lon": 10.5454794,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-07-13",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13030575253,
+  "lat": 48.5770200,
+  "lon": 10.4938049,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-07-06",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13030575254,
+  "lat": 48.5624859,
+  "lon": 10.2642046,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-04-27",
+    "description": "Trinkwasserbrunnen am Hochbehälter",
+    "fee": "no",
+    "operator": "Gemeinde Sontheim/Brenz"
+  }
+},
+{
+  "type": "node",
+  "id": 13030575255,
+  "lat": 48.5793056,
+  "lon": 10.4954352,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-07-20",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadt Dillingen a. d. Donau",
+    "start_date": "2024-07-01",
+    "wheelchair": "yes"
   }
 }
 

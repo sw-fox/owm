@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:45:45Z",
+    "timestamp_osm_base": "2025-08-02T09:54:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2551,7 +2551,7 @@
     "female": "yes",
     "level": "1",
     "male": "yes",
-    "opening_hours": "Mo-Th 10:00-20:00, Fr 10:00-22:00, Sa 10:00-20:00",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su,PH off",
     "operator": "IKEA Deutschland GmbH & Co. KG",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
@@ -2664,7 +2664,7 @@
     "female": "yes",
     "level": "0",
     "male": "yes",
-    "opening_hours": "Mo-Th 10:00-20:00, Fr 10:00-22:00, Sa 10:00-20:00",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su,PH off",
     "operator": "IKEA Deutschland GmbH & Co. KG",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
@@ -3007,6 +3007,29 @@
   "lon": 7.2216747,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4842396684,
+  "lat": 51.8067911,
+  "lon": 7.0213358,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:location": "female_toilet",
+    "check_date": "2025-06-21",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Frankenhof",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
   }
 },
 {
@@ -6116,6 +6139,7 @@
     "amenity": "drinking_water",
     "covered": "no",
     "fee": "no",
+    "fountain": "bubbler",
     "indoor": "no",
     "level": "0",
     "lit": "yes",
@@ -7247,7 +7271,7 @@
     "female": "yes",
     "level": "0",
     "male": "yes",
-    "opening_hours": "Mo-Th 10:00-20:00, Fr 10:00-22:00, Sa 10:00-20:00",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su,PH off",
     "operator": "IKEA Deutschland GmbH & Co. KG",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
@@ -7970,7 +7994,8 @@
   "lat": 51.1254842,
   "lon": 7.9035459,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
   }
 },
 {
@@ -8233,7 +8258,56 @@
     "amenity": "drinking_water",
     "covered": "no",
     "fee": "no",
+    "fountain": "bubbler",
     "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13030162496,
+  "lat": 51.2097146,
+  "lon": 7.1974303,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 13033267526,
+  "lat": 51.9506205,
+  "lon": 7.6445710,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "description": "Nette Toilette",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "1",
+    "male": "yes",
+    "opening_hours": "Mo 15:00-20:00;Tu-Fr 11:30+; Sa 14:00+; Su 11:00-18:00",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 13034230511,
+  "lat": 51.1151924,
+  "lon": 7.9543340,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
   }
 }
 

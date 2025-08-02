@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:39:45Z",
+    "timestamp_osm_base": "2025-08-02T09:53:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -158,6 +158,22 @@
     "source": "local_knowledge",
     "wikidata": "Q15651973",
     "wikipedia": "cs:Zázračná studánka (Křemešník)"
+  }
+},
+{
+  "type": "node",
+  "id": 1139418664,
+  "lat": 49.2081172,
+  "lon": 15.3846233,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Penzion & camp Javořice",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "tourism": "camp_site",
+    "website": "https://agrika.cz/"
   }
 },
 {
@@ -1508,6 +1524,26 @@
     "static_caravans": "no",
     "toilets": "yes",
     "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 13026931672,
+  "lat": 49.3917792,
+  "lon": 15.5228250,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13026931673,
+  "lat": 49.3917417,
+  "lon": 15.5227858,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
   }
 }
 

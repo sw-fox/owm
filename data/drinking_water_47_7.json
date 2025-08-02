@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:28:32Z",
+    "timestamp_osm_base": "2025-08-02T09:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3255,7 +3255,9 @@
   "lat": 47.5619620,
   "lon": 7.8343113,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-07-31",
+    "fountain": "drinking"
   }
 },
 {
@@ -7819,6 +7821,16 @@
 },
 {
   "type": "node",
+  "id": 4035148017,
+  "lat": 47.6972378,
+  "lon": 7.9327903,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
   "id": 4044433202,
   "lat": 47.3017588,
   "lon": 7.7291275,
@@ -8909,8 +8921,8 @@
 {
   "type": "node",
   "id": 4523790868,
-  "lat": 47.2878446,
-  "lon": 7.9456211,
+  "lat": 47.2878496,
+  "lon": 7.9456628,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -9072,8 +9084,8 @@
 {
   "type": "node",
   "id": 4734136131,
-  "lat": 47.2904532,
-  "lon": 7.9442267,
+  "lat": 47.2904671,
+  "lon": 7.9443156,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -9339,6 +9351,7 @@
     "bottle": "yes",
     "cold_water": "no",
     "fee": "no",
+    "fountain": "drinking",
     "hot_water": "no",
     "iced_water": "no",
     "opening_hours": "24/7",
@@ -25949,6 +25962,16 @@
 },
 {
   "type": "node",
+  "id": 12828015807,
+  "lat": 47.0198434,
+  "lon": 7.4980607,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
   "id": 12830294432,
   "lat": 47.3463391,
   "lon": 7.6687070,
@@ -26486,6 +26509,67 @@
   "tags": {
     "amenity": "drinking_water",
     "name": "Drinkwater"
+  }
+},
+{
+  "type": "node",
+  "id": 13021567450,
+  "lat": 47.2291574,
+  "lon": 7.5042507,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13026971293,
+  "lat": 47.6516248,
+  "lon": 7.5648868,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "operator": "EB Wasserversorgung Gemeinde Efringen-Kirchen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13027161601,
+  "lat": 47.5459688,
+  "lon": 7.7931690,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13027910569,
+  "lat": 47.0196827,
+  "lon": 7.5264066,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13030922660,
+  "lat": 47.4772243,
+  "lon": 7.8132252,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13037639202,
+  "lat": 47.1880902,
+  "lon": 7.2859647,
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:street": "Haut du Village",
+    "amenity": "drinking_water"
   }
 }
 

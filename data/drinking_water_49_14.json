@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:38:45Z",
+    "timestamp_osm_base": "2025-08-02T09:53:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -246,6 +246,24 @@
   "tags": {
     "drinking_water": "yes",
     "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1661273870,
+  "lat": 49.7177037,
+  "lon": 14.3304538,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Kemp Cholín",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "http://kemp-cholin.cz/"
   }
 },
 {
@@ -1416,6 +1434,15 @@
   "tags": {
     "amenity": "drinking_water",
     "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13037990302,
+  "lat": 49.1573594,
+  "lon": 14.7671275,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

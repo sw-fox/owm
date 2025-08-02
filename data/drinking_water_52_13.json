@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:54:45Z",
+    "timestamp_osm_base": "2025-08-02T09:55:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -439,8 +439,10 @@
   "lon": 13.3034619,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-07-28",
     "description": "Trinkbrunnen",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1202,7 +1204,6 @@
     "colour": "#35412E",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Straßenbrunnen99 Wedding Tegeler Straße (1).jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
     "operator": "Land",
@@ -1210,6 +1211,7 @@
     "pump:status": "ok",
     "pump:style": "FSH-L",
     "ref": "99",
+    "wikimedia_commons": "File:Straßenbrunnen99 Wedding Tegeler Straße (1).jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
   }
 },
@@ -3126,8 +3128,8 @@
 {
   "type": "node",
   "id": 6557071955,
-  "lat": 52.5303224,
-  "lon": 13.3354002,
+  "lat": 52.5303473,
+  "lon": 13.3354457,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -3236,13 +3238,13 @@
   "tags": {
     "colour": "#35412E",
     "drinking_water": "yes",
-    "image": "File:Wedding Zeppelinplatz Wasserpumpe.jpg",
     "man_made": "water_well",
     "playground": "water",
     "pump": "manual",
     "pump:style": "A 11",
     "pump:type": "beam_pump",
     "water_well": "pump",
+    "wikimedia_commons": "File:Wedding Zeppelinplatz Wasserpumpe.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
   }
 },
@@ -3869,6 +3871,31 @@
     "operator:wikidata": "Q821856",
     "operator:wikipedia": "de:Berliner Wasserbetriebe",
     "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7341390974,
+  "lat": 52.4413017,
+  "lon": 13.7035347,
+  "tags": {
+    "access": "yes",
+    "addr:full": "Püttbergeweg 92",
+    "check_date": "2025-07-28",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "emergency": "drinking_water",
+    "image": "File:Straßenbrunnen14 Rahnsdorf Fangschleuser Püttbergeweg(2).JPG",
+    "man_made": "water_well",
+    "mapillary": "214461317894710",
+    "network": "Berliner Straßenbrunnen",
+    "official_ref": "K014",
+    "operator": "Bund",
+    "pump": "manual",
+    "pump:status": "ok",
+    "pump:style": "FSH-L",
+    "ref": "14",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Treptow-Köpenick"
   }
 },
 {
@@ -7888,6 +7915,48 @@
   "id": 13020637533,
   "lat": 52.4275500,
   "lon": 13.4295872,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13033344453,
+  "lat": 52.5143067,
+  "lon": 13.2437679,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13033902669,
+  "lat": 52.5402834,
+  "lon": 13.4020780,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13034174269,
+  "lat": 52.4037778,
+  "lon": 13.0237628,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13038699654,
+  "lat": 52.4279051,
+  "lon": 13.4272740,
   "tags": {
     "drinking_water": "yes",
     "man_made": "water_tap"

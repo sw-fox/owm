@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:30:32Z",
+    "timestamp_osm_base": "2025-08-02T09:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -922,15 +922,6 @@
 },
 {
   "type": "node",
-  "id": 2411772303,
-  "lat": 47.1102346,
-  "lon": 14.9451844,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 2449197466,
   "lat": 47.4900644,
   "lon": 14.9438307,
@@ -938,17 +929,6 @@
     "drinking_water": "yes",
     "natural": "spring",
     "source": "geoimage.at"
-  }
-},
-{
-  "type": "node",
-  "id": 2456582494,
-  "lat": 47.1164125,
-  "lon": 14.9259213,
-  "tags": {
-    "amenity": "drinking_water",
-    "name": "2. Wassertrögl",
-    "place": "locality"
   }
 },
 {
@@ -3688,8 +3668,8 @@
 {
   "type": "node",
   "id": 12067640394,
-  "lat": 47.0682093,
-  "lon": 14.6952859,
+  "lat": 47.0682307,
+  "lon": 14.6952697,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",

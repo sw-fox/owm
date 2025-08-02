@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:43:45Z",
+    "timestamp_osm_base": "2025-08-02T09:54:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -410,7 +410,8 @@
     "man_made": "water_tap",
     "name": "Žižkův pramen",
     "water_characteristic": "mineral",
-    "wheelchair": "yes"
+    "wheelchair": "yes",
+    "wikidata": "Q108267245"
   }
 },
 {
@@ -550,7 +551,8 @@
     "fee": "no",
     "man_made": "water_tap",
     "name": "Svatojánský pramen",
-    "water_characteristic": "mineral"
+    "water_characteristic": "mineral",
+    "wikidata": "Q108267205"
   }
 },
 {
@@ -692,13 +694,14 @@
 {
   "type": "node",
   "id": 2917087027,
-  "lat": 50.1441461,
-  "lon": 15.1192969,
+  "lat": 50.1441686,
+  "lon": 15.1192781,
   "tags": {
     "amenity": "drinking_water",
     "man_made": "water_tap",
     "name": "Eliščin pramen",
-    "water_characteristic": "mineral"
+    "water_characteristic": "mineral",
+    "wikidata": "Q108267281"
   }
 },
 {
@@ -805,7 +808,8 @@
   "tags": {
     "amenity": "drinking_water",
     "name": "Bülowův pramen",
-    "water_characteristic": "mineral"
+    "water_characteristic": "mineral",
+    "wikidata": "Q108267036"
   }
 },
 {
@@ -832,7 +836,8 @@
     "indoor": "yes",
     "man_made": "water_tap",
     "name": "Boček",
-    "water_characteristic": "mineral"
+    "water_characteristic": "mineral",
+    "wikidata": "Q108267481"
   }
 },
 {
@@ -846,7 +851,8 @@
     "man_made": "water_tap",
     "name": "Hohenlohe",
     "source:position": "cuzk:km;Bing;survey",
-    "water_characteristic": "mineral"
+    "water_characteristic": "mineral",
+    "wikidata": "Q108038776"
   }
 },
 {
@@ -860,7 +866,8 @@
     "fee": "no",
     "man_made": "water_tap",
     "name": "Riegrův pramen",
-    "water_characteristic": "mineral"
+    "water_characteristic": "mineral",
+    "wikidata": "Q108267179"
   }
 },
 {
@@ -877,7 +884,8 @@
     "name:cs": "Trnkův pramen",
     "name:en": "Trnka's spring",
     "water_characteristic": "mineral",
-    "website": "https://www.hrady.cz/technicka-pamatka-pramen-trnka"
+    "website": "https://www.hrady.cz/technicka-pamatka-pramen-trnka",
+    "wikidata": "Q108267233"
   }
 },
 {
@@ -2198,6 +2206,41 @@
   "tags": {
     "amenity": "drinking_water",
     "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13030981017,
+  "lat": 50.6349563,
+  "lon": 15.7633076,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Petronela",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13039765735,
+  "lat": 50.5590659,
+  "lon": 15.1882639,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13040016907,
+  "lat": 50.9252864,
+  "lon": 15.2448316,
+  "tags": {
+    "drinking_water": "yes",
+    "leisure": "bathing_place",
+    "name": "Přírodní koupaliště Nové Město pod Smrkem",
+    "picnic_table": "yes",
+    "shower": "yes",
+    "toilets": "yes"
   }
 }
 

@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:58:45Z",
+    "timestamp_osm_base": "2025-08-02T09:55:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1120,6 +1120,30 @@
   "tags": {
     "amenity": "drinking_water",
     "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13030054361,
+  "lat": 53.4510171,
+  "lon": 8.1185656,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13030941601,
+  "lat": 53.0617721,
+  "lon": 8.8650203,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Trinkwasserbrunnen"
   }
 }
 

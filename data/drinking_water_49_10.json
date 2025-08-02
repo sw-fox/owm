@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:37:45Z",
+    "timestamp_osm_base": "2025-08-02T09:53:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -242,7 +242,9 @@
   "lat": 49.8617106,
   "lon": 10.4085859,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-07-30",
+    "fountain": "drinking"
   }
 },
 {
@@ -2111,11 +2113,12 @@
 {
   "type": "node",
   "id": 12842977301,
-  "lat": 49.4607997,
-  "lon": 10.8632264,
+  "lat": 49.4608257,
+  "lon": 10.8632289,
   "tags": {
     "amenity": "drinking_water",
-    "fountain": "bubbler"
+    "fountain": "bubbler",
+    "source": "https://www.cadolzburg.de/cadolzburg/aktuelles/cadolzburg-aktuell/619/trinkwasserbrunnen-in-cadolzburg"
   }
 },
 {

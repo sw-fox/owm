@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:32:35Z",
+    "timestamp_osm_base": "2025-08-02T09:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1316,7 +1316,7 @@
     "toilets:disposal": "flush",
     "toilets:handwashing": "yes",
     "toilets:position": "seated;urinal",
-    "wheelchair": "limited"
+    "wheelchair": "yes"
   }
 },
 {
@@ -2781,16 +2781,6 @@
 },
 {
   "type": "node",
-  "id": 4750940635,
-  "lat": 48.1973343,
-  "lon": 11.6615181,
-  "tags": {
-    "amenity": "drinking_water",
-    "check_date": "2023-07-20"
-  }
-},
-{
-  "type": "node",
   "id": 4794474374,
   "lat": 48.4830937,
   "lon": 11.2671223,
@@ -3147,20 +3137,6 @@
   "tags": {
     "amenity": "drinking_water",
     "man_made": "water_tap"
-  }
-},
-{
-  "type": "node",
-  "id": 5777402981,
-  "lat": 48.1535310,
-  "lon": 11.5708265,
-  "tags": {
-    "amenity": "drinking_water",
-    "drinking_water": "yes",
-    "drinking_water:legal": "yes",
-    "fountain": "drinking",
-    "man_made": "water_tap",
-    "operator": "SWM GmbH"
   }
 },
 {
@@ -5788,6 +5764,16 @@
   "lon": 11.6046681,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13023572893,
+  "lat": 48.6841343,
+  "lon": 11.6113150,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
   }
 }
 

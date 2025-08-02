@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:31:33Z",
+    "timestamp_osm_base": "2025-08-02T09:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -8866,6 +8866,26 @@
     "addr:street": "Im Gewann Bruch (Mühlstraße)",
     "amenity": "water_point",
     "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13032225323,
+  "lat": 48.8590060,
+  "lon": 8.2031339,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13039818751,
+  "lat": 48.1025028,
+  "lon": 8.4289504,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:34:44Z",
+    "timestamp_osm_base": "2025-08-02T09:53:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1763,7 +1763,13 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
     "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "no",
+    "seasonal": "yes",
     "wheelchair": "limited"
   }
 },
@@ -2565,7 +2571,8 @@
   "lat": 48.2173479,
   "lon": 15.6290476,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -2574,7 +2581,8 @@
   "lat": 48.2013656,
   "lon": 15.6205679,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -2958,6 +2966,64 @@
   "tags": {
     "amenity": "drinking_water",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13023724843,
+  "lat": 48.5914455,
+  "lon": 15.3192676,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "check_date": "2025-07-24",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13023724851,
+  "lat": 48.5909746,
+  "lon": 15.3208686,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "check_date": "2025-07-25",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13023724856,
+  "lat": 48.5915394,
+  "lon": 15.3199978,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "check_date": "2025-07-23",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13023724858,
+  "lat": 48.5904097,
+  "lon": 15.3187322,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "check_date": "2025-07-24",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13029223653,
+  "lat": 48.1877432,
+  "lon": 15.3571550,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
   }
 }
 

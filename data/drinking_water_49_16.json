@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:39:45Z",
+    "timestamp_osm_base": "2025-08-02T09:53:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1330,6 +1330,7 @@
     "amenity": "drinking_water",
     "bottle": "no",
     "check_date": "2021-09",
+    "fountain": "bubbler",
     "operator": "Veřejná zeleň města Brna",
     "operator:short": "VZMB",
     "operator:wikidata": "Q118583570",
@@ -2692,8 +2693,8 @@
 {
   "type": "node",
   "id": 9989240473,
-  "lat": 49.2025992,
-  "lon": 16.6019030,
+  "lat": 49.2026268,
+  "lon": 16.6019989,
   "tags": {
     "amenity": "toilets",
     "check_date:opening_hours": "2024-11-30",

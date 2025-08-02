@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-24T13:44:45Z",
+    "timestamp_osm_base": "2025-08-02T09:54:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2126,7 +2126,8 @@
     "operator": "MediaMarkt",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
-    "unisex": "yes"
+    "unisex": "yes",
+    "wheelchair": "yes"
   }
 },
 {
@@ -3203,6 +3204,8 @@
   "lon": 6.3407967,
   "tags": {
     "access": "yes",
+    "addr:city": "Grefrath",
+    "addr:street": "Markt",
     "amenity": "drinking_water",
     "name": "Trinkwasserbrunnen Grefrath Markt",
     "operator": "Gemeinde Grefrath"
@@ -3359,6 +3362,24 @@
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
     "toilets:wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10126190158,
+  "lat": 51.3844116,
+  "lon": 6.4526814,
+  "tags": {
+    "addr:city": "Kempen",
+    "addr:housenumber": "21",
+    "addr:postcode": "47906",
+    "addr:street": "Hauptstraße",
+    "amenity": "drinking_water",
+    "drinking_water:refill": "yes",
+    "name": "Beratungsstelle Arbeit",
+    "operator": "Initiative gegen Arbeitslosigkeit der Region Kempen-Viersen e.V.",
+    "social_facility": "outreach",
+    "website": "https://alzviersen.de"
   }
 },
 {
@@ -3638,6 +3659,7 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "description": "Von April bis Oktober in Betrieb.",
     "fountain": "bubbler",
     "name": "Trinkwasser Spender",
     "operator": "Stadt Kempen"
@@ -4352,8 +4374,8 @@
 {
   "type": "node",
   "id": 12302409102,
-  "lat": 51.1970253,
-  "lon": 6.4451424,
+  "lat": 51.1969963,
+  "lon": 6.4451270,
   "tags": {
     "amenity": "drinking_water",
     "check_date": "2024-10",
@@ -4517,7 +4539,15 @@
   "lat": 51.2566172,
   "lon": 6.3896422,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "addr:city": "Viersen",
+    "addr:street": "Hauptstraße",
+    "amenity": "drinking_water",
+    "description": "Außerbetriebnahme im Winter.",
+    "name": "Trinkwasserbrunnen Viersen Fußgängerzone",
+    "operator": "NEW",
+    "start_date": "2025-05-01",
+    "wheelchair": "yes"
   }
 },
 {
@@ -4790,6 +4820,84 @@
   "lon": 6.1212802,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13026593722,
+  "lat": 51.1951342,
+  "lon": 6.4392159,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "2",
+    "amenity": "toilets",
+    "brand": "SANIFAIR",
+    "brand:wikidata": "Q104814416",
+    "changing_table": "yes",
+    "check_date": "2025-07-26",
+    "drinking_water": "yes",
+    "level": "1",
+    "operator": "SANIFAIR GmbH",
+    "operator:wikidata": "Q104814416",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13026878249,
+  "lat": 51.1951342,
+  "lon": 6.4392159,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "2",
+    "amenity": "toilets",
+    "brand": "SANIFAIR",
+    "brand:wikidata": "Q104814416",
+    "changing_table": "yes",
+    "check_date": "2025-07-26",
+    "drinking_water": "yes",
+    "level": "1",
+    "operator": "SANIFAIR GmbH",
+    "operator:wikidata": "Q104814416",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13027254206,
+  "lat": 51.8503325,
+  "lon": 6.1512897,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13028121638,
+  "lat": 51.5711716,
+  "lon": 6.0324156,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "operator": "Brabant Water",
+    "operator:wikidata": "Q2458134",
+    "source": "https://www.brabantwater.nl/over-brabant-water/kraanwater-overal/openbare-watertappunten",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13041240329,
+  "lat": 51.3843891,
+  "lon": 6.4508799,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Von ca. April bis Oktober in Betrieb.",
+    "operator": "Stadt Kempen",
+    "wheelchair": "yes"
   }
 }
 
