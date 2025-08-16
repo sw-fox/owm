@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:55:15Z",
+    "timestamp_osm_base": "2025-08-16T12:04:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -265,6 +265,7 @@
     "bottle": "yes",
     "fee": "no",
     "fountain": "bottle_refill",
+    "image": "https://commons.wikimedia.org/wiki/File:PWN_Water_point_in_Hoorn.jpg",
     "opening_hours": "Dec-Feb off",
     "operator": "PWN",
     "operator:short": "PWN",
@@ -602,8 +603,8 @@
 {
   "type": "node",
   "id": 4460262435,
-  "lat": 52.7088550,
-  "lon": 5.2981466,
+  "lat": 52.7088799,
+  "lon": 5.2981714,
   "tags": {
     "amenity": "drinking_water",
     "check_date": "2023-10-05",
@@ -748,6 +749,7 @@
     "bottle": "yes",
     "fee": "no",
     "fountain": "bottle_refill",
+    "image": "https://commons.wikimedia.org/wiki/File:PWN_Water_point_marken.jpg",
     "operator": "PWN",
     "operator:short": "PWN",
     "operator:wikidata": "Q1968432"
@@ -1189,9 +1191,17 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
     "man_made": "water_tap",
+    "opening_hours": "24/7",
     "operator": "Vitens",
-    "operator:wikidata": "Q1943963"
+    "operator:wikidata": "Q1943963",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
   }
 },
 {
@@ -1202,7 +1212,16 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "operator": "Vitens/Jointhepipe",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
   }
 },
 {
@@ -1214,8 +1233,16 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "check_date": "2025-06-21",
+    "cold_water": "no",
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
     "man_made": "water_tap",
-    "operator": "Vitens"
+    "opening_hours": "24/7",
+    "operator": "Vitens",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
   }
 },
 {
@@ -1226,8 +1253,16 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
     "man_made": "water_tap",
-    "operator": "Vitens"
+    "opening_hours": "24/7",
+    "operator": "Vitens",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
   }
 },
 {
@@ -1705,8 +1740,8 @@
 {
   "type": "node",
   "id": 6430883086,
-  "lat": 52.1275143,
-  "lon": 5.0698917,
+  "lat": 52.1275096,
+  "lon": 5.0699158,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
@@ -1873,7 +1908,17 @@
   "lon": 5.1686322,
   "tags": {
     "amenity": "drinking_water",
-    "operator": "Vitens/(Jointhepipe?)"
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "operator": "Vitens/(Jointhepipe?)",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
   }
 },
 {
@@ -2676,8 +2721,8 @@
 {
   "type": "node",
   "id": 7917192093,
-  "lat": 52.7375484,
-  "lon": 5.1676561,
+  "lat": 52.7375388,
+  "lon": 5.1676372,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
@@ -3474,8 +3519,16 @@
   "lon": 5.1260705,
   "tags": {
     "access": "yes",
+    "bottle": "yes",
+    "cold_water": "no",
     "drinking_water": "yes",
-    "man_made": "water_tap"
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "room_temperature_water": "yes",
+    "warm_water": "no"
   }
 },
 {
@@ -4244,8 +4297,8 @@
 {
   "type": "node",
   "id": 12246107092,
-  "lat": 52.0900738,
-  "lon": 5.1103947,
+  "lat": 52.0899714,
+  "lon": 5.1104383,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
@@ -4554,6 +4607,18 @@
     "description": "Op het terrein van Atletiekvereniging Climax, toegang mogelijk beperkt",
     "fee": "no",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13046182036,
+  "lat": 52.0804421,
+  "lon": 5.2176290,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
   }
 }
 

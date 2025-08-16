@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:53:15Z",
+    "timestamp_osm_base": "2025-08-16T12:02:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1411,6 +1411,22 @@
 },
 {
   "type": "node",
+  "id": 9954344653,
+  "lat": 49.1054114,
+  "lon": 13.3784858,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
   "id": 9955319106,
   "lat": 49.1086991,
   "lon": 13.3829226,
@@ -1449,12 +1465,16 @@
     "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
+    "capacity": "2",
     "drinking_water:legal": "yes",
     "fee": "no",
     "fountain": "drinking",
     "lit": "yes",
     "man_made": "water_tap",
-    "seasonal": "yes"
+    "opening_hours": "24/7",
+    "panoramax": "67d77ccf-77d1-42cd-9354-9368c284371d",
+    "seasonal": "yes",
+    "wikimedia_commons": "File:Drinking fountain (Kvilda).jpg"
   }
 },
 {
@@ -1859,6 +1879,38 @@
   "lon": 13.3568459,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13040962137,
+  "lat": 49.1421037,
+  "lon": 13.5129589,
+  "tags": {
+    "access": "customers",
+    "amenity": "kitchen",
+    "bin": "yes",
+    "cooker": "yes",
+    "dish_washing": "yes",
+    "drinking_water": "yes",
+    "fridge": "yes",
+    "hot_water": "yes",
+    "microwave": "yes",
+    "power_supply": "yes",
+    "table": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13060864772,
+  "lat": 49.7050964,
+  "lon": 13.7899082,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "veřejný kohoutek s pitnou vodou uvnitř areálu"
   }
 }
 

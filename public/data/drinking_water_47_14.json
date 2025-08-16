@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:52:15Z",
+    "timestamp_osm_base": "2025-08-16T12:00:34Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -972,16 +972,6 @@
   "tags": {
     "amenity": "drinking_water",
     "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2505345266,
-  "lat": 47.6176149,
-  "lon": 14.6664302,
-  "tags": {
-    "amenity": "drinking_water",
-    "name": "Butterbründl"
   }
 },
 {
@@ -3229,6 +3219,17 @@
 },
 {
   "type": "node",
+  "id": 10878179314,
+  "lat": 47.5307798,
+  "lon": 14.2064245,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Brau-Bründl",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
   "id": 10914792956,
   "lat": 47.2854218,
   "lon": 14.5298819,
@@ -3537,7 +3538,8 @@
   "lat": 47.6094088,
   "lon": 14.7435197,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -4038,6 +4040,73 @@
   "tags": {
     "amenity": "drinking_water",
     "name": "Drinking Water"
+  }
+},
+{
+  "type": "node",
+  "id": 13048654799,
+  "lat": 47.5592566,
+  "lon": 14.1484539,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-08-02"
+  }
+},
+{
+  "type": "node",
+  "id": 13062269338,
+  "lat": 47.6246173,
+  "lon": 14.7510338,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13063460964,
+  "lat": 47.1842304,
+  "lon": 14.1179356,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Gemeinde Schöder",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13063461044,
+  "lat": 47.4878129,
+  "lon": 14.9936388,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Gemeinde Vordernberg",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13063481710,
+  "lat": 47.6643285,
+  "lon": 14.9867539,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Gemeinde Wildalpen",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13071357184,
+  "lat": 47.5682428,
+  "lon": 14.7049497,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

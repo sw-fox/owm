@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:53:15Z",
+    "timestamp_osm_base": "2025-08-16T12:02:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -366,11 +366,18 @@
 {
   "type": "node",
   "id": 1384806503,
-  "lat": 50.9232114,
-  "lon": 6.9590429,
+  "lat": 50.9232354,
+  "lon": 6.9590423,
   "tags": {
-    "amenity": "drinking_water",
-    "fountain": "drinking"
+    "amenity": "fountain",
+    "artist:wikidata": "Q1123784",
+    "artist_name": "Sepp Hürten",
+    "drinking_water": "no",
+    "fountain": "drinking",
+    "lit": "no",
+    "name": "Severins-Brunnen mit Stollwerck-Mädchen",
+    "start_date": "1990",
+    "wikimedia_commons": "File:Köln Stollwerk Mädchen um 1900 Brunnen an St. Severin 3.jpg"
   }
 },
 {
@@ -1143,8 +1150,8 @@
 {
   "type": "node",
   "id": 4929067425,
-  "lat": 50.9181417,
-  "lon": 6.9698280,
+  "lat": 50.9181557,
+  "lon": 6.9698508,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -3096,7 +3103,7 @@
   "lat": 50.6756209,
   "lon": 6.1095606,
   "tags": {
-    "access": "yes",
+    "access": "private",
     "drinking_water": "yes",
     "man_made": "water_tap"
   }
@@ -3113,6 +3120,55 @@
     "fountain": "drinking",
     "man_made": "water_tap",
     "start_date": "2025-06"
+  }
+},
+{
+  "type": "node",
+  "id": 13045220692,
+  "lat": 50.0954075,
+  "lon": 6.7975650,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13057973925,
+  "lat": 50.9400049,
+  "lon": 6.9599860,
+  "tags": {
+    "amenity": "fountain",
+    "fountain": "drinking",
+    "wikimedia_commons": "File:Kurt-Hackenberg-Platz Köln, nach Neugestaltung, Mai 2018-0821.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 13058292652,
+  "lat": 50.9522485,
+  "lon": 6.9547814,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13065987401,
+  "lat": 50.3822128,
+  "lon": 6.9292554,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13072686993,
+  "lat": 50.0435544,
+  "lon": 6.7968236,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

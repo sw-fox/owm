@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:53:15Z",
+    "timestamp_osm_base": "2025-08-16T12:02:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -111,18 +111,6 @@
     "amenity": "drinking_water",
     "name": "Trinkwasser Spender",
     "name:en": "Drinking Water Dispenser"
-  }
-},
-{
-  "type": "node",
-  "id": 457125063,
-  "lat": 49.0673637,
-  "lon": 9.2918308,
-  "tags": {
-    "amenity": "drinking_water",
-    "payment": "none",
-    "source": "Bing Sat (2012) + local knowledge",
-    "wheelchair": "yes"
   }
 },
 {
@@ -611,6 +599,18 @@
     "drinking_water": "yes",
     "name": "Wiesenbrunnen",
     "operator": "Gartenbauverein"
+  }
+},
+{
+  "type": "node",
+  "id": 2284147104,
+  "lat": 49.8018061,
+  "lon": 9.6157088,
+  "tags": {
+    "drinkable": "yes",
+    "drinking_water": "yes",
+    "name": "Quellenüberlauf",
+    "natural": "spring"
   }
 },
 {
@@ -2098,6 +2098,7 @@
     "amenity": "drinking_water",
     "drinking_water": "yes",
     "fee": "no",
+    "indoor": "yes",
     "man_made": "water_tap"
   }
 },
@@ -2166,7 +2167,9 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "bottle": "yes",
     "fee": "no",
+    "operator": "Stadtwerke Aschaffenburg",
     "wheelchair": "yes"
   }
 },
@@ -2593,19 +2596,6 @@
 },
 {
   "type": "node",
-  "id": 12878948246,
-  "lat": 49.7802867,
-  "lon": 9.9287108,
-  "tags": {
-    "drinking_water": "yes",
-    "operator": "Kanu-Club Würzburg e.V.",
-    "shower": "yes",
-    "tents": "yes",
-    "tourism": "camp_site"
-  }
-},
-{
-  "type": "node",
   "id": 12946804242,
   "lat": 49.2782566,
   "lon": 9.4818903,
@@ -2674,7 +2664,10 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "fee": "no"
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "drinking",
+    "operator": "Stadtwerke Aschaffenburg"
   }
 },
 {
@@ -2697,6 +2690,15 @@
     "drinking_water": "yes",
     "drinking_water:legal": "no",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13059863005,
+  "lat": 49.4182112,
+  "lon": 9.0297152,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

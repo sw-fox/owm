@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:55:15Z",
+    "timestamp_osm_base": "2025-08-16T12:05:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2095,10 +2095,11 @@
     "centralkey": "eurokey",
     "changing_table": "yes",
     "charge": "1.00 EUR",
-    "contact:website": "https://www.bahnhofspassagen-potsdam.de/shops/sanifair",
     "drinking_water": "yes",
     "fee": "yes",
+    "female": "yes",
     "level": "0",
+    "male": "yes",
     "name": "Sanifair",
     "opening_hours": "24/7",
     "operator": "SANIFAIR GmbH",
@@ -2106,11 +2107,15 @@
     "operator:wikidata": "Q104814416",
     "operator:wikipedia": "de:Tank & Rast",
     "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:girocard": "yes",
     "payment:mastercard": "yes",
     "payment:visa": "yes",
     "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
     "toilets:position": "seated;urinal",
     "unisex": "no",
+    "website": "https://www.bahnhofspassagen-potsdam.de/shops/sanifair",
     "wheelchair": "yes"
   }
 },
@@ -2280,6 +2285,7 @@
     "amenity": "drinking_water",
     "description": "Trinkbrunnen",
     "fountain": "bubbler",
+    "name": "Trinkbrunnen",
     "operator": "Berliner Wasserbetriebe",
     "operator:short": "BWB",
     "operator:wikidata": "Q821856",
@@ -2639,11 +2645,16 @@
   "lat": 52.5095536,
   "lon": 13.3794023,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "bottle": "limited",
+    "bottle": "yes",
+    "check_date": "2025-05-29",
     "colour": "blue",
+    "covered": "no",
     "description": "Trinkbrunnen",
+    "fee": "no",
     "fountain": "bubbler",
+    "indoor": "no",
     "model": "Typ 1",
     "operator": "Berliner Wasserbetriebe",
     "operator:short": "BWB",
@@ -4005,11 +4016,16 @@
     "access": "yes",
     "amenity": "drinking_water",
     "bottle": "no",
+    "cold_water": "no",
     "fee": "no",
     "fountain": "bubbler",
+    "hot_water": "no",
+    "iced_water": "no",
     "indoor": "no",
     "not:operator:wikidata": "Q821856",
     "operator": "Berliner Wasserbetriebe",
+    "room_temperature_water": "yes",
+    "warm_water": "no",
     "wikimedia_commons": "File:Bubbler, Charité – Universitätsmedizin Berlin, Berlin, Germany Aug 21, 2023 01-17-44 PM.jpeg"
   }
 },
@@ -4051,24 +4067,6 @@
     "amenity": "drinking_water",
     "operator": "Gemeinde Bestensee",
     "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
-  "id": 7617393564,
-  "lat": 52.3862711,
-  "lon": 13.1153662,
-  "tags": {
-    "amenity": "toilets",
-    "changing_table": "yes",
-    "changing_table:location": "dedicated_room",
-    "drinking_water": "yes",
-    "fee": "no",
-    "female": "yes",
-    "male": "yes",
-    "toilets:disposal": "flush",
-    "toilets:position": "seated;urinal",
-    "wheelchair": "yes"
   }
 },
 {
@@ -5386,8 +5384,14 @@
   "lat": 52.5284661,
   "lon": 13.2000212,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "fountain": "bubbler"
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "wheelchair": "yes"
   }
 },
 {
@@ -5529,12 +5533,19 @@
 {
   "type": "node",
   "id": 9620141151,
-  "lat": 52.5501121,
-  "lon": 13.4320128,
+  "lat": 52.5501327,
+  "lon": 13.4319304,
   "tags": {
+    "access": "yes",
+    "addr:floor": "0",
     "amenity": "drinking_water",
+    "bottle": "yes",
     "colour": "blue",
+    "covered": "no",
+    "fee": "no",
     "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
     "operator": "Berliner Wasserbetriebe",
     "operator:short": "BWB",
     "operator:wikidata": "Q821856"
@@ -7928,6 +7939,7 @@
   "tags": {
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bubbler",
     "operator": "Berliner Wasserbetriebe",
     "operator:short": "BWB",
     "operator:wikidata": "Q821856",
@@ -7960,6 +7972,15 @@
   "tags": {
     "drinking_water": "yes",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13063865303,
+  "lat": 52.5403027,
+  "lon": 13.4021108,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:54:15Z",
+    "timestamp_osm_base": "2025-08-16T12:03:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1943,6 +1943,38 @@
   "tags": {
     "amenity": "drinking_water",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13067360252,
+  "lat": 50.4443763,
+  "lon": 16.8535096,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Główne Źródło Hanyszówki",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13068626922,
+  "lat": 50.4399119,
+  "lon": 16.8457815,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Wypływ Haniaczki",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13069281031,
+  "lat": 50.4520361,
+  "lon": 16.8477708,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
   }
 }
 

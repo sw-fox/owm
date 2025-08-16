@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:53:15Z",
+    "timestamp_osm_base": "2025-08-16T12:01:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -901,7 +901,18 @@
   "lat": 48.7304811,
   "lon": 13.8344907,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "panoramax": "34ab42bf-b041-4f21-baec-bb05dcbb41dd",
+    "room_temperature_water": "yes",
+    "warm_water": "no",
+    "wikimedia_commons": "File:Trinkwasser Spender (Schwarzenberg am Böhmerwald).jpg"
   }
 },
 {
@@ -1858,24 +1869,6 @@
 },
 {
   "type": "node",
-  "id": 9964310686,
-  "lat": 48.6595716,
-  "lon": 13.8654074,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
-  "id": 9964310687,
-  "lat": 48.6583266,
-  "lon": 13.8706136,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 9983483699,
   "lat": 48.8399591,
   "lon": 13.1380875,
@@ -2083,15 +2076,6 @@
     "drinking_water": "yes",
     "name": "Brunnenwasser",
     "natural": "spring"
-  }
-},
-{
-  "type": "node",
-  "id": 11200433121,
-  "lat": 48.8502843,
-  "lon": 13.2602178,
-  "tags": {
-    "amenity": "drinking_water"
   }
 },
 {
@@ -2528,7 +2512,11 @@
   "lon": 13.7091216,
   "tags": {
     "amenity": "drinking_water",
-    "fountain": "drinking"
+    "artist_name": "Edel Maria Göpfert",
+    "fountain": "drinking",
+    "ref": "6",
+    "tourism": "artwork",
+    "wikimedia_commons": "File:Trinkwasser Brunnen (Haus am Strom).jpg"
   }
 },
 {
@@ -2601,6 +2589,40 @@
   "lon": 13.7492820,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13059810290,
+  "lat": 48.8031998,
+  "lon": 13.3977237,
+  "tags": {
+    "amenity": "drinking_water",
+    "artist_name": "Edel Marie Göpfert",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "ref": "102",
+    "room_temperature_water": "yes",
+    "tourism": "artwork",
+    "warm_water": "no",
+    "wikimedia_commons": "File:Trinkwasser Brunnen (Haus im Wald).jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 13059818674,
+  "lat": 48.7779762,
+  "lon": 13.4496930,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "toilets:disposal": "flush"
   }
 }
 

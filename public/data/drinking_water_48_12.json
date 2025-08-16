@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:53:15Z",
+    "timestamp_osm_base": "2025-08-16T12:01:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -413,16 +413,6 @@
 },
 {
   "type": "node",
-  "id": 5326336238,
-  "lat": 48.1591530,
-  "lon": 12.8328818,
-  "tags": {
-    "amenity": "drinking_water",
-    "pump": "manual"
-  }
-},
-{
-  "type": "node",
   "id": 5722775230,
   "lat": 48.9092273,
   "lon": 12.9754098,
@@ -665,17 +655,19 @@
   "tags": {
     "access": "yes",
     "amenity": "toilets",
+    "changing_table": "no",
     "drinking_water": "yes",
     "fee": "no",
     "female": "yes",
     "male": "yes",
-    "toilets:disposal": "flush"
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
   }
 },
 {
   "type": "node",
   "id": 7014021336,
-  "lat": 48.9593357,
+  "lat": 48.9592619,
   "lon": 12.8831557,
   "tags": {
     "amenity": "drinking_water",
@@ -1243,9 +1235,9 @@
   "lat": 48.7984314,
   "lon": 12.9947409,
   "tags": {
-    "amenity": "watering_place",
     "drinking_water": "yes",
-    "man_made": "water_tap"
+    "man_made": "water_tap",
+    "trough": "yes"
   }
 },
 {
@@ -2125,6 +2117,15 @@
   "id": 13025668601,
   "lat": 48.1568752,
   "lon": 12.8128337,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13061262883,
+  "lat": 48.5521011,
+  "lon": 12.4150671,
   "tags": {
     "amenity": "drinking_water"
   }

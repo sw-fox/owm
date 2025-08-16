@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:56:15Z",
+    "timestamp_osm_base": "2025-08-16T12:06:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -72,7 +72,7 @@
     "caravans": "no",
     "drinking_water": "yes",
     "fee": "no",
-    "maxstay": "2 daya",
+    "maxstay": "2 days",
     "motor_vehicle": "no",
     "name": "Ræbæk Strand Teltplads",
     "openfire": "yes",
@@ -1660,8 +1660,8 @@
 {
   "type": "node",
   "id": 7813330173,
-  "lat": 55.3879717,
-  "lon": 9.9403867,
+  "lat": 55.3879787,
+  "lon": 9.9403783,
   "tags": {
     "amenity": "drinking_water",
     "drinking_water": "yes",
@@ -1672,8 +1672,8 @@
 {
   "type": "node",
   "id": 7813530933,
-  "lat": 55.3886386,
-  "lon": 9.9414175,
+  "lat": 55.3886378,
+  "lon": 9.9413992,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
@@ -1782,8 +1782,8 @@
 {
   "type": "node",
   "id": 7857424723,
-  "lat": 55.5171729,
-  "lon": 9.5858167,
+  "lat": 55.5171547,
+  "lon": 9.5856508,
   "tags": {
     "amenity": "water_point",
     "drinking_water": "yes",
@@ -2075,6 +2075,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "man_made": "water_tap",
     "wheelchair": "yes"
   }
 },
@@ -2813,6 +2814,28 @@
   "tags": {
     "amenity": "drinking_water",
     "description": "Ved hjørnet af træindhegningen"
+  }
+},
+{
+  "type": "node",
+  "id": 13049091307,
+  "lat": 55.3870552,
+  "lon": 9.9391575,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 13050579254,
+  "lat": 55.5168179,
+  "lon": 9.5837234,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "source": "https://houensodde.dk/fileadmin/filer/pdf/Oddekort_folder_version_2019.pdf"
   }
 }
 

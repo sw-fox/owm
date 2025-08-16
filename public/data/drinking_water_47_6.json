@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:52:15Z",
+    "timestamp_osm_base": "2025-08-16T12:00:34Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1818,17 +1818,6 @@
 },
 {
   "type": "node",
-  "id": 6827411403,
-  "lat": 47.5052239,
-  "lon": 6.7920088,
-  "tags": {
-    "amenity": "drinking_water",
-    "bottle": "no",
-    "note": "2024-03-06 : pas d'eau (ça peut-être une mise hors gel)."
-  }
-},
-{
-  "type": "node",
   "id": 6827493524,
   "lat": 47.5292330,
   "lon": 6.8559105,
@@ -2592,8 +2581,8 @@
 {
   "type": "node",
   "id": 9024617474,
-  "lat": 47.7217851,
-  "lon": 6.8982188,
+  "lat": 47.7217780,
+  "lon": 6.8982026,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -4351,6 +4340,45 @@
   "id": 13001248702,
   "lat": 47.3195191,
   "lon": 6.9078348,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13043890714,
+  "lat": 47.8414829,
+  "lon": 6.7209340,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13046000709,
+  "lat": 47.5054903,
+  "lon": 6.7988154,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13046707063,
+  "lat": 47.7564132,
+  "lon": 6.3458530,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13070425754,
+  "lat": 47.2727551,
+  "lon": 6.1151097,
   "tags": {
     "amenity": "drinking_water"
   }

@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:56:15Z",
+    "timestamp_osm_base": "2025-08-16T12:06:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -122,7 +122,8 @@
   "lat": 55.3278827,
   "lon": 8.7654752,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
   }
 },
 {
@@ -228,6 +229,7 @@
   "tags": {
     "access": "customers",
     "amenity": "toilets",
+    "check_date": "2025-08-11",
     "description": "To the left from inside main entrance",
     "drinking_water": "yes",
     "fee": "no",
@@ -489,6 +491,7 @@
   "lon": 8.7709824,
   "tags": {
     "amenity": "drinking_water",
+    "fountain": "bubbler",
     "mapillary": "216669933239554",
     "start_date": "2019"
   }

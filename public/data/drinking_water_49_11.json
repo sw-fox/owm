@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:53:15Z",
+    "timestamp_osm_base": "2025-08-16T12:02:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -756,9 +756,17 @@
   "lon": 11.0778806,
   "tags": {
     "amenity": "drinking_water",
+    "bottle": "yes",
     "check_date": "2023-02-15",
+    "cold_water": "no",
+    "fee": "no",
     "fountain": "bubbler",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
     "operator": "N-ERGIE Nürnberg",
+    "room_temperature_water": "yes",
+    "warm_water": "no",
     "wheelchair": "yes"
   }
 },
@@ -1118,6 +1126,8 @@
   "tags": {
     "amenity": "fountain",
     "drinking_water": "yes",
+    "indoor": "no",
+    "lit": "no",
     "name": "Flow-Form-Brunnen"
   }
 },
@@ -1346,8 +1356,12 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "bottle": "yes",
     "colour": "#428992",
+    "covered": "no",
     "fee": "no",
+    "indoor": "no",
+    "lit": "no",
     "man_made": "water_well",
     "operator": "N-ERGIE",
     "pump": "manual",
@@ -3417,6 +3431,7 @@
     "bottle": "yes",
     "fee": "no",
     "image": "https://bikepacking-bilder.de/external/2219/1.png",
+    "level": "0",
     "seasonal": "spring;summer;autumn",
     "source": "https://bikepackingspots.de/locations/trinkwasserspender-am-woehrder-see-in-nuernberg/",
     "wheelchair": "yes"

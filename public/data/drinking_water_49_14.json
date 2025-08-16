@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:53:15Z",
+    "timestamp_osm_base": "2025-08-16T12:02:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -317,6 +317,21 @@
     "amenity": "drinking_water",
     "check_date": "2023-06-01",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 2130427795,
+  "lat": 49.4675696,
+  "lon": 14.3638354,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "kemp Vášův mlýn",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "tourism": "camp_site"
   }
 },
 {
@@ -1441,6 +1456,24 @@
   "id": 13037990302,
   "lat": 49.1573594,
   "lon": 14.7671275,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13057069859,
+  "lat": 49.9899601,
+  "lon": 14.8798813,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13073880983,
+  "lat": 49.9897785,
+  "lon": 14.6506135,
   "tags": {
     "amenity": "drinking_water"
   }

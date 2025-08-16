@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:55:15Z",
+    "timestamp_osm_base": "2025-08-16T12:05:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -245,12 +245,12 @@
     "contact:instagram": "veganski_kiel",
     "contact:phone": "+49 431 98280600",
     "contact:website": "http://www.veganmarkt-kiel.de",
-    "diet:vegan": "yes",
+    "diet:vegan": "only",
     "drinking_water": "yes",
     "internet_access": "no",
     "level": "0",
     "name": "Veganski",
-    "opening_hours": "Mo-Sa 10:00-19:00;PH off",
+    "opening_hours": "Mo-Sa 10:00-19:00; PH off",
     "operator": "René Ghods",
     "organic": "yes",
     "payment:american_express": "yes",
@@ -882,6 +882,42 @@
     "fountain": "drinking",
     "indoor": "yes",
     "level": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 13051898867,
+  "lat": 54.1079156,
+  "lon": 10.9054032,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13051947101,
+  "lat": 54.1081955,
+  "lon": 10.9001964,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13067370302,
+  "lat": 54.9611465,
+  "lon": 10.8044872,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13068268602,
+  "lat": 54.7226292,
+  "lon": 10.6941260,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

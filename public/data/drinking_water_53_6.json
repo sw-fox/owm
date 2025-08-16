@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:55:15Z",
+    "timestamp_osm_base": "2025-08-16T12:05:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -287,8 +287,13 @@
     "bottle": "yes",
     "drinking_water": "yes",
     "fee": "no",
-    "fountain": "bottle_refill",
+    "man_made": "water_tap",
+    "name": "Watertappunt OV Hub Europapark",
     "opening_hours": "24/7",
+    "operator": "Waterbedrijf Groningen",
+    "operator:website": "https://waterbedrijfgroningen.nl",
+    "operator:wikidata": "Q2200078",
+    "operator:wikipedia": "nl:Waterbedrijf Groningen",
     "seasonal": "no"
   }
 },
@@ -424,8 +429,8 @@
 {
   "type": "node",
   "id": 7744166666,
-  "lat": 53.1750230,
-  "lon": 6.6180123,
+  "lat": 53.1750244,
+  "lon": 6.6180083,
   "tags": {
     "amenity": "drinking_water",
     "indoor": "no",
@@ -544,17 +549,6 @@
     "operator": "Waterbedrijf Groningen",
     "operator:wikidata": "Q2200078",
     "operator:wikipedia": "nl:Waterbedrijf Groningen",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 7997476765,
-  "lat": 53.2048202,
-  "lon": 6.5860002,
-  "tags": {
-    "amenity": "drinking_water",
-    "name": "Watertappunt Station Europapark",
     "wheelchair": "yes"
   }
 },
@@ -739,8 +733,8 @@
 {
   "type": "node",
   "id": 8849786748,
-  "lat": 53.2385611,
-  "lon": 6.5944496,
+  "lat": 53.2385657,
+  "lon": 6.5944419,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
@@ -1264,6 +1258,36 @@
     "bottle": "yes",
     "fee": "no",
     "panoramax": "9828ff87-786b-44ad-beef-c150bfedceb9"
+  }
+},
+{
+  "type": "node",
+  "id": 13064979474,
+  "lat": 53.5913817,
+  "lon": 6.6597503,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13069567331,
+  "lat": 53.6065843,
+  "lon": 6.7287837,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13070594835,
+  "lat": 53.5874758,
+  "lon": 6.6633400,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
   }
 }
 

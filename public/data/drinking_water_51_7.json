@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:54:15Z",
+    "timestamp_osm_base": "2025-08-16T12:03:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -374,6 +374,25 @@
     "female": "yes",
     "male": "yes",
     "operator": "Zoo Wuppertal",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 701743546,
+  "lat": 51.3864151,
+  "lon": 7.7822145,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "check_date": "2025-03-09",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
     "wheelchair": "yes"
@@ -4146,6 +4165,7 @@
   "tags": {
     "access": "customers",
     "amenity": "toilets",
+    "check_date": "2025-08-15",
     "drinking_water": "yes",
     "fee": "no",
     "female": "yes",
@@ -4663,6 +4683,7 @@
     "amenity": "drinking_water",
     "artist_name": "Eberhard Linke",
     "description": "Trinkwasserhahn im Winter abgestellt",
+    "fountain": "bubbler",
     "height": "1.2",
     "inscription": "Dortmunder Stadwerke AG",
     "material": "bronze",
@@ -5444,6 +5465,7 @@
     "female": "yes",
     "male": "yes",
     "note": "Schlüssel ist an der Kasse erhältlich",
+    "opening_hours": "24/7",
     "operator": "ARAL",
     "toilets:disposal": "flush",
     "toilets:position": "seated"
@@ -6552,7 +6574,7 @@
   "lat": 51.7703071,
   "lon": 7.4446078,
   "tags": {
-    "disused:amenity": "drinking_water",
+    "amenity": "drinking_water",
     "fountain": "bubbler",
     "name": "Gesundbrunnen",
     "service_times": "Mar-Nov"
@@ -8296,7 +8318,8 @@
     "toilets:disposal": "flush",
     "toilets:handwashing": "yes",
     "toilets:paper_supplied": "yes",
-    "toilets:position": "seated;urinal"
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
   }
 },
 {
@@ -8308,6 +8331,49 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13045791897,
+  "lat": 51.5304820,
+  "lon": 7.0812571,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2025-08-03",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Gelsenwasser",
+    "operator:wikidata": "Q320364",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13057900457,
+  "lat": 51.1167850,
+  "lon": 7.3964144,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water:refill": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "operator": "Buchhandlung Colibri",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13070449422,
+  "lat": 51.7708542,
+  "lon": 7.4422505,
+  "tags": {
+    "amenity": "drinking_water",
+    "opening_hours": "Mo-We 07:30-16:00; Th 07:30-18:00; Fr 07:30-12:00"
   }
 }
 

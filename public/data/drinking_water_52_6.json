@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:55:15Z",
+    "timestamp_osm_base": "2025-08-16T12:04:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -191,7 +191,7 @@
     "internet_access": "wlan",
     "internet_access:fee": "no",
     "kettle": "yes",
-    "kitchen": "true",
+    "kitchen": "yes",
     "laundry_centrifuge": "no",
     "microwave": "yes",
     "motorhome": "yes",
@@ -2820,11 +2820,12 @@
   "lon": 6.5846777,
   "tags": {
     "access": "yes",
+    "amenity": "drinking_water",
     "bottle": "yes",
     "capacity": "1",
-    "disused:amenity": "drinking_water",
     "drinking_water:legal": "yes",
     "fee": "no",
+    "fountain": "bottle_refill",
     "indoor": "no",
     "operator": "NS",
     "operator:wikidata": "Q23076",
@@ -3559,8 +3560,8 @@
 {
   "type": "node",
   "id": 11672216133,
-  "lat": 52.8550487,
-  "lon": 6.5209697,
+  "lat": 52.8550596,
+  "lon": 6.5209754,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -5526,6 +5527,66 @@
     "fee": "no",
     "man_made": "water_tap",
     "note": "Not available in winter"
+  }
+},
+{
+  "type": "node",
+  "id": 13045628606,
+  "lat": 52.2658183,
+  "lon": 6.7945306,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13052369054,
+  "lat": 52.8496798,
+  "lon": 6.5891579,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13054803833,
+  "lat": 52.8497104,
+  "lon": 6.5908459,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13054851544,
+  "lat": 52.8507972,
+  "lon": 6.5885804,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13055567128,
+  "lat": 52.8503904,
+  "lon": 6.5892394,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13070332061,
+  "lat": 52.7877051,
+  "lon": 6.8866622,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
   }
 }
 

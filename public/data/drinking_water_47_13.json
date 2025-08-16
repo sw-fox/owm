@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:52:15Z",
+    "timestamp_osm_base": "2025-08-16T12:00:34Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -939,7 +939,8 @@
   "tags": {
     "amenity": "drinking_water",
     "check_date": "2022-10-24",
-    "fountain": "drinking"
+    "fountain": "drinking",
+    "name": "Trinkwasser vom hl. Bründl"
   }
 },
 {
@@ -1673,24 +1674,12 @@
 {
   "type": "node",
   "id": 2522147151,
-  "lat": 47.8026826,
-  "lon": 13.0387390,
+  "lat": 47.8026846,
+  "lon": 13.0387632,
   "tags": {
     "amenity": "fountain",
     "drinking_water": "yes",
     "drinking_water:legal": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 2530008089,
-  "lat": 47.8003340,
-  "lon": 13.0400822,
-  "tags": {
-    "amenity": "drinking_water",
-    "check_date": "2022-01-09",
-    "fountain": "drinking",
-    "name": "Blasius-Brunnen"
   }
 },
 {
@@ -3199,8 +3188,8 @@
 {
   "type": "node",
   "id": 5018746098,
-  "lat": 47.1416705,
-  "lon": 13.8054330,
+  "lat": 47.1416322,
+  "lon": 13.8054357,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -3551,18 +3540,6 @@
     "amenity": "drinking_water",
     "fountain": "bubbler",
     "layer": "-1"
-  }
-},
-{
-  "type": "node",
-  "id": 5834093414,
-  "lat": 47.7952430,
-  "lon": 13.0478835,
-  "tags": {
-    "amenity": "drinking_water",
-    "artwork_type": "stone",
-    "check_date": "2024-10-30",
-    "tourism": "artwork"
   }
 },
 {
@@ -4405,8 +4382,8 @@
 {
   "type": "node",
   "id": 7751936186,
-  "lat": 47.7952819,
-  "lon": 13.0478752,
+  "lat": 47.7952757,
+  "lon": 13.0478767,
   "tags": {
     "amenity": "drinking_water",
     "fountain": "bottle_refill"
@@ -4819,7 +4796,8 @@
   "lon": 13.0394966,
   "tags": {
     "amenity": "drinking_water",
-    "fee": "no"
+    "fee": "no",
+    "fountain": "bubbler"
   }
 },
 {
@@ -6147,7 +6125,8 @@
   "lat": 47.4031757,
   "lon": 13.1173405,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -6896,6 +6875,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bubbler",
     "survey:date": "2024-11-03"
   }
 },
@@ -7154,6 +7134,44 @@
   "id": 13029607001,
   "lat": 47.6324667,
   "lon": 13.0017382,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13051631023,
+  "lat": 47.0758897,
+  "lon": 13.8415140,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13070734829,
+  "lat": 47.7976087,
+  "lon": 13.0590294,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13072017141,
+  "lat": 47.1461588,
+  "lon": 13.7672859,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Dorfbrunnen",
+    "start_date": "2007"
+  }
+},
+{
+  "type": "node",
+  "id": 13072179526,
+  "lat": 47.2237862,
+  "lon": 13.7631610,
   "tags": {
     "amenity": "drinking_water"
   }
