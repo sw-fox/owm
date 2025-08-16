@@ -1,7 +1,7 @@
 {
     "name": "Open Water Map",
     "short_name": "OWM",
-    "start_url": "./index.html",
+    "start_url": "./",
     "display": "standalone",
     "icons": [
       {
