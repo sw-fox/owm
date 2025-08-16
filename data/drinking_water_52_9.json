@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:55:15Z",
+    "timestamp_osm_base": "2025-08-16T12:04:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -254,8 +254,7 @@
   "lat": 52.3962256,
   "lon": 9.7860679,
   "tags": {
-    "amenity": "drinking_water",
-    "name": "Trinkwasserbrunnen"
+    "amenity": "drinking_water"
   }
 },
 {
@@ -971,6 +970,7 @@
     "amenity": "drinking_water",
     "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
     "fee": "no",
+    "fountain": "drinking",
     "name": "Euro-Trinkbrunnen",
     "operator": "Avacon Wasser"
   }

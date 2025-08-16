@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:52:15Z",
+    "timestamp_osm_base": "2025-08-16T12:00:34Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -183,8 +183,8 @@
 {
   "type": "node",
   "id": 566454892,
-  "lat": 47.7369463,
-  "lon": 12.1050660,
+  "lat": 47.7369188,
+  "lon": 12.1050472,
   "tags": {
     "amenity": "drinking_water",
     "check_date": "2025-01-12",
@@ -1556,8 +1556,8 @@
 {
   "type": "node",
   "id": 2204404295,
-  "lat": 47.7350126,
-  "lon": 12.3169477,
+  "lat": 47.7350370,
+  "lon": 12.3169775,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -1734,9 +1734,13 @@
   "lat": 47.3039387,
   "lon": 12.8322925,
   "tags": {
+    "access": "permissive",
+    "amenity": "drinking_water",
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
-    "man_made": "water_well"
+    "fee": "no",
+    "operator": "Privat",
+    "wheelchair": "no"
   }
 },
 {
@@ -1878,16 +1882,6 @@
     "check_date": "2022-04-06",
     "man_made": "water_tap",
     "watering_place": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 2447700175,
-  "lat": 47.6598465,
-  "lon": 12.4754029,
-  "tags": {
-    "amenity": "drinking_water",
-    "watering_place": "yes"
   }
 },
 {
@@ -2149,7 +2143,8 @@
   "lon": 12.2429317,
   "tags": {
     "amenity": "drinking_water",
-    "check_date": "2025-03-28"
+    "check_date": "2025-03-28",
+    "fountain": "drinking"
   }
 },
 {
@@ -3732,6 +3727,7 @@
   "lon": 12.0020163,
   "tags": {
     "amenity": "drinking_water",
+    "fee": "no",
     "fountain": "drinking"
   }
 },
@@ -3886,6 +3882,7 @@
   "lon": 12.2614711,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-08-15",
     "description": "Holztrog mit Edelstahlzulauf"
   }
 },
@@ -4310,8 +4307,8 @@
 {
   "type": "node",
   "id": 5731978613,
-  "lat": 47.8023892,
-  "lon": 12.7822659,
+  "lat": 47.8024739,
+  "lon": 12.7822230,
   "tags": {
     "amenity": "drinking_water",
     "name": "Otto Brunn",
@@ -4514,8 +4511,8 @@
 {
   "type": "node",
   "id": 5863880559,
-  "lat": 47.8555623,
-  "lon": 12.1277280,
+  "lat": 47.8555505,
+  "lon": 12.1277039,
   "tags": {
     "amenity": "fountain",
     "check_date": "2025-07-31",
@@ -4526,7 +4523,8 @@
     "indoor": "no",
     "lit": "no",
     "name": "Vogelbrunnen",
-    "operator": "Stadtwerke Rosenheim"
+    "operator": "Stadtwerke Rosenheim",
+    "panoramax": "4da2eab3-a231-4038-b35d-25f7ac6fb994"
   }
 },
 {
@@ -6728,7 +6726,8 @@
   "lat": 47.1226046,
   "lon": 12.2998526,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -8031,9 +8030,17 @@
   "lon": 12.0081927,
   "tags": {
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "yes",
     "description": "Spender mit Druckknopf",
-    "fountain": "drinking",
-    "indoor": "no"
+    "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "indoor": "no",
+    "panoramax": "f573365e-db09-4f28-b205-c0aa0347ecf8",
+    "room_temperature_water": "no",
+    "warm_water": "no"
   }
 },
 {
@@ -8290,6 +8297,7 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "fountain": "drinking",
     "operator": "Gemeinde Stephanskirchen",
     "wheelchair": "yes"
   }
@@ -8623,6 +8631,72 @@
   "id": 13040763757,
   "lat": 47.3669913,
   "lon": 12.8314837,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13052483169,
+  "lat": 47.2752369,
+  "lon": 12.4204543,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13052483172,
+  "lat": 47.2728588,
+  "lon": 12.4247505,
+  "tags": {
+    "amenity": "drinking_water",
+    "caravan": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13052483174,
+  "lat": 47.2712617,
+  "lon": 12.4196530,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13056706370,
+  "lat": 47.2845037,
+  "lon": 12.8685383,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13058377310,
+  "lat": 47.2723758,
+  "lon": 12.4267480,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13058642159,
+  "lat": 47.5839131,
+  "lon": 12.5875798,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Public drinking water"
+  }
+},
+{
+  "type": "node",
+  "id": 13059301321,
+  "lat": 47.7529609,
+  "lon": 12.9947634,
   "tags": {
     "amenity": "drinking_water"
   }

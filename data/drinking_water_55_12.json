@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:56:15Z",
+    "timestamp_osm_base": "2025-08-16T12:06:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -125,18 +125,6 @@
   "lon": 12.4121721,
   "tags": {
     "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
-  "id": 762555557,
-  "lat": 55.6814533,
-  "lon": 12.5754001,
-  "tags": {
-    "amenity": "drinking_water",
-    "disused": "yes",
-    "man_made": "water_tap",
-    "note": "the fountain is defect"
   }
 },
 {
@@ -1236,7 +1224,8 @@
   "lat": 55.4793289,
   "lon": 12.0529954,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1689,6 +1678,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "fountain": "drinking",
     "wheelchair": "limited"
   }
 },
@@ -2226,8 +2216,11 @@
   "lon": 12.9551073,
   "tags": {
     "access": "yes",
+    "bottle": "yes",
     "drinking_water": "yes",
-    "man_made": "water_tap"
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7"
   }
 },
 {
@@ -2247,9 +2240,12 @@
   "lat": 55.6001183,
   "lon": 12.9592568,
   "tags": {
+    "bottle": "yes",
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
-    "man_made": "water_tap"
+    "fee": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7"
   }
 },
 {
@@ -3694,6 +3690,19 @@
     "drinking_water": "yes",
     "fee": "no",
     "level": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 13046286170,
+  "lat": 55.9824844,
+  "lon": 12.1701272,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Inside the restroom",
+    "fee": "no",
+    "wheelchair": "limited"
   }
 }
 

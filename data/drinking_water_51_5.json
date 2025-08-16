@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:54:15Z",
+    "timestamp_osm_base": "2025-08-16T12:03:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1694,6 +1694,16 @@
 },
 {
   "type": "node",
+  "id": 6830098925,
+  "lat": 51.6471177,
+  "lon": 5.0463744,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
   "id": 6851190406,
   "lat": 51.9628493,
   "lon": 5.1736714,
@@ -2149,12 +2159,15 @@
   "lat": 51.4754706,
   "lon": 5.6604962,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
+    "fee": "no",
     "fountain": "bottle_refill",
     "note": "permission from Brabant Water to use source",
     "operator": "JoinThePipe, for Brabant Water",
-    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx"
+    "source": "https://www.brabantwater.nl/overbrabantwater/download/tappunt.gpx",
+    "wheelchair": "yes"
   }
 },
 {
@@ -3981,7 +3994,8 @@
   "lon": 5.8589181,
   "tags": {
     "amenity": "drinking_water",
-    "man_made": "water_tap"
+    "man_made": "water_tap",
+    "opening_hours": "May-Sep Mo-Su 00:00-24:00"
   }
 },
 {
@@ -6263,6 +6277,66 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13045045675,
+  "lat": 51.7555577,
+  "lon": 5.5224126,
+  "tags": {
+    "amenity": "drinking_water",
+    "source": "survey 07.2025 and PDOK Imagery"
+  }
+},
+{
+  "type": "node",
+  "id": 13047931179,
+  "lat": 51.8114132,
+  "lon": 5.8510452,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13061420936,
+  "lat": 51.6297872,
+  "lon": 5.0726956,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13061445293,
+  "lat": 51.6464616,
+  "lon": 5.0517858,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 13061445294,
+  "lat": 51.6496826,
+  "lon": 5.0498690,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13070732131,
+  "lat": 51.6485794,
+  "lon": 5.0490137,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fountain": "drinking"
   }
 }
 

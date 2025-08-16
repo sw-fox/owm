@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:54:15Z",
+    "timestamp_osm_base": "2025-08-16T12:03:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -10,8 +10,8 @@
 {
   "type": "node",
   "id": 778102,
-  "lat": 50.1484112,
-  "lon": 12.4031804,
+  "lat": 50.1483665,
+  "lon": 12.4031191,
   "tags": {
     "drinking_water": "yes",
     "name": "Císařský pramen",
@@ -81,8 +81,8 @@
 {
   "type": "node",
   "id": 413278691,
-  "lat": 50.0153329,
-  "lon": 12.7234532,
+  "lat": 50.0152685,
+  "lon": 12.7235179,
   "tags": {
     "drinking_water": "yes",
     "name": "Farská kyselka",
@@ -155,10 +155,12 @@
     "amenity": "drinking_water",
     "fee": "no",
     "fixme": "rozdělit",
+    "fountain": "drinking",
     "lit": "no",
     "name": "Helena a Viktor",
     "source": "cuzk:km;local_knowledge",
-    "water_characteristic": "mineral"
+    "water_characteristic": "mineral",
+    "wikidata": "Q121682620"
   }
 },
 {
@@ -722,8 +724,8 @@
 {
   "type": "node",
   "id": 2159753559,
-  "lat": 50.1139974,
-  "lon": 12.3566730,
+  "lat": 50.1140454,
+  "lon": 12.3567190,
   "tags": {
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
@@ -779,8 +781,8 @@
 {
   "type": "node",
   "id": 2400051239,
-  "lat": 50.1130595,
-  "lon": 12.3577816,
+  "lat": 50.1130757,
+  "lon": 12.3578536,
   "tags": {
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
@@ -912,6 +914,7 @@
     "water:temperature": "12",
     "water_characteristic": "mineral",
     "wheelchair": "no",
+    "wikidata": "Q107092330",
     "wikimedia_commons": "File:Pramen_František_(září_2021).jpg"
   }
 },
@@ -1260,6 +1263,25 @@
     "website": "http://kyselky.kremilkovo.cz/KyselkyMapa.aspx?cr=1",
     "wikidata": "Q12005541",
     "wikipedia": "cs:Vřídlo (Karlovy Vary)"
+  }
+},
+{
+  "type": "node",
+  "id": 4315401137,
+  "lat": 50.7321900,
+  "lon": 12.6981382,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "check_date:opening_hours": "2025-08-02",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours:signed": "no",
+    "operator": "Stadtverwaltung Oelsnitz/Erzgeb.",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
   }
 },
 {
@@ -3272,6 +3294,15 @@
     "fee": "no",
     "operator": "Stadtverwaltung Limbach-Oberfrohna",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13049969083,
+  "lat": 50.2882583,
+  "lon": 12.0146757,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:54:15Z",
+    "timestamp_osm_base": "2025-08-16T12:04:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -415,7 +415,7 @@
   "tags": {
     "amenity": "drinking_water",
     "artwork_type": "statue",
-    "image": "https://www.mapillary.com/app/?pKey=3882797131838185",
+    "image": "https://photos.app.goo.gl/JFvpTysc4hBDTNo66",
     "man_made": "water_tap",
     "mapillary": "3882797131838185",
     "name": "Bachusik Aquaduktus i Bachuska Aquadukta",

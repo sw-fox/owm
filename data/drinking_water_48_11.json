@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:52:15Z",
+    "timestamp_osm_base": "2025-08-16T12:01:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -322,22 +322,6 @@
     "fountain": "drinking",
     "name": "St.-Martin-Brunnen",
     "operator": "Stadt München",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 516558607,
-  "lat": 48.1430881,
-  "lon": 11.5746036,
-  "tags": {
-    "amenity": "drinking_water",
-    "check_date": "2022-01-29",
-    "fountain": "bubbler",
-    "inscription": "Prinzregent Luitpold von Bayern 1821-1912",
-    "name": "Prinzregent-Luitpold-Brunnen",
-    "operator": "Stadtwerke München",
-    "source": "http://wiki.openstreetmap.org/wiki/User:PatrickK/Projekt:TrinkwasserbrunnenMünchen",
     "wheelchair": "yes"
   }
 },
@@ -904,6 +888,7 @@
     "artist_name": "Christian Wrede",
     "drinking_water": "no",
     "fee": "no",
+    "fountain": "drinking",
     "material": "stone",
     "opening_hours": "Dec-Feb: off",
     "start_date": "1934",
@@ -1302,6 +1287,25 @@
 },
 {
   "type": "node",
+  "id": 976009490,
+  "lat": 48.2209641,
+  "lon": 11.6254031,
+  "tags": {
+    "capacity": "50",
+    "caravan_site:type": "parking_lot",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "internet_access": "no",
+    "name": "Wohnmobilstellplatz Allianz Arena",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "toilets": "no",
+    "tourism": "caravan_site",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
   "id": 979763273,
   "lat": 48.1754601,
   "lon": 11.8300514,
@@ -1659,15 +1663,6 @@
   "id": 2286049589,
   "lat": 48.3018237,
   "lon": 11.3839814,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
-  "id": 2320112883,
-  "lat": 48.4026359,
-  "lon": 11.1650055,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -3597,7 +3592,7 @@
     "female": "yes",
     "male": "yes",
     "toilets:disposal": "flush",
-    "wheelchair": "no"
+    "wheelchair": "limited"
   }
 },
 {
@@ -3758,7 +3753,8 @@
   "lat": 48.2553550,
   "lon": 11.3631976,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -4429,7 +4425,8 @@
   "lon": 11.7985652,
   "tags": {
     "amenity": "drinking_water",
-    "fountain": "drinking"
+    "fountain": "drinking",
+    "indoor": "yes"
   }
 },
 {
@@ -5179,7 +5176,8 @@
   "lon": 11.7990240,
   "tags": {
     "amenity": "drinking_water",
-    "fountain": "bubbler"
+    "fountain": "bubbler",
+    "indoor": "yes"
   }
 },
 {
@@ -5494,15 +5492,18 @@
 {
   "type": "node",
   "id": 12887170546,
-  "lat": 48.4022374,
-  "lon": 11.1636959,
+  "lat": 48.4022539,
+  "lon": 11.1636899,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
     "drinking_water": "yes",
     "fee": "no",
+    "fountain": "bubbler",
+    "lit": "yes",
     "opening_hours": "24/7; Nov-Mar off",
     "operator": "Adelburggruppe",
+    "panoramax": "25e5b0c4-1220-4eb9-80d8-f50110fac512",
     "wheelchair": "yes"
   }
 },
@@ -5774,6 +5775,15 @@
   "tags": {
     "amenity": "fountain",
     "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13071336511,
+  "lat": 48.4685473,
+  "lon": 11.9371838,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:55:15Z",
+    "timestamp_osm_base": "2025-08-16T12:04:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -314,12 +314,14 @@
     "brand:wikidata": "Q104814416",
     "changing_table": "yes",
     "charge": "1,00 EUR",
-    "check_date": "2024-05-12",
+    "check_date": "2025-08-09",
+    "check_date:opening_hours": "2025-08-09",
     "drinking_water": "yes",
     "fee": "yes",
     "female": "yes",
     "level": "-1",
     "male": "yes",
+    "opening_hours": "24/7",
     "operator": "SANIFAIR GmbH",
     "operator:wikidata": "Q104814416",
     "toilets:disposal": "flush",

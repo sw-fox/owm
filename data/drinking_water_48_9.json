@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:52:15Z",
+    "timestamp_osm_base": "2025-08-16T12:01:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -77,6 +77,7 @@
     "amenity": "drinking_water",
     "description": "Öffentlicher Mineralwasser-Trinkbrunnen",
     "name": "Polizeibrunnen",
+    "website": "http://www.stgt.com/brunnen/polizeibrunnen.htm",
     "wheelchair": "no"
   }
 },
@@ -2867,6 +2868,7 @@
     "access": "permit",
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
+    "indoor": "yes",
     "name": "Helfenstein Quelle",
     "natural": "spring"
   }
@@ -4235,7 +4237,9 @@
     "bottle": "yes",
     "covered": "no",
     "fee": "no",
+    "fountain": "water_tap",
     "indoor": "no",
+    "operational_status": "broken",
     "panoramax": "26021c75-97d0-4a18-8ca9-0172f9cd2b70"
   }
 },
@@ -5209,20 +5213,6 @@
 },
 {
   "type": "node",
-  "id": 9828296467,
-  "lat": 48.2856516,
-  "lon": 9.7244786,
-  "tags": {
-    "amenity": "drinking_water",
-    "indoor": "no",
-    "level": "0",
-    "man_made": "water_tap",
-    "note": "the tap is still in place but it’s not functional unfortunately ",
-    "opening_hours": "closed"
-  }
-},
-{
-  "type": "node",
   "id": 9891698237,
   "lat": 48.7873209,
   "lon": 9.1511423,
@@ -5865,7 +5855,8 @@
   "lat": 48.8305243,
   "lon": 9.1218733,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
   }
 },
 {
@@ -6118,7 +6109,12 @@
     "amenity": "drinking_water",
     "description": "Trinkbrunnen Eingangshalle Mineralbad DAS LEUZE",
     "fountain": "drinking",
+    "last_checked": "2025-08-11",
+    "name": "Inselquelle",
     "operator": "Stuttgarter Bäder",
+    "water_characteristic": "mineral",
+    "water_source": "spring",
+    "website": "https://www.stuttgarterbaeder.de/fileadmin/pdf/Stuttgarter-Mineralwasser.pdf",
     "wheelchair": "yes"
   }
 },
@@ -6130,7 +6126,10 @@
   "tags": {
     "amenity": "drinking_water",
     "name": "Trinkbrunnen Elisenquelle (Berger Urquell)",
-    "operator": "Stuttgarter Bäder"
+    "operator": "Stuttgarter Bäder",
+    "water_characteristic": "mineral",
+    "water_source": "spring",
+    "website": "https://www.stuttgarterbaeder.de/fileadmin/pdf/Stuttgarter-Mineralwasser.pdf"
   }
 },
 {
@@ -7235,6 +7234,7 @@
     "access": "customers",
     "amenity": "toilets",
     "drinking_water": "yes",
+    "fee": "no",
     "level": "0",
     "male": "yes",
     "toilets:handwashing": "yes",
@@ -7292,7 +7292,8 @@
   "lat": 48.4994430,
   "lon": 9.1767368,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -7335,6 +7336,32 @@
   "lon": 9.1230450,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13049005796,
+  "lat": 48.6901421,
+  "lon": 9.1958149,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "description:de": "Möglichkeit zum Auffüllen der Wasserflasche nach der Sicherheitskontrolle",
+    "description:en": "Possibility to refill the water bottle after the security check",
+    "fee": "no",
+    "level": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 13072211856,
+  "lat": 48.3990613,
+  "lon": 9.9837358,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
   }
 }
 

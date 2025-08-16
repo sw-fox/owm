@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:55:15Z",
+    "timestamp_osm_base": "2025-08-16T12:04:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -17,15 +17,6 @@
     "bottle": "yes",
     "panoramax": "3dec5f51-8703-4216-86af-ea2e55a1abfa",
     "panoramax:0": "1c943f46-2aed-40e4-8a0f-23df62c688d3"
-  }
-},
-{
-  "type": "node",
-  "id": 1783493207,
-  "lat": 52.1954030,
-  "lon": 7.9797249,
-  "tags": {
-    "amenity": "drinking_water"
   }
 },
 {
@@ -430,7 +421,7 @@
     "addr:street": "Groß Dörgen",
     "caravans": "yes",
     "drinking_water": "yes",
-    "name": "Anmeldung des Campingplatzes",
+    "name": "Hase Natur Camping",
     "operator": "Hase-Natur-Camping",
     "phone": "+49 5931 2319",
     "power_supply": "yes",
@@ -1005,6 +996,35 @@
   "lon": 7.7428467,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13059964100,
+  "lat": 52.1960120,
+  "lon": 7.9757986,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13072141044,
+  "lat": 52.2649569,
+  "lon": 7.7283480,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "cold_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "hot_water": "no",
+    "man_made": "water_tap",
+    "operator": "WTL – Wasserversorgungsverband Tecklenburger Land",
+    "seasonal": "yes",
+    "warm_water": "no",
+    "wheelchair": "yes"
   }
 }
 

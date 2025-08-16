@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:55:15Z",
+    "timestamp_osm_base": "2025-08-16T12:05:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -274,8 +274,8 @@
 {
   "type": "node",
   "id": 1720853420,
-  "lat": 53.5922244,
-  "lon": 10.0152790,
+  "lat": 53.5920959,
+  "lon": 10.0153221,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -421,8 +421,8 @@
 {
   "type": "node",
   "id": 2431120856,
-  "lat": 53.2948825,
-  "lon": 10.7343529,
+  "lat": 53.2949025,
+  "lon": 10.7343335,
   "tags": {
     "access": "yes",
     "amenity": "toilets",
@@ -632,7 +632,9 @@
   "lat": 53.6164810,
   "lon": 10.0871390,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-08-03",
+    "fountain": "drinking"
   }
 },
 {
@@ -641,7 +643,9 @@
   "lat": 53.6169611,
   "lon": 10.0868886,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-08-03",
+    "fountain": "drinking"
   }
 },
 {
@@ -1091,13 +1095,13 @@
 {
   "type": "node",
   "id": 9048610034,
-  "lat": 53.9741082,
-  "lon": 10.9561654,
+  "lat": 53.9740762,
+  "lon": 10.9561989,
   "tags": {
     "access": "yes",
     "amenity": "toilets",
+    "changing_table": "no",
     "drinking_water": "yes",
-    "fee": "no",
     "female": "yes",
     "male": "yes",
     "toilets:position": "seated;urinal"
@@ -1328,7 +1332,9 @@
   "lon": 10.4084628,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "20250803",
     "man_made": "water_tap",
+    "note": "Aktuell nicht nutzbar auf Grund der Baustelle.",
     "opening_hours": "Apr-Oct",
     "seasonal": "Apr-Oct"
   }
@@ -1339,10 +1345,13 @@
   "lat": 53.2489175,
   "lon": 10.4089082,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
+    "fee": "no",
     "man_made": "water_tap",
     "opening_hours": "Apr-Oct",
-    "seasonal": "Apr-Oct"
+    "seasonal": "Apr-Oct",
+    "wheelchair": "yes"
   }
 },
 {
@@ -1575,16 +1584,6 @@
 },
 {
   "type": "node",
-  "id": 11936204907,
-  "lat": 53.5920792,
-  "lon": 10.0153112,
-  "tags": {
-    "amenity": "drinking_water",
-    "fountain": "bubbler"
-  }
-},
-{
-  "type": "node",
   "id": 12042248494,
   "lat": 53.1841794,
   "lon": 10.8468231,
@@ -1759,6 +1758,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bubbler",
     "wheelchair": "yes"
   }
 },
@@ -1797,7 +1797,8 @@
   "tags": {
     "access": "yes",
     "amenity": "shower",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "no"
   }
 },
 {
@@ -1808,7 +1809,8 @@
   "tags": {
     "access": "yes",
     "amenity": "shower",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "no"
   }
 },
 {
@@ -1819,7 +1821,8 @@
   "tags": {
     "access": "yes",
     "amenity": "shower",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "no"
   }
 },
 {
@@ -1830,7 +1833,8 @@
   "tags": {
     "access": "yes",
     "amenity": "shower",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "no"
   }
 },
 {
@@ -1844,6 +1848,25 @@
     "dog": "yes",
     "man_made": "drinking_fountain",
     "operator": "Hamburg Wasser"
+  }
+},
+{
+  "type": "node",
+  "id": 13050676815,
+  "lat": 53.1923631,
+  "lon": 10.4252868,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13070637684,
+  "lat": 53.5243350,
+  "lon": 10.0523929,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

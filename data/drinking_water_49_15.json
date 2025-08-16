@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:53:15Z",
+    "timestamp_osm_base": "2025-08-16T12:02:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -115,16 +115,6 @@
 },
 {
   "type": "node",
-  "id": 951767370,
-  "lat": 49.3957006,
-  "lon": 15.5862913,
-  "tags": {
-    "amenity": "drinking_water",
-    "source": "survey"
-  }
-},
-{
-  "type": "node",
   "id": 953752137,
   "lat": 49.1174609,
   "lon": 15.2903756,
@@ -219,24 +209,27 @@
   "lat": 49.0045653,
   "lon": 15.4406914,
   "tags": {
+    "access": "customers",
     "amenity": "drinking_water"
   }
 },
 {
   "type": "node",
   "id": 1356017329,
-  "lat": 49.0049879,
-  "lon": 15.4396426,
+  "lat": 49.0048536,
+  "lon": 15.4396687,
   "tags": {
+    "access": "customers",
     "amenity": "drinking_water"
   }
 },
 {
   "type": "node",
   "id": 1356017330,
-  "lat": 49.0052306,
-  "lon": 15.4397687,
+  "lat": 49.0052621,
+  "lon": 15.4396442,
   "tags": {
+    "access": "customers",
     "amenity": "drinking_water"
   }
 },
@@ -718,22 +711,13 @@
     "amenity": "toilets",
     "changing_table": "no",
     "drinking_water": "yes",
-    "fee": "yes",
+    "fee": "no",
     "female": "yes",
     "male": "yes",
     "operator": "Camp",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
-    "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
-  "id": 4946047420,
-  "lat": 49.1939423,
-  "lon": 15.4490824,
-  "tags": {
-    "amenity": "drinking_water"
+    "wheelchair": "no"
   }
 },
 {
@@ -1039,6 +1023,20 @@
     "natural": "spring",
     "ref": "4553",
     "website": "https://www.estudanky.eu/4553-jiny-vodni-zdroj-pramen-sv-markety"
+  }
+},
+{
+  "type": "node",
+  "id": 9685922795,
+  "lat": 49.0950781,
+  "lon": 15.0664942,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Bleší studánka",
+    "natural": "spring",
+    "ref": "7482",
+    "website": "Bleší studánka"
   }
 },
 {
@@ -1402,17 +1400,20 @@
 {
   "type": "node",
   "id": 12400955507,
-  "lat": 49.5244490,
-  "lon": 15.2669545,
+  "lat": 49.5244976,
+  "lon": 15.2670358,
   "tags": {
     "access": "yes",
-    "check_date": "2024-08-02",
+    "check_date": "2025-08-02",
     "drinking_water": "yes",
     "drinking_water:legal": "no",
+    "handle": "lever",
     "man_made": "water_well",
     "name": "Junačka",
     "operator": "Junák - český skaut, středisko Orlík Humpolec, z. s.",
-    "pump": "manual"
+    "pump": "manual",
+    "pump:status": "ok",
+    "start_date": "2023-05-29"
   }
 },
 {
@@ -1544,6 +1545,38 @@
   "tags": {
     "drinking_water": "yes",
     "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13043342178,
+  "lat": 49.2287337,
+  "lon": 15.3861094,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13043427706,
+  "lat": 49.2288067,
+  "lon": 15.3847222,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13058781766,
+  "lat": 49.1944383,
+  "lon": 15.4486844,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
   }
 }
 

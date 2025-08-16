@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:55:15Z",
+    "timestamp_osm_base": "2025-08-16T12:05:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -625,6 +625,7 @@
     "amenity": "toilets",
     "drinking_water": "yes",
     "fee": "no",
+    "opening_hours": "24/7",
     "operator": "Sønderborg Kommune",
     "toilets:disposal": "flush",
     "wheelchair": "yes"
@@ -987,6 +988,17 @@
 },
 {
   "type": "node",
+  "id": 9726267023,
+  "lat": 54.8417524,
+  "lon": 9.4134805,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Abrahams Kilde",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
   "id": 9897677746,
   "lat": 54.2186250,
   "lon": 9.4358428,
@@ -1295,6 +1307,7 @@
   "lon": 9.7656728,
   "tags": {
     "camp_site": "basic",
+    "caravans": "no",
     "drinking_water": "yes",
     "fee": "no",
     "motor_vehicle": "no",
@@ -1305,6 +1318,7 @@
     "shelter": "yes",
     "shelter_type": "lean_to",
     "shelters": "2",
+    "tents": "yes",
     "toilets": "yes",
     "tourism": "camp_site",
     "wood_provided": "no"

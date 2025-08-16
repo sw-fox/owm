@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:54:15Z",
+    "timestamp_osm_base": "2025-08-16T12:03:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1285,8 +1285,8 @@
 {
   "type": "node",
   "id": 7208437347,
-  "lat": 51.3947683,
-  "lon": 8.5679009,
+  "lat": 51.3948106,
+  "lon": 8.5679170,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -2236,6 +2236,7 @@
   "tags": {
     "amenity": "drinking_water",
     "description:de": "Edelstahlsäule welche auf knopfdruck einen Wasserstrahl nach schräg oben in die Luft schießt. Dieser kann aufgefangen oder getrunken werden",
+    "fountain": "bubbler",
     "wheelchair": "yes"
   }
 },
@@ -2461,6 +2462,15 @@
     "dog": "no",
     "fountain": "bubbler",
     "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13052689964,
+  "lat": 51.2455695,
+  "lon": 8.7194111,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

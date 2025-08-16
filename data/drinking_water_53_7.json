@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:55:15Z",
+    "timestamp_osm_base": "2025-08-16T12:05:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -50,6 +50,7 @@
     "access": "yes",
     "amenity": "toilets",
     "changing_table": "yes",
+    "check_date": "2025-08-05",
     "drinking_water": "yes",
     "fee": "no",
     "female": "yes",
@@ -348,7 +349,8 @@
   "lon": 7.9003586,
   "tags": {
     "amenity": "shower",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "no"
   }
 },
 {
@@ -540,6 +542,29 @@
 },
 {
   "type": "node",
+  "id": 5851867491,
+  "lat": 53.2135525,
+  "lon": 7.1623368,
+  "tags": {
+    "cabins": "yes",
+    "capacity:cabins": "2",
+    "capacity:pitches": "7",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "motorhome": "yes",
+    "name": "Kostverloren 11",
+    "opening_hours": "Apr 1 - Sep 30",
+    "power_supply": "yes",
+    "sanitary_dump_station": "no",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.kostverloren11.nl/"
+  }
+},
+{
+  "type": "node",
   "id": 6435499987,
   "lat": 53.2553901,
   "lon": 7.9344683,
@@ -718,7 +743,8 @@
   "lon": 7.9049210,
   "tags": {
     "amenity": "shower",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "no"
   }
 },
 {

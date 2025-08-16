@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:52:15Z",
+    "timestamp_osm_base": "2025-08-16T12:00:34Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -280,15 +280,6 @@
   "tags": {
     "amenity": "fountain",
     "drinking_water": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 707515400,
-  "lat": 47.7295074,
-  "lon": 10.3193124,
-  "tags": {
-    "amenity": "drinking_water"
   }
 },
 {
@@ -773,6 +764,18 @@
 },
 {
   "type": "node",
+  "id": 1403924362,
+  "lat": 47.2923304,
+  "lon": 10.4364016,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Dorfbrunnen"
+  }
+},
+{
+  "type": "node",
   "id": 1436288444,
   "lat": 47.2067959,
   "lon": 10.7779059,
@@ -1095,7 +1098,7 @@
   "lon": 10.9249068,
   "tags": {
     "amenity": "drinking_water",
-    "check_date": "2022-07-03",
+    "check_date": "2025-08-15",
     "fountain": "drinking"
   }
 },
@@ -1188,7 +1191,8 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "check_date": "2021-08-26",
+    "check_date": "2025-08-10",
+    "man_made": "water_tap",
     "wheelchair": "limited"
   }
 },
@@ -2866,8 +2870,8 @@
 {
   "type": "node",
   "id": 3677873359,
-  "lat": 47.4472009,
-  "lon": 10.4196120,
+  "lat": 47.4472626,
+  "lon": 10.4195986,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -2952,7 +2956,8 @@
   "lat": 47.3102189,
   "lon": 10.9639790,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -3552,15 +3557,6 @@
 },
 {
   "type": "node",
-  "id": 4916240704,
-  "lat": 47.5128186,
-  "lon": 10.1112382,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 4916240705,
   "lat": 47.5135553,
   "lon": 10.1121490,
@@ -4140,7 +4136,8 @@
   "lat": 47.1278759,
   "lon": 10.2646127,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -4174,10 +4171,11 @@
 {
   "type": "node",
   "id": 6019067359,
-  "lat": 47.4565418,
-  "lon": 10.4363288,
+  "lat": 47.4567575,
+  "lon": 10.4365216,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -5122,7 +5120,9 @@
   "lon": 10.7549172,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-08-03",
     "fee": "no",
+    "fountain": "drinking",
     "name": "Ursprung"
   }
 },
@@ -6267,6 +6267,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "fountain": "drinking",
     "wheelchair": "no"
   }
 },
@@ -7422,7 +7423,8 @@
   "lat": 47.1770820,
   "lon": 10.6252116,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -8775,6 +8777,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "drinking",
     "operator": "Stadtwerke Memmingen",
     "wheelchair": "yes"
   }
@@ -8832,6 +8835,33 @@
   "id": 13028442902,
   "lat": 47.4331696,
   "lon": 10.7203517,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13056029701,
+  "lat": 47.5049405,
+  "lon": 10.5196267,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13062358827,
+  "lat": 47.0016583,
+  "lon": 10.3727311,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13063144968,
+  "lat": 47.2573495,
+  "lon": 10.0919387,
   "tags": {
     "amenity": "drinking_water"
   }

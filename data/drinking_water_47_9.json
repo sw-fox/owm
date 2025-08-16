@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:52:15Z",
+    "timestamp_osm_base": "2025-08-16T12:00:34Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -88,7 +88,8 @@
     "amenity": "drinking_water",
     "availability": "summer season",
     "name": "Brunnen",
-    "seasonal": "summer"
+    "seasonal": "summer",
+    "wikimedia_commons": "File:Unteruhldingen Waldweg Brunnen.jpg"
   }
 },
 {
@@ -204,12 +205,15 @@
 {
   "type": "node",
   "id": 404425728,
-  "lat": 47.5209767,
-  "lon": 9.9135093,
+  "lat": 47.5209496,
+  "lon": 9.9135018,
   "tags": {
     "amenity": "drinking_water",
-    "check_date": "2021-09-26",
-    "fountain": "drinking"
+    "bottle": "no",
+    "check_date": "2025-07-01",
+    "dog": "no",
+    "fountain": "bubbler",
+    "historic": "no"
   }
 },
 {
@@ -249,10 +253,13 @@
   "lat": 47.6941388,
   "lon": 9.2712043,
   "tags": {
+    "alt_name": "Bärenbrunnen",
     "amenity": "fountain",
     "drinking_water": "yes",
     "mapillary": "1107604356393485",
-    "name": "101 Bürger"
+    "name": "101 Bürger",
+    "wikidata": "Q111284264",
+    "wikimedia_commons": "Category:Bärenbrunnen (Meersburg)"
   }
 },
 {
@@ -419,6 +426,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
+    "fountain": "drinking",
     "indoor": "no",
     "wheelchair": "yes"
   }
@@ -430,7 +438,9 @@
   "lon": 9.2723365,
   "tags": {
     "amenity": "fountain",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "name": "Marktbrunnen",
+    "wikimedia_commons": "Category:Marktbrunnen (Meersburg)"
   }
 },
 {
@@ -459,7 +469,8 @@
   "lon": 9.2690672,
   "tags": {
     "amenity": "drinking_water",
-    "fountain": "drinking"
+    "fountain": "drinking",
+    "wikimedia_commons": "File:AIMG 0709 Meersburg Trinkwasserbrunnen.jpg"
   }
 },
 {
@@ -1928,8 +1939,8 @@
 {
   "type": "node",
   "id": 1401577945,
-  "lat": 47.0756751,
-  "lon": 9.9095518,
+  "lat": 47.0756929,
+  "lon": 9.9096531,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -2044,9 +2055,11 @@
   "lat": 47.6931764,
   "lon": 9.2705746,
   "tags": {
-    "amenity": "drinking_water",
-    "man_made": "water_well",
-    "wheelchair": "limited"
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "name": "Unterstadtbrunnen",
+    "wheelchair": "limited",
+    "wikimedia_commons": "Category:Unterstadtbrunnen (Meersburg)"
   }
 },
 {
@@ -2360,6 +2373,7 @@
   "tags": {
     "access": "customers",
     "amenity": "toilets",
+    "check_date": "2025-08-09",
     "drinking_water": "yes",
     "fee": "no",
     "female": "yes",
@@ -6684,6 +6698,16 @@
 },
 {
   "type": "node",
+  "id": 4201931195,
+  "lat": 47.5484666,
+  "lon": 9.2339314,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
   "id": 4204757593,
   "lat": 47.3307106,
   "lon": 9.7011911,
@@ -9591,10 +9615,12 @@
 {
   "type": "node",
   "id": 5745975803,
-  "lat": 47.1126530,
-  "lon": 9.2802135,
+  "lat": 47.1126514,
+  "lon": 9.2802112,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
   }
 },
 {
@@ -10411,16 +10437,6 @@
   "tags": {
     "amenity": "drinking_water",
     "man_made": "water_tap"
-  }
-},
-{
-  "type": "node",
-  "id": 6509958217,
-  "lat": 47.4362666,
-  "lon": 9.7223170,
-  "tags": {
-    "amenity": "drinking_water",
-    "indoor": "no"
   }
 },
 {
@@ -11347,7 +11363,8 @@
     "image": "https://commons.wikimedia.org/wiki/File:Auferstandener_Jesus_am_Brunnen_beim_Wetterkreuz_s%C3%BCdwestlich_von_Meersburg.jpg",
     "inscription": "Brunnen am Wetterkreuz gestiftet von Herrn Reinhold Karwinski Meersburg, den 05. Oktober 1999",
     "memorial": "statue",
-    "name": "Brunnen am Wetterkreuz"
+    "name": "Christusbrunnen am Wetterkreuz",
+    "wikimedia_commons": "Category:Christusbrunnen am Wetterkreuz (Meersburg)"
   }
 },
 {
@@ -11431,6 +11448,16 @@
   "tags": {
     "amenity": "drinking_water",
     "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7476841804,
+  "lat": 47.8192495,
+  "lon": 9.2245996,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
   }
 },
 {
@@ -12276,6 +12303,7 @@
     "hot_water": "no",
     "iced_water": "no",
     "man_made": "water_tap",
+    "opening_hours": "24/7",
     "room_temperature_water": "yes",
     "seasonal": "spring;summer;autumn",
     "warm_water": "no"
@@ -14281,11 +14309,17 @@
     "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
+    "cold_water": "no",
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
     "fee": "no",
     "fountain": "drinking",
-    "seasonal": "spring;summer;autumn"
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
   }
 },
 {
@@ -14805,7 +14839,8 @@
   "lat": 47.5268588,
   "lon": 9.0325516,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -15906,8 +15941,8 @@
 {
   "type": "node",
   "id": 9896600156,
-  "lat": 47.6080049,
-  "lon": 9.6255657,
+  "lat": 47.6079746,
+  "lon": 9.6256442,
   "tags": {
     "access": "customers",
     "amenity": "toilets",
@@ -16310,8 +16345,8 @@
 {
   "type": "node",
   "id": 9935849568,
-  "lat": 47.2416014,
-  "lon": 9.5800186,
+  "lat": 47.2416510,
+  "lon": 9.5800807,
   "tags": {
     "amenity": "drinking_water",
     "fountain": "drinking"
@@ -17264,6 +17299,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bubbler",
     "wheelchair": "yes"
   }
 },
@@ -19290,7 +19326,8 @@
   "lat": 47.1388960,
   "lon": 9.5208598,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -21283,6 +21320,7 @@
   "lon": 9.3441270,
   "tags": {
     "amenity": "drinking_water",
+    "fee": "no",
     "fountain": "drinking",
     "historic": "yes",
     "name": "Georgsbrunnen",
@@ -21296,7 +21334,14 @@
   "lon": 9.3518560,
   "tags": {
     "amenity": "drinking_water",
-    "man_made": "water_tap"
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
+    "man_made": "water_tap",
+    "room_temperature_water": "yes",
+    "warm_water": "no"
   }
 },
 {
@@ -21323,8 +21368,16 @@
   "lat": 47.7275319,
   "lon": 9.3492316,
   "tags": {
+    "bottle": "yes",
+    "cold_water": "no",
     "drinking_water": "yes",
-    "man_made": "water_tap"
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "room_temperature_water": "yes",
+    "warm_water": "no"
   }
 },
 {
@@ -21474,8 +21527,16 @@
   "lat": 47.7320639,
   "lon": 9.3451129,
   "tags": {
+    "bottle": "yes",
+    "cold_water": "no",
     "drinking_water": "yes",
-    "man_made": "water_tap"
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "room_temperature_water": "yes",
+    "warm_water": "no"
   }
 },
 {
@@ -22441,6 +22502,55 @@
     "amenity": "drinking_water",
     "fee": "no",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13056026846,
+  "lat": 47.1517394,
+  "lon": 9.8051191,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13059272669,
+  "lat": 47.0867121,
+  "lon": 9.5269552,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13059639862,
+  "lat": 47.4139449,
+  "lon": 9.8958620,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13065299475,
+  "lat": 47.4903847,
+  "lon": 9.5558393,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13072941521,
+  "lat": 47.4362362,
+  "lon": 9.7224662,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 }
 

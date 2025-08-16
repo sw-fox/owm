@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:52:15Z",
+    "timestamp_osm_base": "2025-08-16T12:01:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3598,7 +3598,8 @@
   "lat": 48.3090520,
   "lon": 7.4171867,
   "tags": {
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fountain": "drinking"
   }
 },
 {
@@ -4574,6 +4575,16 @@
     "drinking_water": "yes",
     "man_made": "water_tap",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9807203835,
+  "lat": 48.4240534,
+  "lon": 7.9478009,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
   }
 },
 {
@@ -7167,16 +7178,6 @@
 },
 {
   "type": "node",
-  "id": 12999277893,
-  "lat": 48.6063402,
-  "lon": 7.7518578,
-  "tags": {
-    "amenity": "drinking_water",
-    "name": "Fontaine"
-  }
-},
-{
-  "type": "node",
   "id": 12999353514,
   "lat": 48.6072907,
   "lon": 7.7486175,
@@ -7234,6 +7235,38 @@
     "description": "Robinet d’eau à côté du garage de l’auberge. Remplissage de gourde toléré.",
     "fee": "no",
     "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13055953941,
+  "lat": 48.6063556,
+  "lon": 7.7517958,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13062189906,
+  "lat": 48.2715775,
+  "lon": 7.3991460,
+  "tags": {
+    "amenity": "drinking_water",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13071704501,
+  "lat": 48.9217709,
+  "lon": 7.4826977,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Halte gourde"
   }
 }
 

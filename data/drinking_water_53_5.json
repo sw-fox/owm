@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:55:15Z",
+    "timestamp_osm_base": "2025-08-16T12:05:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -109,6 +109,28 @@
   "lon": 5.9358039,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 4509279060,
+  "lat": 53.3902561,
+  "lon": 5.3061087,
+  "tags": {
+    "addr:city": "Formerum",
+    "addr:housenumber": "33",
+    "addr:postcode": "8894KB",
+    "addr:street": "Formerum",
+    "capacity": "200",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Mast",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
   }
 },
 {
@@ -513,6 +535,16 @@
   "tags": {
     "amenity": "drinking_water",
     "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 13045916124,
+  "lat": 53.1984268,
+  "lon": 5.7963744,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
   }
 }
 

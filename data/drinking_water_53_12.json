@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:55:15Z",
+    "timestamp_osm_base": "2025-08-16T12:05:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -62,10 +62,9 @@
   "tags": {
     "description": "Müritz",
     "drinking_water": "yes",
-    "ft_link": "www.freietonne.de?edit=468",
     "leisure": "marina",
     "name": "Röbel Stadthafen",
-    "phone": "+49 160 2361557",
+    "phone": "03993 1540474",
     "power_supply": "yes",
     "seamark:harbour:category": "marina",
     "seamark:name": "Stadthafen Röbel",
@@ -1218,6 +1217,24 @@
 },
 {
   "type": "node",
+  "id": 12783730836,
+  "lat": 53.2274878,
+  "lon": 12.9237753,
+  "tags": {
+    "addr:street": "Am Gobenowsee",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Campingplatz am Gobenowsee",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
   "id": 12952137901,
   "lat": 53.3092300,
   "lon": 12.7415386,
@@ -1233,6 +1250,16 @@
   "lon": 12.7404032,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13062331685,
+  "lat": 53.3182637,
+  "lon": 12.9441721,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
   }
 }
 

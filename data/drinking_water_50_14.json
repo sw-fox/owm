@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:54:15Z",
+    "timestamp_osm_base": "2025-08-16T12:03:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2586,7 +2586,9 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "check_date": "2022-09-18",
-    "cold_water": "yes"
+    "cold_water": "yes",
+    "fee": "no",
+    "operational_status": "broken"
   }
 },
 {
@@ -3019,8 +3021,8 @@
 {
   "type": "node",
   "id": 4952461522,
-  "lat": 50.0279284,
-  "lon": 14.5082610,
+  "lat": 50.0279319,
+  "lon": 14.5082440,
   "tags": {
     "access": "yes",
     "amenity": "toilets",
@@ -6688,7 +6690,8 @@
   "lon": 14.4229730,
   "tags": {
     "amenity": "drinking_water",
-    "man_made": "water_tap"
+    "man_made": "water_tap",
+    "name": "!"
   }
 },
 {
@@ -6775,8 +6778,8 @@
 {
   "type": "node",
   "id": 12735869215,
-  "lat": 50.9030167,
-  "lon": 14.4793167,
+  "lat": 50.9030571,
+  "lon": 14.4793279,
   "tags": {
     "drinking_water": "yes",
     "name": "Hanička",
@@ -6929,6 +6932,60 @@
   "lon": 14.2630042,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13045455065,
+  "lat": 50.1029245,
+  "lon": 14.4027764,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13048471974,
+  "lat": 50.0743252,
+  "lon": 14.5402740,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13058239700,
+  "lat": 50.0981426,
+  "lon": 14.3976910,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13060123403,
+  "lat": 50.2799801,
+  "lon": 14.3206023,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Autokemp Obora",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 13063251001,
+  "lat": 50.5574994,
+  "lon": 14.9319005,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Pod Borkem",
+    "operator": "ČHMÚ"
   }
 }
 

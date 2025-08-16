@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:53:15Z",
+    "timestamp_osm_base": "2025-08-16T12:02:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -93,11 +93,13 @@
   "tags": {
     "amenity": "drinking_water",
     "historic": "memorial",
-    "inscription": "Turn- und Sportverein Handschusheim 1886 e.V.\n*\nIn Dankbarkeit und Treue seinen gefallenen Mitgliedern und allen gefallenen von Handschusheim\n*\nWeltkriege\n1914-1918  1939-1945",
+    "inscription": "Turn- und Sportverein Handschusheim 1886 e.V. * In Dankbarkeit und Treue seinen gefallenen Mitgliedern und allen gefallenen von Handschusheim * Weltkriege 1914-1918 1939-1945",
     "material": "stone",
     "memorial": "war_memorial",
     "name": "Turnerbrunnen",
     "natural": "spring",
+    "note": "Wegweiserstein siehe https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1108929494/heidelberg/Objektdatenbank/67/PDF/67_pdf_flyer_wegweisersteine_lay_03.pdf und https://geoweb.heidelberg.de/geoportal/geodaten/Wegweisersteine/WWSListe.html",
+    "ref": "III25a",
     "source": "https://westnordost.de/p/67774.jpg",
     "water": "no"
   }
@@ -129,6 +131,8 @@
     "intermittent": "yes",
     "name": "Drei Eichen Brunnen",
     "natural": "spring",
+    "note": "Wegweiserstein siehe https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1108929494/heidelberg/Objektdatenbank/67/PDF/67_pdf_flyer_wegweisersteine_lay_03.pdf und https://geoweb.heidelberg.de/geoportal/geodaten/Wegweisersteine/WWSListe.html",
+    "ref": "III01Xa",
     "source:position": "HiRes aerial imagery",
     "start_date": "1945"
   }
@@ -164,6 +168,8 @@
     "ele": "261",
     "name": "Schneeberg",
     "natural": "spring",
+    "note": "Wegweiserstein siehe https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1108929494/heidelberg/Objektdatenbank/67/PDF/67_pdf_flyer_wegweisersteine_lay_03.pdf und https://geoweb.heidelberg.de/geoportal/geodaten/Wegweisersteine/WWSListe.html",
+    "ref": "III27d",
     "start_date": "1910"
   }
 },
@@ -605,17 +611,20 @@
 {
   "type": "node",
   "id": 315292611,
-  "lat": 49.8755089,
-  "lon": 8.6532452,
+  "lat": 49.8754774,
+  "lon": 8.6532976,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "bottle": "yes",
     "check_date": "2023-05-29",
     "covered": "no",
     "fee": "no",
     "fountain": "bubbler",
     "indoor": "no",
-    "opening_hours": "Apr-Oct: 24/7"
+    "note": "historische Wasserzapfstelle",
+    "opening_hours": "Apr-Oct: 24/7",
+    "wheelchair": "no"
   }
 },
 {
@@ -696,7 +705,7 @@
     "amenity": "fountain",
     "drinking_water": "yes",
     "name": "Drei-Tröge-Brunnen",
-    "source": "HiRes aerial imagery",
+    "source:position": "HiRes aerial imagery",
     "wikidata": "Q113636883",
     "wikipedia": "de:Drei-Tröge-Brunnen"
   }
@@ -927,6 +936,8 @@
     "intermittent": "no",
     "name": "Buchbrunnen",
     "natural": "spring",
+    "note": "Wegweiserstein siehe https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1108929494/heidelberg/Objektdatenbank/67/PDF/67_pdf_flyer_wegweisersteine_lay_03.pdf und https://geoweb.heidelberg.de/geoportal/geodaten/Wegweisersteine/WWSListe.html",
+    "ref": "III08a",
     "source:position": "HiRes aerial imagery"
   }
 },
@@ -997,6 +1008,8 @@
     "drinking_water": "yes",
     "name": "Münchelbrunnen",
     "natural": "spring",
+    "note": "Wegweiserstein siehe https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1108929494/heidelberg/Objektdatenbank/67/PDF/67_pdf_flyer_wegweisersteine_lay_03.pdf und https://geoweb.heidelberg.de/geoportal/geodaten/Wegweisersteine/WWSListe.html",
+    "ref": "K43d",
     "source:position": "HiRes aerial imagery",
     "start_date": "1905"
   }
@@ -1069,6 +1082,8 @@
     "intermittent": "dry",
     "name": "Bittersbrunnen",
     "natural": "spring",
+    "note": "Wegweiserstein siehe https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1108929494/heidelberg/Objektdatenbank/67/PDF/67_pdf_flyer_wegweisersteine_lay_03.pdf und https://geoweb.heidelberg.de/geoportal/geodaten/Wegweisersteine/WWSListe.html",
+    "ref": "III27f",
     "wikidata": "Q54189793",
     "wikipedia": "de:Bittersbrunnen"
   }
@@ -1098,7 +1113,9 @@
   "tags": {
     "amenity": "drinking_water",
     "name": "Strangwasenbrunnen",
-    "natural": "spring"
+    "natural": "spring",
+    "note": "Wegweiserstein siehe https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1108929494/heidelberg/Objektdatenbank/67/PDF/67_pdf_flyer_wegweisersteine_lay_03.pdf und https://geoweb.heidelberg.de/geoportal/geodaten/Wegweisersteine/WWSListe.html",
+    "ref": "III11c"
   }
 },
 {
@@ -1111,6 +1128,8 @@
     "intermittent": "no",
     "name": "Hellenbachbrunnen",
     "natural": "spring",
+    "note": "Wegweiserstein siehe https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1108929494/heidelberg/Objektdatenbank/67/PDF/67_pdf_flyer_wegweisersteine_lay_03.pdf und https://geoweb.heidelberg.de/geoportal/geodaten/Wegweisersteine/WWSListe.html",
+    "ref": "III02a",
     "start_date": "1907"
   }
 },
@@ -1220,6 +1239,43 @@
     "intermittent": "yes",
     "name": "Igelsbach",
     "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 643684521,
+  "lat": 49.5470047,
+  "lon": 8.9393809,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Leonhardsbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 643739457,
+  "lat": 49.5569566,
+  "lon": 8.8844544,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Raubacher Höhe",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 643739475,
+  "lat": 49.5855232,
+  "lon": 8.8936573,
+  "tags": {
+    "drinking_water": "yes",
+    "fixme": "position estimated",
+    "name": "Berndsbrunnen",
+    "natural": "spring",
+    "note": "scheint dort zu entspringen und direkt unter dem kleinen Wasserfall wieder zu versickern. Siehe auch https://www.mapillary.com/app/?pKey=577522433166728",
+    "waterway": "waterfall"
   }
 },
 {
@@ -2808,6 +2864,17 @@
 },
 {
   "type": "node",
+  "id": 2691308335,
+  "lat": 49.5903138,
+  "lon": 8.8633185,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Roßbrunnen"
+  }
+},
+{
+  "type": "node",
   "id": 2722680351,
   "lat": 49.4238953,
   "lon": 8.7651482,
@@ -3931,6 +3998,7 @@
   "tags": {
     "amenity": "drinking_water",
     "check_date": "2023-04-14",
+    "fixme": "laut Schild: \"kein Trinkwasser\"",
     "fountain": "bottle_refill",
     "name": "Trinkwasserbrunnen"
   }
@@ -3976,8 +4044,8 @@
 {
   "type": "node",
   "id": 5324151415,
-  "lat": 49.8169126,
-  "lon": 8.6451816,
+  "lat": 49.8169433,
+  "lon": 8.6451056,
   "tags": {
     "amenity": "fountain",
     "drinking_water": "no",
@@ -4665,16 +4733,6 @@
     "drinking_water": "yes",
     "man_made": "water_well",
     "pump": "powered"
-  }
-},
-{
-  "type": "node",
-  "id": 7102272680,
-  "lat": 49.2913410,
-  "lon": 8.7719595,
-  "tags": {
-    "amenity": "drinking_water",
-    "pump": "manual"
   }
 },
 {
@@ -6626,12 +6684,82 @@
 },
 {
   "type": "node",
+  "id": 11390639608,
+  "lat": 49.3949626,
+  "lon": 8.5617001,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11390639780,
+  "lat": 49.3953142,
+  "lon": 8.5627791,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11390639825,
+  "lat": 49.3956952,
+  "lon": 8.5639258,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11390639829,
+  "lat": 49.3959422,
+  "lon": 8.5633955,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11390639975,
+  "lat": 49.3964057,
+  "lon": 8.5615268,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
   "id": 11776191571,
   "lat": 49.2684677,
   "lon": 8.0213230,
   "tags": {
     "drinking_water": "yes",
     "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11818002957,
+  "lat": 49.3962248,
+  "lon": 8.5602482,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 11818018798,
+  "lat": 49.3959643,
+  "lon": 8.5606139,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
   }
 },
 {
@@ -7592,6 +7720,7 @@
     "bottle": "yes",
     "covered": "no",
     "fee": "no",
+    "fountain": "bubbler",
     "image": "https://img.echo-online.de/lokales/darmstadt/dk5ggb-Trinkwasserspender-Darmstadt/alternates/WIDE_960/Trinkwasserspender%20Darmstadt.webp",
     "wheelchair": "yes"
   }
@@ -8668,6 +8797,49 @@
     "amenity": "fountain",
     "drinking_water:legal": "no",
     "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 13056308429,
+  "lat": 49.3703669,
+  "lon": 8.9899323,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 13061950169,
+  "lat": 49.7898253,
+  "lon": 8.6717414,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water",
+    "check_date": "2025-08-09",
+    "indoor": "no",
+    "lit": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13063702168,
+  "lat": 49.4610196,
+  "lon": 8.6005830,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13068573878,
+  "lat": 49.1936269,
+  "lon": 8.1030285,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
   }
 }
 

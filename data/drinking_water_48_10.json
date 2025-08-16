@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:52:15Z",
+    "timestamp_osm_base": "2025-08-16T12:01:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1203,7 +1203,7 @@
   "lon": 10.7668615,
   "tags": {
     "drinking_water": "yes",
-    "name": "Webers Brünnerle",
+    "name": "Webers Brünnele",
     "natural": "spring"
   }
 },
@@ -2921,7 +2921,8 @@
   "tags": {
     "amenity": "drinking_water",
     "fee": "no",
-    "fountain": "bubbler"
+    "fountain": "bubbler",
+    "wheelchair": "yes"
   }
 },
 {
@@ -3169,12 +3170,17 @@
 {
   "type": "node",
   "id": 12969613077,
-  "lat": 48.4617520,
-  "lon": 10.2694190,
+  "lat": 48.4617747,
+  "lon": 10.2694141,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "dog": "yes",
     "drinking_water": "yes",
-    "fee": "no"
+    "fee": "no",
+    "man_made": "drinking_fountain",
+    "manufacturer:wikidata": "Q19877700"
   }
 },
 {
@@ -3271,6 +3277,26 @@
     "operator": "Stadt Dillingen a. d. Donau",
     "start_date": "2024-07-01",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13060000476,
+  "lat": 48.5770239,
+  "lon": 10.4938112,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13073751932,
+  "lat": 48.2459531,
+  "lon": 10.3902571,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "name": "Adelheidquelle"
   }
 }
 

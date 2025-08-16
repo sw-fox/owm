@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:54:15Z",
+    "timestamp_osm_base": "2025-08-16T12:03:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1130,6 +1130,7 @@
   "tags": {
     "amenity": "drinking_water",
     "fee": "yes",
+    "man_made": "water_tap",
     "name": "Pijalnia wody mineralnej \"Górne Źródło\"",
     "opening_hours": "09:00-18:00@summer; 08:00-17:00@winter",
     "operator": "Uzdrowisko Świeradów Czerniawa sp. z o.o.",
@@ -2241,6 +2242,25 @@
     "picnic_table": "yes",
     "shower": "yes",
     "toilets": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13043742494,
+  "lat": 50.9661086,
+  "lon": 15.7638460,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13051285243,
+  "lat": 50.0369889,
+  "lon": 15.7773746,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

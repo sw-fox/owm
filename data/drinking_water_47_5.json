@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:52:15Z",
+    "timestamp_osm_base": "2025-08-16T12:00:34Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -52,6 +52,17 @@
   "lon": 5.8153561,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1493119092,
+  "lat": 47.3219288,
+  "lon": 5.0341841,
+  "tags": {
+    "amenity": "drinking_water",
+    "disused": "yes",
+    "fountain": "drinking"
   }
 },
 {
@@ -805,7 +816,8 @@
   "lon": 5.6468423,
   "tags": {
     "amenity": "drinking_water",
-    "description": "Robinet au camping"
+    "description": "Robinet au camping",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1283,8 +1295,10 @@
   "lat": 47.3316605,
   "lon": 5.0068677,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "bottle": "yes"
+    "bottle": "yes",
+    "fee": "no"
   }
 },
 {
@@ -1968,6 +1982,27 @@
   "tags": {
     "amenity": "drinking_water",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13047880684,
+  "lat": 47.3323921,
+  "lon": 5.0045796,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13063361701,
+  "lat": 47.2991907,
+  "lon": 5.0435050,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

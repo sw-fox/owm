@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:54:15Z",
+    "timestamp_osm_base": "2025-08-16T12:04:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -353,8 +353,12 @@
   "lat": 51.1630015,
   "lon": 13.5669697,
   "tags": {
-    "amenity": "fountain",
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
     "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "drinking",
     "name": "Gabenreichbrunnen",
     "source": "https://de.wikipedia.org/wiki/Liste_der_Trinkbrunnen_in_Sachsen"
   }
@@ -413,6 +417,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "drinking",
     "source": "https://de.wikipedia.org/wiki/Liste_der_Trinkbrunnen_in_Sachsen"
   }
 },
@@ -1035,6 +1040,7 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "bottle": "no",
     "fee": "no",
     "fountain": "bubbler",
     "name": "Trinkbrunnen am Eduard-Bilz-Platz",

@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:53:15Z",
+    "timestamp_osm_base": "2025-08-16T12:01:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3525,8 +3525,17 @@
   "lon": 16.4151748,
   "tags": {
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "yes",
     "man_made": "water_tap",
-    "source": "survey"
+    "opening_hours": "24/7",
+    "room_temperature_water": "no",
+    "seasonal": "spring;summer;autumn",
+    "source": "survey",
+    "warm_water": "no"
   }
 },
 {
@@ -4422,11 +4431,13 @@
 {
   "type": "node",
   "id": 1896040675,
-  "lat": 48.2150971,
-  "lon": 16.9348214,
+  "lat": 48.2150722,
+  "lon": 16.9348311,
   "tags": {
-    "disused:amenity": "drinking_water",
-    "fountain": "bubbler"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill",
+    "wheelchair": "yes"
   }
 },
 {
@@ -6199,9 +6210,19 @@
   "lat": 48.1888634,
   "lon": 16.3188770,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "check_date": "2021-12-30",
-    "man_made": "water_tap"
+    "bottle": "yes",
+    "check_date": "2025-08-06",
+    "cold_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "room_temperature_water": "no",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
   }
 },
 {
@@ -6212,7 +6233,14 @@
   "tags": {
     "amenity": "drinking_water",
     "check_date": "2021-12-30",
-    "man_made": "water_tap"
+    "cold_water": "no",
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "yes",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "room_temperature_water": "no",
+    "warm_water": "no"
   }
 },
 {
@@ -7809,7 +7837,17 @@
   "lat": 48.2781815,
   "lon": 16.3998396,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "yes",
+    "opening_hours": "24/7",
+    "room_temperature_water": "no",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
   }
 },
 {
@@ -9612,6 +9650,7 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "no",
+    "check_date": "2025-08-10",
     "fee": "no",
     "man_made": "water_tap",
     "seasonal": "no"
@@ -11584,6 +11623,7 @@
   "lon": 16.3342933,
   "tags": {
     "amenity": "drinking_water",
+    "indoor": "no",
     "man_made": "water_tap"
   }
 },
@@ -13128,17 +13168,6 @@
 },
 {
   "type": "node",
-  "id": 9062228894,
-  "lat": 48.1978409,
-  "lon": 16.3612454,
-  "tags": {
-    "amenity": "drinking_water",
-    "fee": "no",
-    "fountain": "drinking"
-  }
-},
-{
-  "type": "node",
   "id": 9064465597,
   "lat": 48.1752037,
   "lon": 16.3813143,
@@ -14313,7 +14342,9 @@
   "lat": 48.1868979,
   "lon": 16.3714089,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "pump": "manual"
   }
 },
 {
@@ -14856,7 +14887,16 @@
   "lon": 16.3997061,
   "tags": {
     "amenity": "drinking_water",
-    "man_made": "water_tap"
+    "bottle": "yes",
+    "cold_water": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "room_temperature_water": "no",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
   }
 },
 {
@@ -16350,7 +16390,15 @@
   "lon": 16.3993803,
   "tags": {
     "amenity": "drinking_water",
-    "man_made": "water_tap"
+    "cold_water": "yes",
+    "dog": "yes",
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
+    "man_made": "water_tap",
+    "room_temperature_water": "no",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
   }
 },
 {
@@ -17093,8 +17141,18 @@
   "lon": 16.3936677,
   "tags": {
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "yes",
     "man_made": "water_well",
-    "pump": "manual"
+    "opening_hours": "24/7",
+    "pump": "manual",
+    "room_temperature_water": "no",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
   }
 },
 {
@@ -17362,7 +17420,14 @@
   "lat": 48.2743506,
   "lon": 16.4057824,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "cold_water": "no",
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "yes",
+    "opening_hours": "24/7",
+    "room_temperature_water": "no",
+    "warm_water": "no"
   }
 },
 {
@@ -17381,7 +17446,14 @@
   "lat": 48.2743452,
   "lon": 16.4057969,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "cold_water": "no",
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "yes",
+    "opening_hours": "24/7",
+    "room_temperature_water": "no",
+    "warm_water": "no"
   }
 },
 {
@@ -18189,8 +18261,17 @@
   "lat": 48.1885966,
   "lon": 16.3195647,
   "tags": {
+    "access": "yes",
+    "check_date": "2025-08-06",
+    "cold_water": "yes",
     "drinking_water": "yes",
-    "man_made": "water_tap"
+    "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
+    "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "room_temperature_water": "no",
+    "warm_water": "no"
   }
 },
 {
@@ -18420,8 +18501,19 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "yes",
     "fee": "no",
-    "fountain": "bubbler",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "name": "Brunnhilde",
+    "opening_hours": "24/7",
+    "panoramax": "d01e3c88-38e6-466d-bc57-fc261e8a8a38",
+    "room_temperature_water": "no",
+    "seasonal": "spring;summer;autumn",
+    "survey:date": "2025-08-05",
+    "warm_water": "no",
     "wheelchair": "yes"
   }
 },
@@ -18974,6 +19066,7 @@
   "lon": 16.3098984,
   "tags": {
     "amenity": "drinking_water",
+    "fountain": "bubbler",
     "name": "Brunnhilde"
   }
 },
@@ -19365,6 +19458,7 @@
     "access": "customers",
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bubbler",
     "operator": "IZW",
     "wheelchair": "yes"
   }
@@ -19789,7 +19883,8 @@
   "lon": 16.3253730,
   "tags": {
     "access": "yes",
-    "drinking_water": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2025-07-30",
     "man_made": "water_tap"
   }
 },
@@ -20520,7 +20615,8 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "fee": "no"
+    "fee": "no",
+    "man_made": "water_tap"
   }
 },
 {
@@ -20789,6 +20885,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bubbler",
     "operator": "Stadt Wien",
     "operator:wikidata": "Q1884195",
     "wheelchair": "yes"
@@ -20805,6 +20902,7 @@
     "covered": "no",
     "fee": "no",
     "indoor": "no",
+    "man_made": "water_tap",
     "wheelchair": "yes"
   }
 },
@@ -20869,6 +20967,217 @@
     "fee": "no",
     "man_made": "water_tap",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13042805461,
+  "lat": 48.1949633,
+  "lon": 16.3365452,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13042805464,
+  "lat": 48.1952892,
+  "lon": 16.3329571,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13042805465,
+  "lat": 48.1955929,
+  "lon": 16.3361962,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13047938032,
+  "lat": 48.2241142,
+  "lon": 16.3617966,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13047975618,
+  "lat": 48.2200662,
+  "lon": 16.3643311,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13050391772,
+  "lat": 48.2188479,
+  "lon": 16.3852793,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13052257299,
+  "lat": 48.1902998,
+  "lon": 16.3177118,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2025-08-06",
+    "cold_water": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "hot_water": "no",
+    "iced_water": "no",
+    "name": "Brunnhilde",
+    "opening_hours": "24/7",
+    "room_temperature_water": "no",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13052309315,
+  "lat": 48.1887153,
+  "lon": 16.3234728,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-08-06",
+    "cold_water": "yes",
+    "dog": "yes",
+    "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "panoramax": "e56e2d88-f0f7-493f-bba6-29d44710a354",
+    "room_temperature_water": "no",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13056141210,
+  "lat": 48.2006564,
+  "lon": 16.3583106,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13058257476,
+  "lat": 48.2086494,
+  "lon": 16.3244740,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 13058494933,
+  "lat": 48.2814381,
+  "lon": 16.4075240,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "yes",
+    "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "room_temperature_water": "no",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13060086366,
+  "lat": 48.1979318,
+  "lon": 16.3058594,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13060086367,
+  "lat": 48.1983269,
+  "lon": 16.3059747,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13060086368,
+  "lat": 48.1979765,
+  "lon": 16.3061598,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13067372515,
+  "lat": 48.2094160,
+  "lon": 16.3789499,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13071505458,
+  "lat": 48.2777380,
+  "lon": 16.4909482,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "dog": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13072199272,
+  "lat": 48.2429766,
+  "lon": 16.4881123,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

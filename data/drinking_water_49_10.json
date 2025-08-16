@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:53:15Z",
+    "timestamp_osm_base": "2025-08-16T12:02:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -223,17 +223,6 @@
     "intermittent": "no",
     "name": "Goppmannquelle",
     "natural": "spring"
-  }
-},
-{
-  "type": "node",
-  "id": 1262341612,
-  "lat": 49.1852986,
-  "lon": 10.8283344,
-  "tags": {
-    "amenity": "drinking_water",
-    "check_date": "2024-07-17",
-    "fountain": "drinking"
   }
 },
 {
@@ -1045,15 +1034,6 @@
 },
 {
   "type": "node",
-  "id": 6785078876,
-  "lat": 49.0182212,
-  "lon": 10.7428939,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 6798199859,
   "lat": 49.4847380,
   "lon": 10.9752004,
@@ -1065,6 +1045,7 @@
     "fee": "no",
     "female": "yes",
     "male": "yes",
+    "opening_hours": "24/7",
     "toilets:disposal": "flush",
     "wheelchair": "yes"
   }
@@ -2293,6 +2274,15 @@
   "tags": {
     "amenity": "drinking_water",
     "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13055721959,
+  "lat": 49.1912427,
+  "lon": 10.1483246,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

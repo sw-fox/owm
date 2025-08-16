@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:53:15Z",
+    "timestamp_osm_base": "2025-08-16T12:01:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -202,7 +202,12 @@
   "lat": 49.7821876,
   "lon": 5.2345954,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-08-14",
+    "fee": "no",
+    "man_made": "water_tap",
+    "panoramax": "bd4ca693-f416-4b8a-96e9-262573e1d0b9"
   }
 },
 {
@@ -899,6 +904,20 @@
   "lon": 5.6389459,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13069135622,
+  "lat": 49.8208849,
+  "lon": 5.0427540,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "water_tap",
+    "opening_hours": "24/7",
+    "panoramax": "45a7dc92-8fd3-4e2f-b20b-413a6d8a94a5"
   }
 }
 

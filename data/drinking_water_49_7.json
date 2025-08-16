@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:53:15Z",
+    "timestamp_osm_base": "2025-08-16T12:01:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -268,11 +268,29 @@
 },
 {
   "type": "node",
+  "id": 724490300,
+  "lat": 49.1827889,
+  "lon": 7.9677592,
+  "tags": {
+    "covered": "yes",
+    "drinking_water": "yes",
+    "ele": "505",
+    "name": "Rehbergquelle",
+    "natural": "spring",
+    "wikidata": "Q125307618",
+    "wikimedia_commons": "File:2012 Pfälzerwald 345 Rehbergquelle.JPG",
+    "wikipedia": "de:Rehbergquelle"
+  }
+},
+{
+  "type": "node",
   "id": 746954821,
   "lat": 49.4355110,
   "lon": 7.8226120,
   "tags": {
+    "alt_name": "Stifswaldbrunnen",
     "drinking_water": "yes",
+    "name": "Velmannsquelle",
     "natural": "spring"
   }
 },
@@ -456,7 +474,9 @@
   "lon": 7.0591499,
   "tags": {
     "amenity": "drinking_water",
-    "image": "http://openstreetmap.falco2.de/Bostalsee/Wasserzapfstelle.jpg"
+    "check_date": "2025-08-05",
+    "image": "http://openstreetmap.falco2.de/Bostalsee/Wasserzapfstelle.jpg",
+    "man_made": "water_tap"
   }
 },
 {
@@ -548,7 +568,9 @@
   "lon": 7.0601317,
   "tags": {
     "amenity": "drinking_water",
-    "image": "http://openstreetmap.falco2.de/Bostalsee/Wasserzapfstelle.jpg"
+    "check_date": "2025-08-05",
+    "image": "http://openstreetmap.falco2.de/Bostalsee/Wasserzapfstelle.jpg",
+    "man_made": "water_tap"
   }
 },
 {
@@ -919,10 +941,10 @@
   "lon": 7.9196024,
   "tags": {
     "drinking_water": "yes",
-    "email": "w.bodtlaender@myc-bingen.de",
+    "email": "hafenmeister@myc-bingen.de",
     "leisure": "marina",
     "name": "Motor-Yacht-Club-Bingen",
-    "phone": "+49 173 5431054",
+    "phone": "+49151 28393312",
     "power_supply": "yes",
     "seamark:harbour:category": "marina",
     "seamark:name": "Motor-Yacht-Club-Bingen",
@@ -1194,6 +1216,17 @@
   "lon": 7.5955326,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2850015810,
+  "lat": 49.2978151,
+  "lon": 7.1757252,
+  "tags": {
+    "description": "Brunnen mit Armbad",
+    "drinking_water": "yes",
+    "man_made": "water_well"
   }
 },
 {
@@ -2959,7 +2992,8 @@
   "lon": 7.0052830,
   "tags": {
     "amenity": "drinking_water",
-    "fountain": "bubbler"
+    "fountain": "bubbler",
+    "wheelchair": "yes"
   }
 },
 {
