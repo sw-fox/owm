@@ -1,5 +1,6 @@
 <script>
 	import Map from "./Map.svelte";
+	import Menu from "./Menu.svelte";
 
 	const queryString = window.location.search;
 	const urlParams = new URLSearchParams(queryString);
@@ -22,3 +23,4 @@
 </script>
 
 <Map {lat} {lon} {zoom}/>
+<Menu />
