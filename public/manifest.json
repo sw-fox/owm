@@ -1,0 +1,19 @@
+{
+    "name": "Open Water Map",
+    "short_name": "OWM",
+    "start_url": "./",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "icons/logo_512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "icons/logo_128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      }
+    ]
+  }
+  
