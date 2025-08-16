@@ -12,7 +12,7 @@ export async function fetchPois(south: number, west: number, north: number, east
     const nodePromises: Promise<Marker[]>[] = [];
     for (let i = southTrunc; i <= north; i++) {
         for (let j = westTrunc; j <= east; j++) {
-            nodePromises.push(loadJson(i, j));
+            nodePromises.push(loadCachedJson(i, j));
         }
     }
     const arrayOfArrays = await Promise.all(nodePromises);
@@ -31,6 +31,17 @@ function filterNodes(nodes: Marker[], south: number, west: number, north: number
     );
     return filteredNodes;
 };
+
+let cache = new Map<string, Marker[]>();
+async function loadCachedJson(lat: number, lon: number): Promise<Marker[]> {
+    const key = "lat_" + lat + "_lon_" + lon;
+    if(cache.has(key)){
+        return cache.get(key) ?? [];
+    }
+    const data = loadJson(lat, lon);
+    cache.set(key,await data);
+    return data;
+}
 
 async function loadJson(lat: number, lon: number): Promise<Marker[]> {
     //early return if out of germany/ pregenerated data
