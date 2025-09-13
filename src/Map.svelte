@@ -8,6 +8,7 @@
     import type { Marker } from "./components/Marker";
     import { fetchPois } from "./poi";
     import { MarkerImageConfig } from "./components/MarkerImageConfig";
+    import Banner from "./components/Banner.svelte";
 
     export var lat = 48.783;
     export var lon = 9.183;
@@ -17,6 +18,8 @@
 
     //list of markers on the map to be regularly cleaned up
     let leafletMarkers;
+
+    let showPoi = false;
 
     function createMap(container: HTMLDivElement) {
         var map = L.map(container).setView([lat, lon], zoom);
@@ -67,12 +70,12 @@
             "open water map",
             "?lat=" + lat + "&lon=" + lon + "&zoom=" + Math.trunc(zoom),
         );
-        var showPoi = zoom > 10;
+        showPoi = zoom > 10;
         if (showPoi) {
-            var east = map.getBounds().getEast();
-            var west = map.getBounds().getWest();
-            var north = map.getBounds().getNorth();
-            var south = map.getBounds().getSouth();
+            let east = map.getBounds().getEast();
+            let west = map.getBounds().getWest();
+            let north = map.getBounds().getNorth();
+            let south = map.getBounds().getSouth();
 
             const markersPromise: Promise<Marker[]> = fetchPois(
                 south,
@@ -92,7 +95,7 @@
                     }
                     if (m.type == "node") {
                         //render if element is point
-                        var marker = L.marker([m.lat, m.lon], {
+                        L.marker([m.lat, m.lon], {
                                 icon: marker_image,
                             })
                             .addTo(leafletMarkers)
@@ -101,13 +104,14 @@
                 });
             });
         }else{
-            //remove all previous markers for performance reasons
+            //remove all markers if too much zoomed out
             leafletMarkers.clearLayers();
         }
     }
 </script>
 
 <div class="map" use:createMap></div>
+<Banner message="Zoom in to see markers" show={!showPoi}/>
 
 <style>
     .map {
