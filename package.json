@@ -13,13 +13,13 @@
     "test:run": "vitest run --coverage"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^6.1.1",
-    "@tsconfig/svelte": "^5.0.4",
+    "@sveltejs/vite-plugin-svelte": "^6.1.4",
+    "@tsconfig/svelte": "^5.0.5",
     "@types/node": "^24.3.0",
-    "svelte": "^5.38.0",
-    "svelte-check": "^4.1.4",
+    "svelte": "^5.38.7",
+    "svelte-check": "^4.3.1",
     "typescript": "~5.9.2",
-    "vite": "^7.1.1",
+    "vite": "^7.1.5",
     "vitest": "^3.2.4"
   },
   "dependencies": {
