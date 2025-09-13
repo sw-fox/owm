@@ -15,11 +15,11 @@
 
     const marker_image = L.icon(MarkerImageConfig);
 
-    var markerList = [];
+    //list of markers on the map to be regularly cleaned up
+    let leafletMarkers;
 
     function createMap(container: HTMLDivElement) {
         var map = L.map(container).setView([lat, lon], zoom);
-        //map.locate({ setView: true, maxZoom: 16 }); //jump to user location on reload
         L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
             maxZoom: 19,
             attribution:
@@ -47,15 +47,18 @@
             })
             .addTo(map);
 
+        leafletMarkers = L.layerGroup().addTo(map);
+
         map.on("dragend", function onDragEnd() {
-            fetchOverpass(map);
+            updateMarkersOnScreen(map);
         });
         map.on("zoom", function onZoomEnd() {
-            fetchOverpass(map);
+            updateMarkersOnScreen(map);
         });
-        fetchOverpass(map);
+        updateMarkersOnScreen(map);
     }
-    async function fetchOverpass(map) {
+
+    async function updateMarkersOnScreen(map) {
         lat = map.getCenter().lat.toFixed(3);
         lon = map.getCenter().lng.toFixed(3);
         zoom = map.getZoom();
@@ -81,8 +84,7 @@
             markersPromise.then((markers) => {
                 map.eachLayer((layer) => {
                     //remove all previous markers for performance reasons
-                    markerList.forEach(m => map.removeLayer(m));
-                    markerList = [];
+                    leafletMarkers.clearLayers();
                 });
                 markers.forEach((m: Marker) => {
                     if (m.tags.drinking_water == "no") {
@@ -93,12 +95,14 @@
                         var marker = L.marker([m.lat, m.lon], {
                                 icon: marker_image,
                             })
-                            .addTo(map)
+                            .addTo(leafletMarkers)
                             .bindPopup(renderPopup(m));
-                        markerList.push(marker);
                     }
                 });
             });
+        }else{
+            //remove all previous markers for performance reasons
+            leafletMarkers.clearLayers();
         }
     }
 </script>
