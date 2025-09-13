@@ -2,20 +2,17 @@
     import MenuIcon from "./components/MenuIcon.svelte";
     import Toggle from "./components/Toggle.svelte";
 
-	let showMenu = false;
+	let hideMenu = true;
     function toggleMenu() {
-        showMenu = !showMenu;
+        hideMenu = !hideMenu;
     }
 </script>
 
 <div class="menu">
     <div class="menu-button">
-        <!--<MenuIcon toggleMenu={toggleMenu} open={showMenu}/>-->
-    <button on:click={toggleMenu} class="menu-button">
-        &#8801;
-    </button>
-</div>
-    <div class="menu-content" class:open={showMenu}>
+        <MenuIcon toggleMenu={toggleMenu} open={!hideMenu}/>
+    </div>
+    <div class="menu-content" class:hide={hideMenu}>
         <ul>
             <li><a href="https://github.com/sw-fox/owm"><img class="github-mark" src="images/github-mark.svg" alt=""/>Github</a></li>
             <!--<li><Toggle label="Feature"/></li>-->
@@ -26,6 +23,7 @@
 <style>
     .menu {
         position: absolute;
+        overflow: hidden;
         top: 0;
         right: 0;
         z-index: 999;
@@ -36,21 +34,27 @@
         margin-left: auto;
         margin-right: 0;
     }
-    .menu-button button{
-        all: unset;
-        background-color: #333;
-        color: #ddd;
-        padding: 0.4rem 1rem;
-        font-size: 1.8rem;
-    }
     .menu-content {
-        width: 0;
+        width: 40vw;
         overflow: hidden;
         background-color: #333;
         color: #ddd;
         margin-left: auto;
         margin-right: 0;
-        transition: width 1s ease-in-out;
+        transition: transform 1s ease-in-out;
+    }
+    @media (max-width: 1000px) {
+        .menu-content {
+            width: 70vw;
+        }
+    }
+    @media (max-width: 600px) {
+        .menu-content {
+            width: calc(100vw - 3em);
+        }
+    }
+    .menu-content.hide {
+        transform: translateX(100%);
     }
     .menu-content ul {
         margin-top: 1em;
@@ -62,19 +66,6 @@
     }
     .menu-content a {
         color: #ddd;
-    }
-    .menu-content.open {
-        width: 40vw;
-    }
-    @media (max-width: 1000px) {
-        .menu-content.open {
-            width: 70vw;
-        }
-    }
-    @media (max-width: 600px) {
-        .menu-content.open {
-            width: calc(100vw - 3em);
-        }
     }
     .github-mark{
         width: 1em;

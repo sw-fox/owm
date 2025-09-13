@@ -1,12 +1,7 @@
 <script>
-    export function toggleMenu() {};
+    export let toggleMenu;
     export let open = false;
-
-    function toggle(){
-        toggleMenu();
-    };
 </script>
-
 
 <button on:click={toggleMenu} class="button" aria-label="open menu">
     <span class="bar" class:x={open}></span>
@@ -19,14 +14,15 @@
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        height: 2em;
-        width: 2em;
+        height: 4em;
+        width: 4em;
         background-color: #333;
-        padding: 0.4rem 1rem;
+        padding: 1rem;
+        border: 0;
     }
 
     .button .bar {
-        height: 3px;
+        height: 0.2em;
         width: 100%;
         background-color: #ddd;
         transition: all 100ms ease-in-out;
