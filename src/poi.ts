@@ -6,7 +6,7 @@ const WEST: number = 5;
 const NORTH: number = 55;
 const EAST: number = 16;
 
-export async function fetchPois(south: number, west: number, north: number, east: number): Promise<Marker[]> {
+export async function fetchPois(south: number, west: number, north: number, east: number, onlyBubblers: boolean): Promise<Marker[]> {
     const southTrunc = Math.trunc(south);
     const westTrunc = Math.trunc(west);
     const nodePromises: Promise<Marker[]>[] = [];
@@ -17,12 +17,12 @@ export async function fetchPois(south: number, west: number, north: number, east
     }
     const arrayOfArrays = await Promise.all(nodePromises);
     const combined = arrayOfArrays.flat();
-    const filteredNodes = filterNodes(combined, south, west, north, east);
+    const filteredNodes = filterGeograficNodes(combined, south, west, north, east);
 
-    return filteredNodes;
+    return filterAttributeNodes(filteredNodes, onlyBubblers);
 };
 
-function filterNodes(nodes: Marker[], south: number, west: number, north: number, east: number): Marker[] {
+function filterGeograficNodes(nodes: Marker[], south: number, west: number, north: number, east: number): Marker[] {
     const filteredNodes = nodes.filter(node =>
         node.lat >= south &&
         node.lat <= north &&
@@ -31,6 +31,25 @@ function filterNodes(nodes: Marker[], south: number, west: number, north: number
     );
     return filteredNodes;
 };
+
+//optional filter for pois that are drinking fointains
+function filterAttributeNodes(nodes: Marker[], onlyBubblers: boolean): Marker[]{
+    const filteredNodes = nodes.filter(node =>
+        !onlyBubblers ||
+        isBubbler(node)
+    );
+    return filteredNodes;
+}
+
+function isBubbler(marker: Marker): boolean {
+    return isTagSet(marker,"fountain", "bubbler")
+        || isTagSet(marker,"fountain", "drinking")
+        || isTagSet(marker,"man_made", "drinking_fountain");
+}
+
+function isTagSet(marker: Marker, key: string, value: string): boolean {
+    return marker.tags[key]?.trim() == value;
+}
 
 let cache = new Map<string, Marker[]>();
 async function loadCachedJson(lat: number, lon: number): Promise<Marker[]> {

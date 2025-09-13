@@ -6,6 +6,7 @@
     function toggleMenu() {
         hideMenu = !hideMenu;
     }
+    export let onlyBubblers = false;
 </script>
 
 <div class="menu">
@@ -14,8 +15,9 @@
     </div>
     <div class="menu-content" class:hide={hideMenu}>
         <ul>
+            <li><Toggle label="only bubblers" bind:checked={onlyBubblers}/></li>
+            <li>&nbsp;</li>
             <li><a href="https://github.com/sw-fox/owm"><img class="github-mark" src="images/github-mark.svg" alt=""/>Github</a></li>
-            <!--<li><Toggle label="Feature"/></li>-->
         </ul>
       </div>
 </div>
@@ -57,7 +59,8 @@
         transform: translateX(100%);
     }
     .menu-content ul {
-        margin-top: 1em;
+        margin-top: 2em;
+        margin-bottom: 2em;
         list-style: none;
     }
     .menu-content li {

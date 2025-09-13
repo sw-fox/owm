@@ -19,8 +19,10 @@
 		lon=url_lon;
 		zoom=url_zoom;
 	}
+
+	let onlyBubblers = false;
 	
 </script>
 
-<Map {lat} {lon} {zoom}/>
-<Menu />
+<Map {lat} {lon} {zoom} {onlyBubblers}/>
+<Menu bind:onlyBubblers/>

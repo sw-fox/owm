@@ -10,19 +10,19 @@
     import { MarkerImageConfig } from "./components/MarkerImageConfig";
     import Banner from "./components/Banner.svelte";
 
-    export var lat = 48.783;
-    export var lon = 9.183;
-    export var zoom = 13;
+   let { lat = 48.783, lon = 9.183, zoom = 13, onlyBubblers = false } = $props();
 
     const marker_image = L.icon(MarkerImageConfig);
 
     //list of markers on the map to be regularly cleaned up
-    let leafletMarkers;
+    let leafletMarkers = $state([]);
 
-    let showPoi = false;
+    let showPoi = $state(false);
+
+    let map;
 
     function createMap(container: HTMLDivElement) {
-        var map = L.map(container).setView([lat, lon], zoom);
+        map = L.map(container).setView([lat, lon], zoom);
         L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
             maxZoom: 19,
             attribution:
@@ -53,15 +53,15 @@
         leafletMarkers = L.layerGroup().addTo(map);
 
         map.on("dragend", function onDragEnd() {
-            updateMarkersOnScreen(map);
+            moveMap(map);
         });
         map.on("zoom", function onZoomEnd() {
-            updateMarkersOnScreen(map);
+            moveMap(map);
         });
         updateMarkersOnScreen(map);
     }
 
-    async function updateMarkersOnScreen(map) {
+    function moveMap(map) {
         lat = map.getCenter().lat.toFixed(3);
         lon = map.getCenter().lng.toFixed(3);
         zoom = map.getZoom();
@@ -70,6 +70,10 @@
             "open water map",
             "?lat=" + lat + "&lon=" + lon + "&zoom=" + Math.trunc(zoom),
         );
+        updateMarkersOnScreen(map);
+    }
+
+    function updateMarkersOnScreen(map) {
         showPoi = zoom > 10;
         if (showPoi) {
             let east = map.getBounds().getEast();
@@ -82,6 +86,7 @@
                 west,
                 north,
                 east,
+                onlyBubblers,
             );
 
             markersPromise.then((markers) => {
@@ -108,6 +113,10 @@
             leafletMarkers.clearLayers();
         }
     }
+
+    $effect(() => {
+        updateMarkersOnScreen(map);
+    });
 </script>
 
 <div class="map" use:createMap></div>
