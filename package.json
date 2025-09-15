@@ -25,6 +25,6 @@
   "dependencies": {
     "leaflet": "^1.9.4",
     "leaflet-overpass-layer": "^2.9.0",
-    "leaflet.locatecontrol": "^0.84.2"
+    "leaflet.locatecontrol": "^0.85.1"
   }
 }
