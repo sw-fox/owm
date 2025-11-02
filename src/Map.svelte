@@ -19,7 +19,7 @@
 
     let showPoi = $state(false);
 
-    let map;
+    let map: { on: (arg0: string, arg1: { (): void; (): void; }) => void; };
 
     function createMap(container: HTMLDivElement) {
         map = L.map(container).setView([lat, lon], zoom);

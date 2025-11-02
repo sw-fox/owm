@@ -1,0 +1,24 @@
+# This workflow will do a clean installation, test, linting and build on each pull request 
+
+name: Pull Request CI
+
+on:
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Use Node.js 22.x
+      uses: actions/setup-node@v4
+      with:
+        node-version: 22.x
+        cache: 'npm'
+    - name: Install
+      run: npm install
+    - name: Test
+      run: npm run test
+    - name: Build
+      run: npm run build
