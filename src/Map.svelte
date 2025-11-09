@@ -10,7 +10,7 @@
     import { MarkerImageConfig } from "./components/MarkerImageConfig";
     import Banner from "./components/Banner.svelte";
 
-   let { lat = 48.783, lon = 9.183, zoom = 13, onlyBubblers = false } = $props();
+   let { lat = 48.783, lon = 9.183, zoom = 13, onlyBubblers = false, showCemetries = false } = $props();
 
     const marker_image = L.icon(MarkerImageConfig);
 
@@ -87,6 +87,7 @@
                 north,
                 east,
                 onlyBubblers,
+                showCemetries,
             );
 
             markersPromise.then((markers) => {
@@ -96,7 +97,7 @@
                 });
                 markers.forEach((m: Marker) => {
                     if (m.tags.drinking_water == "no") {
-                        return; //skip if no drinking water
+                        return; //skip if explicitly no drinking water
                     }
                     if (m.type == "node") {
                         //render if element is point
@@ -105,6 +106,14 @@
                             })
                             .addTo(leafletMarkers)
                             .bindPopup(renderPopup(m));
+                    }else if((m.type == "way" || m.type == "relation") && m.center != undefined){
+                        //render areas with center
+                        L.marker([m.center.lat, m.center.lon], {
+                                icon: marker_image,
+                            })
+                            .addTo(leafletMarkers)
+                            .bindPopup(renderPopup(m));
+
                     }
                 });
             });

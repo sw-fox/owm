@@ -9,6 +9,8 @@ export function renderPopup(element: Marker){
     renderPopupLine("man_made", element.tags.man_made) +
     renderPopupLine("natural", element.tags.natural) +
     renderPopupLine("description", element.tags.description) +
+    renderPopupLine("landuse", element.tags.landuse) +
+    renderPopupLine("amenity", element.tags.amenity) +
     renderWikidataLink( element.tags.wikidata) +
     renderLink( element.tags.website);
 }

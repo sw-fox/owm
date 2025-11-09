@@ -7,6 +7,7 @@
         hideMenu = !hideMenu;
     }
     export let onlyBubblers = false;
+    export let showCemetries = false;
 </script>
 
 <div class="menu">
@@ -16,6 +17,7 @@
     <div class="menu-content" class:hide={hideMenu}>
         <ul>
             <li><Toggle label="only bubblers" bind:checked={onlyBubblers}/></li>
+            <li><Toggle label="show cemetries" bind:checked={showCemetries}/></li>
             <li>&nbsp;</li>
             <li><a href="https://github.com/sw-fox/owm"><img class="github-mark" src="images/github-mark.svg" alt=""/>Github</a></li>
         </ul>

@@ -1,0 +1,88 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-11-02T22:56:22Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 4533203,
+  "center": {
+    "lat": 54.1829314,
+    "lon": 7.8846508
+  },
+  "nodes": [
+    2468660800,
+    2882761439,
+    2877859399,
+    2882761443,
+    2468660817,
+    2468660835,
+    2882761441,
+    2882761440,
+    2468660823,
+    2468660800
+  ],
+  "tags": {
+    "access": "permissive",
+    "access:description": "Fotografieren und Vogelbeobachtung sind auf dem Friedhof verboten.",
+    "denomination": "lutheran",
+    "landuse": "cemetery",
+    "name": "Nicolai-Friedhof",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 572854980,
+  "center": {
+    "lat": 54.1831098,
+    "lon": 7.9079184
+  },
+  "nodes": [
+    28137265,
+    7310484234,
+    7310484233,
+    7310484236,
+    7310484235,
+    28137263,
+    7310484237,
+    5538909144,
+    28137265
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Friedhof der Namenlosen",
+    "opening_hours": "24/7",
+    "religion": "christian",
+    "start_date": "1970..1995"
+  }
+},
+{
+  "type": "way",
+  "id": 584483258,
+  "center": {
+    "lat": 54.1831791,
+    "lon": 7.9078776
+  },
+  "nodes": [
+    5587073127,
+    5587073128,
+    5587073129,
+    5587073130,
+    5587073131,
+    5587073132,
+    5587073133,
+    5587073127
+  ],
+  "tags": {
+    "area": "yes",
+    "cemetery": "sector"
+  }
+}
+
+  ]
+}

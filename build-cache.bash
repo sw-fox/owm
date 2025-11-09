@@ -28,9 +28,15 @@ for ((i=south; i<=north; i++)); do
 
         # Build the Overpass QL query for cemetries
         query2="[out:json][timeout:90];(\
+        way[\"landuse\"=\"cemetery\"](${bbox});\
+        way[\"leisure\"=\"cemetery\"](${bbox});\
+        way[\"amenity\"=\"grave_yard\"](${bbox});\
+        way[\"cemetery\"](${bbox});\
         relation[\"landuse\"=\"cemetery\"](${bbox});\
+        relation[\"leisure\"=\"cemetery\"](${bbox});\
         relation[\"amenity\"=\"grave_yard\"](${bbox});\
-        );out geom;"
+        relation[\"cemetery\"](${bbox});\
+        );out center;"
 
         # Send the request using curl and save to json
         curl -X POST https://overpass-api.de/api/interpreter \

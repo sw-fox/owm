@@ -21,8 +21,9 @@
 	}
 
 	let onlyBubblers = false;
+	let showCemetries = false;
 	
 </script>
 
-<Map {lat} {lon} {zoom} {onlyBubblers}/>
-<Menu bind:onlyBubblers/>
+<Map {lat} {lon} {zoom} {onlyBubblers} {showCemetries}/>
+<Menu bind:onlyBubblers bind:showCemetries/>
