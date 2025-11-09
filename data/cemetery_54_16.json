@@ -1,0 +1,3546 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-11-02T22:56:22Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 33136227,
+  "center": {
+    "lat": 54.1535564,
+    "lon": 16.3386877
+  },
+  "nodes": [
+    374273836,
+    374273857,
+    374273879,
+    374273890,
+    374273836
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Stary cmentarz poniemiecki"
+  }
+},
+{
+  "type": "way",
+  "id": 37745945,
+  "center": {
+    "lat": 54.1843693,
+    "lon": 16.4914681
+  },
+  "nodes": [
+    442714300,
+    8323812122,
+    442714302,
+    442714303,
+    442714305,
+    442714300
+  ],
+  "tags": {
+    "amenity": "grave_yard",
+    "denomination": "catholic",
+    "landuse": "cemetery",
+    "name": "cmentarz komunalny",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 100305534,
+  "center": {
+    "lat": 54.4844093,
+    "lon": 16.9793501
+  },
+  "nodes": [
+    1159471584,
+    11529339436,
+    9817577876,
+    9817577869,
+    9817577870,
+    9817577871,
+    1159471535,
+    11529341809,
+    11529339437,
+    2658101088,
+    11529339453,
+    11529372021,
+    1416987451,
+    11529339451,
+    1159471661,
+    1159471608,
+    11529371961,
+    11529371960,
+    11529371965,
+    11529371959,
+    11529341769,
+    11529341770,
+    11529341771,
+    11529339466,
+    11529339465,
+    1159471587,
+    11529339450,
+    11529339452,
+    11529339449,
+    11529339448,
+    11529339447,
+    1159471512,
+    11529339446,
+    11529339445,
+    11529339444,
+    11529339443,
+    1159471623,
+    1159471544,
+    11529371944,
+    11529371946,
+    11529371915,
+    11529339442,
+    11529339441,
+    11529371875,
+    11529339440,
+    11529341946,
+    1159471528,
+    11529371898,
+    11529371900,
+    11529371895,
+    1159471679,
+    11529371894,
+    2972962670,
+    11529341878,
+    11529339439,
+    11529341885,
+    2497031661,
+    11529339438,
+    1738435261,
+    1159471584
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Nowy Cmentarz"
+  }
+},
+{
+  "type": "way",
+  "id": 168554912,
+  "center": {
+    "lat": 54.1710965,
+    "lon": 16.1967899
+  },
+  "nodes": [
+    1798011053,
+    1798011025,
+    1798011023,
+    8204060820,
+    8204060819,
+    8204060818,
+    8204060116,
+    8204060115,
+    8204060817,
+    8204060821,
+    8204060822,
+    1798010980,
+    1798010983,
+    1798011036,
+    1798011038,
+    1798011041,
+    1798011045,
+    1798011048,
+    1798011053
+  ],
+  "tags": {
+    "barrier": "fence",
+    "landuse": "cemetery",
+    "name": "Cmentarz komunalny",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 168554913,
+  "center": {
+    "lat": 54.1725447,
+    "lon": 16.1994113
+  },
+  "nodes": [
+    1798010978,
+    1798010979,
+    1798010987,
+    2633766046,
+    4940259242,
+    2633766048,
+    12770248056,
+    12770248057,
+    12770248055,
+    12770248062,
+    12770248061,
+    12770248060,
+    12770248059,
+    12770248058,
+    12330952985,
+    12330952984,
+    4940432038,
+    12330952982,
+    12330952983,
+    4940432040,
+    5547744397,
+    4940432039,
+    4940432041,
+    12770248090,
+    12770248086,
+    12770248091,
+    12770248092,
+    12770248087,
+    12770248093,
+    4940432042,
+    1798011080,
+    12330952997,
+    9417535826,
+    12770248072,
+    12770248094,
+    1798011056,
+    1798011028,
+    1798010978
+  ],
+  "tags": {
+    "barrier": "fence",
+    "fence_type": "bars",
+    "landuse": "cemetery",
+    "name": "Cmentarz komunalny"
+  }
+},
+{
+  "type": "way",
+  "id": 173448355,
+  "center": {
+    "lat": 54.3657196,
+    "lon": 16.5069437
+  },
+  "nodes": [
+    1842595251,
+    1842595247,
+    1842595245,
+    1842595249,
+    1842595251
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 179380310,
+  "center": {
+    "lat": 54.5600473,
+    "lon": 16.9229724
+  },
+  "nodes": [
+    5414667975,
+    1897406640,
+    5414667973,
+    5414667974,
+    5414667967,
+    5415915842,
+    1897406471,
+    5414667970,
+    5415975619,
+    5414667975
+  ],
+  "tags": {
+    "addr:city": "Zimowiska",
+    "addr:housenumber": "5",
+    "addr:street": "Księdza Kardynała Stefana Wyszyńskiego",
+    "barrier": "fence",
+    "landuse": "cemetery",
+    "name": "Cmentarz Komunalny Gmina Miasto Ustka",
+    "operator": "Administrator: Usteckie Towarzystwo Spółka z.o.o Gmina Miasto Ustka"
+  }
+},
+{
+  "type": "way",
+  "id": 181447029,
+  "center": {
+    "lat": 54.0396608,
+    "lon": 16.7127472
+  },
+  "nodes": [
+    1918703008,
+    1918703004,
+    1918703005,
+    1918703006,
+    1918703007,
+    1918703009,
+    1918703008
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 222185142,
+  "center": {
+    "lat": 54.1987654,
+    "lon": 16.3589313
+  },
+  "nodes": [
+    2311671465,
+    2311671500,
+    2311671502,
+    2311671508,
+    2311671465
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 227065867,
+  "center": {
+    "lat": 54.1094018,
+    "lon": 16.3697894
+  },
+  "nodes": [
+    2357955417,
+    2357955422,
+    2357955431,
+    2357955428,
+    2357955417
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Cmentarz poniemiecki w Wyszewie",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 231970303,
+  "center": {
+    "lat": 54.1813552,
+    "lon": 16.3062919
+  },
+  "nodes": [
+    2402912687,
+    2402912686,
+    2402912684,
+    2402912685,
+    2402912688,
+    2402912687
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Stary cmentarz poniemiecki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 231970304,
+  "center": {
+    "lat": 54.1640538,
+    "lon": 16.2922116
+  },
+  "nodes": [
+    2402912670,
+    2402912671,
+    2402912672,
+    2402912675,
+    2402912674,
+    2402912673,
+    2402912669,
+    2402912670
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Dawny niemiecki cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 231970308,
+  "center": {
+    "lat": 54.1742230,
+    "lon": 16.2631233
+  },
+  "nodes": [
+    2402912679,
+    2402912678,
+    2402912676,
+    2437599103,
+    2402912677,
+    2402912679
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 234814205,
+  "center": {
+    "lat": 54.1636720,
+    "lon": 16.4455571
+  },
+  "nodes": [
+    2429446758,
+    2429446759,
+    2429446756,
+    2429446755,
+    13043460338,
+    2429446758
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 241234742,
+  "center": {
+    "lat": 54.3036995,
+    "lon": 16.5094316
+  },
+  "nodes": [
+    2489286123,
+    2489286124,
+    12356610530,
+    2489286122,
+    2489286121,
+    12356610524,
+    2489286123
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 241959523,
+  "center": {
+    "lat": 54.4403066,
+    "lon": 16.8079427
+  },
+  "nodes": [
+    13229965359,
+    13229965360,
+    13229965361,
+    2495279279,
+    11235396250,
+    13229965357,
+    13229965358,
+    13229965359
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 243092428,
+  "center": {
+    "lat": 54.1840100,
+    "lon": 16.1933801
+  },
+  "nodes": [
+    2505286551,
+    2505286532,
+    4721720744,
+    2505286552,
+    2505286554,
+    4721720732,
+    4721720731,
+    4721720730,
+    4721720729,
+    4721720728,
+    4721720725,
+    4721720724,
+    4721720726,
+    2505286551
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "teren po cmentarzu żydowskim",
+    "religion": "jewish"
+  }
+},
+{
+  "type": "way",
+  "id": 244268801,
+  "center": {
+    "lat": 54.0600967,
+    "lon": 16.6563313
+  },
+  "nodes": [
+    2516061894,
+    2516061891,
+    3890700095,
+    2516061897,
+    2516061898,
+    2516061894
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "cmentarz poniemiecki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 244268802,
+  "center": {
+    "lat": 54.0015779,
+    "lon": 16.5850771
+  },
+  "nodes": [
+    2516061843,
+    2516061844,
+    2516061852,
+    2516061854,
+    2516061855,
+    2516061849,
+    2516061843
+  ],
+  "tags": {
+    "denomination": "protestant",
+    "landuse": "cemetery",
+    "name": "cmentarz poniemiecki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 244590645,
+  "center": {
+    "lat": 54.2422299,
+    "lon": 16.0788442
+  },
+  "nodes": [
+    2518915080,
+    2518915084,
+    2518915081,
+    2518915053,
+    5627993388,
+    2518915056,
+    2518915080
+  ],
+  "tags": {
+    "amenity": "grave_yard"
+  }
+},
+{
+  "type": "way",
+  "id": 245060336,
+  "center": {
+    "lat": 54.0349564,
+    "lon": 16.5820989
+  },
+  "nodes": [
+    2523162936,
+    2523162938,
+    2523162942,
+    2523162960,
+    2523162936
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 252739111,
+  "center": {
+    "lat": 54.2255350,
+    "lon": 16.3004421
+  },
+  "nodes": [
+    2587749117,
+    8263999803,
+    2587749119,
+    2587749122,
+    2603781181,
+    2603781187,
+    2587749126,
+    2587749129,
+    2587749137,
+    2587749136,
+    8263999769,
+    2587749117
+  ],
+  "tags": {
+    "denomination": "catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 253477978,
+  "center": {
+    "lat": 54.2519037,
+    "lon": 16.0360808
+  },
+  "nodes": [
+    2594012356,
+    8654810904,
+    5649168538,
+    2594012358,
+    5649168539,
+    5649168540,
+    2594012360,
+    2594012361,
+    5649168541,
+    2594012356
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 253564713,
+  "center": {
+    "lat": 54.2702637,
+    "lon": 16.5491122
+  },
+  "nodes": [
+    2594765793,
+    2594765794,
+    2594765795,
+    2594765796,
+    2594765793
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 253780220,
+  "center": {
+    "lat": 54.2377173,
+    "lon": 16.8929555
+  },
+  "nodes": [
+    2596610473,
+    2596610483,
+    2596610489,
+    9062033530,
+    2596610494,
+    2596610501,
+    9062033527,
+    9062033528,
+    9062033529,
+    2596610507,
+    2596383737,
+    2008854363,
+    2596610524,
+    4277745430,
+    4277745429,
+    2596610530,
+    2596610473
+  ],
+  "tags": {
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "name": "Cmentarz parafialny w Kępicach",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 253844009,
+  "center": {
+    "lat": 54.1155854,
+    "lon": 16.6885534
+  },
+  "nodes": [
+    2597232700,
+    2597232702,
+    2597232704,
+    2597232706,
+    2597232708,
+    2597232710,
+    2597232712,
+    3581870739,
+    2597232714,
+    2597232700
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Cmentarz Komunalny"
+  }
+},
+{
+  "type": "way",
+  "id": 258538294,
+  "center": {
+    "lat": 54.0216361,
+    "lon": 16.3669424
+  },
+  "nodes": [
+    2638800169,
+    2638800154,
+    2638800158,
+    2638800165,
+    2638800173,
+    2638800169
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 258538295,
+  "center": {
+    "lat": 54.0213287,
+    "lon": 16.3672747
+  },
+  "nodes": [
+    2638800151,
+    2638800117,
+    2638800142,
+    2638800145,
+    2638800148,
+    2638800162,
+    2638800151
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 260024893,
+  "center": {
+    "lat": 54.4768646,
+    "lon": 16.5133548
+  },
+  "nodes": [
+    2654771631,
+    2654771628,
+    2654771636,
+    2654771644,
+    2654771631
+  ],
+  "tags": {
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 260024896,
+  "center": {
+    "lat": 54.5101805,
+    "lon": 16.5086934
+  },
+  "nodes": [
+    2654771785,
+    9665400599,
+    3396201405,
+    9665400600,
+    2654771779,
+    9665400602,
+    2654771823,
+    2654771837,
+    13176678383,
+    9665400596,
+    9665400603,
+    2654771785
+  ],
+  "tags": {
+    "amenity": "grave_yard",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 260544740,
+  "center": {
+    "lat": 54.4196977,
+    "lon": 16.4316464
+  },
+  "nodes": [
+    2660463088,
+    5480499664,
+    2660463097,
+    2660463090,
+    2660463094,
+    2660463092,
+    2660463084,
+    5480499669,
+    2660463086,
+    2660463082,
+    2660463076,
+    2660463073,
+    2660463070,
+    2660463063,
+    2660463066,
+    2660463060,
+    2660463088
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Cmentarz Komunalny",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 260832118,
+  "center": {
+    "lat": 54.2225021,
+    "lon": 16.5384029
+  },
+  "nodes": [
+    2657476779,
+    2664002514,
+    2664002512,
+    2664002513,
+    2657476779
+  ],
+  "tags": {
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "name": "Cmentarz Komunalny",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 261267349,
+  "center": {
+    "lat": 54.5823108,
+    "lon": 16.8619377
+  },
+  "nodes": [
+    5402063305,
+    5402063313,
+    5402063306,
+    5580200815,
+    5402063307,
+    2818063433,
+    2668996636,
+    2818063432,
+    5409731954,
+    1357299307,
+    2668953945,
+    5580201286,
+    1357299243,
+    2668996633,
+    5409731957,
+    5409698838,
+    5402063305
+  ],
+  "tags": {
+    "barrier": "wall",
+    "landuse": "cemetery",
+    "name": "Cmentarz Miejski"
+  }
+},
+{
+  "type": "way",
+  "id": 261424746,
+  "center": {
+    "lat": 54.0145979,
+    "lon": 16.9593026
+  },
+  "nodes": [
+    2670404226,
+    2670404221,
+    2670404250,
+    2670404269,
+    2670404272,
+    2670404270,
+    2670404261,
+    11701959782,
+    12114469615,
+    10749447459,
+    12114469607,
+    11701959783,
+    2670404230,
+    2670404228,
+    2670404226
+  ],
+  "tags": {
+    "barrier": "fence",
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 266282213,
+  "center": {
+    "lat": 54.2478521,
+    "lon": 16.1742158
+  },
+  "nodes": [
+    2718622469,
+    2718622468,
+    10595968758,
+    2718622466,
+    2718622467,
+    2718622469
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 272991802,
+  "center": {
+    "lat": 54.1591689,
+    "lon": 16.0303614
+  },
+  "nodes": [
+    2778864193,
+    2778864190,
+    2778864176,
+    2778864201,
+    2778864193
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 278533197,
+  "center": {
+    "lat": 54.4249013,
+    "lon": 16.4168297
+  },
+  "nodes": [
+    2828933854,
+    5739601639,
+    2828933855,
+    2828933856,
+    2828933857,
+    13179070371,
+    13179070370,
+    13179070369,
+    5750053248,
+    13179070368,
+    2828933858,
+    12188830447,
+    13179070366,
+    13179070365,
+    12188830446,
+    13179070382,
+    12188830445,
+    12188830444,
+    2828933860,
+    2828933861,
+    2828933854
+  ],
+  "tags": {
+    "addr:city": "Darłowo",
+    "barrier": "fence",
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "name": "Cmentarz Komunalny",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 281289538,
+  "center": {
+    "lat": 54.2832241,
+    "lon": 16.6672395
+  },
+  "nodes": [
+    2852665749,
+    2852665751,
+    2852665748,
+    2852665745,
+    2852665749
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name:signed": "no",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 287506048,
+  "center": {
+    "lat": 54.2739495,
+    "lon": 16.4728392
+  },
+  "nodes": [
+    2911082026,
+    2911082029,
+    2911082016,
+    2911082015,
+    2911082026
+  ],
+  "tags": {
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 287822322,
+  "center": {
+    "lat": 54.1352165,
+    "lon": 16.0415534
+  },
+  "nodes": [
+    2913940723,
+    4745210745,
+    2913940722,
+    2913940724,
+    4739869555,
+    4739869556,
+    2913940725,
+    2913940727,
+    4739869552,
+    4739869553,
+    2913940729,
+    2913940730,
+    2913940731,
+    2380052605,
+    2913940726,
+    4739869554,
+    2913940723
+  ],
+  "tags": {
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 288121197,
+  "center": {
+    "lat": 54.2613669,
+    "lon": 16.2614466
+  },
+  "nodes": [
+    2916631357,
+    2916631359,
+    2916631360,
+    2916631358,
+    2916631357
+  ],
+  "tags": {
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 288428390,
+  "center": {
+    "lat": 54.3520710,
+    "lon": 16.3964939
+  },
+  "nodes": [
+    2919877476,
+    2919877475,
+    2919877478,
+    11351117515,
+    2919877481,
+    2919877476
+  ],
+  "tags": {
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 288428393,
+  "center": {
+    "lat": 54.3525530,
+    "lon": 16.3952711
+  },
+  "nodes": [
+    2919877486,
+    2919877479,
+    2919877484,
+    11351117511,
+    11351117519,
+    11351117520,
+    11351117521,
+    11351117522,
+    11351117512,
+    11351117523,
+    11351117526,
+    11351117525,
+    11351117524,
+    2919877489,
+    2919877486
+  ],
+  "tags": {
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 288448595,
+  "center": {
+    "lat": 54.4955599,
+    "lon": 16.9130593
+  },
+  "nodes": [
+    2920101697,
+    2920101698,
+    2920101700,
+    3064412144,
+    2920101699,
+    3371702842,
+    3371702843,
+    2920101697
+  ],
+  "tags": {
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "name": "Cmentarz parafialny",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 288448596,
+  "center": {
+    "lat": 54.5008364,
+    "lon": 16.7817069
+  },
+  "nodes": [
+    2920101703,
+    2920101705,
+    2920101707,
+    2920101713,
+    2920101703
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 293179808,
+  "center": {
+    "lat": 54.2758458,
+    "lon": 16.4026857
+  },
+  "nodes": [
+    2967516056,
+    2967516055,
+    2967516052,
+    2967516054,
+    2967516056
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 294202837,
+  "center": {
+    "lat": 54.1129923,
+    "lon": 16.3487895
+  },
+  "nodes": [
+    2977622147,
+    2977622146,
+    2977622634,
+    2977622145,
+    2977622147
+  ],
+  "tags": {
+    "denomination": "catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 298297330,
+  "center": {
+    "lat": 54.0281553,
+    "lon": 16.4693782
+  },
+  "nodes": [
+    3022108166,
+    3022108170,
+    3022108171,
+    3022108168,
+    3022108166
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 301101594,
+  "center": {
+    "lat": 54.5369610,
+    "lon": 16.8181066
+  },
+  "nodes": [
+    3052083874,
+    4323892892,
+    3052083875,
+    3052083876,
+    3052083877,
+    3052083874
+  ],
+  "tags": {
+    "addr:place": "Duninowo",
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "name": "Cmentarz parafialny",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 302971410,
+  "center": {
+    "lat": 54.2222905,
+    "lon": 16.5388528
+  },
+  "nodes": [
+    3072552838,
+    3072552837,
+    3072552835,
+    3072552836,
+    3072552838
+  ],
+  "tags": {
+    "denomination": "lutheran",
+    "landuse": "cemetery",
+    "name": "Cmentarz Ewangelicki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 303158686,
+  "center": {
+    "lat": 54.2487212,
+    "lon": 16.5829250
+  },
+  "nodes": [
+    3074811513,
+    3074811510,
+    3074811511,
+    3074811515,
+    3074811513
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "cmentarz poniemiecki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 303593632,
+  "center": {
+    "lat": 54.1578301,
+    "lon": 16.7302031
+  },
+  "nodes": [
+    3079868063,
+    8355859575,
+    3079868059,
+    3079868061,
+    3079868067,
+    3079868063
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 306285219,
+  "center": {
+    "lat": 54.1829550,
+    "lon": 16.3847717
+  },
+  "nodes": [
+    3111521296,
+    3111521300,
+    3111521303,
+    3111521301,
+    3111521298,
+    3111521296
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 306288483,
+  "center": {
+    "lat": 54.1189427,
+    "lon": 16.2522302
+  },
+  "nodes": [
+    3111561584,
+    3111561586,
+    3111561587,
+    3111561585,
+    10132413894,
+    3111561584
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 306341662,
+  "center": {
+    "lat": 54.1213124,
+    "lon": 16.1626052
+  },
+  "nodes": [
+    3112198486,
+    3112198485,
+    3112198470,
+    3112198483,
+    3112198486
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 307308734,
+  "center": {
+    "lat": 54.2997733,
+    "lon": 16.8855934
+  },
+  "nodes": [
+    3124102724,
+    3124102709,
+    3124102700,
+    3124102722,
+    3124102723,
+    3124102724
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 307310008,
+  "center": {
+    "lat": 54.4982009,
+    "lon": 16.7193716
+  },
+  "nodes": [
+    3124121534,
+    3124121532,
+    3124121533,
+    3124121535,
+    3251994557,
+    3124121534
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 307310009,
+  "center": {
+    "lat": 54.4425568,
+    "lon": 16.6152598
+  },
+  "nodes": [
+    3124119625,
+    3124119627,
+    3124119626,
+    3124119624,
+    3124119625
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 307463223,
+  "center": {
+    "lat": 54.0155593,
+    "lon": 16.5325090
+  },
+  "nodes": [
+    3126228548,
+    3126228554,
+    3126228553,
+    3126228546,
+    3126228545,
+    3126228548
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "cmentarz poniemiecki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 308786697,
+  "center": {
+    "lat": 54.3670231,
+    "lon": 16.6852408
+  },
+  "nodes": [
+    3140585996,
+    12556056565,
+    12556056564,
+    3140585998,
+    12556056562,
+    3140586000,
+    3140585999,
+    12556056561,
+    12556056560,
+    12556056559,
+    12556056558,
+    12556056557,
+    3140585995,
+    3140585993,
+    3140585997,
+    6058889210,
+    3140585992,
+    9179692424,
+    3140585994,
+    3140585991,
+    3140585990,
+    12556056567,
+    12556056566,
+    3140585996
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 314330687,
+  "center": {
+    "lat": 54.4325188,
+    "lon": 16.7408716
+  },
+  "nodes": [
+    3203809218,
+    12556056732,
+    3203809228,
+    3203809229,
+    3203809219,
+    3203809218
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 314876260,
+  "center": {
+    "lat": 54.2859525,
+    "lon": 16.9602797
+  },
+  "nodes": [
+    3209250076,
+    3209250075,
+    3209250077,
+    3209250078,
+    3209250076
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 316593266,
+  "center": {
+    "lat": 54.1495747,
+    "lon": 16.1010868
+  },
+  "nodes": [
+    3227244145,
+    3227244146,
+    3227244144,
+    3227244143,
+    3227244145
+  ],
+  "tags": {
+    "denomination": "lutheran",
+    "landuse": "cemetery",
+    "name": "Cmentarz ewangelicki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 318820418,
+  "center": {
+    "lat": 54.4850211,
+    "lon": 16.6986668
+  },
+  "nodes": [
+    3251994474,
+    10127715290,
+    3251994471,
+    3251994466,
+    3251994467,
+    3251994474
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 318820419,
+  "center": {
+    "lat": 54.4778578,
+    "lon": 16.6546271
+  },
+  "nodes": [
+    3251994464,
+    3251994462,
+    3251994463,
+    3251994465,
+    3251994464
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 318877265,
+  "center": {
+    "lat": 54.4560470,
+    "lon": 16.7846390
+  },
+  "nodes": [
+    3252710395,
+    3252710392,
+    10961277755,
+    3252710384,
+    3252710385,
+    3252710386,
+    3252710395
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 318877266,
+  "center": {
+    "lat": 54.4563677,
+    "lon": 16.7839330
+  },
+  "nodes": [
+    3252710395,
+    3252710394,
+    3252710387,
+    3252710386,
+    3252710395
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 326677985,
+  "center": {
+    "lat": 54.4692836,
+    "lon": 16.9239321
+  },
+  "nodes": [
+    3333442371,
+    3333442372,
+    3333442373,
+    3333440680,
+    3333442371
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Cmentarz ewangelicki Pra-Bierkowian"
+  }
+},
+{
+  "type": "way",
+  "id": 326978855,
+  "center": {
+    "lat": 54.3278785,
+    "lon": 16.5640474
+  },
+  "nodes": [
+    3336859616,
+    6955727685,
+    2926983316,
+    3336859618,
+    3336859616
+  ],
+  "tags": {
+    "denomination": "catholic",
+    "landuse": "cemetery",
+    "name": "Cmentarz poniemiecki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 330462758,
+  "center": {
+    "lat": 54.4763142,
+    "lon": 16.8454461
+  },
+  "nodes": [
+    11505939783,
+    11505939782,
+    3374318699,
+    3374318700,
+    11505939783
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "stary cmentarz ewangelicki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 345707677,
+  "center": {
+    "lat": 54.2180241,
+    "lon": 16.8081134
+  },
+  "nodes": [
+    3523539177,
+    3523539181,
+    3523539186,
+    3523539190,
+    3523539189,
+    3523539177
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 346041430,
+  "center": {
+    "lat": 54.3947121,
+    "lon": 16.9085569
+  },
+  "nodes": [
+    3526481260,
+    3526481259,
+    3526481262,
+    3526481261,
+    3526481260
+  ],
+  "tags": {
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 350979255,
+  "center": {
+    "lat": 54.2243405,
+    "lon": 16.3007612
+  },
+  "nodes": [
+    3567003257,
+    8263999804,
+    3567003250,
+    3567003258,
+    3567003257
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "teren cmentarza, dawniej ogródki działkowe"
+  }
+},
+{
+  "type": "way",
+  "id": 351324778,
+  "center": {
+    "lat": 54.2890189,
+    "lon": 16.7929331
+  },
+  "nodes": [
+    3570981123,
+    3570981136,
+    3570981137,
+    3570981124,
+    3570981123
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 352213837,
+  "center": {
+    "lat": 54.1882927,
+    "lon": 16.8764557
+  },
+  "nodes": [
+    3579715593,
+    3579715592,
+    3579715591,
+    3579715590,
+    3579715589,
+    3579715588,
+    3579715587,
+    3579715594,
+    3579715593
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 353076076,
+  "center": {
+    "lat": 54.5117902,
+    "lon": 16.6971397
+  },
+  "nodes": [
+    3588580327,
+    12747222719,
+    5174712996,
+    3588580322,
+    3588580324,
+    3588580328,
+    3588580327
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 353076077,
+  "center": {
+    "lat": 54.5160689,
+    "lon": 16.6175869
+  },
+  "nodes": [
+    3588580330,
+    3588580333,
+    3588580335,
+    11056338226,
+    2004872482,
+    3588580330
+  ],
+  "tags": {
+    "barrier": "fence",
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 353399011,
+  "center": {
+    "lat": 54.3963112,
+    "lon": 16.7741520
+  },
+  "nodes": [
+    3591804449,
+    3591804448,
+    3591804454,
+    3591804455,
+    3591804449
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 362647474,
+  "center": {
+    "lat": 54.3311513,
+    "lon": 16.9310656
+  },
+  "nodes": [
+    3669157096,
+    3669157090,
+    3669157091,
+    3669157097,
+    3669157096
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "resztki poniemieckiego cmentarza",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 362664406,
+  "center": {
+    "lat": 54.0266294,
+    "lon": 16.9479058
+  },
+  "nodes": [
+    3669289721,
+    3669289719,
+    3669289720,
+    3669289722,
+    3669289721
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "Cmentarz poniemiecki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 371146105,
+  "center": {
+    "lat": 54.5541688,
+    "lon": 16.9155047
+  },
+  "nodes": [
+    3747461726,
+    5564683498,
+    3747461727,
+    3747461623,
+    3747461622,
+    3747461726
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 372172539,
+  "center": {
+    "lat": 54.0980656,
+    "lon": 16.9905084
+  },
+  "nodes": [
+    3757056780,
+    3757056781,
+    3757056785,
+    3757056784,
+    3757056780
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 376890653,
+  "center": {
+    "lat": 54.5192533,
+    "lon": 16.7702579
+  },
+  "nodes": [
+    3802677814,
+    3802677813,
+    3802677811,
+    3802677812,
+    3802677814
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 377766469,
+  "center": {
+    "lat": 54.0468117,
+    "lon": 16.3815762
+  },
+  "nodes": [
+    3811582282,
+    3811582283,
+    3811582281,
+    3811582280,
+    3811582282
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "Cmentarz poniemiecki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 377766470,
+  "center": {
+    "lat": 54.0266249,
+    "lon": 16.4394308
+  },
+  "nodes": [
+    3811582277,
+    3811582276,
+    3811582275,
+    3811582274,
+    3811582277
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "Cmentarz poniemiecki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 380672331,
+  "center": {
+    "lat": 54.0216318,
+    "lon": 16.8413742
+  },
+  "nodes": [
+    3839984226,
+    3839984225,
+    3839984228,
+    3839984227,
+    3839984226
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "Cmentarz poniemiecki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 380672335,
+  "center": {
+    "lat": 54.0196101,
+    "lon": 16.8972956
+  },
+  "nodes": [
+    3839984221,
+    3839984224,
+    3839984219,
+    3839984218,
+    3839984221
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "Cmentarz poniemiecki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 387822247,
+  "center": {
+    "lat": 54.0684713,
+    "lon": 16.8447501
+  },
+  "nodes": [
+    3910578561,
+    3910578563,
+    3910578564,
+    3910578566,
+    3910578573,
+    3910578569,
+    3910578562,
+    3910578561
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 390287269,
+  "center": {
+    "lat": 54.1190121,
+    "lon": 16.7519998
+  },
+  "nodes": [
+    3934437119,
+    3934437117,
+    3934437114,
+    3934437115,
+    3934437119
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 426442550,
+  "center": {
+    "lat": 54.2424079,
+    "lon": 16.8872734
+  },
+  "nodes": [
+    4257685076,
+    4257685077,
+    4257685078,
+    4257685079,
+    4257685076
+  ],
+  "tags": {
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 426451407,
+  "center": {
+    "lat": 54.2309016,
+    "lon": 16.9422770
+  },
+  "nodes": [
+    4257758357,
+    4257758358,
+    4257758359,
+    4257758360,
+    4257758357
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 458753521,
+  "center": {
+    "lat": 54.3133119,
+    "lon": 16.3649725
+  },
+  "nodes": [
+    4547088155,
+    4547088154,
+    4547088153,
+    4547088152,
+    4547088151,
+    4547088155
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 477098902,
+  "center": {
+    "lat": 54.2610689,
+    "lon": 16.9446717
+  },
+  "nodes": [
+    4705035204,
+    4705035203,
+    4705035202,
+    4705035201,
+    4705035204
+  ],
+  "tags": {
+    "denomination": "lutheran",
+    "landuse": "cemetery",
+    "name": "stary cmentarz ewangelicki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 478785462,
+  "center": {
+    "lat": 54.3530895,
+    "lon": 16.3367950
+  },
+  "nodes": [
+    4719839478,
+    4719839477,
+    4719839476,
+    4719839475,
+    4719839478
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 503069308,
+  "center": {
+    "lat": 54.2975081,
+    "lon": 16.2722404
+  },
+  "nodes": [
+    4934171555,
+    4934171554,
+    4934171553,
+    4934171552,
+    4934171555
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 522652133,
+  "center": {
+    "lat": 54.5729227,
+    "lon": 16.9017144
+  },
+  "nodes": [
+    5090047519,
+    5090047518,
+    5090047517,
+    5090047516,
+    5090047519
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 531445992,
+  "center": {
+    "lat": 54.1995582,
+    "lon": 16.7214184
+  },
+  "nodes": [
+    5158916898,
+    5158916897,
+    5158916896,
+    5158916895,
+    5158916894,
+    5158916898
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "Cmentarz poniemiecki w Buszynie",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 542061328,
+  "center": {
+    "lat": 54.0324200,
+    "lon": 16.0589000
+  },
+  "nodes": [
+    5240969773,
+    5240969772,
+    5240969771,
+    5240969770,
+    9373170812,
+    5240969773
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 574614935,
+  "center": {
+    "lat": 54.1777859,
+    "lon": 16.5380535
+  },
+  "nodes": [
+    5515179250,
+    5515179249,
+    5515179248,
+    5515179247,
+    5515179250
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 581398274,
+  "center": {
+    "lat": 54.3061815,
+    "lon": 16.6246842
+  },
+  "nodes": [
+    5563037667,
+    5563037666,
+    5563037665,
+    5563037664,
+    5563037667
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Stary cmentarz"
+  }
+},
+{
+  "type": "way",
+  "id": 581561559,
+  "center": {
+    "lat": 54.2943547,
+    "lon": 16.6862457
+  },
+  "nodes": [
+    5564179643,
+    5564179641,
+    5564179639,
+    5564179638,
+    5564179637,
+    5564179636,
+    5564179643
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "stary cmentarz ewangelicki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 581610031,
+  "center": {
+    "lat": 54.5463582,
+    "lon": 16.9341521
+  },
+  "nodes": [
+    5564500233,
+    5564500232,
+    5564500231,
+    5564500230,
+    5564500233
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 582296240,
+  "center": {
+    "lat": 54.5830955,
+    "lon": 16.9640924
+  },
+  "nodes": [
+    5312574335,
+    5569359265,
+    5569359267,
+    5569359266,
+    5414839601,
+    5312574335
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 584278408,
+  "center": {
+    "lat": 54.5365612,
+    "lon": 16.5277416
+  },
+  "nodes": [
+    5585298859,
+    5585298858,
+    5585298857,
+    5585298856,
+    5585298859
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "cmentarzyk"
+  }
+},
+{
+  "type": "way",
+  "id": 592153896,
+  "center": {
+    "lat": 54.4030637,
+    "lon": 16.4129937
+  },
+  "nodes": [
+    5652197568,
+    5652197567,
+    9881523529,
+    5652197564,
+    5652197568
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 594635833,
+  "center": {
+    "lat": 54.0504446,
+    "lon": 16.0632905
+  },
+  "nodes": [
+    5669734102,
+    5669734101,
+    5669734100,
+    5669734099,
+    5669734102
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz poniemiecki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 642513517,
+  "center": {
+    "lat": 54.0403868,
+    "lon": 16.2272065
+  },
+  "nodes": [
+    6048514342,
+    6048514341,
+    6048514340,
+    6048514339,
+    6048514342
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "stary cmentarz ewangelicki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 643524290,
+  "center": {
+    "lat": 54.2412808,
+    "lon": 16.4165863
+  },
+  "nodes": [
+    6055874203,
+    6055874204,
+    6055874205,
+    1834265043,
+    6055874206,
+    6055874203
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 648279591,
+  "center": {
+    "lat": 54.3894063,
+    "lon": 16.4630152
+  },
+  "nodes": [
+    6086572733,
+    6086572732,
+    6086572731,
+    6086572730,
+    6086572729,
+    6086572728,
+    6086572727,
+    6086572733
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 648885572,
+  "center": {
+    "lat": 54.1809899,
+    "lon": 16.5141051
+  },
+  "nodes": [
+    6091054335,
+    6091054334,
+    6091054333,
+    6091054332,
+    6091054335
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "stary cmentarz ewangelicki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 654329522,
+  "center": {
+    "lat": 54.4404538,
+    "lon": 16.5657565
+  },
+  "nodes": [
+    6131424120,
+    6131424119,
+    6131424118,
+    6131424117,
+    6131424120
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 654673888,
+  "center": {
+    "lat": 54.4225628,
+    "lon": 16.5128969
+  },
+  "nodes": [
+    6134638878,
+    6134638877,
+    6134638876,
+    6134638875,
+    6134638878
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 654684777,
+  "center": {
+    "lat": 54.3984891,
+    "lon": 16.5511960
+  },
+  "nodes": [
+    6134720583,
+    6134720582,
+    6134720581,
+    6134720580,
+    6134720579,
+    6134720578,
+    6134720577,
+    6134720576,
+    6134720583
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 666033140,
+  "center": {
+    "lat": 54.0151807,
+    "lon": 16.0687269
+  },
+  "nodes": [
+    6235533175,
+    6235533174,
+    6235533173,
+    6235533172,
+    6235533171,
+    6235533175
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "leaf_cycle": "deciduous",
+    "leaf_type": "broadleaved",
+    "name": "stary cmentarz",
+    "natural": "wood",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 666033639,
+  "center": {
+    "lat": 54.0766128,
+    "lon": 16.1225875
+  },
+  "nodes": [
+    6235537700,
+    6235537699,
+    6235537698,
+    6235537697,
+    6235537700
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 666844658,
+  "center": {
+    "lat": 54.0759980,
+    "lon": 16.0863023
+  },
+  "nodes": [
+    6243708030,
+    6243708029,
+    6243708028,
+    6243708027,
+    6243708030
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 684749117,
+  "center": {
+    "lat": 54.2832503,
+    "lon": 16.2101958
+  },
+  "nodes": [
+    6415872871,
+    6415872870,
+    6415872869,
+    6415872868,
+    6415872867,
+    6415872866,
+    6415872871
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz ewangelicki"
+  }
+},
+{
+  "type": "way",
+  "id": 684913060,
+  "center": {
+    "lat": 54.2674402,
+    "lon": 16.5091916
+  },
+  "nodes": [
+    6417378558,
+    6417378557,
+    6417378556,
+    6417378555,
+    6417378554,
+    6417378558
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz ewangelicki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 684914047,
+  "center": {
+    "lat": 54.0370976,
+    "lon": 16.0159949
+  },
+  "nodes": [
+    6417393105,
+    6417393104,
+    6417393103,
+    6417393102,
+    6417393105
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz ewangelicki"
+  }
+},
+{
+  "type": "way",
+  "id": 685185399,
+  "center": {
+    "lat": 54.2974768,
+    "lon": 16.5650578
+  },
+  "nodes": [
+    6420372065,
+    6420372064,
+    6420372063,
+    6420372062,
+    6420372065
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz ewangelicki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 701642553,
+  "center": {
+    "lat": 54.4871888,
+    "lon": 16.9435639
+  },
+  "nodes": [
+    6589266029,
+    6589266030,
+    6589266031,
+    6589266027,
+    6589266029
+  ],
+  "tags": {
+    "cemetery": "pet",
+    "landuse": "cemetery",
+    "name": "Dolina Pupilków Cmentarz dla zwierząt"
+  }
+},
+{
+  "type": "way",
+  "id": 703061037,
+  "center": {
+    "lat": 54.1774820,
+    "lon": 16.6012177
+  },
+  "nodes": [
+    6602516975,
+    6602516974,
+    6602516973,
+    6602516972,
+    6602516975
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 736990410,
+  "center": {
+    "lat": 54.1435610,
+    "lon": 16.8368550
+  },
+  "nodes": [
+    6899926950,
+    6899926949,
+    6899926948,
+    6899926947,
+    6899926946,
+    6899926945,
+    6899926950
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 762100483,
+  "center": {
+    "lat": 54.4417868,
+    "lon": 16.9875091
+  },
+  "nodes": [
+    7120378079,
+    7120378078,
+    7120378077,
+    7120378076,
+    13173610760,
+    7120378075,
+    7120378074,
+    7120378073,
+    7120378072,
+    7120378079
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 763727588,
+  "center": {
+    "lat": 54.3541753,
+    "lon": 16.3357050
+  },
+  "nodes": [
+    7135749250,
+    7135749249,
+    7135749248,
+    7135749247,
+    7135749250
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Lapidarium",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 764353648,
+  "center": {
+    "lat": 54.4291834,
+    "lon": 16.9756581
+  },
+  "nodes": [
+    7140812131,
+    7140812129,
+    7140812090,
+    7140812136,
+    7140812131
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Cmentarz Ewangelicki"
+  }
+},
+{
+  "type": "way",
+  "id": 765524673,
+  "center": {
+    "lat": 54.4487748,
+    "lon": 16.8853741
+  },
+  "nodes": [
+    4328398167,
+    7149716106,
+    7149716105,
+    7149716097,
+    7149716095,
+    7149716104,
+    4328383366,
+    4328398167
+  ],
+  "tags": {
+    "amenity": "grave_yard",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 799294391,
+  "center": {
+    "lat": 54.3932089,
+    "lon": 16.9731272
+  },
+  "nodes": [
+    7475382403,
+    7475382404,
+    7475382405,
+    7475382406,
+    7475382403
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 840236069,
+  "center": {
+    "lat": 54.1477845,
+    "lon": 16.9319103
+  },
+  "nodes": [
+    7840484271,
+    7840484270,
+    7840484269,
+    7840484268,
+    7840484271
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 858003863,
+  "center": {
+    "lat": 54.2479733,
+    "lon": 16.4795716
+  },
+  "nodes": [
+    7998942281,
+    7998942280,
+    7998942279,
+    7998942278,
+    7998942281
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 868256284,
+  "center": {
+    "lat": 54.0815639,
+    "lon": 16.5915273
+  },
+  "nodes": [
+    8093293478,
+    8093293477,
+    8093293476,
+    8093293475,
+    8093293474,
+    8093293478
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 868256518,
+  "center": {
+    "lat": 54.1177620,
+    "lon": 16.5358433
+  },
+  "nodes": [
+    8093250110,
+    8093250109,
+    8093250108,
+    8093250107,
+    8093250106,
+    8093250105,
+    8093250110
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 881600582,
+  "center": {
+    "lat": 54.2552276,
+    "lon": 16.3466046
+  },
+  "nodes": [
+    8198881755,
+    8198881754,
+    8198881753,
+    8198881752,
+    8198881751,
+    8198881755
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 891481813,
+  "center": {
+    "lat": 54.1215527,
+    "lon": 16.9539276
+  },
+  "nodes": [
+    8286110352,
+    8286110351,
+    8286110350,
+    8286110349,
+    8286110352
+  ],
+  "tags": {
+    "barrier": "hedge",
+    "landuse": "cemetery",
+    "name": "Cmentarzyk rodowy von Turzig",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 891481815,
+  "center": {
+    "lat": 54.0704576,
+    "lon": 16.9514378
+  },
+  "nodes": [
+    8286110435,
+    8286110434,
+    8286110433,
+    8286110432,
+    8286110435
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 891488056,
+  "center": {
+    "lat": 54.1218575,
+    "lon": 16.8245466
+  },
+  "nodes": [
+    8286166161,
+    8286166160,
+    8286166159,
+    8286166158,
+    8286166161
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "Stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 898562974,
+  "center": {
+    "lat": 54.0627387,
+    "lon": 16.6666213
+  },
+  "nodes": [
+    8349980806,
+    8349980805,
+    8349980804,
+    8349980803,
+    8349980802,
+    8349980801,
+    8349980800,
+    8349980799,
+    8349980798,
+    8349980797,
+    8349980796,
+    8349980806
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 899292870,
+  "center": {
+    "lat": 54.1047017,
+    "lon": 16.6204021
+  },
+  "nodes": [
+    8355854842,
+    8355854841,
+    8355854840,
+    8355854839,
+    8355854838,
+    8355854842
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 899293424,
+  "center": {
+    "lat": 54.2314145,
+    "lon": 16.6380194
+  },
+  "nodes": [
+    8355830015,
+    8355830014,
+    8355830013,
+    8355830012,
+    8355830015
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 899295004,
+  "center": {
+    "lat": 54.2326929,
+    "lon": 16.5941462
+  },
+  "nodes": [
+    8355871730,
+    8355871723,
+    8355871724,
+    8355871732,
+    8355871731,
+    8355871730
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 899306235,
+  "center": {
+    "lat": 54.2454612,
+    "lon": 16.6119988
+  },
+  "nodes": [
+    8355913896,
+    8355913895,
+    8355913894,
+    8355913893,
+    8355913896
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 963968059,
+  "center": {
+    "lat": 54.3048767,
+    "lon": 16.4703156
+  },
+  "nodes": [
+    8916622330,
+    8916622329,
+    8916622328,
+    8916622327,
+    8916622326,
+    8916622325,
+    8916622324,
+    8916622330
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "cmentarz poniemiecki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1031311479,
+  "center": {
+    "lat": 54.1989116,
+    "lon": 16.6453695
+  },
+  "nodes": [
+    9505175642,
+    9505175641,
+    9505175640,
+    9505175639,
+    9505175642
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz",
+    "natural": "wood",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1031311494,
+  "center": {
+    "lat": 54.1689419,
+    "lon": 16.7612096
+  },
+  "nodes": [
+    9505197394,
+    9505197393,
+    9505197392,
+    9505197391,
+    9505197394
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1073094829,
+  "center": {
+    "lat": 54.3411406,
+    "lon": 16.5993982
+  },
+  "nodes": [
+    9844507026,
+    9844507025,
+    9844507024,
+    10770844970,
+    9844507023,
+    9844507026
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "natural": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 1181164286,
+  "center": {
+    "lat": 54.1259089,
+    "lon": 16.3956940
+  },
+  "nodes": [
+    10969438793,
+    10969438792,
+    10969438791,
+    10969438790,
+    10969438793
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1222752690,
+  "center": {
+    "lat": 54.2280135,
+    "lon": 16.2286146
+  },
+  "nodes": [
+    11341384368,
+    11341384367,
+    11341384366,
+    11341384365,
+    11341384368
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "stary cmentarz ewangelicki",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1230407516,
+  "center": {
+    "lat": 54.2715406,
+    "lon": 16.6324788
+  },
+  "nodes": [
+    11410586917,
+    11410586916,
+    11410586915,
+    11410586914,
+    11410586913,
+    11410586917
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1241307747,
+  "center": {
+    "lat": 54.4443517,
+    "lon": 16.7106676
+  },
+  "nodes": [
+    11533528000,
+    11533527999,
+    11533527998,
+    11533527997,
+    11533528000
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "landuse": "cemetery",
+    "name": "stary cmentarz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1308131217,
+  "center": {
+    "lat": 54.0139856,
+    "lon": 16.9599192
+  },
+  "nodes": [
+    12114463231,
+    12114463232,
+    12114463233,
+    12114463234,
+    12114463235,
+    12114463236,
+    12114463237,
+    12114463238,
+    12114463239,
+    12114463240,
+    12114463241,
+    12114463242,
+    12114463231
+  ],
+  "tags": {
+    "cemetery": "sector"
+  }
+},
+{
+  "type": "way",
+  "id": 1308131218,
+  "center": {
+    "lat": 54.0137925,
+    "lon": 16.9593610
+  },
+  "nodes": [
+    12114463243,
+    12114463244,
+    12114463245,
+    12114463246,
+    12114463247,
+    12114463248,
+    12114463249,
+    12114463250,
+    12114463251,
+    12114463252,
+    12114463253,
+    12114463254,
+    12114463243
+  ],
+  "tags": {
+    "cemetery": "sector"
+  }
+},
+{
+  "type": "way",
+  "id": 1308131219,
+  "center": {
+    "lat": 54.0136008,
+    "lon": 16.9587880
+  },
+  "nodes": [
+    12114463255,
+    12114463256,
+    12114463257,
+    12114463258,
+    12114463259,
+    12114463260,
+    12114463261,
+    12114463262,
+    12114463263,
+    12114463264,
+    12114463265,
+    12114463266,
+    12114463255
+  ],
+  "tags": {
+    "cemetery": "sector"
+  }
+},
+{
+  "type": "way",
+  "id": 1308131220,
+  "center": {
+    "lat": 54.0141263,
+    "lon": 16.9590184
+  },
+  "nodes": [
+    12114463267,
+    12114463268,
+    12114463269,
+    12114463270,
+    12114463271,
+    12114463272,
+    12114463273,
+    12114463274,
+    12114463275,
+    12114463276,
+    12114463277,
+    12114463278,
+    12114463267
+  ],
+  "tags": {
+    "cemetery": "sector"
+  }
+},
+{
+  "type": "way",
+  "id": 1308131221,
+  "center": {
+    "lat": 54.0139317,
+    "lon": 16.9584466
+  },
+  "nodes": [
+    12114463279,
+    12114463280,
+    12114463281,
+    12114463282,
+    12114463283,
+    12114463284,
+    12114463285,
+    12114463286,
+    12114463287,
+    12114463288,
+    12114463289,
+    12114463290,
+    12114463279
+  ],
+  "tags": {
+    "cemetery": "sector"
+  }
+},
+{
+  "type": "way",
+  "id": 1308131222,
+  "center": {
+    "lat": 54.0142986,
+    "lon": 16.9596493
+  },
+  "nodes": [
+    12114463291,
+    12114463292,
+    12114469605,
+    12114469604,
+    12114463293,
+    12114463294,
+    12114463295,
+    12114463296,
+    12114463297,
+    12114463298,
+    12114463299,
+    12114463300,
+    12114469601,
+    12114469602,
+    12114469603,
+    12114463291
+  ],
+  "tags": {
+    "cemetery": "sector"
+  }
+},
+{
+  "type": "way",
+  "id": 1379102041,
+  "center": {
+    "lat": 54.1744365,
+    "lon": 16.2000939
+  },
+  "nodes": [
+    12770248090,
+    12770248089,
+    12396433672,
+    12396433675,
+    12770248088,
+    12770248093,
+    12770248087,
+    12770248092,
+    12770248091,
+    12770248086,
+    12770248090
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Cmentarz Wojenny Żołnierzy Armii Radzieckiej Poległych w Walkach o Wyzwolenie Ziemi Koszalińskiej w 1945 r."
+  }
+},
+{
+  "type": "way",
+  "id": 1419436116,
+  "center": {
+    "lat": 54.1690805,
+    "lon": 16.4007027
+  },
+  "nodes": [
+    13043440282,
+    13043440281,
+    13043440280,
+    13043440279,
+    13043440282
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Stary cmentarz poniemiecki"
+  }
+},
+{
+  "type": "way",
+  "id": 1426824900,
+  "center": {
+    "lat": 54.4466366,
+    "lon": 16.4297397
+  },
+  "nodes": [
+    9844542351,
+    13116165209,
+    13116165210,
+    9844542352,
+    13116165218,
+    9844542351
+  ],
+  "tags": {
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1426824903,
+  "center": {
+    "lat": 54.4470242,
+    "lon": 16.4306052
+  },
+  "nodes": [
+    13116165220,
+    13116165221,
+    13116165222,
+    13116165223,
+    13116165224,
+    13116165225,
+    13116165226,
+    13116165227,
+    13116165220
+  ],
+  "tags": {
+    "amenity": "grave_yard",
+    "religion": "christian"
+  }
+}
+
+  ]
+}
