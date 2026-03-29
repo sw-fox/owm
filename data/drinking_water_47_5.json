@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:00:34Z",
+    "timestamp_osm_base": "2026-03-29T15:23:58Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -202,7 +202,6 @@
   "tags": {
     "capacity": "30",
     "caravans": "yes",
-    "contact:mobile": "+33 6 72 89 86 92",
     "drinking_water": "yes",
     "email": "laplageautet@orange.fr",
     "fee": "yes",
@@ -210,7 +209,7 @@
     "opening_hours": "Jun-Oct",
     "payment:cash": "yes",
     "payment:debit_cards": "yes",
-    "phone": "+33 672898692",
+    "phone": "+33 6 72 89 86 92",
     "power_supply": "yes",
     "sanitary_dump_station": "no",
     "shower": "yes",
@@ -246,7 +245,7 @@
   "lon": 5.0328525,
   "tags": {
     "amenity": "drinking_water",
-    "check_date": "2022-09-16",
+    "check_date": "2025-11-10",
     "man_made": "water_tap"
   }
 },
@@ -369,19 +368,6 @@
     "amenity_1": "drinking_water",
     "drinking_water": "yes",
     "source": "http://www.refuges.info/point/6967/point-d-eau/Jura-et-avant-pays-comtois/Fontaine-de-l-Ermitage-de-Cussey-sur-Lison/"
-  }
-},
-{
-  "type": "node",
-  "id": 3504812254,
-  "lat": 47.1293120,
-  "lon": 5.0934346,
-  "tags": {
-    "access": "yes",
-    "amenity": "toilets",
-    "drinking_water": "yes",
-    "fee": "no",
-    "wheelchair": "yes"
   }
 },
 {
@@ -583,6 +569,30 @@
 },
 {
   "type": "node",
+  "id": 5085667207,
+  "lat": 47.9021890,
+  "lon": 5.3015040,
+  "tags": {
+    "addr:city": "Hûmes",
+    "addr:country": "FR",
+    "addr:postcode": "52200",
+    "addr:street": "Rue de la Mouche",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "email": "mairie.humesjorquenay@wanadoo.fr",
+    "fax": "+33 3 25 87 50 65",
+    "name": "Camping municipal",
+    "phone": "+33 3 25 87 50 65;+33 6 35 94 76 83",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
   "id": 5109823315,
   "lat": 47.4584169,
   "lon": 5.5280876,
@@ -717,15 +727,6 @@
   "id": 5811136971,
   "lat": 47.5192851,
   "lon": 5.1114487,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
-  "id": 5818329505,
-  "lat": 47.1293780,
-  "lon": 5.0934129,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -1020,7 +1021,8 @@
   "lat": 47.3256587,
   "lon": 5.0667277,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1941,7 +1943,9 @@
   "lat": 47.3580026,
   "lon": 5.0486103,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "cold_water": "yes",
+    "fountain": "drinking"
   }
 },
 {
@@ -1961,7 +1965,8 @@
   "lon": 5.9880047,
   "tags": {
     "amenity": "water_point",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "no"
   }
 },
 {
@@ -2003,6 +2008,36 @@
   "lon": 5.0435050,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13078261193,
+  "lat": 47.0880756,
+  "lon": 5.5038037,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 13123102657,
+  "lat": 47.0942043,
+  "lon": 5.4988813,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13259199385,
+  "lat": 47.8214100,
+  "lon": 5.0642584,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 }
 

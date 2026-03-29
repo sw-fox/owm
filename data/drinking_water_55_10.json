@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:06:45Z",
+    "timestamp_osm_base": "2026-03-29T15:42:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -25,7 +25,8 @@
   "lon": 10.3961685,
   "tags": {
     "amenity": "drinking_water",
-    "check_date": "2022-07-06"
+    "check_date": "2022-07-06",
+    "fountain": "bubbler"
   }
 },
 {
@@ -306,11 +307,13 @@
   "lon": 10.4699155,
   "tags": {
     "camp_site": "basic",
+    "caravans": "no",
     "drinking_water": "yes",
     "fee": "yes",
     "motor_vehicle": "no",
     "name": "Skarø Teltplads",
     "openfire": "yes",
+    "static_caravans": "no",
     "tents": "yes",
     "tourism": "camp_site"
   }
@@ -468,7 +471,11 @@
   "lat": 55.2975100,
   "lon": 10.8401493,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2025-08-22",
+    "fee": "no",
+    "man_made": "water_tap"
   }
 },
 {
@@ -777,7 +784,9 @@
   "lat": 55.8770292,
   "lon": 10.0093617,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "seasonal": "yes"
   }
 },
 {
@@ -1172,6 +1181,8 @@
     "camp_site": "basic",
     "caravans": "no",
     "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Naturstyrelsen Søhøjlandet",
     "static_caravans": "no",
     "tents": "yes",
     "tourism": "camp_site"
@@ -1637,7 +1648,8 @@
   "tags": {
     "amenity": "drinking_water",
     "indoor": "no",
-    "level": "0"
+    "level": "0",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1658,6 +1670,17 @@
     "drinking_water": "yes",
     "man_made": "water_well",
     "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 13074730093,
+  "lat": 55.2002866,
+  "lon": 10.1602337,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "yes",
+    "man_made": "water_tap"
   }
 }
 

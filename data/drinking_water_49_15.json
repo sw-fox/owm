@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:02:36Z",
+    "timestamp_osm_base": "2026-03-29T15:29:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -26,8 +26,8 @@
 {
   "type": "node",
   "id": 310893830,
-  "lat": 49.6715055,
-  "lon": 15.9380152,
+  "lat": 49.6715602,
+  "lon": 15.9378609,
   "tags": {
     "drinking_water": "yes",
     "intermittent": "no",
@@ -37,9 +37,26 @@
 },
 {
   "type": "node",
+  "id": 436152740,
+  "lat": 49.6326379,
+  "lon": 15.9090377,
+  "tags": {
+    "access": "customers",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Velké Dářko",
+    "sanitary_dump_station": "no",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
   "id": 462106617,
-  "lat": 49.2255360,
-  "lon": 15.3387439,
+  "lat": 49.2255364,
+  "lon": 15.3386943,
   "tags": {
     "drinking_water": "yes",
     "name": "Studánka Páně",
@@ -53,7 +70,8 @@
   "lat": 49.6131590,
   "lon": 15.4078405,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2026-03-28"
   }
 },
 {
@@ -358,7 +376,8 @@
   "lat": 49.2181667,
   "lon": 15.3413233,
   "tags": {
-    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "name": "studánka Pod Javořicí",
     "natural": "spring"
   }
 },
@@ -546,8 +565,8 @@
 {
   "type": "node",
   "id": 3721551465,
-  "lat": 49.7175221,
-  "lon": 15.6695683,
+  "lat": 49.7175750,
+  "lon": 15.6695183,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -723,8 +742,8 @@
 {
   "type": "node",
   "id": 4965940048,
-  "lat": 49.0793585,
-  "lon": 15.4366936,
+  "lat": 49.0793319,
+  "lon": 15.4366876,
   "tags": {
     "access": "yes",
     "amenity": "toilets",
@@ -821,16 +840,6 @@
 },
 {
   "type": "node",
-  "id": 5653556514,
-  "lat": 49.6072138,
-  "lon": 15.5796346,
-  "tags": {
-    "amenity": "drinking_water",
-    "bottle": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 5860416105,
   "lat": 49.3715808,
   "lon": 15.5345419,
@@ -895,6 +904,17 @@
     "name": "Červená studánka",
     "natural": "spring",
     "website": "https://www.estudanky.eu/111-cervena-studanka"
+  }
+},
+{
+  "type": "node",
+  "id": 7661601604,
+  "lat": 49.0936523,
+  "lon": 15.2426916,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "source": "survey,gps"
   }
 },
 {
@@ -973,8 +993,8 @@
 {
   "type": "node",
   "id": 8948004472,
-  "lat": 49.0125884,
-  "lon": 15.0909756,
+  "lat": 49.0125437,
+  "lon": 15.0909553,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -1035,8 +1055,7 @@
     "intermittent": "no",
     "name": "Bleší studánka",
     "natural": "spring",
-    "ref": "7482",
-    "website": "Bleší studánka"
+    "ref": "7482"
   }
 },
 {
@@ -1571,12 +1590,80 @@
 },
 {
   "type": "node",
+  "id": 13046416143,
+  "lat": 49.0050589,
+  "lon": 15.4402878,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
   "id": 13058781766,
   "lat": 49.1944383,
   "lon": 15.4486844,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13093998092,
+  "lat": 49.7609346,
+  "lon": 15.9056013,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13094076040,
+  "lat": 49.7606133,
+  "lon": 15.9062187,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13128924616,
+  "lat": 49.4586927,
+  "lon": 15.4806882,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "studánka u Víti"
+  }
+},
+{
+  "type": "node",
+  "id": 13157631537,
+  "lat": 49.7392307,
+  "lon": 15.9737478,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13197743877,
+  "lat": 49.5726893,
+  "lon": 15.1308986,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13611047101,
+  "lat": 49.7199210,
+  "lon": 15.6703899,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:03:33Z",
+    "timestamp_osm_base": "2026-03-29T15:34:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -510,9 +510,11 @@
   "tags": {
     "access": "customers",
     "amenity": "toilets",
-    "check_date": "2022-11-11",
+    "check_date": "2025-10-31",
+    "check_date:opening_hours": "2025-10-31",
     "drinking_water": "yes",
     "fee": "no",
+    "opening_hours": "Mo-Sa 07:00-22:00",
     "operator": "Kaufland",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
@@ -555,8 +557,8 @@
 {
   "type": "node",
   "id": 3547382988,
-  "lat": 51.3659049,
-  "lon": 8.5226805,
+  "lat": 51.3659291,
+  "lon": 8.5227627,
   "tags": {
     "amenity": "kneipp_water_cure",
     "drinking_water": "yes",
@@ -615,6 +617,17 @@
   "lon": 8.0291483,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3992667324,
+  "lat": 51.0597254,
+  "lon": 8.7964082,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "name": "Wasserpark"
   }
 },
 {
@@ -691,6 +704,7 @@
     "amenity": "drinking_water",
     "check_date": "2023-04-22",
     "fountain": "bubbler",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Hellequelle_water_point.jpg",
     "name": "Hellequelle"
   }
 },
@@ -1553,7 +1567,8 @@
   "tags": {
     "access": "yes",
     "amenity": "water_point",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "no"
   }
 },
 {
@@ -1755,6 +1770,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "fountain": "bubbler",
     "wheelchair": "yes"
   }
 },
@@ -1922,7 +1938,7 @@
     "addr:street": "Schanze",
     "contact:facebook": "https://www.facebook.com/Schanzeeins",
     "cuisine": "cake",
-    "description": "Was ist der Kiosk 717?\nDer Kiosk 717 ist der höchste Kiosk im Schmallenberger Sauerland.\n\nHier bekommst Du gekühlte Getränke, Eis und unsere kleinen kulinarischen Verwöhneinheiten.",
+    "description": "Was ist der Kiosk 717? Der Kiosk 717 ist der höchste Kiosk im Schmallenberger Sauerland.  Hier bekommst Du gekühlte Getränke, Eis und unsere kleinen kulinarischen Verwöhneinheiten.",
     "drink:beer": "bottled",
     "drinking_water": "yes",
     "email": "hallo@schanze1.de",
@@ -1930,7 +1946,7 @@
     "opening_hours": "Außerhalb der Wandersaison hat unser Waldkiosk flexible Öffnungszeiten.",
     "operator": "Landschaftsgasthaus Schanze 1 GbR",
     "payment:cash": "yes",
-    "phone": "+49 2975-454",
+    "phone": "+49 2975 454",
     "shop": "kiosk",
     "website": "https://schanze1.de/kiosk-717"
   }
@@ -2231,12 +2247,13 @@
 {
   "type": "node",
   "id": 11998666249,
-  "lat": 51.2740024,
-  "lon": 8.8716947,
+  "lat": 51.2740037,
+  "lon": 8.8717061,
   "tags": {
     "amenity": "drinking_water",
     "description:de": "Edelstahlsäule welche auf knopfdruck einen Wasserstrahl nach schräg oben in die Luft schießt. Dieser kann aufgefangen oder getrunken werden",
     "fountain": "bubbler",
+    "seasonal": "yes",
     "wheelchair": "yes"
   }
 },
@@ -2254,11 +2271,15 @@
 {
   "type": "node",
   "id": 12053407539,
-  "lat": 51.6349074,
-  "lon": 8.1975062,
+  "lat": 51.6348452,
+  "lon": 8.1974740,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "fee": "no"
+    "fee": "no",
+    "fountain": "bubbler",
+    "name": "Schneiders Quell",
+    "wheelchair": "yes"
   }
 },
 {
@@ -2272,8 +2293,9 @@
     "changing_table": "yes",
     "description": "Im Café Röhren",
     "drinking_water": "yes",
+    "fee": "no",
     "network": "Nette Toilette",
-    "opening_hours": "Tu off; Mo, We-Sa 09:00-17:30; Su, PH 09:30-17:30",
+    "opening_hours": "Tu off; Mo,We-Sa 09:00-17:30; Su,PH 09:30-17:30",
     "wheelchair": "limited"
   }
 },
@@ -2396,6 +2418,30 @@
 },
 {
   "type": "node",
+  "id": 12785504720,
+  "lat": 51.8804081,
+  "lon": 8.3203236,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Gütersloh",
+    "pump": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12785504726,
+  "lat": 51.8820475,
+  "lon": 8.3183427,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke Gütersloh",
+    "pump": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 12812106923,
   "lat": 51.3893858,
   "lon": 8.8919644,
@@ -2471,6 +2517,82 @@
   "lon": 8.7194111,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13082178539,
+  "lat": 51.3667183,
+  "lon": 8.7366620,
+  "tags": {
+    "access": "yes",
+    "amenity": "sanitary_dump_station",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "water_point": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13104274091,
+  "lat": 51.8106000,
+  "lon": 8.4281833,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13107794244,
+  "lat": 51.7197860,
+  "lon": 8.7549408,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "yes",
+    "level": "1",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13226532189,
+  "lat": 51.9057042,
+  "lon": 8.3776989,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13249780246,
+  "lat": 51.9640355,
+  "lon": 8.2180497,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13260000920,
+  "lat": 51.1599292,
+  "lon": 8.8696045,
+  "tags": {
+    "access": "private",
+    "amenity": "toilets",
+    "description": "Toiletten bei Veranstaltungen in Grillhütte oder Feuerwehrhaus geöffnet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "\"Bei Veranstaltung in Feuerwehrhaus oder Grillhütte\"",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
   }
 }
 

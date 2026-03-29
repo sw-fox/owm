@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:05:42Z",
+    "timestamp_osm_base": "2026-03-29T15:05:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -298,15 +298,6 @@
 },
 {
   "type": "node",
-  "id": 3732521168,
-  "lat": 52.4570187,
-  "lon": 14.2155934,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 4238144637,
   "lat": 52.5535292,
   "lon": 14.1293895,
@@ -527,38 +518,6 @@
   "lon": 14.9738072,
   "tags": {
     "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
-  "id": 9735460886,
-  "lat": 52.1365219,
-  "lon": 14.4582843,
-  "tags": {
-    "access": "customers",
-    "addr:city": "Schlaubetal OT Bremsdorf",
-    "addr:country": "DE",
-    "addr:housenumber": "5",
-    "addr:postcode": "15890",
-    "addr:street": "Bremsdorfer Mühle",
-    "camp_site": "serviced",
-    "caravans": "yes",
-    "dog": "yes",
-    "drinking_water": "yes",
-    "email": "info@schlaubetal-camping.de",
-    "mobile": "+49 1522/6702232",
-    "name": "Anmeldung",
-    "operator": "Naturcampingplatz Großer Treppelsee",
-    "picnic_table": "yes",
-    "power_supply": "yes",
-    "reservation": "yes",
-    "sanitary_dump_station": "yes",
-    "shower": "yes",
-    "static_caravans": "yes",
-    "tents": "yes",
-    "toilets": "yes",
-    "tourism": "camp_site",
-    "website": "https://schlaubetal-camping.de/"
   }
 },
 {
@@ -821,6 +780,24 @@
     "name": "Trinkbrunnen",
     "operator": "Frankfurter Wasser- und Abwasser GmbH",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13074422288,
+  "lat": 52.1710938,
+  "lon": 14.2442902,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13075575392,
+  "lat": 52.2154280,
+  "lon": 14.0109581,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

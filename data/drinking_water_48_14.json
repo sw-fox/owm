@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:01:36Z",
+    "timestamp_osm_base": "2026-03-29T14:52:14Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -107,7 +107,8 @@
   "tags": {
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
-    "man_made": "water_well"
+    "man_made": "water_well",
+    "name": "Bürgerbrunnen"
   }
 },
 {
@@ -248,6 +249,8 @@
   "lon": 14.4955197,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-10-13",
+    "natural": "spring",
     "source": "survey"
   }
 },
@@ -384,15 +387,6 @@
 },
 {
   "type": "node",
-  "id": 1798444944,
-  "lat": 48.6339951,
-  "lon": 14.2434911,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 1873497993,
   "lat": 48.9097693,
   "lon": 14.9570077,
@@ -408,6 +402,7 @@
   "lon": 14.7528396,
   "tags": {
     "amenity": "drinking_water",
+    "fountain": "drinking",
     "source": "survey"
   }
 },
@@ -417,7 +412,8 @@
   "lat": 48.5915216,
   "lon": 14.0824723,
   "tags": {
-    "amenity": "drinking_water"
+    "drinking_water": "yes",
+    "natural": "spring"
   }
 },
 {
@@ -499,8 +495,8 @@
 {
   "type": "node",
   "id": 2372664664,
-  "lat": 48.9571530,
-  "lon": 14.3313959,
+  "lat": 48.9571803,
+  "lon": 14.3312722,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -598,6 +594,20 @@
     "tourism": "camp_site",
     "washing_machine": "yes",
     "website": "http://www.campsever.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 2421633831,
+  "lat": 48.7133992,
+  "lon": 14.7547681,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Lesní studánka",
+    "natural": "spring",
+    "refitted": "yes",
+    "source": "survey",
+    "wikimedia_commons": "File:Lesní studánka u naučné stezky Hojná Voda.jpg"
   }
 },
 {
@@ -775,11 +785,12 @@
 {
   "type": "node",
   "id": 2977453029,
-  "lat": 48.7410451,
-  "lon": 14.7234532,
+  "lat": 48.7410562,
+  "lon": 14.7234136,
   "tags": {
     "amenity": "drinking_water",
-    "bottle": "yes"
+    "bottle": "yes",
+    "fountain": "drinking"
   }
 },
 {
@@ -1159,7 +1170,8 @@
   "lat": 48.5816717,
   "lon": 14.2419889,
   "tags": {
-    "amenity": "drinking_water"
+    "drinking_water": "yes",
+    "natural": "spring"
   }
 },
 {
@@ -1187,10 +1199,11 @@
 {
   "type": "node",
   "id": 5145572291,
-  "lat": 48.7410283,
-  "lon": 14.7235116,
+  "lat": 48.7410318,
+  "lon": 14.7234868,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -1235,8 +1248,8 @@
 {
   "type": "node",
   "id": 5590936866,
-  "lat": 48.9689949,
-  "lon": 14.2068636,
+  "lat": 48.9690266,
+  "lon": 14.2069226,
   "tags": {
     "drinking_water": "yes",
     "name": "Hantlova studánka",
@@ -1533,7 +1546,7 @@
     "indoor": "no",
     "male": "yes",
     "supervised": "no",
-    "toilets:hand_drying": "paper_towel",
+    "toilets:hands_drying": "paper_towel",
     "toilets:handwashing": "yes",
     "toilets:hot_water": "no",
     "toilets:paper_supplied": "yes",
@@ -1590,10 +1603,11 @@
 {
   "type": "node",
   "id": 7476573969,
-  "lat": 48.6433801,
-  "lon": 14.7064501,
+  "lat": 48.6433721,
+  "lon": 14.7063059,
   "tags": {
     "drinking_water": "yes",
+    "name": "U bývalé skelné hutě",
     "natural": "spring"
   }
 },
@@ -1708,10 +1722,12 @@
     "access": "yes",
     "amenity": "toilets",
     "changing_table": "yes",
+    "check_date:opening_hours": "2025-11-15",
     "drinking_water": "yes",
     "fee": "no",
     "female": "yes",
     "male": "yes",
+    "opening_hours:signed": "no",
     "operator": "Kaufland",
     "operator:type": "private",
     "toilets:disposal": "flush",
@@ -1899,7 +1915,8 @@
   "lon": 14.2880185,
   "tags": {
     "amenity": "drinking_water",
-    "fee": "no"
+    "fee": "no",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1909,6 +1926,17 @@
   "lon": 14.5034513,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 8783546385,
+  "lat": 48.6086077,
+  "lon": 14.2872706,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring",
+    "source": "gps"
   }
 },
 {
@@ -2137,6 +2165,8 @@
   "lon": 14.2867698,
   "tags": {
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "capacity": "1",
     "fountain": "drinking",
     "man_made": "water_tap",
     "wikimedia_commons": "File:Drinking fountain in Linz, Austria.jpeg"
@@ -2714,7 +2744,9 @@
   "lat": 48.2732627,
   "lon": 14.3024451,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "pump": "manual"
   }
 },
 {
@@ -3090,6 +3122,7 @@
   "lon": 14.2935766,
   "tags": {
     "amenity": "toilets",
+    "check_date": "2025-12-20",
     "drinking_water": "yes",
     "fee": "no",
     "female": "yes",
@@ -3317,6 +3350,17 @@
   "lon": 14.0072528,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 11213646934,
+  "lat": 48.2677132,
+  "lon": 14.2964293,
+  "tags": {
+    "amenity": "drinking_water",
+    "dog": "yes",
+    "man_made": "water_tap"
   }
 },
 {
@@ -3572,6 +3616,7 @@
   "lon": 14.2998909,
   "tags": {
     "amenity": "drinking_water",
+    "fountain": "drinking",
     "ref": "TB88"
   }
 },
@@ -4065,6 +4110,7 @@
     "fee": "no",
     "indoor": "no",
     "lit": "no",
+    "note": "are you sure?",
     "source": "survey",
     "wheelchair": "no"
   }
@@ -4102,6 +4148,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bubbler",
     "wheelchair": "yes"
   }
 },
@@ -4114,6 +4161,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bubbler",
     "wheelchair": "yes"
   }
 },
@@ -4131,12 +4179,106 @@
 },
 {
   "type": "node",
-  "id": 13072079327,
-  "lat": 48.9881821,
-  "lon": 14.5666774,
+  "id": 13074500241,
+  "lat": 48.5138006,
+  "lon": 14.4018132,
   "tags": {
     "amenity": "drinking_water",
-    "fee": "no"
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13083797364,
+  "lat": 48.3064123,
+  "lon": 14.2889842,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13084662758,
+  "lat": 48.0360129,
+  "lon": 14.6538915,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 13124568571,
+  "lat": 48.1469086,
+  "lon": 14.8741573,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13176666502,
+  "lat": 48.9608546,
+  "lon": 14.4793235,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Magistrát města České Budějovice"
+  }
+},
+{
+  "type": "node",
+  "id": 13253156531,
+  "lat": 48.8290264,
+  "lon": 14.4629429,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 13316663204,
+  "lat": 48.3287381,
+  "lon": 14.2826333,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13343234897,
+  "lat": 48.2596463,
+  "lon": 14.2036995,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13478421006,
+  "lat": 48.3946690,
+  "lon": 14.7295627,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours": "24/7",
+    "supervised": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes"
   }
 }
 

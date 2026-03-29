@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:06:45Z",
+    "timestamp_osm_base": "2026-03-29T15:13:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -44,7 +44,9 @@
   "lon": 9.6425260,
   "tags": {
     "access": "permissive",
+    "cabins": "no",
     "camp_site": "standard",
+    "caravans": "no",
     "drinking_water": "yes",
     "fee": "no",
     "motor_vehicle": "no",
@@ -56,6 +58,7 @@
     "shelter": "yes",
     "shelter_type": "lean_to",
     "shelters": "3",
+    "static_caravans": "no",
     "toilets": "yes",
     "tourism": "camp_site",
     "website": "https://udinaturen.dk/shelter/2694"
@@ -92,8 +95,10 @@
   "lat": 55.4949837,
   "lon": 9.6110215,
   "tags": {
+    "cabins": "no",
     "camp_site": "standard",
     "capacity:tents": "1",
+    "caravans": "no",
     "drinking_water": "yes",
     "fee": "no",
     "motor_vehicle": "no",
@@ -102,6 +107,7 @@
     "operator": "Naturstyrelsen",
     "picnic_table": "yes",
     "reservation": "no",
+    "static_caravans": "no",
     "tents": "yes",
     "toilets": "yes",
     "tourism": "camp_site",
@@ -114,7 +120,9 @@
   "lat": 55.6761411,
   "lon": 9.3910262,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-09-25",
+    "man_made": "water_tap"
   }
 },
 {
@@ -160,7 +168,9 @@
   "lon": 9.3876357,
   "tags": {
     "bin": "yes",
+    "cabins": "no",
     "camp_site": "standard",
+    "caravans": "no",
     "drinking_water": "yes",
     "fee": "no",
     "maxstay": "2 nights",
@@ -170,6 +180,8 @@
     "openfire": "yes",
     "operator": "Naturstyrelsen",
     "phone": "+45 72 54 30 00",
+    "static_caravans": "no",
+    "tents": "yes",
     "toilets": "yes",
     "tourism": "camp_site",
     "website": "https://udinaturen.dk/facilitet/christiansdal-pamhule-skov/12556",
@@ -341,8 +353,8 @@
 {
   "type": "node",
   "id": 1791627128,
-  "lat": 55.4332223,
-  "lon": 9.6400739,
+  "lat": 55.4331891,
+  "lon": 9.6400211,
   "tags": {
     "amenity": "drinking_water",
     "check_date": "2023-06-10",
@@ -442,7 +454,9 @@
   "lat": 55.6753170,
   "lon": 9.3922658,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-09-25",
+    "man_made": "water_tap"
   }
 },
 {
@@ -453,6 +467,7 @@
   "tags": {
     "access": "permissive",
     "camp_site": "standard",
+    "caravans": "no",
     "drinking_water": "yes",
     "fee": "yes",
     "name": "Shelters ved Gram Slot",
@@ -463,6 +478,7 @@
     "shelter": "yes",
     "shelter_type": "lean_to",
     "shelters": "3",
+    "static_caravans": "no",
     "toilets": "yes",
     "tourism": "camp_site",
     "website": "https://www.gramslot.dk/overnatning/shelters/"
@@ -552,7 +568,9 @@
   "lat": 55.2870445,
   "lon": 9.3422223,
   "tags": {
+    "cabins": "no",
     "camp_site": "standard",
+    "caravans": "no",
     "drinking_water": "yes",
     "fee": "no",
     "motor_vehicle": "no",
@@ -560,6 +578,8 @@
     "openfire": "yes",
     "operator": "Privat",
     "phone": "+45 74 50 64 17",
+    "static_caravans": "no",
+    "tents": "yes",
     "toilets": "yes",
     "tourism": "camp_site",
     "website": "https://udinaturen.dk/facilitet/vojens/5289"
@@ -573,7 +593,9 @@
   "tags": {
     "access": "permissive",
     "bin": "yes",
+    "cabins": "no",
     "camp_site": "standard",
+    "caravans": "no",
     "drinking_water": "yes",
     "fee": "no",
     "motor_vehicle": "no",
@@ -582,6 +604,8 @@
     "openfire": "yes",
     "operator": "Privat",
     "phone": "+45 22 79 42 23",
+    "static_caravans": "no",
+    "tents": "yes",
     "toilets": "yes",
     "tourism": "camp_site",
     "website": "https://udinaturen.dk/facilitet/styding/5297"
@@ -614,7 +638,9 @@
   "lon": 9.5415605,
   "tags": {
     "access": "permissive",
+    "cabins": "no",
     "camp_site": "basic",
+    "caravans": "no",
     "drinking_water": "yes",
     "fee": "no",
     "motor_vehicle": "no",
@@ -622,6 +648,7 @@
     "openfire": "yes",
     "operator": "Privat",
     "phone": "+45 23 29 37 60",
+    "static_caravans": "no",
     "tourism": "camp_site",
     "website": "https://udinaturen.dk/facilitet/kelstrup/5307"
   }
@@ -683,6 +710,7 @@
   "lon": 9.1580775,
   "tags": {
     "camp_site": "standard",
+    "caravans": "no",
     "drinking_water": "yes",
     "fee": "yes",
     "motor_vehicle": "no",
@@ -691,6 +719,7 @@
     "openfire": "yes",
     "operator": "De grønne Pigespejder",
     "phone": "+45 74416869",
+    "static_caravans": "no",
     "toilets": "yes",
     "tourism": "camp_site",
     "website": "http://www.hjartbro-spejdercenter.dk/"
@@ -798,6 +827,23 @@
 },
 {
   "type": "node",
+  "id": 3178384485,
+  "lat": 55.9791627,
+  "lon": 9.5974208,
+  "tags": {
+    "camp_site": "standard",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fireplace": "yes",
+    "name": "Brædstruppladsen",
+    "operator": "Naturstyrelsen",
+    "static_caravans": "no",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
   "id": 3248975105,
   "lat": 55.2905698,
   "lon": 9.0431543,
@@ -816,8 +862,10 @@
   "lat": 55.2610617,
   "lon": 9.7318275,
   "tags": {
+    "cabins": "no",
     "camp_site": "basic",
     "capacity:persons": "6",
+    "caravans": "no",
     "drinking_water": "yes",
     "motor_vehicle": "no",
     "name": "Aarø Havn Shelterplads",
@@ -828,6 +876,7 @@
     "shelter": "yes",
     "shelter_type": "lean_to",
     "shelters": "1",
+    "static_caravans": "no",
     "toilets": "yes",
     "tourism": "camp_site",
     "website": "https://udinaturen.dk/shelter/2858"
@@ -839,8 +888,10 @@
   "lat": 55.2631605,
   "lon": 9.7054696,
   "tags": {
+    "cabins": "no",
     "camp_site": "standard",
     "capacity:persons": "6",
+    "caravans": "no",
     "drinking_water": "yes",
     "motor_vehicle": "no",
     "name": "Aarøsund Havn Shelterplads",
@@ -851,6 +902,7 @@
     "shelter": "yes",
     "shelter_type": "lean_to",
     "shelters": "1",
+    "static_caravans": "no",
     "toilets": "yes",
     "tourism": "camp_site",
     "website": "https://udinaturen.dk/shelter/6737",
@@ -1070,6 +1122,7 @@
     "male": "yes",
     "opening_hours": "07:00-22:00",
     "operator": "Haderslev Kommune",
+    "operator:wikidata": "Q21143",
     "toilets:disposal": "flush",
     "toilets:position": "seated",
     "wheelchair": "yes"
@@ -1348,8 +1401,8 @@
 {
   "type": "node",
   "id": 5000283029,
-  "lat": 55.6402144,
-  "lon": 9.5624204,
+  "lat": 55.6400786,
+  "lon": 9.5624565,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -1506,6 +1559,7 @@
     "fee": "no",
     "opening_hours": "07:00-22:00",
     "operator": "Haderslev Kommune",
+    "operator:wikidata": "Q21143",
     "toilets:disposal": "flush",
     "toilets:position": "seated",
     "wheelchair": "yes"
@@ -1636,11 +1690,12 @@
 {
   "type": "node",
   "id": 7735576373,
-  "lat": 55.7342269,
-  "lon": 9.1273760,
+  "lat": 55.7341456,
+  "lon": 9.1273579,
   "tags": {
     "amenity": "water_point",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "no"
   }
 },
 {
@@ -1749,6 +1804,7 @@
   "lat": 55.0229682,
   "lon": 9.3110779,
   "tags": {
+    "cabins": "no",
     "camp_site": "basic",
     "caravans": "no",
     "drinking_water": "yes",
@@ -1756,6 +1812,7 @@
     "name": "Stokhytten",
     "note": "toilets and shower available for a small fee (there are 3 persons living in the village that can give the key; information on site)",
     "operator": "KFUM-Spejderne",
+    "static_caravans": "no",
     "tents": "yes",
     "tourism": "camp_site"
   }
@@ -1955,6 +2012,7 @@
   "lon": 9.1263631,
   "tags": {
     "amenity": "drinking_water",
+    "indoor": "no",
     "man_made": "water_tap"
   }
 },
@@ -2582,6 +2640,7 @@
     "amenity": "water_point",
     "caravan": "designated",
     "drinking_water": "yes",
+    "fee": "no",
     "motorhome": "designated"
   }
 },
@@ -2602,7 +2661,8 @@
   "lat": 55.5194526,
   "lon": 9.7698961,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -2737,14 +2797,17 @@
   "lat": 55.1933414,
   "lon": 9.6147357,
   "tags": {
+    "cabins": "no",
     "camp_site": "standard",
     "capacity:persons": "6",
+    "caravans": "no",
     "drinking_water": "yes",
     "name": "Hejsager Strand Shelter",
     "reservation": "no",
     "shelter": "yes",
     "shelter_type": "lean_to",
     "shelters": "1",
+    "static_caravans": "no",
     "toilets": "yes",
     "tourism": "camp_site",
     "website": "https://udinaturen.dk/shelter/2859"
@@ -2836,6 +2899,88 @@
     "amenity": "water_point",
     "drinking_water": "yes",
     "source": "https://houensodde.dk/fileadmin/filer/pdf/Oddekort_folder_version_2019.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 13081511388,
+  "lat": 55.7348579,
+  "lon": 9.1273858,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13092016469,
+  "lat": 55.7459186,
+  "lon": 9.1475458,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13103207555,
+  "lat": 55.5055457,
+  "lon": 9.9000532,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13202863537,
+  "lat": 55.6737622,
+  "lon": 9.1971705,
+  "tags": {
+    "access": "yes",
+    "camp_site": "standard",
+    "capacity:tents": "3",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "static_caravans": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 13348020612,
+  "lat": 55.7090096,
+  "lon": 9.5330260,
+  "tags": {
+    "amenity": "drinking_water",
+    "artist:wikidata": "Q12332058",
+    "artist:wikipedia": "da:Pontus Kjerrman",
+    "artist_name": "Pontus Kjerrman",
+    "artwork_type": "statue",
+    "material": "stone",
+    "name": "Englekatten",
+    "source:location": "https://skauogco.blogspot.com/2025/03/bnken-og-englen.html",
+    "source:start_date": "https://www.vejlekunstmuseum.dk/media/upeikae5/angelcat.jpg?width=1536&height=864&v=1d8768268497420&rmode=crop&autoorient=true&format=webp&quality=80",
+    "start_date": "2002-11",
+    "tourism": "artwork",
+    "website": "https://www.vejlekunstmuseum.dk/skulpturguide/skulpturer/englekatten/"
+  }
+},
+{
+  "type": "node",
+  "id": 13646437533,
+  "lat": 55.5884591,
+  "lon": 9.5053897,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
   }
 }
 

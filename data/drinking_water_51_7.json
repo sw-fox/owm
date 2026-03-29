@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:03:33Z",
+    "timestamp_osm_base": "2026-03-29T15:33:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -452,58 +452,6 @@
 },
 {
   "type": "node",
-  "id": 899425519,
-  "lat": 51.4383724,
-  "lon": 7.3369414,
-  "tags": {
-    "alt_name": "Kaufhaus der guten Dinge",
-    "bulk_purchase": "yes",
-    "contact:city": "Witten",
-    "contact:country": "DE",
-    "contact:email": "kontakt@fuellbar-witten.de",
-    "contact:facebook": "https://www.facebook.com/fuellbarwitten",
-    "contact:foursquare": "5b002aec2619ee002cf95120",
-    "contact:housenumber": "10",
-    "contact:instagram": "fuellbarwitten",
-    "contact:postcode": "58452",
-    "contact:street": "Ruhrstraße",
-    "contact:website": "https://www.fuellbar.de/",
-    "contact:yelp": "füllbar-witten",
-    "currency:EUR": "yes",
-    "currency:others": "no",
-    "delivery": "yes",
-    "description": "Unverpacktladen",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "dog": "no",
-    "drink:coffee": "served",
-    "drinking_water": "yes",
-    "end_date": "2025",
-    "indoor": "yes",
-    "indoor_seating": "yes",
-    "internet_access": "wlan",
-    "internet_access:fee": "no",
-    "internet_access:operator": "Freifunk",
-    "internet_access:operator:wikidata": "Q2363543",
-    "internet_access:ssid": "Freifunk",
-    "internet_access:start_date": "2019-05",
-    "level": "0",
-    "name": "Füllbar",
-    "old_name": "Maniere",
-    "opening_hours": "Mo-Sa 10:00-19:00; PH off",
-    "operator:type": "private",
-    "payment:cash": "yes",
-    "payment:girocard": "yes",
-    "payment:others": "no",
-    "shop": "convenience",
-    "smoking": "no",
-    "start_date": "2019-03-27",
-    "wheelchair": "no",
-    "zero_waste": "only"
-  }
-},
-{
-  "type": "node",
   "id": 899570495,
   "lat": 51.4735338,
   "lon": 7.4715570,
@@ -585,16 +533,16 @@
 },
 {
   "type": "node",
-  "id": 970714887,
-  "lat": 51.4376079,
-  "lon": 7.3336819,
+  "id": 970714893,
+  "lat": 51.4376816,
+  "lon": 7.3336777,
   "tags": {
     "contact:city": "Witten",
     "contact:country": "DE",
     "contact:email": "post@naturtuche.de",
     "contact:facebook": "https://www.facebook.com/wollstoffe",
     "contact:fax": "+49 2302 1760769",
-    "contact:housenumber": "7",
+    "contact:housenumber": "5",
     "contact:mobile": "+49 176 50230254",
     "contact:phone": "+49 2302 1760768",
     "contact:postcode": "58452",
@@ -607,20 +555,21 @@
     "currency:others": "no",
     "delivery": "yes",
     "description": "Laden für reine Naturstoffe aus Wolle, Leinen, Hanf und Seide",
+    "disused:shop": "clothes;hairdresser",
     "drinking_water": "yes",
-    "image": "https://web.archive.org/web/20160923121529if_/https://asset1.wheelmap.org/system/uploads/photo/000/079/655/gallery.jpg",
     "indoor": "yes",
     "internet_access": "wlan",
     "internet_access:fee": "no",
     "internet_access:operator": "Freifunk",
     "internet_access:operator:wikidata": "Q2363543",
     "internet_access:ssid": "Freifunk",
+    "internet_access:start_date": "2017",
     "language:de": "main",
     "language:en": "yes",
     "language:others": "no",
     "level": "0",
     "name": "Naturtuche",
-    "old_name": "Meirahs",
+    "old_name": "Kid’s Corner;Barberrossa",
     "opening_hours": "Tu-Th 14:00-15:00; PH off",
     "operator": "Michael Kapmeyer",
     "operator:type": "private",
@@ -628,11 +577,11 @@
     "payment:girocard": "yes",
     "payment:others": "no",
     "payment:paypal": "yes",
+    "ref:vatin": "DE271813387",
     "shop": "fabric",
     "smoking": "no",
     "toilets:wheelchair": "no",
-    "wheelchair": "limited",
-    "wheelchair:description:de": "kleine Stufe am Eingang"
+    "wheelchair": "no"
   }
 },
 {
@@ -732,6 +681,7 @@
   "tags": {
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bubbler",
     "inscription": "Dortmunder Stadtwerke AG",
     "material": "bronze",
     "name": "Trinkbrunnen",
@@ -868,7 +818,7 @@
   "lon": 7.1168939,
   "tags": {
     "amenity": "drinking_water",
-    "description": "Trinkwasserspender mit Odenthaler Karnevalsorden",
+    "description": "aktuell außer Betrieb (01.10.2025) Trinkwasserspender mit Odenthaler Karnevalsorden",
     "wheelchair": "yes"
   }
 },
@@ -1281,6 +1231,7 @@
   "lon": 7.6003346,
   "tags": {
     "amenity": "toilets",
+    "changing_table": "yes",
     "check_date": "2024-07-03",
     "drinking_water": "yes",
     "fee": "no",
@@ -1636,8 +1587,8 @@
 {
   "type": "node",
   "id": 2795614022,
-  "lat": 51.1784174,
-  "lon": 7.0434008,
+  "lat": 51.1784103,
+  "lon": 7.0434036,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -1667,29 +1618,6 @@
   "lon": 7.0445491,
   "tags": {
     "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
-  "id": 2827042007,
-  "lat": 51.4589613,
-  "lon": 7.0377129,
-  "tags": {
-    "access": "customers",
-    "amenity": "toilets",
-    "changing_table": "no",
-    "drinking_water": "yes",
-    "fee": "no",
-    "female": "yes",
-    "male": "yes",
-    "name": "Kunden WC Hellweg Baumarkt",
-    "opening_hours": "Mo-Sa 7:00-20:00",
-    "operator": "Hellweg Baumarkt",
-    "toilets:disposal": "flush",
-    "toilets:handwashing": "yes",
-    "toilets:paper_supplied": "yes",
-    "toilets:position": "seated;urinal",
-    "wheelchair": "yes"
   }
 },
 {
@@ -1770,6 +1698,17 @@
   "tags": {
     "drinking_water": "yes",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 3124226925,
+  "lat": 51.7076440,
+  "lon": 7.3789385,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "fountain:count": "6"
   }
 },
 {
@@ -1889,6 +1828,7 @@
     "fee": "no",
     "female": "yes",
     "male": "yes",
+    "opening_hours": "24/7",
     "operator": "Allwetterzoo Münster",
     "operator:type": "business",
     "toilets:disposal": "flush",
@@ -1902,7 +1842,7 @@
   "lat": 51.4903899,
   "lon": 7.0390479,
   "tags": {
-    "access": "visitors",
+    "access": "customers",
     "amenity": "toilets",
     "drinking_water": "yes",
     "fee": "no",
@@ -1973,15 +1913,14 @@
     "amenity": "toilets",
     "changing_table": "yes",
     "changing_table:fee": "no",
-    "changing_table:location": "female_toilet;male_toilet",
+    "changing_table:location": "male_toilet",
     "drinking_water": "yes",
     "fee": "no",
-    "female": "yes",
     "male": "yes",
     "operator": "Maximilian-Park",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
-    "wheelchair": "yes"
+    "wheelchair": "limited"
   }
 },
 {
@@ -2563,7 +2502,7 @@
     "access": "customers",
     "amenity": "toilets",
     "changing_table": "yes",
-    "check_date:opening_hours": "2024-04-04",
+    "check_date:opening_hours": "2025-10-21",
     "description": "im Restaurant",
     "drinking_water": "yes",
     "fee": "no",
@@ -2580,8 +2519,8 @@
 {
   "type": "node",
   "id": 4428025310,
-  "lat": 51.3256964,
-  "lon": 7.4827564,
+  "lat": 51.3256981,
+  "lon": 7.4827522,
   "tags": {
     "access": "customers",
     "amenity": "toilets",
@@ -2600,8 +2539,8 @@
 {
   "type": "node",
   "id": 4428025313,
-  "lat": 51.3257383,
-  "lon": 7.4827702,
+  "lat": 51.3257385,
+  "lon": 7.4827654,
   "tags": {
     "access": "customers",
     "amenity": "toilets",
@@ -2676,7 +2615,7 @@
     "changing_table:count": "1",
     "changing_table:fee": "no",
     "changing_table:location": "room",
-    "check_date:opening_hours": "2024-04-04",
+    "check_date:opening_hours": "2025-10-21",
     "description": "im Eingangsbereich",
     "drinking_water": "yes",
     "fee": "no",
@@ -2858,7 +2797,9 @@
   "lon": 7.1106357,
   "tags": {
     "amenity": "drinking_water",
-    "check_date": "2023-07-20",
+    "check_date": "2025-11-08",
+    "description": "Es gibt 2 Wasseranschlüsse an dem historisch aussehenden Gemäuer wo Wasseranschlüsse dran sind. An einem steht \"Kein Trinkwasser\", an dem anderen \"Trinkwasser\". Der letzte ist aber abmontiert. Vielleicht jahreszeitbedingt.",
+    "fee": "no",
     "man_made": "water_tap"
   }
 },
@@ -2932,6 +2873,7 @@
     "female": "yes",
     "level": "-1",
     "male": "yes",
+    "note": "Treppenaufzug für Rollstuhlfahrer vorhanden.",
     "operator": "Schmidtmeier",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
@@ -2969,7 +2911,7 @@
     "fee": "no",
     "female": "no",
     "male": "no",
-    "operator": "Stoff & STil",
+    "opening_hours": "Mo-Sa 10:00-18:00",
     "toilets:disposal": "flush",
     "toilets:position": "seated",
     "unisex": "yes",
@@ -3665,31 +3607,6 @@
 },
 {
   "type": "node",
-  "id": 5308423524,
-  "lat": 51.6132448,
-  "lon": 7.2007159,
-  "tags": {
-    "access": "yes",
-    "addr:city": "Recklinghausen",
-    "addr:housenumber": "1",
-    "addr:postcode": "45657",
-    "addr:street": "Löhrhof",
-    "amenity": "toilets",
-    "changing_table": "yes",
-    "changing_table:location": "dedicated_room",
-    "drinking_water": "yes",
-    "fee": "no",
-    "female": "yes",
-    "level": "1",
-    "male": "yes",
-    "operator": "Palais Vest",
-    "toilets:disposal": "flush",
-    "toilets:position": "seated;urinal",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 5329865345,
   "lat": 51.4075443,
   "lon": 7.1970529,
@@ -3768,11 +3685,9 @@
     "female": "yes",
     "layer": "-1",
     "male": "yes",
-    "name": "Se4sons",
-    "name:etymology:wikidata": "Q24384",
-    "name:language": "en",
-    "opening_hours": "Su-Th 09:00-23:00; Fr-Sa 09:00-01:00",
-    "operator": "Jennifer Berger;Ioannis Pechlivanis",
+    "name": "Kemnader Lounge",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "operator": "Mehdi Bahadori",
     "operator:type": "private",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal"
@@ -4082,8 +3997,8 @@
 {
   "type": "node",
   "id": 5711784159,
-  "lat": 51.6170488,
-  "lon": 7.3283171,
+  "lat": 51.6169938,
+  "lon": 7.3283114,
   "tags": {
     "access": "customers",
     "amenity": "toilets",
@@ -4256,27 +4171,6 @@
 },
 {
   "type": "node",
-  "id": 5863186289,
-  "lat": 51.4822547,
-  "lon": 7.2149889,
-  "tags": {
-    "access": "customers",
-    "amenity": "toilets",
-    "changing_table": "yes",
-    "description": "beim Standesamt",
-    "drinking_water": "yes",
-    "fee": "no",
-    "female": "yes",
-    "level": "1",
-    "male": "yes",
-    "operator": "Stadt Bochum",
-    "toilets:disposal": "pitlatrine",
-    "toilets:position": "seated;urinal",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 5891161646,
   "lat": 51.4999946,
   "lon": 7.2044439,
@@ -4293,29 +4187,6 @@
     "operator": "Kaufland",
     "operator:wikidata": "Q685967",
     "toilets:disposal": "flush",
-    "toilets:position": "seated;urinal",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 5963942420,
-  "lat": 51.4406971,
-  "lon": 7.3391473,
-  "tags": {
-    "access": "customers",
-    "amenity": "toilets",
-    "changing_table": "yes",
-    "changing_table:location": "wheelchair_toilet",
-    "drinking_water": "yes",
-    "fee": "no",
-    "female": "yes",
-    "male": "yes",
-    "operator": "Kreugemeinde Witten",
-    "operator:type": "religious",
-    "toilets:disposal": "flush",
-    "toilets:handwashing": "yes",
-    "toilets:paper_supplied": "yes",
     "toilets:position": "seated;urinal",
     "wheelchair": "yes"
   }
@@ -4426,6 +4297,7 @@
     "changing_table:count": "1",
     "changing_table:fee": "no",
     "changing_table:location": "unisex_toilet",
+    "check_date:opening_hours": "2026-02-14",
     "drinking_water": "yes",
     "fee": "no",
     "opening_hours": "Mo,Tu,Th 08:00-10:30,14:30-16:00; We 08:00-10:30; Fr 08:00-14:00",
@@ -4508,12 +4380,13 @@
 {
   "type": "node",
   "id": 6272462917,
-  "lat": 51.4983081,
-  "lon": 7.4209034,
+  "lat": 51.4983175,
+  "lon": 7.4209141,
   "tags": {
     "access": "customers",
     "amenity": "toilets",
-    "changing_table": "no",
+    "changing_table": "yes",
+    "changing_table:location": "female_toilet;male_toilet",
     "check_date": "2024-05-30",
     "drinking_water": "yes",
     "fee": "no",
@@ -4683,6 +4556,7 @@
     "amenity": "drinking_water",
     "artist_name": "Eberhard Linke",
     "description": "Trinkwasserhahn im Winter abgestellt",
+    "description:es": "Grifo de agua potable cerrado en invierno",
     "fountain": "bubbler",
     "height": "1.2",
     "inscription": "Dortmunder Stadwerke AG",
@@ -4938,8 +4812,8 @@
 {
   "type": "node",
   "id": 6711058388,
-  "lat": 51.4383485,
-  "lon": 7.3368918,
+  "lat": 51.4383914,
+  "lon": 7.3369746,
   "tags": {
     "alt_name": "Kaufhaus der guten Dinge",
     "contact:city": "Witten",
@@ -4986,6 +4860,25 @@
     "amenity": "drinking_water",
     "man_made": "water_tap",
     "operator": "Stadtwerke Haan"
+  }
+},
+{
+  "type": "node",
+  "id": 6792734486,
+  "lat": 51.5481068,
+  "lon": 7.3073625,
+  "tags": {
+    "access": "yes",
+    "addr:floor": "-1",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "-1",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
   }
 },
 {
@@ -5367,6 +5260,22 @@
 },
 {
   "type": "node",
+  "id": 7952693527,
+  "lat": 51.9843486,
+  "lon": 7.7857748,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "heritage": "8",
+    "heritage:operator": "UntereDenkmalbehörde",
+    "historic": "yes",
+    "man_made": "water_well",
+    "name": "Pumpe",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
   "id": 7985122835,
   "lat": 51.4251014,
   "lon": 7.0375266,
@@ -5423,7 +5332,8 @@
   "lat": 51.4724538,
   "lon": 7.7677609,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
   }
 },
 {
@@ -5498,6 +5408,22 @@
     "charge": "EUR 0,50",
     "drinking_water": "yes",
     "operator": "Camping Caravan Meier"
+  }
+},
+{
+  "type": "node",
+  "id": 8628491193,
+  "lat": 51.6147431,
+  "lon": 7.1979573,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2025-09-27",
+    "cold_water": "yes",
+    "disused:amenity": "drinking_water",
+    "fee": "no",
+    "outdoor": "yes",
+    "wheelchair": "yes"
   }
 },
 {
@@ -5683,7 +5609,7 @@
     "access": "customers",
     "amenity": "toilets",
     "changing_table": "yes",
-    "check_date:opening_hours": "2024-04-04",
+    "check_date:opening_hours": "2025-10-21",
     "drinking_water": "yes",
     "fee": "no",
     "female": "yes",
@@ -6006,10 +5932,16 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "capacity": "1",
+    "cold_water": "yes",
+    "dog": "no",
     "fee": "no",
     "fountain": "bubbler",
-    "opening_hours": "24/7; Nov-Mar off",
+    "opening_hours": "24/7 open; Oct 15-Apr 14 off",
+    "operator": "EWR GmbH",
+    "seasonal": "yes",
     "start_date": "2022-04-14",
+    "warm_water": "no",
     "wheelchair": "yes"
   }
 },
@@ -6123,8 +6055,8 @@
 {
   "type": "node",
   "id": 9855535976,
-  "lat": 51.7766157,
-  "lon": 7.4426050,
+  "lat": 51.7766280,
+  "lon": 7.4425768,
   "tags": {
     "access": "permissive",
     "amenity": "toilets",
@@ -6201,7 +6133,8 @@
   "lat": 51.6528973,
   "lon": 7.3409856,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
   }
 },
 {
@@ -6446,6 +6379,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "fountain": "bubbler",
     "wheelchair": "yes"
   }
 },
@@ -6571,8 +6505,8 @@
 {
   "type": "node",
   "id": 10267115735,
-  "lat": 51.7703071,
-  "lon": 7.4446078,
+  "lat": 51.7703056,
+  "lon": 7.4446730,
   "tags": {
     "amenity": "drinking_water",
     "fountain": "bubbler",
@@ -6682,7 +6616,8 @@
     "male": "yes",
     "operator": "Phänomenta",
     "toilets:disposal": "flush",
-    "toilets:position": "seated;urinal"
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
   }
 },
 {
@@ -6710,7 +6645,8 @@
   "lon": 7.1579315,
   "tags": {
     "access": "yes",
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
   }
 },
 {
@@ -6791,6 +6727,7 @@
     "covered": "no",
     "fee": "no",
     "fountain": "bubbler",
+    "seasonal": "yes",
     "wheelchair": "yes"
   }
 },
@@ -6804,6 +6741,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "fountain": "bubbler",
     "wheelchair": "yes"
   }
 },
@@ -6919,7 +6857,7 @@
     "fee": "no",
     "female": "yes",
     "male": "yes",
-    "opening_hours": "Mo off; Tu-Su, PH 10:00-18:00",
+    "opening_hours": "Mo off; Tu-Su,PH 10:00-18:00",
     "operator": "Deutsches Schloß- und Beschlägemuseum",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal"
@@ -6953,10 +6891,16 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "capacity": "1",
+    "cold_water": "yes",
+    "dog": "no",
     "fee": "no",
-    "fountain": "drinking",
-    "opening_hours": "24/7; Nov-Mar off",
+    "fountain": "bubbler",
+    "opening_hours": "24/7 open; Oct 15-Apr 14 off",
+    "operator": "EWR GmbH",
+    "seasonal": "yes",
     "start_date": "2023-08-03",
+    "warm_water": "no",
     "wheelchair": "yes"
   }
 },
@@ -7158,7 +7102,7 @@
     "drinking_water": "yes",
     "fee": "no",
     "name": "Kampmann Hörsysteme GmbH Bochum",
-    "opening_hours": "Mo-Fr 09:00-13:00, 14:00-18:00; Sa, Su off; PH off",
+    "opening_hours": "Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su off; PH off",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
     "unisex": "yes",
@@ -7251,7 +7195,7 @@
     "amenity": "toilets",
     "drinking_water": "yes",
     "fee": "no",
-    "opening_hours": "Mo-Sa 10:00-19:00; Su, PH off",
+    "opening_hours": "Mo-Sa 10:00-19:00; Su,PH off",
     "operator": "Roller"
   }
 },
@@ -7286,7 +7230,7 @@
     "changing_table:count": "1",
     "changing_table:fee": "no",
     "changing_table:location": "unisex_toilet",
-    "check_date:opening_hours": "2024-04-04",
+    "check_date:opening_hours": "2025-10-21",
     "description": "nur für Kinder im Kinderbereich",
     "drinking_water": "yes",
     "fee": "no",
@@ -7313,7 +7257,7 @@
     "changing_table:count": "1",
     "changing_table:fee": "no",
     "changing_table:location": "room",
-    "check_date:opening_hours": "2024-04-04",
+    "check_date:opening_hours": "2025-10-01",
     "description": "im Eingangsbereich",
     "drinking_water": "yes",
     "fee": "no",
@@ -7391,8 +7335,8 @@
 {
   "type": "node",
   "id": 11898589184,
-  "lat": 51.1615450,
-  "lon": 7.0010663,
+  "lat": 51.1615282,
+  "lon": 7.0011065,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -7689,8 +7633,10 @@
     "drinking_water:legal": "yes",
     "fee": "no",
     "fountain": "bubbler",
+    "image": "https://commons.wikimedia.org/wiki/File:Trinkwasserbrunnen_Essen_Werden.jpg",
     "operator": "Stadtwerke Essen",
     "operator:wikidata": "Q2328475",
+    "seasonal": "yes",
     "wheelchair": "yes"
   }
 },
@@ -7836,6 +7782,7 @@
   "lon": 7.7877080,
   "tags": {
     "amenity": "drinking_water",
+    "intermittent": "yes",
     "man_made": "water_tap"
   }
 },
@@ -7976,9 +7923,11 @@
     "female": "yes",
     "level": "1",
     "male": "yes",
+    "opening_hours": "Mo-Su 12:00-22:00",
     "operator": "Trattoria Pizzeria",
     "toilets:disposal": "flush",
-    "toilets:position": "seated"
+    "toilets:position": "seated",
+    "wheelchair": "no"
   }
 },
 {
@@ -8013,8 +7962,8 @@
 {
   "type": "node",
   "id": 12567382766,
-  "lat": 51.1254842,
-  "lon": 7.9035459,
+  "lat": 51.1255197,
+  "lon": 7.9035333,
   "tags": {
     "amenity": "drinking_water",
     "fountain": "bubbler"
@@ -8037,8 +7986,8 @@
 {
   "type": "node",
   "id": 12619066380,
-  "lat": 51.3891804,
-  "lon": 7.3998643,
+  "lat": 51.3892022,
+  "lon": 7.3998442,
   "tags": {
     "amenity": "drinking_water",
     "check_date": "20225-02",
@@ -8178,7 +8127,8 @@
   "lon": 7.2221293,
   "tags": {
     "access": "yes",
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
   }
 },
 {
@@ -8226,7 +8176,7 @@
   "lat": 51.4289184,
   "lon": 7.3572477,
   "tags": {
-    "access": "unknown",
+    "access": "no",
     "description": "Wasserentnahme für das Rehgehege",
     "drinking_water": "yes",
     "man_made": "water_tap",
@@ -8308,17 +8258,25 @@
   "tags": {
     "access": "yes",
     "amenity": "toilets",
+    "bottle": "yes",
+    "cold_water": "no",
     "description": "Nette Toilette",
     "drinking_water": "yes",
     "fee": "no",
     "female": "yes",
+    "fountain": "bottle_refill",
+    "hot_water": "no",
+    "iced_water": "no",
     "level": "1",
     "male": "yes",
     "opening_hours": "Mo 15:00-20:00;Tu-Fr 11:30+; Sa 14:00+; Su 11:00-18:00",
+    "room_temperature_water": "yes",
+    "seasonal": "no",
     "toilets:disposal": "flush",
     "toilets:handwashing": "yes",
     "toilets:paper_supplied": "yes",
     "toilets:position": "seated;urinal",
+    "warm_water": "no",
     "wheelchair": "yes"
   }
 },
@@ -8374,6 +8332,601 @@
   "tags": {
     "amenity": "drinking_water",
     "opening_hours": "Mo-We 07:30-16:00; Th 07:30-18:00; Fr 07:30-12:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13074820883,
+  "lat": 51.4872598,
+  "lon": 7.5075352,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "operator": "Lucky Bike",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13076130121,
+  "lat": 51.7013051,
+  "lon": 7.7465383,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13076130133,
+  "lat": 51.7015796,
+  "lon": 7.7452598,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13076130136,
+  "lat": 51.7009600,
+  "lon": 7.7448272,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13076130139,
+  "lat": 51.7013015,
+  "lon": 7.7440293,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13076130140,
+  "lat": 51.7019725,
+  "lon": 7.7443537,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13076130147,
+  "lat": 51.7028300,
+  "lon": 7.7450260,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13076130148,
+  "lat": 51.7030531,
+  "lon": 7.7438590,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13076130154,
+  "lat": 51.7023361,
+  "lon": 7.7460430,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13076130156,
+  "lat": 51.7019636,
+  "lon": 7.7471494,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13076130158,
+  "lat": 51.7018208,
+  "lon": 7.7463626,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13081889419,
+  "lat": 51.1512048,
+  "lon": 7.3423121,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13087318919,
+  "lat": 51.4847396,
+  "lon": 7.1198853,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "capacity": "2",
+    "check_date": "2025-08-21",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Bochum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13089270881,
+  "lat": 51.1197688,
+  "lon": 7.3979671,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water:refill": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "note": "Zu den Öffnungszeiten des Sozialkaufhauses",
+    "operator": "Ökumenische Initiative"
+  }
+},
+{
+  "type": "node",
+  "id": 13094845552,
+  "lat": 51.5105233,
+  "lon": 7.2166838,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "dog": "no",
+    "fountain": "bubbler",
+    "indoor": "yes",
+    "opening_hours": "PH, Mo-Su 08:00-18:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13094845553,
+  "lat": 51.5105424,
+  "lon": 7.2166745,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "no",
+    "changing_table:location": "wheelchair_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "PH, Mo-Su 08:00-18:00",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13107609886,
+  "lat": 51.4514235,
+  "lon": 7.2317536,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Bochum"
+  }
+},
+{
+  "type": "node",
+  "id": 13110403776,
+  "lat": 51.2267389,
+  "lon": 7.1981178,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "WSW",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13114541118,
+  "lat": 51.5856299,
+  "lon": 7.3185364,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13127686172,
+  "lat": 51.5129686,
+  "lon": 7.4576516,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill;bubbler",
+    "level": "0",
+    "opening_hours": "Mo-Tu 08:00-12:00, 13:00-15:30; We 08:00-12:00; Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00; PH off",
+    "operator": "Gesundheitsamt Dortmund"
+  }
+},
+{
+  "type": "node",
+  "id": 13139943134,
+  "lat": 51.6176677,
+  "lon": 7.3238268,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Motorboot Club - Lüdenscheid",
+    "toilets:disposal": "flush",
+    "unisex": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13139943136,
+  "lat": 51.6176789,
+  "lon": 7.3239300,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "operator": "Motorboot Club - Lüdenscheid",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13139943137,
+  "lat": 51.6176627,
+  "lon": 7.3238938,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "male": "yes",
+    "operator": "Motorboot Club - Lüdenscheid",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13142662066,
+  "lat": 51.4974576,
+  "lon": 7.0476919,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2025-09-14",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadtwerke Essen",
+    "operator:wikidata": "Q2328475",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13159307611,
+  "lat": 51.1691894,
+  "lon": 7.4080957,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "wheelchair": "limited",
+    "wikimedia_commons": "File:Wasserstelle Egen.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 13163287461,
+  "lat": 51.9452354,
+  "lon": 7.6225647,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "description": "Nette Toilette",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "opening_hours": "Mo,Tu,Th,Fr 08:00-20:00; We 07:30-20:00; Sa 07:30-18:00",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13174154001,
+  "lat": 51.5129565,
+  "lon": 7.4576215,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Gesundheitsamt"
+  }
+},
+{
+  "type": "node",
+  "id": 13175483261,
+  "lat": 51.6146405,
+  "lon": 7.1950679,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "dog": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13193576888,
+  "lat": 51.1814638,
+  "lon": 7.1916850,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "cold_water": "yes",
+    "dog": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7 open; Oct 15-Apr 14 off",
+    "operator": "EWR GmbH",
+    "seasonal": "yes",
+    "warm_water": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13195448305,
+  "lat": 51.2107316,
+  "lon": 7.2367612,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "capacity": "1",
+    "cold_water": "yes",
+    "dog": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7 open; Oct 15-Apr 14 off",
+    "operator": "EWR GmbH",
+    "seasonal": "yes",
+    "start_date": "2025-05-07",
+    "warm_water": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13231579457,
+  "lat": 51.4604128,
+  "lon": 7.7335201,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "opening_hours": "Apr-Oct",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13416316326,
+  "lat": 51.1260670,
+  "lon": 7.9119392,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13416316329,
+  "lat": 51.1254471,
+  "lon": 7.9010160,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13416316373,
+  "lat": 51.1284639,
+  "lon": 7.9074938,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "drinking",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13448654254,
+  "lat": 51.4985304,
+  "lon": 7.4231284,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:location": "female_toilet;male_toilet",
+    "check_date": "2024-05-30",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa,Su,PH 10:00-18:00; Jan 01 off; Dec 24-25 off; Dec 31 off; easter -2 days off",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13466645319,
+  "lat": 51.4967257,
+  "lon": 7.4574628,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Mo-Su || \"nur zu Versanstaltungen\"",
+    "operator": "Westfalenhallen",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13511616987,
+  "lat": 51.3588986,
+  "lon": 7.4748424,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Mark-E",
+    "seasonal": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13511644039,
+  "lat": 51.3566983,
+  "lon": 7.4756037,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "im M12",
+    "fee": "no",
+    "operator": "Mark-E",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13592300181,
+  "lat": 51.4725870,
+  "lon": 7.7649336,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13608135627,
+  "lat": 51.6836286,
+  "lon": 7.8830021,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:fee": "no",
+    "changing_table:location": "female_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "operator": "Maximilian-Park",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13647097674,
+  "lat": 51.7894520,
+  "lon": 7.6170993,
+  "tags": {
+    "amenity": "drinking_water",
+    "button_operated": "yes",
+    "name": "Eschenplatz-Brunnen",
+    "substance": "water (H2O)"
+  }
+},
+{
+  "type": "node",
+  "id": 13648295183,
+  "lat": 51.2137521,
+  "lon": 7.7609806,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
   }
 }
 

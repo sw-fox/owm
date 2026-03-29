@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:02:36Z",
+    "timestamp_osm_base": "2026-03-29T14:56:20Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -76,6 +76,7 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "fountain": "drinking",
     "name": "Borne à boire - Vieille montagne",
     "note": "Horaire En service de mi-avril à octobre sur demande via un bouton pressoir",
     "operator": "Ville de Liège",
@@ -92,6 +93,7 @@
     "amenity": "drinking_water",
     "check_date": "2023-06-24",
     "fee": "no",
+    "fountain": "bottle_refill",
     "name": "Borne à boire - Saint-Léonard",
     "note": "Horaire En service de mi-avril à octobre sur demande via un bouton pressoir",
     "operator": "Ville de Liège",
@@ -150,8 +152,13 @@
   "lon": 5.8174946,
   "tags": {
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
     "name": "Kolebron",
-    "natural": "spring"
+    "natural": "spring",
+    "opening_hours": "24/7",
+    "panoramax": "1794d760-5fe3-4f7f-b5b5-d1ca8f695b0f",
+    "seasonal": "no"
   }
 },
 {
@@ -195,8 +202,8 @@
 {
   "type": "node",
   "id": 2366411848,
-  "lat": 50.4659723,
-  "lon": 5.8714591,
+  "lat": 50.4659762,
+  "lon": 5.8714549,
   "tags": {
     "access": "yes",
     "drinking_water": "yes",
@@ -216,6 +223,7 @@
     "addr:housenumber": "295",
     "addr:street": "Rue de Barisart",
     "amenity": "drinking_water",
+    "drinking_water": "yes",
     "name": "Source Barisart",
     "natural": "spring",
     "wikidata": "Q3491873"
@@ -320,7 +328,8 @@
     "drinking_water": "yes",
     "name": "La source miraculeuse - Chapelle Saint-Thibaut",
     "natural": "spring",
-    "wikidata": "Q19317938"
+    "wikidata": "Q19317938",
+    "wikimedia_commons": "Category:Spring of Saint-Thibaut"
   }
 },
 {
@@ -364,15 +373,6 @@
 },
 {
   "type": "node",
-  "id": 2821219104,
-  "lat": 50.2824723,
-  "lon": 5.5177429,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 2822027098,
   "lat": 50.5626222,
   "lon": 5.2354928,
@@ -408,8 +408,8 @@
 {
   "type": "node",
   "id": 3001742708,
-  "lat": 50.6756580,
-  "lon": 5.2107883,
+  "lat": 50.6756685,
+  "lon": 5.2107580,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -520,7 +520,7 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "WML Limburgs drinkwater",
+    "operator": "WML",
     "operator:wikidata": "Q27959418",
     "seasonal": "yes"
   }
@@ -780,7 +780,7 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "WML Limburgs drinkwater",
+    "operator": "WML",
     "operator:wikidata": "Q27959418",
     "seasonal": "yes"
   }
@@ -816,8 +816,8 @@
 {
   "type": "node",
   "id": 4782885277,
-  "lat": 50.9493698,
-  "lon": 5.7966441,
+  "lat": 50.9493409,
+  "lon": 5.7966176,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -1000,8 +1000,12 @@
   "tags": {
     "amenity": "fountain",
     "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "water_tap",
     "name": "Fontaine Montefiore - Neuvice",
-    "note": "Horaire\nEn service de mi-avril à octobre de 09h à 21h",
+    "note": "Horaire En service de mi-avril à octobre de 09h à 21h",
+    "opening_hours": "24/7",
+    "panoramax": "83edba73-cddd-4d4f-ae24-0999d6f14da1",
     "source": "https://opendata.liege.be/explore/dataset/points-eau-potable/map/?location=21,50.6445,5.57756&basemap=jawg.streets"
   }
 },
@@ -1062,6 +1066,30 @@
     "mapillary": "https://www.mapillary.com/app/?lat=50.84199840000002&lng=5.123892899999873&z=18.83450445266552&pKey=6HHM47rq_2qw_YAF2ZA7Gw&focus=photo&x=0.469931137816985&y=0.5927380206204154&zoom=0",
     "panoramax": "9fb795b5-744d-479f-b25d-4d7f09ed73fa",
     "stateofrepair": "ok"
+  }
+},
+{
+  "type": "node",
+  "id": 6559555294,
+  "lat": 50.8431923,
+  "lon": 5.4721387,
+  "tags": {
+    "alt_name": "Paalkampeerplaats Hooilingen Hoeselt;Paalkamperen Hooilingen",
+    "backcountry": "yes",
+    "camp_site": "basic",
+    "capacity:persons": "10",
+    "capacity:tents": "3",
+    "description": "site voor paalkamperen",
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "Bivakzone Hooilingen",
+    "openfire": "yes",
+    "operator": "Regionaal Landschap Haspengouw en Voeren",
+    "reservation": "no",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.rlhv.be/Kamperen%20in%20de%20bivakzones",
+    "website:0": "https://www.bivakzone.be/5-x-haspengouw.html"
   }
 },
 {
@@ -1173,6 +1201,7 @@
   "lon": 5.8982516,
   "tags": {
     "access": "yes",
+    "amenity": "drinking_water",
     "drinking_water": "yes",
     "intermittent": "no",
     "name": "Pouhon La Sauvenière",
@@ -1189,6 +1218,7 @@
   "lon": 5.8982590,
   "tags": {
     "access": "yes",
+    "amenity": "drinking_water",
     "drinking_water": "yes",
     "intermittent": "no",
     "name": "Pouhon du Groesbeek",
@@ -1462,6 +1492,7 @@
     "bottle": "yes",
     "note": "permission from WML to use source",
     "operator": "WML Limburgs drinkwater",
+    "operator:wikidata": "Q27959418",
     "seasonal": "yes",
     "source": "WML_Watertaps_2019_RevRK.gpx"
   }
@@ -1566,7 +1597,7 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "description": "Water tap located in the back of the alley.",
+    "description": "kraantje met drinkwater achter in het steegje",
     "drinking_water": "yes",
     "man_made": "water_tap",
     "mapillary": "https://www.mapillary.com/app/?pKey=364751251768088",
@@ -1615,6 +1646,7 @@
   "lon": 5.8446413,
   "tags": {
     "amenity": "drinking_water",
+    "fountain": "bottle_refill",
     "operator": "WML Limburgs drinkwater",
     "operator:wikidata": "Q27959418"
   }
@@ -1681,24 +1713,6 @@
 },
 {
   "type": "node",
-  "id": 8760793328,
-  "lat": 50.7825546,
-  "lon": 5.4683335,
-  "tags": {
-    "access": "yes",
-    "amenity": "drinking_water",
-    "artwork_type": "statue",
-    "bottle": "yes",
-    "drinking_water": "pump",
-    "fee": "no",
-    "image": "https://i.imgur.com/eU3aFXT.jpg",
-    "name": "Pumpkeskal",
-    "opening_hours": "24/7",
-    "tourism": "artwork"
-  }
-},
-{
-  "type": "node",
   "id": 8761277628,
   "lat": 50.7917655,
   "lon": 5.2751864,
@@ -1737,7 +1751,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fountain": "bottle_refill",
-    "operator": "wml",
+    "operator": "WML",
     "panoramax": "28c9e676-6ce1-4937-a219-6f3ee12faa98",
     "panoramax:0": "02c4f835-e526-402b-97f8-1978efcca1d2"
   }
@@ -2058,22 +2072,15 @@
 },
 {
   "type": "node",
-  "id": 9966541327,
-  "lat": 50.8756313,
-  "lon": 5.3094792,
-  "tags": {
-    "access": "yes",
-    "amenity": "toilets",
-    "drinking_water": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 10005869617,
   "lat": 50.2956988,
   "lon": 5.0352480,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "panoramax": "d39e3378-3a22-4fc8-a46b-ff7f1ef76049"
   }
 },
 {
@@ -2258,8 +2265,14 @@
   "lat": 50.8901581,
   "lon": 5.9751526,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "fountain": "bottle_refill"
+    "bottle": "yes",
+    "description": "Disabled during winter according to sign. Dates not indicated",
+    "description:nl": "Buiten gebruik tijdens de winter, aldus bord. Geen datums aangegeven",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "seasonal": "yes"
   }
 },
 {
@@ -2374,11 +2387,17 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "check_date": "2023-06-24",
+    "cold_water": "no",
     "covered": "no",
     "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
     "man_made": "water_tap",
+    "opening_hours": "24/7",
     "operator": "Ville de Liège",
     "panoramax": "9b20199f-8af0-404a-8477-909ad1bb9bb5",
+    "room_temperature_water": "yes",
+    "warm_water": "no",
     "wheelchair": "yes"
   }
 },
@@ -2405,8 +2424,8 @@
 {
   "type": "node",
   "id": 11071107267,
-  "lat": 50.7608809,
-  "lon": 5.9118482,
+  "lat": 50.7608808,
+  "lon": 5.9118445,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -2521,22 +2540,6 @@
 },
 {
   "type": "node",
-  "id": 11338997514,
-  "lat": 50.6419467,
-  "lon": 5.5828819,
-  "tags": {
-    "access": "yes",
-    "amenity": "drinking_water",
-    "fee": "no",
-    "image": "https://www.liege.be/fr/annuaire/borne-a-boire-place-de-lyser/@@images/767aef40-0f52-4d8f-a652-60ed25f6d8d1.jpeg",
-    "name": "Borne à boire - Place de l'Yser",
-    "note": "En service de mi-avril à octobre de 9h à 21h - Robinet poussoir au coin du pavillon",
-    "operator": "Ville de Liège",
-    "source": "https://opendata.liege.be/explore/dataset/points-eau-potable/map/?location=17,50.64293,5.58384&basemap=jawg.streets"
-  }
-},
-{
-  "type": "node",
   "id": 11469918884,
   "lat": 50.6439373,
   "lon": 5.5875093,
@@ -2564,6 +2567,7 @@
     "bottle": "yes",
     "fee": "no",
     "fountain": "bottle_refill",
+    "indoor": "yes",
     "opening_hours": "24/7",
     "operator": "NMBS/SNCB",
     "panoramax": "9bb6df7f-b5d8-4ece-bb3e-43c6532840ec",
@@ -3030,6 +3034,7 @@
     "bottle": "yes",
     "fee": "no",
     "fountain": "bottle_refill",
+    "indoor": "yes",
     "panoramax": "2f5690c6-547b-4e3c-8fe8-58dd5559822b",
     "seasonal": "no"
   }
@@ -3142,11 +3147,38 @@
 },
 {
   "type": "node",
+  "id": 12662605913,
+  "lat": 50.9918710,
+  "lon": 5.7359724,
+  "tags": {
+    "OnroerendErfgoed:criteria": "BE",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "description": "Beschermde dorpspomp met de drie lindebomen waar tot 1795 de jaarlijkse volksvergaderingen gehouden werden en recht gesproken werd",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "heritage": "4",
+    "heritage:operator": "OnroerendErfgoed",
+    "heritage:website": "https://inventaris.onroerenderfgoed.be/erfgoedobjecten/200287",
+    "historic": "yes",
+    "image": "File:Maasmechelen Dreef zn gerechtsbomen (7) - 205000 - onroerenderfgoed.jpg",
+    "man_made": "water_well",
+    "name": "Beschermde pomp en lindebomen",
+    "opening_hours": "24/7",
+    "pump": "manual",
+    "ref:OnroerendErfgoed": "3377",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
   "id": 12768664263,
   "lat": 50.8592318,
   "lon": 5.7222701,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill"
   }
 },
 {
@@ -3359,8 +3391,8 @@
 {
   "type": "node",
   "id": 12966051118,
-  "lat": 50.0592430,
-  "lon": 5.8134329,
+  "lat": 50.0592520,
+  "lon": 5.8134037,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -3395,6 +3427,175 @@
   "id": 13073963901,
   "lat": 50.8561415,
   "lon": 5.8720043,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13137775423,
+  "lat": 50.9608529,
+  "lon": 5.3789710,
+  "tags": {
+    "access": "yes",
+    "alt_name": "Paalkamperen Domein Kiewit",
+    "backcountry": "yes",
+    "camp_site": "basic",
+    "capacity:persons": "8",
+    "capacity:tents": "3",
+    "caravans": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "fixme": "staat niet op de preciese plaats",
+    "maxstay": "1 day",
+    "name": "Bivakzone Domein Kiewit",
+    "openfire": "no",
+    "operator": "Domein Kiewit",
+    "reservation": "required",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://booking.camping.care/bivakzones/accommodations/199409"
+  }
+},
+{
+  "type": "node",
+  "id": 13141141009,
+  "lat": 50.7092438,
+  "lon": 5.9706938,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13172894957,
+  "lat": 50.6361585,
+  "lon": 5.6047797,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "water_tap",
+    "opening_hours": "08:30-16:30",
+    "panoramax": "6e872287-0212-408b-954f-7c6017dc72c3"
+  }
+},
+{
+  "type": "node",
+  "id": 13237819243,
+  "lat": 50.9613059,
+  "lon": 5.6978086,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "fountain": "water_tap",
+    "male": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13300245545,
+  "lat": 50.9444756,
+  "lon": 5.7199824,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "panoramax": "23c9b9c0-c225-41e2-80f3-2abe13054e06"
+  }
+},
+{
+  "type": "node",
+  "id": 13432120496,
+  "lat": 50.3647502,
+  "lon": 5.9033672,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13622951627,
+  "lat": 50.7299971,
+  "lon": 5.5545212,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 13625273548,
+  "lat": 50.7129754,
+  "lon": 5.4723458,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "water_tap",
+    "opening_hours": "24/7",
+    "panoramax": "edd4231c-4153-4442-8980-f6dfc83241d1"
+  }
+},
+{
+  "type": "node",
+  "id": 13630144686,
+  "lat": 50.5357308,
+  "lon": 5.2144551,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13647670270,
+  "lat": 50.3458170,
+  "lon": 5.1576320,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "opening_hours": "24/7",
+    "panoramax": "eddebb7e-0324-4419-8d89-003f30000b16"
+  }
+},
+{
+  "type": "node",
+  "id": 13666738900,
+  "lat": 50.6353118,
+  "lon": 5.6063238,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "water_tap",
+    "opening_hours": "24/7",
+    "panoramax": "1fafc75a-8e0c-4405-a89b-412e2b2b7c9d"
+  }
+},
+{
+  "type": "node",
+  "id": 13666742130,
+  "lat": 50.6341405,
+  "lon": 5.6098004,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "water_tap",
+    "opening_hours": "24/7",
+    "panoramax": "f1f02a15-b883-443d-9d6c-bf64d4c69836"
+  }
+},
+{
+  "type": "node",
+  "id": 13676191176,
+  "lat": 50.6100796,
+  "lon": 5.0187172,
   "tags": {
     "amenity": "drinking_water"
   }

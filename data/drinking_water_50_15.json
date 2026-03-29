@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:03:33Z",
+    "timestamp_osm_base": "2026-03-29T14:59:29Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -46,7 +46,9 @@
   "lat": 50.8077510,
   "lon": 15.1236280,
   "tags": {
+    "check_date": "2026-02-14",
     "drinking_water": "yes",
+    "intermittent": "no",
     "natural": "spring",
     "source": "survey"
   }
@@ -427,8 +429,8 @@
 {
   "type": "node",
   "id": 2120644978,
-  "lat": 50.0970273,
-  "lon": 15.1910048,
+  "lat": 50.0970184,
+  "lon": 15.1910106,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -438,6 +440,8 @@
     "natural": "spring",
     "note": "Složení minerální vody (1996): Voda je čirá a bezbarvá s velmi nepatrným sírovodíkovým pachem. Chuť má málo výraznou. Po několika dnech skladování se na dně lahví usazuje malé množství světlehnědého, vločkovitého sedimentu. Kationty: lithium: 1.153 mg/l,",
     "operator": "Městský úřad Velký Osek",
+    "ref": "13623",
+    "website": "https://www.estudanky.eu/13623-obecni-pramen",
     "wheelchair": "yes"
   }
 },
@@ -578,15 +582,6 @@
   "tags": {
     "amenity": "drinking_water",
     "natural": "spring"
-  }
-},
-{
-  "type": "node",
-  "id": 2484752156,
-  "lat": 50.0385290,
-  "lon": 15.5641419,
-  "tags": {
-    "amenity": "drinking_water"
   }
 },
 {
@@ -772,11 +767,14 @@
 {
   "type": "node",
   "id": 3383537250,
-  "lat": 50.1893219,
-  "lon": 15.0440958,
+  "lat": 50.1893777,
+  "lon": 15.0440459,
   "tags": {
     "amenity": "drinking_water",
-    "fee": "yes"
+    "charge": "2.5CZK/0.5L",
+    "fee": "yes",
+    "operator": "EKO-voda s.r.o.",
+    "seasonal": "no"
   }
 },
 {
@@ -786,6 +784,25 @@
   "lon": 15.0899960,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3687950478,
+  "lat": 50.4741109,
+  "lon": 15.3127612,
+  "tags": {
+    "caravans": "yes",
+    "contact:email": "jinol.kemp@seznam.cz",
+    "drinking_water": "yes",
+    "name": "Chatový Tábor Jinolice",
+    "phone": "+420 493 591 929",
+    "shower": "yes",
+    "sorting_name": "Jinolice",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.kempy-ceskyraj.cz/home"
   }
 },
 {
@@ -1124,22 +1141,6 @@
 },
 {
   "type": "node",
-  "id": 4464781105,
-  "lat": 50.9060450,
-  "lon": 15.3347318,
-  "tags": {
-    "amenity": "drinking_water",
-    "fee": "yes",
-    "man_made": "water_tap",
-    "name": "Pijalnia wody mineralnej \"Górne Źródło\"",
-    "opening_hours": "09:00-18:00@summer; 08:00-17:00@winter",
-    "operator": "Uzdrowisko Świeradów Czerniawa sp. z o.o.",
-    "source": "survey",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 4613961390,
   "lat": 50.9757607,
   "lon": 15.1968595,
@@ -1228,7 +1229,9 @@
   "lat": 50.9215293,
   "lon": 15.0789734,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-09-14",
+    "fountain": "drinking"
   }
 },
 {
@@ -1629,8 +1632,8 @@
 {
   "type": "node",
   "id": 10059753587,
-  "lat": 50.2139386,
-  "lon": 15.8390846,
+  "lat": 50.2139430,
+  "lon": 15.8390237,
   "tags": {
     "amenity": "drinking_water",
     "fountain": "bubbler"
@@ -2045,6 +2048,17 @@
 },
 {
   "type": "node",
+  "id": 12536513712,
+  "lat": 50.0350214,
+  "lon": 15.7780008,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
   "id": 12543449342,
   "lat": 50.6328336,
   "lon": 15.1888500,
@@ -2133,12 +2147,26 @@
 },
 {
   "type": "node",
+  "id": 12903238387,
+  "lat": 50.1878872,
+  "lon": 15.0421296,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 12919471730,
   "lat": 50.3304431,
   "lon": 15.6291843,
   "tags": {
     "amenity": "drinking_water",
-    "fee": "no"
+    "fee": "no",
+    "man_made": "water_tap"
   }
 },
 {
@@ -2260,7 +2288,131 @@
   "lat": 50.0369889,
   "lon": 15.7773746,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13088621757,
+  "lat": 50.0718910,
+  "lon": 15.9880289,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13202964937,
+  "lat": 50.2083877,
+  "lon": 15.3001757,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13283268549,
+  "lat": 50.0967024,
+  "lon": 15.1909663,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "operator": "EKO-voda",
+    "website": "https://www.eko-voda.cz/o-nas/"
+  }
+},
+{
+  "type": "node",
+  "id": 13353734830,
+  "lat": 50.1489552,
+  "lon": 15.1313415,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13667883477,
+  "lat": 50.1854586,
+  "lon": 15.0419261,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13667883478,
+  "lat": 50.1865553,
+  "lon": 15.0426074,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13667883479,
+  "lat": 50.1878894,
+  "lon": 15.0380289,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13667883480,
+  "lat": 50.1844804,
+  "lon": 15.0402513,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "no",
+    "fee": "no",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13685720074,
+  "lat": 50.1853413,
+  "lon": 15.0302437,
+  "tags": {
+    "amenity": "drinking_water",
+    "charge": "2.5CZK/0.5L",
+    "fee": "yes",
+    "operator": "EKO-voda s.r.o.",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13685720075,
+  "lat": 50.1888931,
+  "lon": 15.0288924,
+  "tags": {
+    "amenity": "drinking_water",
+    "charge": "2.5CZK/0.5L",
+    "fee": "yes",
+    "operator": "EKO-voda s.r.o.",
+    "seasonal": "no"
   }
 }
 

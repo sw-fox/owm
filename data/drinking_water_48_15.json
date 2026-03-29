@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:01:36Z",
+    "timestamp_osm_base": "2026-03-29T14:52:14Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -117,7 +117,7 @@
     "layer": "-1",
     "level": "-1",
     "male": "yes",
-    "opening_hours": "Mo-Su,PH 06:30-18:30",
+    "opening_hours": "06:30-18:30",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
     "toilets:wheelchair": "yes",
@@ -282,7 +282,9 @@
   "lat": 48.1584385,
   "lon": 15.0464046,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-10-14",
+    "man_made": "water_tap"
   }
 },
 {
@@ -766,16 +768,6 @@
 },
 {
   "type": "node",
-  "id": 3589868125,
-  "lat": 48.2033909,
-  "lon": 15.6247787,
-  "tags": {
-    "amenity": "drinking_water",
-    "check_date": "2023-12-18"
-  }
-},
-{
-  "type": "node",
   "id": 3615453733,
   "lat": 48.2282225,
   "lon": 15.3272016,
@@ -1167,7 +1159,8 @@
   "lat": 48.4208830,
   "lon": 15.5592524,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-10-03"
   }
 },
 {
@@ -1435,7 +1428,11 @@
   "tags": {
     "access": "yes",
     "amenity": "toilets",
+    "check_date": "2026-02-06",
+    "check_date:opening_hours": "2026-02-06",
     "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours:signed": "no",
     "toilets:disposal": "flush",
     "unisex": "yes",
     "wheelchair": "yes"
@@ -1556,6 +1553,7 @@
   "lon": 15.4336147,
   "tags": {
     "amenity": "drinking_water",
+    "man_made": "water_tap",
     "operator": "Marktgemeinde Rossatz-Arnsdorf"
   }
 },
@@ -1930,12 +1928,36 @@
 },
 {
   "type": "node",
+  "id": 9400550270,
+  "lat": 48.2042678,
+  "lon": 15.6066718,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt St. Pölten"
+  }
+},
+{
+  "type": "node",
   "id": 9814043029,
   "lat": 48.2344157,
   "lon": 15.3307800,
   "tags": {
     "amenity": "drinking_water",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 9842723577,
+  "lat": 48.1624112,
+  "lon": 15.6388363,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt St. Pölten"
   }
 },
 {
@@ -2396,12 +2418,14 @@
 {
   "type": "node",
   "id": 11999651375,
-  "lat": 48.2020943,
-  "lon": 15.6225141,
+  "lat": 48.2021081,
+  "lon": 15.6227718,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
     "check_date": "2024-06-21",
+    "fee": "no",
+    "operator": "Stadt St. Pölten",
     "wheelchair": "yes"
   }
 },
@@ -2514,7 +2538,9 @@
     "fee": "no",
     "female": "yes",
     "male": "yes",
-    "toilets:disposal": "flush"
+    "opening_hours": "Mo-Su,PH 07:00-19:00",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
   }
 },
 {
@@ -2526,7 +2552,8 @@
     "access": "customers",
     "amenity": "toilets",
     "drinking_water": "yes",
-    "fee": "no"
+    "fee": "no",
+    "wheelchair": "yes"
   }
 },
 {
@@ -2918,7 +2945,7 @@
   "lon": 15.6875322,
   "tags": {
     "access": "private",
-    "depth": "37,7",
+    "depth": "37.7",
     "drinking_water": "yes",
     "man_made": "water_well",
     "name": "Tiefbrunnen Jahnstraße",
@@ -2934,7 +2961,7 @@
   "lon": 15.6874861,
   "tags": {
     "access": "private",
-    "depth": "3,65",
+    "depth": "3.65",
     "drinking_water": "yes",
     "man_made": "water_well",
     "name": "Kleiner Brunnen Jahnstraße",
@@ -3040,8 +3067,8 @@
 {
   "type": "node",
   "id": 13063110238,
-  "lat": 48.2055421,
-  "lon": 15.6260173,
+  "lat": 48.2055493,
+  "lon": 15.6259173,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -3088,10 +3115,312 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
+    "cold_water": "no",
     "covered": "no",
     "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
     "indoor": "no",
-    "lit": "no"
+    "lit": "no",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13075765110,
+  "lat": 48.2022481,
+  "lon": 15.6252877,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt St. Pölten",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13097710543,
+  "lat": 48.3447790,
+  "lon": 15.9102066,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13128867686,
+  "lat": 48.2022487,
+  "lon": 15.6268219,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt St. Pölten"
+  }
+},
+{
+  "type": "node",
+  "id": 13133793601,
+  "lat": 48.4193860,
+  "lon": 15.6556450,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13155145034,
+  "lat": 48.4202041,
+  "lon": 15.6559302,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13155147001,
+  "lat": 48.4199138,
+  "lon": 15.6563837,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13176552794,
+  "lat": 48.2417952,
+  "lon": 15.6979495,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13237975584,
+  "lat": 48.2025936,
+  "lon": 15.6282990,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13350949520,
+  "lat": 48.1875011,
+  "lon": 15.6230317,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt St. Pölten",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13360059619,
+  "lat": 48.1734984,
+  "lon": 15.8870614,
+  "tags": {
+    "access": "yes",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "pump": "manual",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13414186696,
+  "lat": 48.3032202,
+  "lon": 15.3445446,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "indoor": "yes",
+    "seasonal": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13521658863,
+  "lat": 48.1966000,
+  "lon": 15.6296397,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt St. Pölten"
+  }
+},
+{
+  "type": "node",
+  "id": 13521658864,
+  "lat": 48.1937456,
+  "lon": 15.6313864,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt St. Pölten"
+  }
+},
+{
+  "type": "node",
+  "id": 13521658865,
+  "lat": 48.1961916,
+  "lon": 15.6235905,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt St. Pölten"
+  }
+},
+{
+  "type": "node",
+  "id": 13521658867,
+  "lat": 48.1711700,
+  "lon": 15.6170559,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt St. Pölten"
+  }
+},
+{
+  "type": "node",
+  "id": 13521658868,
+  "lat": 48.2217794,
+  "lon": 15.5932488,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt St. Pölten"
+  }
+},
+{
+  "type": "node",
+  "id": 13521658869,
+  "lat": 48.2556853,
+  "lon": 15.6835918,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt St. Pölten"
+  }
+},
+{
+  "type": "node",
+  "id": 13521658870,
+  "lat": 48.1374555,
+  "lon": 15.6148382,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt St. Pölten"
+  }
+},
+{
+  "type": "node",
+  "id": 13521658871,
+  "lat": 48.2079555,
+  "lon": 15.6514114,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt St. Pölten"
+  }
+},
+{
+  "type": "node",
+  "id": 13529439593,
+  "lat": 48.0241354,
+  "lon": 15.4294771,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13529439594,
+  "lat": 48.0244295,
+  "lon": 15.4326547,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13625118028,
+  "lat": 48.4066308,
+  "lon": 15.5909917,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13656341468,
+  "lat": 48.1919401,
+  "lon": 15.9280971,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13660030835,
+  "lat": 48.1003811,
+  "lon": 15.6035454,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "mapillary": "1881697335803740",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13677253162,
+  "lat": 48.7596868,
+  "lon": 15.9577525,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
   }
 }
 

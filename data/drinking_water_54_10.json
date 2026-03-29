@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:05:42Z",
+    "timestamp_osm_base": "2026-03-29T15:11:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -21,6 +21,7 @@
     "hot_water": "no",
     "indoor": "yes",
     "opening_hours": "08:00-22:00",
+    "operator": "Q137910906",
     "supervised": "no",
     "toilets:changing_table": "no",
     "toilets:disposal": "flush",
@@ -69,6 +70,7 @@
     "hot_water": "yes",
     "indoor": "yes",
     "opening_hours": "24/7",
+    "operator:wikidata": "Q137910906",
     "supervised": "no",
     "toilets:changing_table": "no",
     "toilets:disposal": "flush",
@@ -126,9 +128,9 @@
 },
 {
   "type": "node",
-  "id": 2337676426,
-  "lat": 54.4275018,
-  "lon": 10.3621161,
+  "id": 2337676425,
+  "lat": 54.4275039,
+  "lon": 10.3621606,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -175,12 +177,16 @@
   "lat": 54.9411361,
   "lon": 10.7095813,
   "tags": {
-    "check_date": "2024-07-31",
+    "check_date": "2025-08-20",
     "drinking_water": "yes",
     "email": "havnene@langelandkommune.dk",
     "fee": "yes",
+    "internet_access": "no",
     "leisure": "marina",
     "name": "Rudkøbing Havn",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
     "phone": "+45 6351 6270",
     "power_supply": "yes",
     "sanitary_dump_station": "yes",
@@ -380,6 +386,7 @@
   "tags": {
     "access": "yes",
     "amenity": "toilets",
+    "check_date": "2026-03-15",
     "cold_water": "yes",
     "drinking_water": "yes",
     "fee": "no",
@@ -610,6 +617,7 @@
   "tags": {
     "amenity": "drinking_water",
     "drinking_water": "conditional",
+    "indoor": "no",
     "man_made": "water_tap"
   }
 },
@@ -807,7 +815,8 @@
   "lon": 10.1116630,
   "tags": {
     "amenity": "drinking_water",
-    "fountain": "bubbler"
+    "fountain": "bubbler",
+    "indoor": "yes"
   }
 },
 {
@@ -818,6 +827,7 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "fountain": "bubbler",
     "wheelchair": "yes"
   }
 },
@@ -918,6 +928,70 @@
   "lon": 10.6941260,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13083895151,
+  "lat": 54.9418179,
+  "lon": 10.2602075,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13083897906,
+  "lat": 54.9417968,
+  "lon": 10.2605329,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13119980907,
+  "lat": 54.5773213,
+  "lon": 10.0134581,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13119980909,
+  "lat": 54.5773547,
+  "lon": 10.0134628,
+  "tags": {
+    "access": "customers",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13143964350,
+  "lat": 54.4034114,
+  "lon": 10.2193260,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13230040841,
+  "lat": 54.1081263,
+  "lon": 10.8144578,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "drinking",
+    "operator": "Stadt Neustadt",
+    "wheelchair": "yes"
   }
 }
 

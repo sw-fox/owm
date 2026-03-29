@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-02T22:55:22Z",
+    "timestamp_osm_base": "2026-03-29T15:36:06Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -136,7 +136,9 @@
     33520043
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Godshorn",
+    "wikidata": "Q137369559"
   }
 },
 {
@@ -295,7 +297,9 @@
     "landuse": "cemetery",
     "name": "Friedhof Grenzheide",
     "opening_hours": "Mar,Oct: Mo-Su 7:00-18:00; Apr,Sep: Mo-Su 7:00-19:00; May-Aug: Mo-Su 7:00-20:00; Nov-Feb Mo-Su 7:00-17:00",
-    "source": "Bing"
+    "source": "Bing",
+    "wikidata": "Q137368925",
+    "wikimedia_commons": "Category:Friedhof Grenzheide (Langenhagen)"
   }
 },
 {
@@ -415,14 +419,15 @@
   "type": "way",
   "id": 10783412,
   "center": {
-    "lat": 52.3023247,
-    "lon": 9.9468134
+    "lat": 52.3023417,
+    "lon": 9.9467488
   },
   "nodes": [
     95960572,
+    13502670902,
     95960574,
-    10611477540,
-    10611477542,
+    10611477539,
+    10611477541,
     95960572
   ],
   "tags": {
@@ -624,7 +629,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Neuer Friedhof",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q137374872"
   }
 },
 {
@@ -685,7 +691,7 @@
     1562386029,
     687903185,
     2176921258,
-    687903186,
+    303295006,
     2176921261,
     3441029181,
     1028210159,
@@ -892,7 +898,7 @@
   "type": "way",
   "id": 23905758,
   "center": {
-    "lat": 52.3729389,
+    "lat": 52.3729401,
     "lon": 9.6568061
   },
   "nodes": [
@@ -1218,7 +1224,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Neuer Friedhof"
+    "name": "Neuer Friedhof",
+    "wikidata": "Q137374989",
+    "wikimedia_commons": "Category:Neuer Friedhof (Springe)"
   }
 },
 {
@@ -1359,8 +1367,8 @@
   "type": "way",
   "id": 24998034,
   "center": {
-    "lat": 52.9914616,
-    "lon": 9.5872097
+    "lat": 52.9914347,
+    "lon": 9.5870549
   },
   "nodes": [
     271752330,
@@ -1370,6 +1378,9 @@
     271752337,
     271752338,
     271752340,
+    13302130127,
+    13302130128,
+    434790467,
     271752346,
     271752348,
     271752349,
@@ -1717,11 +1728,15 @@
     280060743,
     280060598,
     4240036152,
+    13481910469,
     13119578800,
     280060595
   ],
   "tags": {
     "landuse": "cemetery",
+    "name": "Friedhof Lathwehren",
+    "operator": "Kirchengemeinde Kirchwehren",
+    "operator:website": "https://www.kirche-kirchwehren.de/",
     "source": "Bing 2012"
   }
 },
@@ -1786,7 +1801,9 @@
     283624763
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Neuwarmbüchen",
+    "wikidata": "Q137368943"
   }
 },
 {
@@ -1811,7 +1828,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof Seelze"
+    "name": "Friedhof Seelze",
+    "wikidata": "Q137374949"
   }
 },
 {
@@ -2036,7 +2054,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof Idensen",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q137368911"
   }
 },
 {
@@ -2085,19 +2104,27 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof Luthe",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q137369299"
   }
 },
 {
   "type": "way",
   "id": 26605310,
   "center": {
-    "lat": 52.3843003,
-    "lon": 9.4518553
+    "lat": 52.3844136,
+    "lon": 9.4522426
   },
   "nodes": [
     291771061,
+    13458566975,
+    13458566974,
+    13458566973,
+    13458566971,
+    13458566972,
     2712403897,
+    13458566970,
+    13458566954,
     291771062,
     291771063,
     2712403890,
@@ -2108,7 +2135,8 @@
     "landuse": "cemetery",
     "name": "Friedhof Kolenfeld",
     "religion": "christian",
-    "source:geometry": "Bing 2012"
+    "source:geometry": "Bing 2012",
+    "wikidata": "Q137368905"
   }
 },
 {
@@ -2151,7 +2179,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Waldfriedhof Poggenhagen",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q137368870"
   }
 },
 {
@@ -2202,7 +2231,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof Gehrden",
-    "source": "Bing 2012"
+    "source": "Bing 2012",
+    "wikidata": "Q137369241"
   }
 },
 {
@@ -2326,10 +2356,11 @@
     2502826025
   ],
   "tags": {
-    "amenity": "grave_yard",
+    "landuse": "cemetery",
     "layer": "-1",
     "name": "Friedhof Bennemühlen",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q137374841"
   }
 },
 {
@@ -2738,7 +2769,6 @@
     1817626360,
     1817626371,
     1817626375,
-    1817626377,
     301379739,
     1817626373,
     1817626361,
@@ -2774,12 +2804,15 @@
     301379733
   ],
   "tags": {
+    "cemetery": "war_cemetery",
     "landuse": "cemetery",
     "loc_name": "Englischer Friedhof",
-    "name": "Military Cemetery Limmer",
-    "name:en": "Military Cemetery Limmer",
+    "name": "Hanover Military Cemetery (CWGC)",
+    "name:de": "Britischer Commonwealth-Militärfriedhof Hannover",
+    "name:en": "Hanover Military Cemetery (CWGC)",
     "operator": "Commonwealth War Graves Commission (CWGC)",
-    "website": "https://www.cwgc.org/find-a-cemetery/cemetery/4007246/HANOVER%20MILITARY%20CEMETERY",
+    "religion": "none",
+    "website": "hhttps://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/4007246/hanover-military-cemetery/",
     "wheelchair": "yes"
   }
 },
@@ -2810,16 +2843,18 @@
   "type": "way",
   "id": 27867597,
   "center": {
-    "lat": 52.4178195,
-    "lon": 9.5824372
+    "lat": 52.4178168,
+    "lon": 9.5824185
   },
   "nodes": [
     305959354,
+    11837830345,
+    11837830346,
     305959356,
+    13575979654,
     2626920855,
-    310406568,
+    13576095252,
     305959357,
-    310406569,
     310264755,
     11837830344,
     305959354
@@ -2851,7 +2886,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "source": "Bing 2012"
+    "name": "Friedhof Bordenau",
+    "source": "Bing 2012",
+    "wikidata": "Q137369341"
   }
 },
 {
@@ -3022,8 +3059,8 @@
   "type": "way",
   "id": 28106635,
   "center": {
-    "lat": 52.5039438,
-    "lon": 9.6195460
+    "lat": 52.5038589,
+    "lon": 9.6196104
   },
   "nodes": [
     308745931,
@@ -3038,7 +3075,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof Resse"
+    "name": "Friedhof Resse",
+    "wikidata": "Q135618038",
+    "wikimedia_commons": "Category:Friedhof Resse (Wedemark)"
   }
 },
 {
@@ -3065,7 +3104,9 @@
     309891661,
     309891663,
     309891808,
+    13434490150,
     309891664,
+    13434490151,
     309891665,
     308779065,
     9429343249,
@@ -3102,7 +3143,8 @@
     "denomination": "lutheran",
     "landuse": "cemetery",
     "name": "Friedhof Lindenstraße",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q137369130"
   }
 },
 {
@@ -3122,7 +3164,9 @@
   "tags": {
     "landuse": "cemetery",
     "name": "kirchlicher Friedhof",
-    "religion": "ev.-luth._matthäus-kirchengemeinde_lehrte"
+    "religion": "ev.-luth._matthäus-kirchengemeinde_lehrte",
+    "wikidata": "Q137368727",
+    "wikimedia_commons": "Category:Neuer Friedhof Lehrte"
   }
 },
 {
@@ -3153,8 +3197,8 @@
   "type": "way",
   "id": 28381794,
   "center": {
-    "lat": 52.5297006,
-    "lon": 9.5554803
+    "lat": 52.5296823,
+    "lon": 9.5554481
   },
   "nodes": [
     311752483,
@@ -3164,7 +3208,15 @@
     311752483
   ],
   "tags": {
-    "landuse": "cemetery"
+    "addr:city": "Neustadt am Rübenberge",
+    "addr:postcode": "31535",
+    "addr:street": "Rotdornweg",
+    "email": "KG.Basse@evlka.de",
+    "landuse": "cemetery",
+    "name": "Friedhof Scharrel",
+    "phone": "+49 5032 2238",
+    "religion": "christian",
+    "website": "https://kirchspiel-basse.de/"
   }
 },
 {
@@ -3246,15 +3298,16 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof Ilten"
+    "name": "Friedhof Ilten",
+    "wikidata": "Q137369139"
   }
 },
 {
   "type": "way",
   "id": 28467452,
   "center": {
-    "lat": 52.2140956,
-    "lon": 9.7960717
+    "lat": 52.2140943,
+    "lon": 9.7960631
   },
   "nodes": [
     322430866,
@@ -3266,6 +3319,7 @@
   ],
   "tags": {
     "landuse": "cemetery",
+    "name": "Alter Friedhof Jeinsen",
     "source": "Bing 2012"
   }
 },
@@ -3339,7 +3393,9 @@
     "landuse": "cemetery",
     "name": "Friedhof Steinhude",
     "religion": "christian",
-    "source": "Bing 2012"
+    "source": "Bing 2012",
+    "wikidata": "Q137374854",
+    "wikimedia_commons": "Category:Friedhof Steinhude"
   }
 },
 {
@@ -3405,9 +3461,9 @@
     318031040
   ],
   "tags": {
-    "created_by": "Merkaartor 0.13",
     "landuse": "cemetery",
-    "name": "Friedhof Heeßel"
+    "name": "Friedhof Heeßel",
+    "wikidata": "Q137369150"
   }
 },
 {
@@ -3783,7 +3839,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Neuer Friedhof"
+    "name": "Neuer Friedhof",
+    "wikidata": "Q137374935"
   }
 },
 {
@@ -3961,11 +4018,11 @@
     331429555
   ],
   "tags": {
-    "created_by": "Potlatch 0.10f",
     "denomination": "lutheran",
     "landuse": "cemetery",
     "name": "Friedhof Döteberg",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q137368743"
   }
 },
 {
@@ -4336,7 +4393,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "religion": "christian"
+    "name": "Friedhof Steinwedel",
+    "religion": "christian",
+    "wikidata": "Q137374863"
   }
 },
 {
@@ -4486,16 +4545,17 @@
   "type": "way",
   "id": 31901963,
   "center": {
-    "lat": 52.3094742,
-    "lon": 9.5316530
+    "lat": 52.3094701,
+    "lon": 9.5316568
   },
   "nodes": [
-    2947969653,
+    13469053413,
     357337776,
     357337772,
+    13469061419,
     2948004215,
-    2947969654,
-    2947969653
+    357337770,
+    13469053413
   ],
   "tags": {
     "denomination": "protestant",
@@ -4548,7 +4608,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof Rethen",
-    "source": "HiRes aerial imagery 2007"
+    "source": "HiRes aerial imagery 2007",
+    "wikidata": "Q137368821"
   }
 },
 {
@@ -4847,8 +4908,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof Altwarmbüchen",
-    "source": "Bing 2012"
+    "name": "Neuer Friedhof Altwarmbüchen",
+    "source": "Bing 2012",
+    "wikidata": "Q137374880"
   }
 },
 {
@@ -4959,7 +5021,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof Lüningsburg",
-    "source": "survey, bing, knowledge"
+    "source": "survey, bing, knowledge",
+    "wikidata": "Q137374874"
   }
 },
 {
@@ -5060,7 +5123,7 @@
   "id": 35031340,
   "center": {
     "lat": 52.2174466,
-    "lon": 9.6989255
+    "lon": 9.6990483
   },
   "nodes": [
     410875154,
@@ -5072,6 +5135,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
+    "name": "Jüdischer Friedhof Gestorf",
+    "operator": "Stadt Springe",
     "source": "Bing 2012"
   }
 },
@@ -5166,13 +5231,15 @@
   "type": "way",
   "id": 35332791,
   "center": {
-    "lat": 52.4965531,
+    "lat": 52.4965966,
     "lon": 9.9492529
   },
   "nodes": [
     414161272,
     2108014225,
     414161275,
+    13418381512,
+    13418381511,
     414161273,
     2108014220,
     414161274,
@@ -5355,14 +5422,15 @@
   "type": "way",
   "id": 37498053,
   "center": {
-    "lat": 52.3241139,
-    "lon": 9.2011780
+    "lat": 52.3242102,
+    "lon": 9.2011841
   },
   "nodes": [
     438656718,
     438656721,
     438656724,
     438656726,
+    13665484463,
     438656737,
     438656740,
     438656743,
@@ -5370,7 +5438,6 @@
     438656750,
     2387719389,
     438656753,
-    438656757,
     438656718
   ],
   "tags": {
@@ -5499,7 +5566,8 @@
     1109355684,
     11793310251,
     1109355874,
-    9622225259,
+    13350814063,
+    13350814065,
     12947514586,
     462207693
   ],
@@ -5936,7 +6004,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof Isernhagen K.B.",
-    "source": "Bing 2012"
+    "source": "Bing 2012",
+    "wikidata": "Q137374926"
   }
 },
 {
@@ -6301,23 +6370,22 @@
   "type": "way",
   "id": 45868347,
   "center": {
-    "lat": 52.3114844,
-    "lon": 9.6510143
+    "lat": 52.3114998,
+    "lon": 9.6510421
   },
   "nodes": [
     583755761,
     2484473350,
     583755762,
     583755763,
-    2484254844,
-    2484254843,
-    583755413,
+    13595394540,
     583755761
   ],
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof Ronnenberg",
-    "source": "Bing 2012"
+    "operator": "Stadt Ronnenberg",
+    "wikidata": "Q137374975"
   }
 },
 {
@@ -6550,31 +6618,31 @@
   "type": "way",
   "id": 52269851,
   "center": {
-    "lat": 52.3138471,
-    "lon": 9.9983202
+    "lat": 52.3138536,
+    "lon": 9.9982576
   },
   "nodes": [
-    8302409120,
+    8302396915,
+    13505226038,
     8302409119,
+    13505226037,
     7454854919,
+    13505226039,
     7454854911,
+    13505226041,
     8302409118,
     8302409117,
-    8302396916,
-    8302396914,
-    8302396915,
-    8302409120
+    8302396915
   ],
   "tags": {
-    "landuse": "cemetery",
-    "source": "local_knowledge"
+    "landuse": "cemetery"
   }
 },
 {
   "type": "way",
   "id": 52489134,
   "center": {
-    "lat": 52.8196433,
+    "lat": 52.8196852,
     "lon": 9.4460643
   },
   "nodes": [
@@ -6719,8 +6787,8 @@
   "type": "way",
   "id": 55480475,
   "center": {
-    "lat": 52.3210218,
-    "lon": 9.4320918
+    "lat": 52.3210166,
+    "lon": 9.4320046
   },
   "nodes": [
     697215004,
@@ -6729,22 +6797,24 @@
     2877301721,
     697215007,
     697215008,
-    2877301720,
-    697215009,
+    13453115097,
+    13453115098,
     697215004
   ],
   "tags": {
     "fixme": "Umring",
     "landuse": "cemetery",
-    "source": "Bing"
+    "name": "Friedhof Hohenbostel",
+    "source": "Bing",
+    "wikidata": "Q137374940"
   }
 },
 {
   "type": "way",
   "id": 55675380,
   "center": {
-    "lat": 52.3727923,
-    "lon": 9.9240479
+    "lat": 52.3728076,
+    "lon": 9.9240644
   },
   "nodes": [
     477676925,
@@ -6752,22 +6822,26 @@
     247120854,
     247120852,
     247120851,
+    13468547832,
     247120850,
     262795799,
     477723594,
+    13435844957,
     247120847,
-    477748383,
     570657650,
+    13435892974,
     570657654,
     247120845,
     570657656,
     312714827,
     3917158637,
+    13468551407,
     477676925
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Städtischer Friedhof Lehrte"
+    "name": "Friedhof Ahlten",
+    "wikidata": "Q137369120"
   }
 },
 {
@@ -6794,11 +6868,13 @@
   "type": "way",
   "id": 56249605,
   "center": {
-    "lat": 52.2162617,
-    "lon": 9.7566070
+    "lat": 52.2162829,
+    "lon": 9.7566230
   },
   "nodes": [
     705919903,
+    13662999029,
+    13662999028,
     705919897,
     705919904,
     705919891,
@@ -6806,11 +6882,16 @@
     705919903
   ],
   "tags": {
+    "addr:city": "Pattensen",
+    "addr:place": "Weheweg",
+    "addr:postcode": "30982",
     "denomination": "lutheran",
+    "email": "KG.Jeinsen.Pattensen@evlka.de",
     "landuse": "cemetery",
     "name": "Friedhof Vardegötzen",
     "religion": "christian",
-    "source": "Bing 2012"
+    "source": "Bing 2012",
+    "website": "https://www.kirchenkreis-laatzen-springe.de/kirchenkreis/friedhoefe/friedhoefe/vardegoetzen"
   }
 },
 {
@@ -7457,7 +7538,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof Dedensen"
+    "name": "Friedhof Dedensen",
+    "wikidata": "Q137374979"
   }
 },
 {
@@ -7902,7 +7984,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "religion": "christian"
+    "name": "Friedhof Oesselse",
+    "religion": "christian",
+    "wikidata": "Q137369255"
   }
 },
 {
@@ -7977,6 +8061,7 @@
     "heritage:operator": "nld",
     "landuse": "cemetery",
     "name": "Wennigser Friedhof",
+    "operator": "Ev.-luth. Marien-Petri-Gemeinde",
     "ref:nld": "253019.00087",
     "wikidata": "Q1471738",
     "wikipedia": "de:Wennigser Friedhof"
@@ -8040,6 +8125,7 @@
     3877225608,
     1033070361,
     1033070086,
+    599346793,
     3106531390,
     1033070296,
     1033070065,
@@ -8063,7 +8149,7 @@
   "id": 89046365,
   "center": {
     "lat": 52.3495183,
-    "lon": 9.8180445
+    "lon": 9.8180311
   },
   "nodes": [
     1993668109,
@@ -8143,20 +8229,22 @@
   "type": "way",
   "id": 89537043,
   "center": {
-    "lat": 52.3006345,
-    "lon": 9.9830356
+    "lat": 52.3006223,
+    "lon": 9.9830564
   },
   "nodes": [
-    1038030471,
+    1038030623,
     1038030768,
     1038030300,
-    1038030585,
-    1038030455,
-    1038030471
+    13477400278,
+    3489185650,
+    1038030623
   ],
   "tags": {
     "landuse": "cemetery",
-    "religion": "christian"
+    "name": "Friedhof Gretenberg",
+    "religion": "christian",
+    "wikidata": "Q137369174"
   }
 },
 {
@@ -8229,24 +8317,25 @@
   "type": "way",
   "id": 89717791,
   "center": {
-    "lat": 52.2402929,
-    "lon": 9.6765296
+    "lat": 52.2403364,
+    "lon": 9.6766220
   },
   "nodes": [
-    305534105,
-    3344085600,
-    3344085605,
-    1039727584,
+    13381834346,
+    13381834343,
+    13383087126,
     1630154964,
+    13381834342,
     1039727590,
     3467519975,
-    2481481435,
-    1039727710,
-    3344085382,
-    1039727686,
-    7198212129,
-    277727088,
-    305534105
+    13381834326,
+    13381834341,
+    13381834340,
+    13381834339,
+    13381834338,
+    13381834337,
+    13381834336,
+    13381834346
   ],
   "tags": {
     "landuse": "cemetery"
@@ -8331,21 +8420,24 @@
   "type": "way",
   "id": 90098113,
   "center": {
-    "lat": 52.3007398,
-    "lon": 9.9339682
+    "lat": 52.3007376,
+    "lon": 9.9339879
   },
   "nodes": [
-    1044392000,
+    13502671603,
     1044392027,
+    13502671462,
     1044392115,
     5175790063,
     1044392019,
-    313863773,
-    1044392000
+    13502671463,
+    13502671603
   ],
   "tags": {
     "landuse": "cemetery",
-    "religion": "christian"
+    "name": "Friedhof Wehmingen",
+    "religion": "christian",
+    "wikidata": "Q137374934"
   }
 },
 {
@@ -8375,8 +8467,8 @@
   "type": "way",
   "id": 90607287,
   "center": {
-    "lat": 52.2023877,
-    "lon": 9.5961145
+    "lat": 52.2024073,
+    "lon": 9.5961139
   },
   "nodes": [
     1051419366,
@@ -8389,7 +8481,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "source": "Bing 2012"
+    "name": "Friedhof Alvesrode",
+    "source": "Bing 2012",
+    "wikidata": "Q137369157"
   }
 },
 {
@@ -8453,7 +8547,9 @@
     1055207548
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Oegenbostel",
+    "wikidata": "Q137374842"
   }
 },
 {
@@ -8479,16 +8575,16 @@
   "type": "way",
   "id": 90965837,
   "center": {
-    "lat": 52.0202582,
-    "lon": 9.7248748
+    "lat": 52.0202486,
+    "lon": 9.7247190
   },
   "nodes": [
-    4066455157,
-    1056105616,
+    13634100757,
+    13634100758,
     1056105632,
     4066455159,
     4066455158,
-    4066455157
+    13634100757
   ],
   "tags": {
     "landuse": "cemetery",
@@ -8720,23 +8816,26 @@
   "type": "way",
   "id": 93055040,
   "center": {
-    "lat": 52.4480557,
+    "lat": 52.4480702,
     "lon": 9.6516307
   },
   "nodes": [
     1078639478,
+    13645796743,
+    13645796742,
     1078639428,
     1078639467,
     10594129762,
     10594129764,
     9817258657,
     9817258658,
-    9817258659,
-    9817258660,
     1078639478
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Engelbostel",
+    "wikidata": "Q137369206",
+    "wikimedia_commons": "Category:Friedhof Engelbostel (Langenhagen)"
   }
 },
 {
@@ -8768,14 +8867,15 @@
   "type": "way",
   "id": 93571715,
   "center": {
-    "lat": 52.2146659,
-    "lon": 9.6914027
+    "lat": 52.2146653,
+    "lon": 9.6914079
   },
   "nodes": [
     1085332443,
     1085332481,
     1085332465,
     1085332463,
+    13680110407,
     1085332443
   ],
   "tags": {
@@ -8783,7 +8883,7 @@
     "heritage": "4",
     "heritage:operator": "nld",
     "image": "File:Jüdischer Friedhof Gestorf Springe.jpg",
-    "name": "Jüdischer Friedhof",
+    "name": "Jüdischer Friedhof Gestorf",
     "ref:nld": "28821995",
     "religion": "jewish",
     "start_date": "~1700",
@@ -8817,7 +8917,7 @@
   "type": "way",
   "id": 93871349,
   "center": {
-    "lat": 52.2636397,
+    "lat": 52.2636438,
     "lon": 9.2804391
   },
   "nodes": [
@@ -8913,11 +9013,13 @@
   "id": 95536308,
   "center": {
     "lat": 52.6790417,
-    "lon": 9.9008286
+    "lon": 9.9008387
   },
   "nodes": [
     1107824555,
+    13346566033,
     504449380,
+    13346566015,
     504449382,
     504449383,
     504449385,
@@ -9065,8 +9167,10 @@
   ],
   "tags": {
     "landuse": "cemetery",
+    "name": "Friedhof Empelde",
     "religion": "christian",
-    "source": "Bing 2012"
+    "source": "Bing 2012",
+    "wikidata": "Q135490374"
   }
 },
 {
@@ -9122,14 +9226,16 @@
   "type": "way",
   "id": 97846709,
   "center": {
-    "lat": 52.1482580,
-    "lon": 9.2276115
+    "lat": 52.1483000,
+    "lon": 9.2274851
   },
   "nodes": [
     1132497704,
+    13624999957,
     1132497727,
     1132497720,
     1132497707,
+    13624999956,
     1132497730,
     1132497715,
     1132497704
@@ -9320,7 +9426,7 @@
   "type": "way",
   "id": 100910863,
   "center": {
-    "lat": 52.4917728,
+    "lat": 52.4917724,
     "lon": 9.8555380
   },
   "nodes": [
@@ -9402,7 +9508,9 @@
     "denomination": "protestant",
     "landuse": "cemetery",
     "name": "Friedhof Hoya",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q133843438",
+    "wikipedia": "de:Friedhof Hoya"
   }
 },
 {
@@ -9514,7 +9622,7 @@
   "id": 106679127,
   "center": {
     "lat": 52.2926401,
-    "lon": 9.6640353
+    "lon": 9.6640240
   },
   "nodes": [
     1227138753,
@@ -9692,6 +9800,7 @@
     1248272938,
     1248272641,
     1248272466,
+    13634943215,
     1248272843,
     1248272938
   ],
@@ -9767,8 +9876,8 @@
   "type": "way",
   "id": 111575745,
   "center": {
-    "lat": 52.4006292,
-    "lon": 9.5544147
+    "lat": 52.4005927,
+    "lon": 9.5543471
   },
   "nodes": [
     1270865509,
@@ -9786,7 +9895,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "source": "Bing 2012"
+    "name": "Friedhof Lohnde",
+    "source": "Bing 2012",
+    "wikidata": "Q137374969"
   }
 },
 {
@@ -9920,7 +10031,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "source": "Bing"
+    "name": "Friedhof Everloh",
+    "source": "Bing",
+    "wikidata": "Q137374881"
   }
 },
 {
@@ -9941,7 +10054,11 @@
     1301657092
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Benthe",
+    "operator": "Stadt Ronnenberg",
+    "website": "https://www.ronnenberg.de/portal/seiten/friedhofswesen-914000455-21650.html",
+    "wikidata": "Q133466174"
   }
 },
 {
@@ -9990,8 +10107,8 @@
   "type": "way",
   "id": 115640957,
   "center": {
-    "lat": 52.0340081,
-    "lon": 9.4668966
+    "lat": 52.0340104,
+    "lon": 9.4668564
   },
   "nodes": [
     1305930337,
@@ -10047,9 +10164,7 @@
     634968607,
     10855829094,
     1321275719,
-    1842675681,
     1321275716,
-    1322368059,
     1842675697,
     1321275715,
     1321275714,
@@ -10169,7 +10284,7 @@
   "type": "way",
   "id": 119503798,
   "center": {
-    "lat": 52.7710172,
+    "lat": 52.7710132,
     "lon": 9.0043730
   },
   "nodes": [
@@ -10206,7 +10321,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof Elze"
+    "name": "Friedhof Elze",
+    "wikidata": "Q137374844",
+    "wikimedia_commons": "Category:Friedhof Elze"
   }
 },
 {
@@ -10476,8 +10593,8 @@
   "type": "way",
   "id": 126807169,
   "center": {
-    "lat": 52.2968559,
-    "lon": 9.5615429
+    "lat": 52.2967433,
+    "lon": 9.5615476
   },
   "nodes": [
     1404681759,
@@ -10665,8 +10782,8 @@
   "type": "way",
   "id": 130113343,
   "center": {
-    "lat": 52.0675862,
-    "lon": 9.8036993
+    "lat": 52.0676007,
+    "lon": 9.8035898
   },
   "nodes": [
     1434101298,
@@ -10872,10 +10989,8 @@
   },
   "nodes": [
     1485520082,
-    1485520016,
-    1485520017,
-    1485520005,
-    12957829310,
+    2043063208,
+    2043063206,
     1485520003,
     1485519956,
     1485519968,
@@ -10951,12 +11066,13 @@
   "type": "way",
   "id": 136160562,
   "center": {
-    "lat": 52.1912581,
-    "lon": 9.7803911
+    "lat": 52.1912653,
+    "lon": 9.7803721
   },
   "nodes": [
     1494024584,
     1494024585,
+    13656813748,
     2642559161,
     1681723260,
     1681723255,
@@ -11064,10 +11180,12 @@
     1517489081,
     1517489080,
     1517489079,
+    13319139346,
     2095013742,
     1517489073
   ],
   "tags": {
+    "barrier": "fence",
     "heritage": "4",
     "heritage:operator": "nld",
     "historic": "cemetery",
@@ -11158,7 +11276,8 @@
     1993668039,
     1993668056,
     1525917606,
-    10658197271,
+    13301924940,
+    13301924941,
     1525917613,
     1525917608,
     1525917599,
@@ -11175,6 +11294,7 @@
     "heritage:operator": "nld",
     "landuse": "cemetery",
     "name": "Friedhof Bemerode",
+    "opening_hours": "\"bei Tageslicht\"",
     "ref:nld": "36176023",
     "religion": "christian",
     "website": "https://www.johannisbemerode.de/gemeinde/einrichtungen/friedhof-bem",
@@ -11448,11 +11568,18 @@
   "type": "way",
   "id": 144324305,
   "center": {
-    "lat": 52.1573870,
-    "lon": 9.7757893
+    "lat": 52.1575057,
+    "lon": 9.7757934
   },
   "nodes": [
-    1578668133,
+    13402020054,
+    13402020053,
+    9015839290,
+    9015839291,
+    13402020052,
+    13402020051,
+    13402020050,
+    13402020058,
     671730436,
     1578668135,
     8708664429,
@@ -11460,14 +11587,9 @@
     1578668138,
     712829993,
     316962990,
-    1578668139,
-    2533678289,
-    2533678290,
-    1578668140,
-    7473671176,
-    671730427,
-    1578668142,
-    1578668133
+    13402020055,
+    13402020059,
+    13402020054
   ],
   "tags": {
     "landuse": "cemetery",
@@ -12522,8 +12644,8 @@
   "type": "way",
   "id": 161808208,
   "center": {
-    "lat": 52.0104230,
-    "lon": 9.3346046
+    "lat": 52.0103801,
+    "lon": 9.3346086
   },
   "nodes": [
     1737635544,
@@ -12717,15 +12839,16 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Alter Friedhof ev.-luth. Matthäus-Kirche"
+    "name": "Alter Friedhof ev.-luth. Matthäus-Kirche",
+    "wikidata": "Q137374861"
   }
 },
 {
   "type": "way",
   "id": 166379981,
   "center": {
-    "lat": 52.0158522,
-    "lon": 9.2104630
+    "lat": 52.0158492,
+    "lon": 9.2104638
   },
   "nodes": [
     1778266233,
@@ -12745,23 +12868,28 @@
   "type": "way",
   "id": 166399677,
   "center": {
-    "lat": 52.3776050,
-    "lon": 9.9683546
+    "lat": 52.3776170,
+    "lon": 9.9683613
   },
   "nodes": [
     1778436402,
     1778436404,
     1778436341,
     1778436418,
+    13576164128,
+    13576164127,
     1778436419,
     1778436400,
+    13576164068,
+    13576164069,
     1778436406,
     1778436390,
     1778436402
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "kath. St. Bernwards-Friedhof"
+    "name": "kath. St. Bernwards-Friedhof",
+    "wikidata": "Q137369601"
   }
 },
 {
@@ -12785,7 +12913,9 @@
     1783026783
   ],
   "tags": {
-    "amenity": "grave_yard"
+    "landuse": "cemetery",
+    "name": "Friedhof Gümmer",
+    "wikidata": "Q137374982"
   }
 },
 {
@@ -12889,11 +13019,13 @@
     "addr:postcode": "30926",
     "addr:street": "Harenberger Meile",
     "addr:suburb": "Harenberg",
+    "cemetery": "war_cemetery",
     "contact:website": "http://www.cwgc.org/find-a-cemetery/cemetery/2008500/HANOVER%20WAR%20CEMETERY",
     "landuse": "cemetery",
-    "loc_name": "Englischer Militärfriedhof; Englischer Friedhof",
-    "name": "Hanover War Cemetery",
-    "name:en": "Hanover War Cemetery",
+    "loc_name": "Englischer Militärfriedhof;Englischer Friedhof",
+    "name": "Hanover War Cemetery (CWGC)",
+    "name:de": "Britischer Commonwealth-Kriegsfriedhof Hannover",
+    "name:en": "Hanover War Cemetery (CWGC)",
     "operator": "Commonwealth War Graves Commission (CWGC)",
     "wheelchair": "yes",
     "wikidata": "Q1576247",
@@ -12948,7 +13080,7 @@
   "type": "way",
   "id": 172449117,
   "center": {
-    "lat": 52.2620242,
+    "lat": 52.2620295,
     "lon": 9.6301194
   },
   "nodes": [
@@ -12965,7 +13097,9 @@
     1833551855
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Holtensen",
+    "wikidata": "Q137369459"
   }
 },
 {
@@ -12987,7 +13121,7 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Helden Gedenkstätte",
+    "name": "Kriegsgedenkstätte Ricklingen",
     "source": "survey 2012"
   }
 },
@@ -13086,7 +13220,9 @@
     "landuse": "cemetery",
     "name": "Waldfriedhof Resse",
     "religion": "christian",
-    "source": "Bing;local knowledge"
+    "source": "Bing;local knowledge",
+    "wikidata": "Q135654227",
+    "wikimedia_commons": "Category:Waldfriedhof Resse (Wedemark)"
   }
 },
 {
@@ -13163,7 +13299,7 @@
   "id": 177188681,
   "center": {
     "lat": 52.3286703,
-    "lon": 9.2807430
+    "lon": 9.2807407
   },
   "nodes": [
     1876438603,
@@ -13263,6 +13399,7 @@
     1998728052,
     1894308942,
     1894308916,
+    13335794198,
     1894308889,
     1894308891,
     2188658970,
@@ -13299,7 +13436,8 @@
     8843034720,
     9353829287,
     1895810915,
-    1895810918,
+    13509769243,
+    13509769244,
     1895810921,
     1895810926,
     1895810928,
@@ -13310,7 +13448,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof Sehnde",
-    "source": "Bing 2012"
+    "source": "Bing 2012",
+    "wikidata": "Q137369445"
   }
 },
 {
@@ -13341,7 +13480,7 @@
   "type": "way",
   "id": 182485618,
   "center": {
-    "lat": 52.2071246,
+    "lat": 52.2071402,
     "lon": 9.9110095
   },
   "nodes": [
@@ -13352,6 +13491,7 @@
     1496719780,
     1496719786,
     1496719790,
+    13504562773,
     1496719802
   ],
   "tags": {
@@ -13477,25 +13617,6 @@
     "url": "https://www.memorialmuseums.org/memorialmuseum/kriegsgraberstatte-oerbke-friedhof-der-namenlosen",
     "wikidata": "Q130256871",
     "wikimedia_commons": "Category:Kriegsgräberstätte Oerbke"
-  }
-},
-{
-  "type": "way",
-  "id": 185448502,
-  "center": {
-    "lat": 52.1540923,
-    "lon": 9.2089324
-  },
-  "nodes": [
-    1960509710,
-    1960509698,
-    1960509694,
-    1960509708,
-    1503785706,
-    1960509710
-  ],
-  "tags": {
-    "landuse": "cemetery"
   }
 },
 {
@@ -13666,7 +13787,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof Weetzen",
-    "operator": "Stadt Ronnenberg"
+    "operator": "Stadt Ronnenberg",
+    "wikidata": "Q137374985"
   }
 },
 {
@@ -13714,7 +13836,8 @@
     2059948668
   ],
   "tags": {
-    "amenity": "grave_yard"
+    "amenity": "grave_yard",
+    "wikidata": "Q137374837"
   }
 },
 {
@@ -13825,15 +13948,19 @@
     2068163250
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Eystrup",
+    "wikidata": "Q118397552",
+    "wikimedia_commons": "Category:Friedhof Eystrup",
+    "wikipedia": "de:Friedhof Eystrup"
   }
 },
 {
   "type": "way",
   "id": 197028726,
   "center": {
-    "lat": 52.2457808,
-    "lon": 9.7394257
+    "lat": 52.2457927,
+    "lon": 9.7394290
   },
   "nodes": [
     2073153200,
@@ -13842,12 +13969,11 @@
     2073153204,
     2073153203,
     2073153201,
-    9880467368,
     2073153200
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof",
+    "name": "Friedhof Hüpede",
     "source": "Bing 2012"
   }
 },
@@ -14183,7 +14309,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "source": "Bing 2012"
+    "name": "Kirchlicher Friedhof Großgoltern",
+    "source": "Bing 2012",
+    "wikidata": "Q137368761"
   }
 },
 {
@@ -14465,6 +14593,7 @@
   },
   "nodes": [
     2246214984,
+    13621531816,
     2246215008,
     1076498447,
     2246214966,
@@ -14691,12 +14820,13 @@
   "type": "way",
   "id": 224204225,
   "center": {
-    "lat": 52.3329414,
-    "lon": 9.4843964
+    "lat": 52.3329380,
+    "lon": 9.4843865
   },
   "nodes": [
     6380334550,
     2330270665,
+    13469065858,
     2869090950,
     2330270720,
     2330270716,
@@ -14704,9 +14834,9 @@
     6380334550
   ],
   "tags": {
+    "access": "private",
     "heritage": "yes",
-    "landuse": "cemetery",
-    "name": "Friedhof (privat)"
+    "landuse": "cemetery"
   }
 },
 {
@@ -14762,12 +14892,14 @@
   "type": "way",
   "id": 226403167,
   "center": {
-    "lat": 52.1961551,
-    "lon": 9.7833984
+    "lat": 52.1961465,
+    "lon": 9.7834024
   },
   "nodes": [
     990829278,
     990829254,
+    13669803839,
+    13669803838,
     990829351,
     2352368822,
     990829278
@@ -14807,15 +14939,17 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Alt Laatzen",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q132768513",
+    "wikipedia": "de:Friedhof Am Brocksberg"
   }
 },
 {
   "type": "way",
   "id": 226743841,
   "center": {
-    "lat": 52.0036149,
-    "lon": 9.5722182
+    "lat": 52.0036275,
+    "lon": 9.5721700
   },
   "nodes": [
     2354976273,
@@ -14823,13 +14957,15 @@
     2354976275,
     2354976276,
     2354976277,
-    2354976278,
+    13543649375,
+    13543649374,
     2354976279,
     2356913216,
     2354976273
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Dohnsen"
   }
 },
 {
@@ -14850,7 +14986,12 @@
     9724418459,
     9724418458,
     9727591181,
+    13362206869,
+    13362206874,
+    13362206863,
     3563781142,
+    13362206868,
+    13362206881,
     2358694597,
     3563781122,
     3563781127,
@@ -14971,7 +15112,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof Hämelhausen"
+    "name": "Friedhof Hämelhausen",
+    "wikidata": "Q134071681",
+    "wikipedia": "de:Friedhof Hämelhausen"
   }
 },
 {
@@ -15021,7 +15164,7 @@
   "id": 232778912,
   "center": {
     "lat": 52.9739755,
-    "lon": 9.3442757
+    "lon": 9.3442742
   },
   "nodes": [
     1598282109,
@@ -15073,16 +15216,16 @@
   "type": "way",
   "id": 233428376,
   "center": {
-    "lat": 52.2899047,
-    "lon": 9.6089204
+    "lat": 52.2898725,
+    "lon": 9.6089236
   },
   "nodes": [
     2418187092,
-    2418187095,
     2418187100,
     2418187107,
     2418187119,
     2418187102,
+    13483832721,
     2418187092
   ],
   "tags": {
@@ -15157,14 +15300,15 @@
   "type": "way",
   "id": 234766032,
   "center": {
-    "lat": 52.3166731,
-    "lon": 9.6549785
+    "lat": 52.3166847,
+    "lon": 9.6549828
   },
   "nodes": [
     2429036936,
     2429036951,
     2429036953,
     2429036934,
+    13653161836,
     2429036936
   ],
   "tags": {
@@ -15452,7 +15596,8 @@
     "landuse": "cemetery",
     "name": "Friedhof Kaltenweide",
     "name:signed": "no",
-    "wheelchair": "yes"
+    "wheelchair": "yes",
+    "wikidata": "Q137374967"
   }
 },
 {
@@ -15496,7 +15641,8 @@
   "tags": {
     "amenity": "grave_yard",
     "name": "Alter Friedhof",
-    "source": "Bing"
+    "source": "Bing",
+    "wikidata": "Q137369192"
   }
 },
 {
@@ -15714,7 +15860,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Alter Friedhof Altwarmbüchen"
+    "name": "Alter Friedhof Altwarmbüchen",
+    "wikidata": "Q137374877",
+    "wikimedia_commons": "Category:Alter Friedhof Altwarmbüchen"
   }
 },
 {
@@ -15746,8 +15894,8 @@
   "type": "way",
   "id": 246667515,
   "center": {
-    "lat": 52.1527786,
-    "lon": 9.0770705
+    "lat": 52.1527366,
+    "lon": 9.0771003
   },
   "nodes": [
     2536767023,
@@ -15832,7 +15980,7 @@
   "type": "way",
   "id": 248562334,
   "center": {
-    "lat": 52.3358496,
+    "lat": 52.3358522,
     "lon": 9.5804161
   },
   "nodes": [
@@ -15971,8 +16119,8 @@
   "type": "way",
   "id": 256215358,
   "center": {
-    "lat": 52.0254641,
-    "lon": 9.3421884
+    "lat": 52.0254629,
+    "lon": 9.3421997
   },
   "nodes": [
     2618960205,
@@ -16030,7 +16178,8 @@
   "tags": {
     "amenity": "grave_yard",
     "religion": "christian",
-    "wheelchair": "yes"
+    "wheelchair": "yes",
+    "wikidata": "Q137374870"
   }
 },
 {
@@ -16380,8 +16529,8 @@
   "type": "way",
   "id": 270513389,
   "center": {
-    "lat": 52.3205586,
-    "lon": 9.5557508
+    "lat": 52.3205571,
+    "lon": 9.5557235
   },
   "nodes": [
     2755357287,
@@ -16389,6 +16538,8 @@
     2755357291,
     2755357294,
     2755357296,
+    13469056609,
+    13469056608,
     2755357298,
     2755357300,
     2755357302,
@@ -16777,14 +16928,17 @@
   "type": "way",
   "id": 292848765,
   "center": {
-    "lat": 52.3210688,
-    "lon": 9.4166313
+    "lat": 52.3210856,
+    "lon": 9.4166309
   },
   "nodes": [
     2964081094,
     2964081096,
+    13453112416,
     2964081098,
     2964081099,
+    13453112414,
+    13453112415,
     2964081103,
     2964081104,
     2964081102,
@@ -16804,12 +16958,16 @@
   "type": "way",
   "id": 293774934,
   "center": {
-    "lat": 52.1981727,
-    "lon": 9.2496221
+    "lat": 52.1984885,
+    "lon": 9.2496243
   },
   "nodes": [
     2973605635,
     1410867164,
+    13670931578,
+    13670931579,
+    13670931574,
+    13670931580,
     2973605647,
     2973605646,
     2973605634,
@@ -16997,23 +17155,23 @@
   "type": "way",
   "id": 310729705,
   "center": {
-    "lat": 52.1638438,
-    "lon": 9.0373951
+    "lat": 52.1638412,
+    "lon": 9.0373861
   },
   "nodes": [
     3161871520,
+    13598405681,
+    13598405680,
     3161871519,
-    3161871515,
     3161871511,
     3161871507,
     3161871503,
-    3161871504,
+    335936100,
     3161871506,
-    3161871510,
+    313393320,
     3161871514,
     3161871516,
     3161871517,
-    3161871518,
     3161871521,
     3161871520
   ],
@@ -17381,12 +17539,13 @@
   "type": "way",
   "id": 316701207,
   "center": {
-    "lat": 52.2972968,
-    "lon": 9.9181768
+    "lat": 52.2972990,
+    "lon": 9.9181830
   },
   "nodes": [
     3228612967,
     3228612808,
+    13513447039,
     3228612796,
     3228612678,
     3228612967
@@ -17433,7 +17592,9 @@
     3232002366
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Bolzum",
+    "wikidata": "Q137374932"
   }
 },
 {
@@ -17536,7 +17697,7 @@
   "id": 320640126,
   "center": {
     "lat": 52.1998580,
-    "lon": 9.0137768
+    "lon": 9.0137816
   },
   "nodes": [
     3272542962,
@@ -18243,27 +18404,32 @@
   "type": "way",
   "id": 362101302,
   "center": {
-    "lat": 52.3307288,
-    "lon": 9.8447131
+    "lat": 52.3307234,
+    "lon": 9.8447315
   },
   "nodes": [
     686606864,
     686606869,
+    10676749988,
+    13469501773,
     8021012006,
     10676749996,
     10676749987,
     8021012008,
+    13469501815,
+    2016290684,
+    2016290683,
     686606864
   ],
   "tags": {
-    "barrier": "wall",
     "denomination": "protestant",
-    "height": "1.30",
+    "heritage": "4",
+    "heritage:operator": "nld",
     "landuse": "cemetery",
-    "material": "brick",
     "name": "Friedhof Wülferode (St. Johannis Gemeinde)",
+    "ref:nld": "30753521",
     "religion": "christian",
-    "wall": "dry_stone"
+    "wikidata": "Q116922589"
   }
 },
 {
@@ -18372,19 +18538,19 @@
   "type": "way",
   "id": 366881190,
   "center": {
-    "lat": 52.2608175,
-    "lon": 9.3933382
+    "lat": 52.2608245,
+    "lon": 9.3933808
   },
   "nodes": [
     574997893,
     3708580824,
     3708580823,
     3708580822,
+    13324779057,
     574997892,
     574997891,
     12943539428,
     574997889,
-    3774546786,
     3708580819,
     3774546792,
     574997893
@@ -18656,7 +18822,10 @@
     3919359644
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Alter Friedhof",
+    "wikidata": "Q133861018",
+    "wikipedia": "de:Alter Friedhof (Hassel (Weser))"
   }
 },
 {
@@ -19412,7 +19581,9 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Ahornstraße",
-    "source": "Bing"
+    "source": "Bing",
+    "wikidata": "Q137368786",
+    "wikimedia_commons": "Category:Friedhof Ahornstraße (Laatzen)"
   }
 },
 {
@@ -19542,6 +19713,35 @@
   ],
   "tags": {
     "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 532458657,
+  "center": {
+    "lat": 52.2976580,
+    "lon": 9.9346103
+  },
+  "nodes": [
+    5166817896,
+    5166817895,
+    13502671353,
+    13502671354,
+    5166817894,
+    5166817893,
+    5166817892,
+    13502671351,
+    13502671350,
+    13502671349,
+    5166817891,
+    5166817890,
+    13502671352,
+    5166817889,
+    5166817896
+  ],
+  "tags": {
+    "amenity": "grave_yard",
+    "religion": "christian"
   }
 },
 {
@@ -19702,12 +19902,14 @@
   "type": "way",
   "id": 588009645,
   "center": {
-    "lat": 52.9286953,
-    "lon": 9.2610214
+    "lat": 52.9289214,
+    "lon": 9.2605812
   },
   "nodes": [
     5616663248,
     5616663252,
+    13353418259,
+    13353418258,
     5616663247,
     5616663257,
     5616663248
@@ -19719,7 +19921,6 @@
     "addr:street": "Lindhooper Straße",
     "amenity": "grave_yard",
     "name": "Wald der Stille",
-    "note": "Umriss nur wegen einer Fläche, das Areal muss wesendlich größer sein",
     "religion": "christian"
   }
 },
@@ -19971,7 +20172,7 @@
   "id": 660287632,
   "center": {
     "lat": 52.8426044,
-    "lon": 9.3518828
+    "lon": 9.3518678
   },
   "nodes": [
     6182036897,
@@ -20008,8 +20209,10 @@
   "tags": {
     "denomination": "catholic",
     "landuse": "cemetery",
-    "name": "Alter Hasseler Friedhof",
-    "religion": "christian"
+    "name": "Friedhof Hassel",
+    "religion": "christian",
+    "wikidata": "Q133859443",
+    "wikipedia": "de:Neuer Friedhof (Hassel (Weser))"
   }
 },
 {
@@ -21005,7 +21208,7 @@
   "type": "way",
   "id": 969491900,
   "center": {
-    "lat": 52.2528830,
+    "lat": 52.2528785,
     "lon": 9.6662391
   },
   "nodes": [
@@ -23179,6 +23382,7 @@
     9947848158,
     9947848157,
     9947848156,
+    13684012202,
     9947848178
   ],
   "tags": {
@@ -30239,14 +30443,19 @@
   "type": "way",
   "id": 1152951446,
   "center": {
-    "lat": 52.2939015,
-    "lon": 9.9065275
+    "lat": 52.2939049,
+    "lon": 9.9065296
   },
   "nodes": [
     10723645926,
     10723645927,
     10723645928,
+    13513446584,
+    3230353668,
+    3230353578,
+    13513446590,
     10723645929,
+    13513446589,
     10723645926
   ],
   "tags": {
@@ -30278,8 +30487,8 @@
   "type": "way",
   "id": 1161639887,
   "center": {
-    "lat": 52.3322090,
-    "lon": 9.7169609
+    "lat": 52.3322146,
+    "lon": 9.7169544
   },
   "nodes": [
     10804097182,
@@ -30297,8 +30506,8 @@
   "type": "way",
   "id": 1161639888,
   "center": {
-    "lat": 52.3319185,
-    "lon": 9.7170242
+    "lat": 52.3319187,
+    "lon": 9.7170243
   },
   "nodes": [
     10804097186,
@@ -30322,7 +30531,7 @@
   "type": "way",
   "id": 1161639889,
   "center": {
-    "lat": 52.3329349,
+    "lat": 52.3329356,
     "lon": 9.7167948
   },
   "nodes": [
@@ -30341,8 +30550,8 @@
   "type": "way",
   "id": 1161639890,
   "center": {
-    "lat": 52.3319975,
-    "lon": 9.7169501
+    "lat": 52.3319985,
+    "lon": 9.7169505
   },
   "nodes": [
     9615052265,
@@ -30365,7 +30574,7 @@
   "id": 1161639891,
   "center": {
     "lat": 52.3320636,
-    "lon": 9.7176348
+    "lon": 9.7176363
   },
   "nodes": [
     10804097180,
@@ -30411,8 +30620,8 @@
   "type": "way",
   "id": 1161639893,
   "center": {
-    "lat": 52.3325367,
-    "lon": 9.7171418
+    "lat": 52.3325373,
+    "lon": 9.7171361
   },
   "nodes": [
     9615052269,
@@ -32652,24 +32861,33 @@
   "tags": {
     "cemetery": "burial_forest",
     "landuse": "cemetery",
-    "name": "Waldbestattungshain Leineaue"
+    "name": "Waldbestattungshain Leineaue",
+    "wikidata": "Q137374865"
   }
 },
 {
   "type": "way",
   "id": 1392020929,
   "center": {
-    "lat": 52.3012214,
-    "lon": 9.4608242
+    "lat": 52.3012259,
+    "lon": 9.4607829
   },
   "nodes": [
     12885925103,
     12885925104,
     2408154586,
+    13594598292,
+    13594598293,
+    13594598294,
+    13594598291,
     6925599977,
     6925599976,
     12885925105,
     6925599983,
+    12883937659,
+    13594598282,
+    13594598283,
+    13594598281,
     11934362536,
     12885925103
   ],
@@ -32865,6 +33083,149 @@
   }
 },
 {
+  "type": "way",
+  "id": 1455232603,
+  "center": {
+    "lat": 52.2566337,
+    "lon": 9.9066402
+  },
+  "nodes": [
+    13345305197,
+    13345305198,
+    13345305199,
+    13345305200,
+    13345637101,
+    13345637102,
+    13345637103,
+    13404124177,
+    13345305197
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 1466249356,
+  "center": {
+    "lat": 52.3385999,
+    "lon": 9.5045925
+  },
+  "nodes": [
+    13448375018,
+    13448375017,
+    13448375016,
+    1082003941,
+    13448375018
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 1467146029,
+  "center": {
+    "lat": 52.2238895,
+    "lon": 9.3804796
+  },
+  "nodes": [
+    13456822452,
+    13456822453,
+    13456822454,
+    13456822455,
+    13456822456,
+    13456822457,
+    13456822458,
+    13456822459,
+    13456822460,
+    13456822461,
+    13456822462,
+    13456822463,
+    13456822464,
+    13456822465,
+    13456822466,
+    13456822467,
+    13456822470,
+    13456822468,
+    13456822452
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 1472245353,
+  "center": {
+    "lat": 52.3185852,
+    "lon": 9.9313584
+  },
+  "nodes": [
+    13508898097,
+    13508898111,
+    13508898110,
+    13508898109,
+    13508898108,
+    9355393344,
+    13508898107,
+    13508898106,
+    13508898105,
+    13508898104,
+    13508898103,
+    13508898102,
+    13508898101,
+    13508898100,
+    13508898099,
+    13508898098,
+    13508898097
+  ],
+  "tags": {
+    "amenity": "grave_yard",
+    "denomination": "lutheran",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1486308543,
+  "center": {
+    "lat": 52.1540648,
+    "lon": 9.2089112
+  },
+  "nodes": [
+    13625118059,
+    1960509698,
+    1960509694,
+    13625118058,
+    13625118059
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 1492180112,
+  "center": {
+    "lat": 52.0668699,
+    "lon": 9.8902953
+  },
+  "nodes": [
+    13674336524,
+    13674336529,
+    13674336530,
+    13674336525,
+    13674336526,
+    13674336527,
+    13674336524
+  ],
+  "tags": {
+    "area": "yes",
+    "landuse": "cemetery"
+  }
+},
+{
   "type": "relation",
   "id": 2696976,
   "center": {
@@ -32915,7 +33276,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "type": "multipolygon"
+    "type": "multipolygon",
+    "wikidata": "Q137439948"
   }
 },
 {
@@ -33133,7 +33495,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof der Ev.-luth. Stifts-Kirchengemeinde Wunstorf",
-    "type": "multipolygon"
+    "type": "multipolygon",
+    "wikidata": "Q137369285"
   }
 }
 

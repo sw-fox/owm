@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-02T22:55:22Z",
+    "timestamp_osm_base": "2026-03-29T15:35:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -149,6 +149,7 @@
     482213136,
     4145130274,
     482213137,
+    13448611002,
     2152876567,
     2152876566,
     2056694724,
@@ -311,13 +312,14 @@
   "type": "way",
   "id": 87316356,
   "center": {
-    "lat": 51.7557947,
-    "lon": 15.0104570
+    "lat": 51.7557870,
+    "lon": 15.0104266
   },
   "nodes": [
     1015200837,
     7892413642,
     1015200752,
+    7892413661,
     1015200717,
     1015200845,
     1015200746,
@@ -440,7 +442,8 @@
     1450579329
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Cmenarz komunalny"
   }
 },
 {
@@ -935,11 +938,13 @@
     2742915906
   ],
   "tags": {
+    "denomination": "evangelical",
     "description:de": "Ehemaliger Friedhof Niederbielau",
     "description:pl": "dawny cmentarz protestancki Bielawa Dolna",
     "disused": "yes",
-    "historic": "ruins",
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Dawny cmentarz Ewangelicki",
+    "religion": "christian"
   }
 },
 {
@@ -989,20 +994,14 @@
   "type": "way",
   "id": 178157448,
   "center": {
-    "lat": 51.3978521,
-    "lon": 15.1812193
+    "lat": 51.3978474,
+    "lon": 15.1811700
   },
   "nodes": [
-    1885311958,
     1885311797,
     1885311935,
     1885311783,
-    1885311899,
-    1885311857,
-    1885311956,
     1885311791,
-    1885311928,
-    1885311913,
     1885311917,
     1885311914,
     1885311932,
@@ -1010,7 +1009,7 @@
     6325974189,
     1885311941,
     6325974190,
-    1885311958
+    1885311797
   ],
   "tags": {
     "amenity": "grave_yard",
@@ -1750,6 +1749,7 @@
     2203198772,
     2203198299,
     2203198675,
+    13630149659,
     2203198489,
     2203198809,
     2203198754,
@@ -2464,12 +2464,16 @@
     2439686473,
     2439686467,
     2439686464,
+    13388967358,
+    13388967359,
     2439686463,
     2439686461,
     9761652724,
     2439686459,
     2439686460,
+    13388967360,
     2439686462,
+    13388967361,
     2439686465,
     2439686466,
     2439686469,
@@ -3906,11 +3910,12 @@
   "type": "way",
   "id": 308873938,
   "center": {
-    "lat": 51.7459243,
+    "lat": 51.7459236,
     "lon": 15.5865809
   },
   "nodes": [
     5125515020,
+    13601848017,
     5125515013,
     3141638727,
     3141638726,
@@ -5374,7 +5379,7 @@
     "description": "Administrator cmentarza: Urząd Gminy Złotoryja",
     "landuse": "cemetery",
     "name": "Cmentarz komunalny w Prusicach",
-    "phone": "+48 76 878 37 80, +48 76 878 35 79, +48 76 878 87 00"
+    "phone": "+48 76 878 37 80; +48 76 878 35 79; +48 76 878 87 00"
   }
 },
 {
@@ -5974,7 +5979,7 @@
     "name": "Cmentarz Komunalny",
     "opening_hours": "Apr-Sep 07:00-21:00; Oct-Mar 07:00-19:00; Nov 1-2 06:00-23:00",
     "payment:cash": "yes",
-    "phone": "75 647 81 91",
+    "phone": "+48 75 647 81 91",
     "phone_1": "607 877 542",
     "tourism": "attraction",
     "website": "http://www.zom.lwowekslaski.pl/?cmentarz-lwowek-sl,60",
@@ -7510,7 +7515,7 @@
     "description": "Administrator cmentarza: Gmina Nowa Sól",
     "landuse": "cemetery",
     "name": "Cmentarz komunalny w Stanach",
-    "phone": "+48 68 387 20 16, +48 68 387 36 33",
+    "phone": "+48 68 387 20 16; +48 68 387 36 33",
     "religion": "christian",
     "website": "http://www.gminanowasol.pl"
   }
@@ -7540,7 +7545,7 @@
     "description": "Administrator cmentarza: Gmina Nowa Sól",
     "landuse": "cemetery",
     "name": "Cmentarz komunalny w Przyborowie",
-    "phone": "+48 68 387 20 16, +48 68 387 36 33",
+    "phone": "+48 68 387 20 16; +48 68 387 36 33",
     "website": "http://www.gminanowasol.pl"
   }
 },
@@ -8397,13 +8402,24 @@
   "type": "way",
   "id": 528131889,
   "center": {
-    "lat": 51.0148993,
-    "lon": 15.0684315
+    "lat": 51.0148912,
+    "lon": 15.0684113
   },
   "nodes": [
     5133085322,
+    13641437073,
+    13641437072,
+    13641437057,
     5133085323,
+    13641437063,
+    13641437062,
+    13641437059,
+    13641437058,
+    13641437060,
+    13641437061,
     5133085324,
+    13641437065,
+    13641437064,
     5133085325,
     12696112546,
     12696112547,
@@ -14269,17 +14285,21 @@
   "id": 1066317643,
   "center": {
     "lat": 51.6770211,
-    "lon": 15.9869420
+    "lon": 15.9868790
   },
   "nodes": [
     9791831492,
     9791831493,
     9791831494,
+    13378014749,
     9791831495,
+    13378014750,
+    13378014751,
     9791831496,
     9791831492
   ],
   "tags": {
+    "barrier": "fence",
     "landuse": "cemetery",
     "name": "Cmentarz komunalny"
   }
@@ -14395,6 +14415,8 @@
   },
   "nodes": [
     9837833893,
+    13686072904,
+    13686072910,
     9837833892,
     9837833891,
     9837833890,
@@ -19190,6 +19212,97 @@
   ],
   "tags": {
     "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 1462320744,
+  "center": {
+    "lat": 51.6328891,
+    "lon": 15.1596831
+  },
+  "nodes": [
+    13413353728,
+    13413353729,
+    13413353730,
+    13413353733,
+    13413353731,
+    13413353732,
+    13413353728
+  ],
+  "tags": {
+    "denomination": "orthodox",
+    "landuse": "cemetery",
+    "name": "Cmentarz Żydowski w Żarach",
+    "religion": "jewish"
+  }
+},
+{
+  "type": "way",
+  "id": 1467700677,
+  "center": {
+    "lat": 51.9425330,
+    "lon": 15.5206240
+  },
+  "nodes": [
+    13461389141,
+    13461389142,
+    13461389143,
+    13461389144,
+    13461389151,
+    13461389150,
+    13461389141
+  ],
+  "tags": {
+    "cemetery": "sector",
+    "image": "https://photos.app.goo.gl/F8hErwN2df29QDh79",
+    "name": "Lapidarium"
+  }
+},
+{
+  "type": "way",
+  "id": 1486177469,
+  "center": {
+    "lat": 51.9347767,
+    "lon": 15.9014739
+  },
+  "nodes": [
+    13624030758,
+    13624030757,
+    13624030756,
+    13624030755,
+    13624030754,
+    13624030753,
+    13624030752,
+    13624030762,
+    13624030751,
+    13624030761,
+    13624030750,
+    13624030760,
+    13624030759,
+    13624030758
+  ],
+  "tags": {
+    "amenity": "grave_yard"
+  }
+},
+{
+  "type": "way",
+  "id": 1489244024,
+  "center": {
+    "lat": 51.3240933,
+    "lon": 15.5771125
+  },
+  "nodes": [
+    13650590590,
+    13650590591,
+    13650590592,
+    13650590593,
+    13650590595,
+    13650590590
+  ],
+  "tags": {
+    "amenity": "grave_yard"
   }
 },
 {

@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:01:36Z",
+    "timestamp_osm_base": "2026-03-29T15:27:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -20,10 +20,27 @@
 {
   "type": "node",
   "id": 409691816,
-  "lat": 48.5159851,
-  "lon": 13.7062836,
+  "lat": 48.5160425,
+  "lon": 13.7060093,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 506167280,
+  "lat": 48.9551623,
+  "lon": 13.7530445,
+  "tags": {
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "TJ Vltava",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "toilets": "yes",
+    "tourism": "caravan_site"
   }
 },
 {
@@ -103,6 +120,7 @@
     "name": "Hubertusbrunnen",
     "natural": "spring",
     "panoramax": "9d74c3ac-792c-40ed-bff3-be4e7f3d1b69",
+    "water_source": "spring",
     "wikidata": "Q32060683",
     "wikimedia_commons": "File:Hubertusbrunnen.jpg"
   }
@@ -170,8 +188,9 @@
   "lon": 13.8713690,
   "tags": {
     "amenity": "toilets",
+    "charge": "0.5 EUR",
     "drinking_water": "yes",
-    "fee": "yes;0.5€",
+    "fee": "yes",
     "payment:coins": "yes",
     "seamark:small_craft_facility:category": "toilets",
     "seamark:type": "small_craft_facility",
@@ -346,7 +365,8 @@
   "lat": 48.3582015,
   "lon": 13.3072061,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2026-03-28"
   }
 },
 {
@@ -663,7 +683,8 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "fee": "no"
+    "fee": "no",
+    "fountain": "drinking"
   }
 },
 {
@@ -835,7 +856,9 @@
   "lat": 48.5489030,
   "lon": 13.7725344,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-09-09",
+    "fountain": "bubbler"
   }
 },
 {
@@ -1273,7 +1296,7 @@
     "female": "no",
     "male": "yes",
     "toilets:disposal": "flush",
-    "toilets:hand_drying": "paper_towel",
+    "toilets:hands_drying": "paper_towel",
     "toilets:handwashing": "yes",
     "toilets:position": "seated;urinal",
     "wheelchair": "no"
@@ -1431,7 +1454,8 @@
   "lat": 48.9418117,
   "lon": 13.5718690,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1440,7 +1464,8 @@
   "lat": 48.9419544,
   "lon": 13.5724631,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -2093,7 +2118,13 @@
   "lat": 48.7018007,
   "lon": 13.0195631,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bubbler",
+    "manufacturer": "Kalkmann",
+    "wikimedia_commons": "File:Trinkwasser Spender (Osterhofen Stadtplatz).jpg"
   }
 },
 {
@@ -2112,6 +2143,7 @@
   "lon": 13.9627528,
   "tags": {
     "amenity": "drinking_water",
+    "man_made": "water_tap",
     "name": "Wasserhahn"
   }
 },
@@ -2133,7 +2165,8 @@
   "lon": 13.4293953,
   "tags": {
     "access": "yes",
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -2623,6 +2656,119 @@
     "amenity": "toilets",
     "drinking_water": "yes",
     "toilets:disposal": "flush"
+  }
+},
+{
+  "type": "node",
+  "id": 13100483108,
+  "lat": 48.0551264,
+  "lon": 13.7746205,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13152218901,
+  "lat": 48.0551413,
+  "lon": 13.7746754,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13240200845,
+  "lat": 48.1605758,
+  "lon": 13.9909151,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 13250092310,
+  "lat": 48.6240285,
+  "lon": 13.3987415,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "no",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 13255416113,
+  "lat": 48.7017439,
+  "lon": 13.0146258,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "manufacturer": "Aquadona",
+    "material": "steel",
+    "opening_hours": "24/7",
+    "operator": "Stadtwerke Osterhofen",
+    "seasonal": "no",
+    "start_date": "2025",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Trinkwasser Spender (Osterhofen Stadtpark).jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 13299686911,
+  "lat": 48.5743571,
+  "lon": 13.4641441,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt Passau",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13299696001,
+  "lat": 48.5738945,
+  "lon": 13.4575397,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadt Passau",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13378833547,
+  "lat": 48.1392921,
+  "lon": 13.2177433,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:location": "female_toilet",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13394834514,
+  "lat": 48.1552342,
+  "lon": 13.6123757,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

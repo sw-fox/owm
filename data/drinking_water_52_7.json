@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:04:42Z",
+    "timestamp_osm_base": "2026-03-29T15:03:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -156,7 +156,12 @@
   "lat": 52.2791942,
   "lon": 7.4366055,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
+    "check_date": "2025-12-11",
+    "fee": "no",
+    "fountain": "bubbler",
+    "seasonal": "yes",
     "wheelchair": "yes"
   }
 },
@@ -228,6 +233,7 @@
   "tags": {
     "access": "yes",
     "amenity": "toilets",
+    "check_date": "2025-12-26",
     "drinking_water": "yes",
     "fee": "no",
     "toilets:disposal": "flush",
@@ -316,15 +322,6 @@
     "sanitary_dump_station": "yes",
     "toilets": "no",
     "tourism": "caravan_site"
-  }
-},
-{
-  "type": "node",
-  "id": 8620744492,
-  "lat": 52.2980814,
-  "lon": 7.4203143,
-  "tags": {
-    "amenity": "drinking_water"
   }
 },
 {
@@ -678,6 +675,7 @@
   "lon": 7.7317900,
   "tags": {
     "access": "private",
+    "description": "privater Brunnen, nicht zugänglich / private water well, not accessible",
     "drinking_water": "yes",
     "man_made": "water_well"
   }
@@ -991,20 +989,16 @@
 },
 {
   "type": "node",
-  "id": 13001266001,
-  "lat": 52.2238685,
-  "lon": 7.7428467,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 13059964100,
   "lat": 52.1960120,
   "lon": 7.9757986,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Gemeinde Hagen",
+    "wheelchair": "yes"
   }
 },
 {
@@ -1025,6 +1019,71 @@
     "seasonal": "yes",
     "warm_water": "no",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13114221557,
+  "lat": 52.3275393,
+  "lon": 7.3557341,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13191636970,
+  "lat": 52.6089771,
+  "lon": 7.7264815,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "opening_hours": "May-Sep: 00:00-24:00; May-Sep: PH 00:00-24:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13296388209,
+  "lat": 52.0359267,
+  "lon": 7.8390929,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13362253784,
+  "lat": 52.1334393,
+  "lon": 7.7372556,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13616028765,
+  "lat": 52.2204911,
+  "lon": 7.7473631,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13620666602,
+  "lat": 52.2928005,
+  "lon": 7.1064853,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 }
 

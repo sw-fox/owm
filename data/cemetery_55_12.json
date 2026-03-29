@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-02T22:56:22Z",
+    "timestamp_osm_base": "2026-03-29T15:15:43Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -44,6 +44,7 @@
     297902612,
     8349637362,
     477549813,
+    13623507022,
     3294550696,
     477438365,
     8424801632,
@@ -154,12 +155,16 @@
     25284950
   ],
   "tags": {
+    "email": "4909@sogn.dk",
     "landuse": "cemetery",
     "name": "Garnisons Kirkegård",
     "name:da": "Garnisons Kirkegård",
     "name:de": "Garnisonsfriedhof",
     "name:etymology:wikidata": "Q3428195",
+    "opening_hours": "Mo-Su 08:00-17:00",
+    "phone": "22227180",
     "religion": "christian",
+    "website": "https://www.garnisonskirkegaard.dk/",
     "wikidata": "Q5523701",
     "wikipedia": "da:Garnisons Kirkegård"
   }
@@ -291,6 +296,8 @@
     8491124738,
     8491124739,
     8491124734,
+    13376229798,
+    13376229799,
     26488434,
     4315929977,
     1964320901,
@@ -1351,7 +1358,9 @@
   "nodes": [
     286589102,
     286589104,
+    13688609208,
     9589203142,
+    13688609209,
     9589203141,
     9589203140,
     9589203138,
@@ -1906,6 +1915,7 @@
   ],
   "tags": {
     "landuse": "cemetery",
+    "name": "Hillerød kirkegård",
     "religion": "christian",
     "wikidata": "Q28754193"
   }
@@ -2130,12 +2140,15 @@
   "type": "way",
   "id": 30024211,
   "center": {
-    "lat": 55.6018921,
-    "lon": 12.9971138
+    "lat": 55.6018929,
+    "lon": 12.9965654
   },
   "nodes": [
     330566255,
+    13542144136,
+    13542144135,
     330566256,
+    13542144134,
     330569941,
     330569942,
     330569944,
@@ -2145,42 +2158,34 @@
     330569950,
     330569951,
     330569954,
+    13542144144,
     2770046051,
+    13542144181,
+    13542144173,
+    13542144184,
+    13542144178,
+    13542144177,
+    13542144179,
+    13542144174,
+    13542144194,
+    13542144176,
+    13542144193,
+    13542144175,
+    13542144183,
+    13542144180,
+    13542144182,
+    13542144162,
+    13542144163,
+    13542144164,
     330569955,
+    13542144141,
     330566255
   ],
   "tags": {
     "landuse": "cemetery",
     "name": "Gamla kyrkogården",
+    "name:es": "Cementerio Viejo",
     "wikidata": "Q19817363"
-  }
-},
-{
-  "type": "way",
-  "id": 30025496,
-  "center": {
-    "lat": 55.6024640,
-    "lon": 12.9942854
-  },
-  "nodes": [
-    330593046,
-    330593047,
-    4375356817,
-    330593048,
-    330593049,
-    330593051,
-    330593052,
-    9310477596,
-    330593053,
-    330593054,
-    330593056,
-    330593058,
-    9310477597,
-    330593060,
-    330593046
-  ],
-  "tags": {
-    "landuse": "cemetery"
   }
 },
 {
@@ -3409,6 +3414,7 @@
     1326082074,
     2338494783,
     2338494786,
+    13288112695,
     1326082128,
     1326082117
   ],
@@ -7600,7 +7606,9 @@
   "tags": {
     "cemetery": "sector",
     "name": "Tyske grave",
-    "religion": "christian"
+    "name:de": "Kriegsgräberstätte Kopenhagen West",
+    "religion": "christian",
+    "website": "https://kriegsgraeberstaetten.volksbund.de/friedhof/kopenhagen-west"
   }
 },
 {
@@ -7620,6 +7628,7 @@
   "tags": {
     "cemetery": "sector",
     "name": "Tyske grave",
+    "name:de": "Kriegsgräberstätte openhagen est Urnengräber",
     "religion": "christian"
   }
 },
@@ -7641,6 +7650,89 @@
     "cemetery": "sector",
     "name": "Færøske grave",
     "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1458497217,
+  "center": {
+    "lat": 55.7119892,
+    "lon": 12.5223829
+  },
+  "nodes": [
+    13376046199,
+    13376046200,
+    13376046801,
+    13376046802,
+    13376046199
+  ],
+  "tags": {
+    "cemetery": "war_cemetery",
+    "name": "Commonwealth War Graves",
+    "period": "WWII",
+    "website": "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2026313/copenhagen-bispebjerg-cemetery/"
+  }
+},
+{
+  "type": "way",
+  "id": 1458516329,
+  "center": {
+    "lat": 55.7115595,
+    "lon": 12.5235307
+  },
+  "nodes": [
+    13376229796,
+    13376229797,
+    13376229798,
+    13376229799,
+    13376229796
+  ],
+  "tags": {
+    "cemetery": "war_cemetery",
+    "name": "Frihedskæmpergravene",
+    "period": "WWII"
+  }
+},
+{
+  "type": "way",
+  "id": 1458565375,
+  "center": {
+    "lat": 55.7138690,
+    "lon": 12.5219210
+  },
+  "nodes": [
+    13376625999,
+    13376626000,
+    13376647501,
+    13376647502,
+    13376625999
+  ],
+  "tags": {
+    "cemetery": "war_cemetery",
+    "name": "Deutsche Kriegsgräber",
+    "period": "WWII",
+    "website": "https://kriegsgraeberstaetten.volksbund.de/friedhof/kopenhagen-bispebjerg"
+  }
+},
+{
+  "type": "way",
+  "id": 1458565376,
+  "center": {
+    "lat": 55.7127458,
+    "lon": 12.5236230
+  },
+  "nodes": [
+    13376647503,
+    13376647504,
+    13376647505,
+    13376647506,
+    13376647503
+  ],
+  "tags": {
+    "cemetery": "war_cemetery",
+    "name": "Deutsche Kriegsgräber",
+    "period": "WWII",
+    "website": "https://kriegsgraeberstaetten.volksbund.de/friedhof/kopenhagen-bispebjerg"
   }
 },
 {

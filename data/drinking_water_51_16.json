@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:04:42Z",
+    "timestamp_osm_base": "2026-03-29T15:03:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -44,7 +44,7 @@
   "lon": 16.3181105,
   "tags": {
     "amenity": "drinking_water",
-    "image": "https://images.mapillary.com/bNQKEFzLtW0L8pBWbAf4dg/thumb-2048.jpg",
+    "image": "https://photos.app.goo.gl/iMJ4Xa9wmHUqD6XD9",
     "mapillary": "396932384688091"
   }
 },
@@ -62,8 +62,8 @@
 {
   "type": "node",
   "id": 7099982541,
-  "lat": 51.8835169,
-  "lon": 16.5089605,
+  "lat": 51.8835103,
+  "lon": 16.5089178,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -424,8 +424,8 @@
 {
   "type": "node",
   "id": 12800349342,
-  "lat": 51.1733142,
-  "lon": 16.1576137,
+  "lat": 51.1733696,
+  "lon": 16.1575494,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -491,6 +491,15 @@
     "amenity": "drinking_water",
     "fee": "no",
     "operator": "LPWiK"
+  }
+},
+{
+  "type": "node",
+  "id": 13304653753,
+  "lat": 51.3122964,
+  "lon": 16.9135703,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

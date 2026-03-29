@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-02T22:52:14Z",
+    "timestamp_osm_base": "2026-03-29T15:23:58Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1490,7 +1490,7 @@
     970847462,
     970847364,
     970847410,
-    5753344164,
+    5753341996,
     970847452,
     970847486,
     970847391,
@@ -1631,6 +1631,7 @@
   "tags": {
     "landuse": "cemetery",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "website": "https://www.avanne-aveney.com/cimetiere.html",
     "wikidata": "Q110337338"
   }
 },
@@ -2984,6 +2985,7 @@
   ],
   "tags": {
     "landuse": "cemetery",
+    "name": "Cimetière de Saint-Apollinaire",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
     "wikidata": "Q110335657"
   }
@@ -3576,7 +3578,9 @@
     1614956236
   ],
   "tags": {
+    "description": "Ancien Cimetière",
     "landuse": "cemetery",
+    "name": "Cimetière d'Is-sur-Tille",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
     "wikidata": "Q110360898"
   }
@@ -4085,8 +4089,8 @@
   "type": "way",
   "id": 152504436,
   "center": {
-    "lat": 47.4730230,
-    "lon": 5.3689445
+    "lat": 47.4730298,
+    "lon": 5.3689525
   },
   "nodes": [
     1653225563,
@@ -4748,8 +4752,8 @@
   "type": "way",
   "id": 167050477,
   "center": {
-    "lat": 47.0396581,
-    "lon": 5.5195853
+    "lat": 47.0396551,
+    "lon": 5.5195760
   },
   "nodes": [
     1784564953,
@@ -4766,6 +4770,7 @@
     1784564944,
     1784564937,
     1784564941,
+    13381438109,
     1784564950,
     1784564953
   ],
@@ -7257,8 +7262,8 @@
   "type": "way",
   "id": 227985215,
   "center": {
-    "lat": 47.5858675,
-    "lon": 5.8215354
+    "lat": 47.5858808,
+    "lon": 5.8215522
   },
   "nodes": [
     2366107441,
@@ -7266,6 +7271,11 @@
     7206734574,
     2366107372,
     2366107407,
+    13684029158,
+    13684029156,
+    13684029154,
+    13684029157,
+    13684029159,
     2366107441
   ],
   "tags": {
@@ -10064,14 +10074,19 @@
   "type": "way",
   "id": 367292602,
   "center": {
-    "lat": 47.0268786,
-    "lon": 5.0663933
+    "lat": 47.0268632,
+    "lon": 5.0664033
   },
   "nodes": [
     3323567642,
     3712344195,
+    13318879047,
+    13318879046,
     3712344197,
+    13318879035,
+    13318879027,
     3712344194,
+    13318879017,
     3712344193,
     3712344192,
     3323567590,
@@ -13585,7 +13600,9 @@
     7042013923,
     7042014685,
     7042013970,
+    13296709625,
     7042014704,
+    13296709627,
     7042013923
   ],
   "tags": {
@@ -14938,8 +14955,8 @@
   "type": "way",
   "id": 830768302,
   "center": {
-    "lat": 47.6518218,
-    "lon": 5.6720054
+    "lat": 47.6519354,
+    "lon": 5.6720657
   },
   "nodes": [
     7756826570,
@@ -14948,6 +14965,8 @@
     7756826573,
     7756826574,
     7756826575,
+    13429173717,
+    13429173716,
     7756826576,
     7756826570
   ],

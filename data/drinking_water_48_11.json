@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:01:36Z",
+    "timestamp_osm_base": "2026-03-29T15:27:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -109,7 +109,8 @@
     "tourism": "attraction",
     "wheelchair": "yes",
     "wikidata": "Q98704251",
-    "wikimedia_commons": "Category:Liesl-Karlstadt-Brunnen"
+    "wikimedia_commons": "Category:Liesl-Karlstadt-Brunnen",
+    "wikipedia": "de:Liesl-Karlstadt-Brunnen"
   }
 },
 {
@@ -168,7 +169,8 @@
     "tourism": "attraction",
     "wheelchair": "yes",
     "wikidata": "Q98703770",
-    "wikimedia_commons": "Category:Karl-Valentin-Brunnen"
+    "wikimedia_commons": "Category:Karl-Valentin-Brunnen",
+    "wikipedia": "de:Karl-Valentin-Brunnen"
   }
 },
 {
@@ -270,17 +272,19 @@
   "tags": {
     "amenity": "drinking_water",
     "check_date": "2022-06-04",
+    "fountain": "bubbler",
     "wheelchair": "yes"
   }
 },
 {
   "type": "node",
   "id": 452068331,
-  "lat": 48.1571967,
-  "lon": 11.5741512,
+  "lat": 48.1572012,
+  "lon": 11.5740299,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "architect": "Georg Müller",
     "artwork_type": "stone",
     "bottle": "yes",
     "fee": "no",
@@ -288,6 +292,7 @@
     "name": "Bärenbrunnen",
     "operational_status": "closed",
     "operator": "Stadt München",
+    "start_date": "1936",
     "tourism": "artwork",
     "wheelchair": "yes",
     "wheelchair:description": "Relativ hoch",
@@ -621,20 +626,10 @@
     "artist_name": "Wilhelm Bertsch; Ernst Pfeifer",
     "colour": "green",
     "fountain": "bottle_refill",
+    "operational_status": "closed",
     "start_date": "1911",
     "wheelchair": "yes",
     "wikimedia_commons": "File:Bertsch-Brunnen.JPG"
-  }
-},
-{
-  "type": "node",
-  "id": 649255798,
-  "lat": 48.1197361,
-  "lon": 11.6087713,
-  "tags": {
-    "amenity": "fountain",
-    "drinking_water": "yes",
-    "wikimedia_commons": "File:Fischbrunnen RimstingerStr München.jpg"
   }
 },
 {
@@ -682,6 +677,7 @@
   "tags": {
     "amenity": "fountain",
     "drinking_water": "yes",
+    "operational_status": "closed",
     "wikimedia_commons": "Category:Haferlbrunnen (Preysingstraße)"
   }
 },
@@ -978,7 +974,10 @@
   "lon": 11.5766130,
   "tags": {
     "amenity": "fountain",
+    "bottle": "yes",
     "drinking_water": "yes",
+    "fee": "no",
+    "fountain": "water_tap",
     "lit": "no",
     "name": "Kräutlmarktbrunnen",
     "name:zh": "魚噴泉",
@@ -1009,7 +1008,8 @@
   "tags": {
     "access": "permissive",
     "amenity": "fountain",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "wikidata": "Q98739817"
   }
 },
 {
@@ -1171,7 +1171,8 @@
   "lon": 11.6347883,
   "tags": {
     "amenity": "drinking_water",
-    "check_date": "2022-04-08"
+    "check_date": "2022-04-08",
+    "fountain": "bubbler"
   }
 },
 {
@@ -1205,6 +1206,7 @@
     "amenity": "drinking_water",
     "description": "Kein Wasser im Winter",
     "description:en": "No water in the winter",
+    "fountain": "drinking",
     "inscription": "DEM ANDENKEN AN OBERINGENIEUR WILH. JAISER,EHRENBÜRGER u. GEMEINDERAT DEM SCHÖPFER DES VON DER GEMEINDE PULLACH GEMEINSAM MIT DEN JSARWERKEN I.D.J. 1929-30 GESCHAFFENEN WASSERWERKES GEWIDMET VOM VERSCHÖNERUNGSVEREIN PULLACH IM 20 JAHR SEINES BESTEHENS1932",
     "name": "Jaiserbrünnerl",
     "wheelchair": "yes"
@@ -1291,6 +1293,7 @@
   "lat": 48.2209641,
   "lon": 11.6254031,
   "tags": {
+    "addr:city": "München",
     "capacity": "50",
     "caravan_site:type": "parking_lot",
     "drinking_water": "yes",
@@ -1397,6 +1400,22 @@
 },
 {
   "type": "node",
+  "id": 1403293339,
+  "lat": 48.8986858,
+  "lon": 11.8193138,
+  "tags": {
+    "amenity": "toilets",
+    "check_date": "2025-09-07",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "fee": "no",
+    "level": "-1",
+    "toilets:handwashing": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 1432132027,
   "lat": 48.3122125,
   "lon": 11.4776761,
@@ -1435,7 +1454,7 @@
   "lon": 11.7442634,
   "tags": {
     "amenity": "drinking_water",
-    "check_date": "2024-09-26",
+    "check_date": "2026-01-06",
     "fountain": "bubbler",
     "name": "Brunnen am Marienplatz",
     "toilets:wheelchair": "yes",
@@ -1461,6 +1480,48 @@
     "amenity": "drinking_water",
     "check_date": "2024-10-21",
     "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1724165490,
+  "lat": 48.1085602,
+  "lon": 11.5017891,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1740734138,
+  "lat": 48.8359873,
+  "lon": 11.3554139,
+  "tags": {
+    "addr:city": "Gaimersheim",
+    "addr:country": "DE",
+    "addr:housenumber": "6",
+    "addr:postcode": "85080",
+    "addr:street": "Hofstettener Straße",
+    "bottle": "yes",
+    "contact:email": "vorstand@dorfladen-lippertshofen.de",
+    "contact:fax": "+49 8406 91 90 40",
+    "drinking_water": "yes",
+    "drinking_water:refill:network": "RefillDE",
+    "name": "Dorfladen Lippertshofen",
+    "opening_hours": "Tu-Fr 08:30-17:30; Sa 07:30-12:30",
+    "payment:cash": "yes",
+    "payment:girocard": "yes",
+    "phone": "+49 8406 91 83 34",
+    "shop": "supermarket",
+    "website": "https://dorfladen-lippertshofen.de",
     "wheelchair": "yes"
   }
 },
@@ -1554,7 +1615,8 @@
     "addr:postcode": "80797",
     "addr:street": "Schleißheimer Straße",
     "alt_name": "CCC München",
-    "check_date": "2024-11-30",
+    "check_date": "2025-10-24",
+    "check_date:toilets:wheelchair": "2025-10-24",
     "contact:mastodon": "https://chaos.social/@muccc",
     "drink:beer": "bottled",
     "drink:club-mate": "bottled",
@@ -1588,7 +1650,8 @@
     "toilets:paper_supplied": "yes",
     "toilets:position": "seated",
     "toilets:unisex": "yes",
-    "url:spaceapi": "https://api.muc.ccc.de/spaceapi.jsontratum0.org/status.json",
+    "toilets:wheelchair": "no",
+    "url:spaceapi": "https://api.muc.ccc.de/spaceapi.json",
     "website": "https://muc.ccc.de/",
     "wheelchair": "limited",
     "wikidata": "Q43140656",
@@ -1704,6 +1767,21 @@
   "lon": 11.0876712,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 2391735488,
+  "lat": 48.9861383,
+  "lon": 11.6927806,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:refill:network": "RefillDE",
+    "leisure": "marina",
+    "name": "Sportboothafen Riedenburg",
+    "seamark:harbour:category": "marina",
+    "seamark:name": "Sportboothafen Riedenburg",
+    "seamark:type": "harbour"
   }
 },
 {
@@ -2132,6 +2210,19 @@
 },
 {
   "type": "node",
+  "id": 2912777737,
+  "lat": 48.9361492,
+  "lon": 11.7880724,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "check_date": "2024-09-08",
+    "drinking_water": "yes",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
   "id": 2913235123,
   "lat": 48.3278946,
   "lon": 11.4600107,
@@ -2250,6 +2341,17 @@
 },
 {
   "type": "node",
+  "id": 3041590745,
+  "lat": 48.1528116,
+  "lon": 11.5276594,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "name": "Gänsebrunnen"
+  }
+},
+{
+  "type": "node",
   "id": 3052168927,
   "lat": 48.0360738,
   "lon": 11.5290098,
@@ -2292,6 +2394,29 @@
   "lon": 11.6302113,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3086400540,
+  "lat": 48.9621737,
+  "lon": 11.6832864,
+  "tags": {
+    "addr:city": "Riedenburg",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "93339",
+    "addr:street": "Marktplatz",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "drinking_water:refill:network": "RefillDE",
+    "information": "office",
+    "name": "Touristinfo",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-15:00; Su,PH 10:00-13:00",
+    "phone": "+49 9442 905000",
+    "tourism": "information",
+    "website": "https://www.riedenburg.de/",
+    "wheelchair": "yes"
   }
 },
 {
@@ -2356,6 +2481,28 @@
 },
 {
   "type": "node",
+  "id": 3339580122,
+  "lat": 48.8751708,
+  "lon": 11.0728883,
+  "tags": {
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "email": "info@altmuehlzentrum.de",
+    "fax": "+49 8422 9879811",
+    "fee": "no",
+    "name": "Altmühlzentrum",
+    "opening_hours": "Tu-Su 9:30-17:30",
+    "phone": "+49 8422 9879810",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "http://www.altmuehlzentrum.de/",
+    "wheelchair": "yes",
+    "wikidata": "Q51656070",
+    "wikipedia": "de:Altmühlzentrum"
+  }
+},
+{
+  "type": "node",
   "id": 3371082284,
   "lat": 48.9878095,
   "lon": 11.3605963,
@@ -2414,9 +2561,33 @@
   "lat": 48.9626984,
   "lon": 11.6847346,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
     "check_date": "2023-05-21",
-    "man_made": "water_tap"
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Trinkbrunnen an der Schiffsanlegestelle",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 3546749790,
+  "lat": 48.0454620,
+  "lon": 11.9661859,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "no",
+    "manufacturer": "Beulco",
+    "opening_hours": "24/7; Nov-Mar off",
+    "operator": "Stadt Grafing bei München",
+    "start_date": "2025-10-20",
+    "wheelchair": "yes"
   }
 },
 {
@@ -2667,8 +2838,8 @@
 {
   "type": "node",
   "id": 4347782530,
-  "lat": 48.1363492,
-  "lon": 11.5737122,
+  "lat": 48.1362861,
+  "lon": 11.5736694,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -2695,8 +2866,11 @@
   "lat": 48.5302747,
   "lon": 11.5048572,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "man_made": "water_tap"
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
   }
 },
 {
@@ -2861,7 +3035,9 @@
   "lat": 48.3115329,
   "lon": 11.1952654,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-11-29",
+    "man_made": "water_tap"
   }
 },
 {
@@ -3072,7 +3248,9 @@
   "lon": 11.3276029,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-09-07",
     "description": "Trinkbrunnen",
+    "man_made": "water_tap",
     "source": "local knowledge",
     "start_date": "24.05.2018"
   }
@@ -3220,8 +3398,11 @@
   "lat": 48.5298189,
   "lon": 11.5056755,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "man_made": "water_tap"
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
   }
 },
 {
@@ -3276,8 +3457,10 @@
   "lat": 48.5297654,
   "lon": 11.5073516,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
     "drinking_water": "yes",
+    "fee": "no",
     "man_made": "water_tap"
   }
 },
@@ -3287,9 +3470,12 @@
   "lat": 48.5296768,
   "lon": 11.5065652,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
     "drinking_water": "yes",
-    "man_made": "water_tap"
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
   }
 },
 {
@@ -3509,19 +3695,6 @@
 },
 {
   "type": "node",
-  "id": 7290801528,
-  "lat": 48.7619901,
-  "lon": 11.4318955,
-  "tags": {
-    "access": "yes",
-    "artwork_type": "stone",
-    "drinking_water": "yes",
-    "man_made": "water_tap",
-    "name": "Trinkbrunnen"
-  }
-},
-{
-  "type": "node",
   "id": 7319642715,
   "lat": 48.7631126,
   "lon": 11.4214728,
@@ -3627,16 +3800,6 @@
 },
 {
   "type": "node",
-  "id": 7995863672,
-  "lat": 48.1723584,
-  "lon": 11.3220964,
-  "tags": {
-    "amenity": "drinking_water",
-    "man_made": "water_tap"
-  }
-},
-{
-  "type": "node",
   "id": 8006870192,
   "lat": 48.0909602,
   "lon": 11.6379721,
@@ -3680,9 +3843,12 @@
   "lon": 11.6529391,
   "tags": {
     "access": "yes",
+    "amenity": "drinking_water",
     "drinking_water": "yes",
-    "man_made": "water_tap",
-    "website": "https://www.garching.de/meldungen/es-sprudelt-trinkwasser-aus-dem-brunnen-auf-dem-maibaumplatz"
+    "fee": "no",
+    "fountain": "drinking",
+    "website": "https://www.garching.de/meldungen/es-sprudelt-trinkwasser-aus-dem-brunnen-auf-dem-maibaumplatz",
+    "wheelchair": "yes"
   }
 },
 {
@@ -3743,7 +3909,9 @@
   "lon": 11.6031565,
   "tags": {
     "amenity": "drinking_water",
+    "fee": "no",
     "man_made": "water_tap",
+    "operational_status": "closed",
     "wikimedia_commons": "File:Frischwasserbrunnen 2022 Orleanplatz München.jpg"
   }
 },
@@ -3799,7 +3967,14 @@
   "lat": 48.9076827,
   "lon": 11.9466538,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Trinkwasserbrunnen am Bürgerhaus Herrnsaal",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
   }
 },
 {
@@ -3832,6 +4007,8 @@
     "bottle": "yes",
     "fee": "no",
     "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "operator": "Stadt Eichstätt",
     "wheelchair": "yes"
   }
 },
@@ -3919,17 +4096,6 @@
 },
 {
   "type": "node",
-  "id": 9006536533,
-  "lat": 48.1343683,
-  "lon": 11.5387735,
-  "tags": {
-    "description": "Wasserspielplatz",
-    "drinking_water": "yes",
-    "man_made": "water_tap"
-  }
-},
-{
-  "type": "node",
   "id": 9074544940,
   "lat": 48.0292734,
   "lon": 11.5816387,
@@ -3948,8 +4114,8 @@
   "lon": 11.6619625,
   "tags": {
     "amenity": "drinking_water",
+    "description": "Trinkbrunnen Neufahrn Zentrum",
     "man_made": "water_tap",
-    "name": "Trinkbrunnen Neufahrn Zentrum",
     "opening_hours": "24/7"
   }
 },
@@ -4382,7 +4548,8 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fountain": "bubbler",
-    "indoor": "yes"
+    "indoor": "yes",
+    "level": "1"
   }
 },
 {
@@ -4409,8 +4576,8 @@
 {
   "type": "node",
   "id": 10250971847,
-  "lat": 48.1616723,
-  "lon": 11.3355952,
+  "lat": 48.1616543,
+  "lon": 11.3356071,
   "tags": {
     "amenity": "drinking_water",
     "drinking_water": "yes",
@@ -4524,21 +4691,6 @@
 },
 {
   "type": "node",
-  "id": 11026484419,
-  "lat": 48.0930157,
-  "lon": 11.9605364,
-  "tags": {
-    "access": "yes",
-    "amenity": "drinking_water",
-    "bottle": "yes",
-    "fee": "no",
-    "mapillary": "26459632640318317",
-    "operator": "Stadt Ebersberg",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 11040114910,
   "lat": 48.1775846,
   "lon": 11.5818469,
@@ -4628,7 +4780,11 @@
   "lat": 48.5292477,
   "lon": 11.5049152,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
   }
 },
 {
@@ -4687,7 +4843,8 @@
   "lon": 11.0901507,
   "tags": {
     "amenity": "drinking_water",
-    "indoor": "no"
+    "indoor": "no",
+    "man_made": "water_tap"
   }
 },
 {
@@ -4705,7 +4862,8 @@
   "lat": 48.2660652,
   "lon": 11.3000131,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -4753,6 +4911,8 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
     "wheelchair": "yes"
   }
 },
@@ -4865,6 +5025,18 @@
 },
 {
   "type": "node",
+  "id": 11993213861,
+  "lat": 48.8751457,
+  "lon": 11.0727591,
+  "tags": {
+    "amenity": "cafe",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "name": "Museums Cafe"
+  }
+},
+{
+  "type": "node",
   "id": 12020109002,
   "lat": 48.1172469,
   "lon": 11.5396564,
@@ -4896,7 +5068,11 @@
   "lat": 48.1481277,
   "lon": 11.5161798,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
   }
 },
 {
@@ -4929,6 +5105,7 @@
     "drinking_water": "yes",
     "fee": "no",
     "fountain": "bottle_refill",
+    "indoor": "yes",
     "operational_status": "broken",
     "seasonal": "spring;summer;autumn"
   }
@@ -4942,7 +5119,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "capacity": "1",
-    "check_date": "2025-06-26",
+    "check_date": "2025-10-24",
     "dog": "no",
     "drinking_water": "yes",
     "fountain": "bubbler",
@@ -4961,7 +5138,8 @@
     "amenity": "drinking_water",
     "drinking_water:legal": "yes",
     "fee": "no",
-    "level": "0"
+    "level": "0",
+    "man_made": "water_tap"
   }
 },
 {
@@ -4988,9 +5166,20 @@
 },
 {
   "type": "node",
+  "id": 12093724464,
+  "lat": 48.1037998,
+  "lon": 11.5127206,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
   "id": 12096568868,
-  "lat": 48.0703346,
-  "lon": 11.8899400,
+  "lat": 48.0703394,
+  "lon": 11.8899626,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -5197,7 +5386,7 @@
   "lat": 48.3222988,
   "lon": 11.7370302,
   "tags": {
-    "access": "public",
+    "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
     "covered": "no",
@@ -5257,15 +5446,6 @@
   "tags": {
     "amenity": "drinking_water",
     "fountain": "bubbler"
-  }
-},
-{
-  "type": "node",
-  "id": 12794263213,
-  "lat": 48.9003131,
-  "lon": 11.6147574,
-  "tags": {
-    "amenity": "drinking_water"
   }
 },
 {
@@ -5389,8 +5569,8 @@
 {
   "type": "node",
   "id": 12828833906,
-  "lat": 48.1364304,
-  "lon": 11.5513840,
+  "lat": 48.1364273,
+  "lon": 11.5514175,
   "tags": {
     "amenity": "drinking_water",
     "man_made": "water_tap",
@@ -5510,10 +5690,11 @@
 {
   "type": "node",
   "id": 12887256601,
-  "lat": 48.1302027,
-  "lon": 11.3652587,
+  "lat": 48.1302065,
+  "lon": 11.3652976,
   "tags": {
     "amenity": "drinking_water",
+    "fountain": "bubbler",
     "name": "Trinkwasserspender",
     "operator": "Stadt Germering"
   }
@@ -5525,6 +5706,7 @@
   "lon": 11.5419239,
   "tags": {
     "amenity": "drinking_water",
+    "fountain": "bubbler",
     "opening_hours": "24/7",
     "wheelchair": "yes"
   }
@@ -5628,7 +5810,7 @@
   "lat": 48.1349869,
   "lon": 11.5516442,
   "tags": {
-    "amenity": "water_point",
+    "amenity": "drinking_water",
     "description": "außen am Toilettenhäuschen, im Winter abgesperrt",
     "drinking_water": "yes",
     "opening_hours": "24/7; \"winter\": off"
@@ -5642,6 +5824,7 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "fountain": "bubbler",
     "wheelchair": "yes"
   }
 },
@@ -5657,6 +5840,7 @@
     "description": "Trinkwasserbrunnen. Hinter der Säule lässt sich das Wasser aufdrehen und zudrehen.",
     "drinking_water": "yes",
     "fee": "no",
+    "fountain": "drinking",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Trinkbrunnen_We%C3%9Fling_Kirche.jpg",
     "wheelchair": "no",
     "wikimedia_commons": "File:Trinkbrunnen Weßling Kirche.jpg"
@@ -5686,18 +5870,20 @@
   "lat": 48.1166974,
   "lon": 11.7427098,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
   "type": "node",
   "id": 12985782643,
-  "lat": 48.1066849,
-  "lon": 11.3005826,
+  "lat": 48.1066522,
+  "lon": 11.3005466,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "fee": "no"
+    "fee": "no",
+    "fountain": "bubbler"
   }
 },
 {
@@ -5734,6 +5920,21 @@
 },
 {
   "type": "node",
+  "id": 12997660701,
+  "lat": 48.1393554,
+  "lon": 11.5664153,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "yes",
+    "inscription": "Anlässlich der Kampagne \"EIN SPIEL - EIN TRINKBRUNNEN\"für die Fußball-EM der Männer 2024 aufgestellt.",
+    "man_made": "water_tap",
+    "note": "https://stadt.muenchen.de/infos/brunnen-muenchen.html",
+    "operator": "Stadt München"
+  }
+},
+{
+  "type": "node",
   "id": 13014105800,
   "lat": 48.5821019,
   "lon": 11.0892560,
@@ -5755,7 +5956,8 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "fee": "no"
+    "fee": "no",
+    "fountain": "bubbler"
   }
 },
 {
@@ -5783,7 +5985,601 @@
   "lat": 48.4685473,
   "lon": 11.9371838,
   "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13089168057,
+  "lat": 48.0782788,
+  "lon": 11.9694843,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2025-08-10",
+    "fee": "no",
+    "wheelchair": "no",
+    "wikimedia_commons": "File:Ebersberg_Marienplatz_Brunnen.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 13094835985,
+  "lat": 48.1554300,
+  "lon": 11.5667321,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking",
+    "man_made": "water_tap",
+    "operator": "Landeshauptstadt München Baureferat"
+  }
+},
+{
+  "type": "node",
+  "id": 13098206684,
+  "lat": 48.0635165,
+  "lon": 11.1987117,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13108499064,
+  "lat": 48.3876544,
+  "lon": 11.2562487,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13123064029,
+  "lat": 48.1499381,
+  "lon": 11.5184728,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "no",
+    "fountain": "bubbler",
+    "lit": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13123064030,
+  "lat": 48.1498798,
+  "lon": 11.5184460,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "no",
+    "fountain": "bubbler",
+    "lit": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13123064037,
+  "lat": 48.1499088,
+  "lon": 11.5186583,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "no",
+    "fountain": "bubbler",
+    "lit": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13123064038,
+  "lat": 48.1498975,
+  "lon": 11.5187691,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "no",
+    "fountain": "bubbler",
+    "lit": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13123064043,
+  "lat": 48.1498991,
+  "lon": 11.5189256,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "no",
+    "fountain": "bubbler",
+    "lit": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13123215701,
+  "lat": 48.1395020,
+  "lon": 11.3760188,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Trinkwasser Brunnen Abenteuerspielplatz Germering"
+  }
+},
+{
+  "type": "node",
+  "id": 13124826701,
+  "lat": 48.8177003,
+  "lon": 11.0849490,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Arm-Kneippbecken",
+    "operator": "Markt Wellheim"
+  }
+},
+{
+  "type": "node",
+  "id": 13128297301,
+  "lat": 48.2123608,
+  "lon": 11.5636447,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "Landeshauptstadt München"
+  }
+},
+{
+  "type": "node",
+  "id": 13134552542,
+  "lat": 48.1243664,
+  "lon": 11.6057922,
+  "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13142739276,
+  "lat": 48.0764646,
+  "lon": 11.7157532,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13157785557,
+  "lat": 48.0998937,
+  "lon": 11.5516427,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "stone_block"
+  }
+},
+{
+  "type": "node",
+  "id": 13168907024,
+  "lat": 48.1075784,
+  "lon": 11.5852093,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13171515873,
+  "lat": 48.1016363,
+  "lon": 11.5529129,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13195390598,
+  "lat": 48.1780469,
+  "lon": 11.2525398,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "dog": "yes",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 13201300801,
+  "lat": 48.1320904,
+  "lon": 11.5532912,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "operator": "Landeshauptstadt München"
+  }
+},
+{
+  "type": "node",
+  "id": 13236509692,
+  "lat": 48.8922215,
+  "lon": 11.1830315,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "free_refill": "yes",
+    "man_made": "water_tap",
+    "name": "Trinkwasserbrunnen TI EI",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13236509693,
+  "lat": 48.8866970,
+  "lon": 11.1915122,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "free_refill": "yes",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:30-20:00, Sa 09:00-19:00, So 13:00-18:00",
+    "operator": "Katholische Universität Eichstätt-Ingolstadt",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13236509698,
+  "lat": 48.8870490,
+  "lon": 11.1904005,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "level": "0",
+    "man_made": "water_tap",
+    "operator": "Katholische Universität Eichstätt-Ingolstadt",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13236509700,
+  "lat": 48.9185935,
+  "lon": 11.8724215,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Tourist-Information Stadt Kelheim"
+  }
+},
+{
+  "type": "node",
+  "id": 13245738890,
+  "lat": 48.9615172,
+  "lon": 11.6831416,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Himmel &  Hölle",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 13265412761,
+  "lat": 48.1324869,
+  "lon": 11.7043612,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13274162415,
+  "lat": 48.0212124,
+  "lon": 11.7292665,
+  "tags": {
+    "amenity": "drinking_water",
+    "dog": "designated",
+    "drinking_water": "yes",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13278046716,
+  "lat": 48.0923536,
+  "lon": 11.5425883,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Free tap water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13279704903,
+  "lat": 48.1818593,
+  "lon": 11.5299252,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "disused": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13284887211,
+  "lat": 48.0998462,
+  "lon": 11.6470481,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13305050180,
+  "lat": 48.1313930,
+  "lon": 11.6909479,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 13316856932,
+  "lat": 48.5371515,
+  "lon": 11.5112538,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13338328904,
+  "lat": 48.1853923,
+  "lon": 11.5723516,
+  "tags": {
+    "amenity": "drinking_water",
+    "note": "wurde im winter gebaut, daher noch nicht in nutzung. Ist es wirklich drinkinwater?",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13398727663,
+  "lat": 48.4020167,
+  "lon": 11.4882258,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Gemeinde Petershausen",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 13398727664,
+  "lat": 48.4025371,
+  "lon": 11.4891290,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Gemeinde Petershausen",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 13423978380,
+  "lat": 48.4202511,
+  "lon": 11.4232130,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 13470894614,
+  "lat": 48.1221141,
+  "lon": 11.6012840,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13534148042,
+  "lat": 48.1282875,
+  "lon": 11.5391638,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13540522109,
+  "lat": 48.3062118,
+  "lon": 11.9068541,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "level": "0",
+    "lit": "yes",
+    "operator": "Stadt Erding",
+    "seasonal": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13630037427,
+  "lat": 48.9137637,
+  "lon": 11.8761628,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13644599901,
+  "lat": 48.1423190,
+  "lon": 11.5624375,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2026-03-13",
+    "name": "Trinkwasserstele, Karl-Stützel-Platz",
+    "operator": "Stadt München"
+  }
+},
+{
+  "type": "node",
+  "id": 13674453274,
+  "lat": 48.0539374,
+  "lon": 11.4957109,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke München",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 13674453275,
+  "lat": 48.0484305,
+  "lon": 11.4873048,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke München",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 13674453276,
+  "lat": 48.0344559,
+  "lon": 11.4747935,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Stadtwerke München",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 13674482614,
+  "lat": 48.0592404,
+  "lon": 11.5038561,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Versorgungs-, Bau- und Servicegesellschaft (VBS) Kommunalunternehmen Anstalt des öffentlichen Rechts (AöR) der Gemeinde Pullach i. Isartal",
+    "operator:short": "VBS",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 13674482615,
+  "lat": 48.0554957,
+  "lon": 11.5024117,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Versorgungs-, Bau- und Servicegesellschaft (VBS) Kommunalunternehmen Anstalt des öffentlichen Rechts (AöR) der Gemeinde Pullach i. Isartal",
+    "operator:short": "VBS",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 13676294186,
+  "lat": 48.0334808,
+  "lon": 11.6957518,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 13676294187,
+  "lat": 48.0330761,
+  "lon": 11.6980969,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 13678098214,
+  "lat": 48.1129284,
+  "lon": 11.7501045,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Brunnen 3",
+    "operator": "Isar-Amper-Klinikum gemeinnützige GmbH",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 13678098215,
+  "lat": 48.1128051,
+  "lon": 11.7494839,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Brunnen 4",
+    "operator": "Isar-Amper-Klinikum gemeinnützige GmbH",
+    "pump": "powered"
   }
 }
 

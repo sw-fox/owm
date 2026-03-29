@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T09:54:15Z",
+    "timestamp_osm_base": "2026-03-29T15:01:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -32,7 +32,9 @@
   "lat": 51.7278512,
   "lon": 11.1161370,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-09-10",
+    "man_made": "water_tap"
   }
 },
 {
@@ -59,11 +61,29 @@
   "type": "node",
   "id": 778098542,
   "lat": 51.0043644,
-  "lon": 11.3842311,
+  "lon": 11.3842100,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
+    "check_date": "2025-08-05",
+    "fee": "no",
     "man_made": "water_well",
-    "pump": "manual"
+    "operator": "Wasserversorgungszweckverband Weimar",
+    "pump": "powered",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 884872507,
+  "lat": 51.6079405,
+  "lon": 11.1368047,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "mapillary": "327189696945481",
+    "name": "Stahlquelle",
+    "natural": "spring"
   }
 },
 {
@@ -144,6 +164,17 @@
 },
 {
   "type": "node",
+  "id": 2242748942,
+  "lat": 51.3566334,
+  "lon": 11.9996242,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "name": "Vier Jahres- und Lebenszeiten"
+  }
+},
+{
+  "type": "node",
   "id": 2388649400,
   "lat": 51.7290690,
   "lon": 11.0898818,
@@ -161,6 +192,7 @@
   "tags": {
     "amenity": "toilets",
     "changing_table": "yes",
+    "check_date": "2025-11-06",
     "drinking_water": "yes",
     "fee": "yes",
     "toilets:wheelchair": "yes",
@@ -927,8 +959,8 @@
 {
   "type": "node",
   "id": 12145971660,
-  "lat": 51.0097218,
-  "lon": 11.0052713,
+  "lat": 51.0097105,
+  "lon": 11.0052901,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -971,6 +1003,19 @@
 },
 {
   "type": "node",
+  "id": 12190001201,
+  "lat": 51.0769259,
+  "lon": 11.2363895,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Wasserversorgungszweckverband Weimar",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
   "id": 12233239754,
   "lat": 51.0508164,
   "lon": 11.1292295,
@@ -988,7 +1033,8 @@
   "lat": 51.5559178,
   "lon": 11.4879367,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1025,7 +1071,11 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "email": "info@vgem-wethautal.de",
     "fee": "no",
+    "operator": "BiBa Wethautal",
+    "phone": "+4934422  4140",
+    "website": "https://biba.jimdosite.com/",
     "wheelchair": "yes"
   }
 },
@@ -1051,7 +1101,42 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "description": "Trinkbrunnen",
-    "fountain": "bottle_refill"
+    "fountain": "bottle_refill",
+    "operator": "MIDEWA",
+    "website": "Rudolf-Breitscheid-Platz"
+  }
+},
+{
+  "type": "node",
+  "id": 13165606425,
+  "lat": 51.5338512,
+  "lon": 11.8709079,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13273784722,
+  "lat": 51.2441212,
+  "lon": 11.1191308,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13543940174,
+  "lat": 51.3555394,
+  "lon": 11.9985115,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkwasserbrunnen",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "operator": "MIDEWA",
+    "website": "https://www.leunaecho.de/zwei-trinkbrunnen-fuer-merseburg/"
   }
 }
 

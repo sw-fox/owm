@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:06:45Z",
+    "timestamp_osm_base": "2026-03-29T15:11:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -28,16 +28,6 @@
     "seamark:type": "harbour",
     "shower": "yes",
     "toilets": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 289133872,
-  "lat": 54.2002615,
-  "lon": 12.4871072,
-  "tags": {
-    "amenity": "drinking_water",
-    "name": "Wasserwerk Kuhlrade"
   }
 },
 {
@@ -98,8 +88,8 @@
 {
   "type": "node",
   "id": 535822525,
-  "lat": 54.4727776,
-  "lon": 12.5031192,
+  "lat": 54.4727702,
+  "lon": 12.5031547,
   "tags": {
     "access": "yes",
     "amenity": "toilets",
@@ -157,8 +147,8 @@
 {
   "type": "node",
   "id": 1599012447,
-  "lat": 54.1815372,
-  "lon": 12.0861142,
+  "lat": 54.1815376,
+  "lon": 12.0860887,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
@@ -167,6 +157,26 @@
     "fountain": "bubbler",
     "operator": "Nordwasser",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2152029130,
+  "lat": 54.4449035,
+  "lon": 12.5856757,
+  "tags": {
+    "amenity": "toilets",
+    "check_date": "2024-07-11",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "name": "WC",
+    "seamark:small_craft_facility:category": "toilets;showers;laundrette",
+    "seamark:type": "small_craft_facility",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "wheelchair": "no"
   }
 },
 {
@@ -274,7 +284,7 @@
     "email": "info@camping-zingst.de",
     "fee": "yes",
     "internet_access": "wlan",
-    "name": "Reise Mobil Hafen Am Freesebdruch",
+    "name": "Reise Mobil Hafen Am Freesenbruch",
     "phone": "+493823215786",
     "power_supply": "yes",
     "sanitary_dump_station": "yes",
@@ -347,22 +357,21 @@
 },
 {
   "type": "node",
-  "id": 5621918984,
-  "lat": 54.4449035,
-  "lon": 12.5856757,
+  "id": 4897133964,
+  "lat": 54.2584272,
+  "lon": 12.2428508,
   "tags": {
-    "access": "yes",
     "amenity": "toilets",
-    "check_date": "2024-07-11",
-    "description": "Frechheit für diese dreckige Toilette 50 Cent zu verlangen",
+    "charge": "0.5 €",
+    "check_date": "2025-10-22",
     "drinking_water": "yes",
     "fee": "yes",
     "female": "yes",
-    "level": "0",
+    "level": "1",
     "male": "yes",
-    "name": "WC",
+    "payment:coins": "only",
     "toilets:disposal": "flush",
-    "toilets:position": "seated",
+    "toilets:position": "seated;urinal",
     "wheelchair": "no"
   }
 },
@@ -375,11 +384,13 @@
     "access": "yes",
     "amenity": "toilets",
     "changing_table": "yes",
-    "check_date": "2021-10-06",
+    "check_date": "2025-09-25",
+    "check_date:opening_hours": "2025-09-25",
     "drinking_water": "yes",
     "fee": "no",
     "female": "yes",
     "male": "yes",
+    "opening_hours": "Mo-Su,PH 08:00-22:00",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
     "wheelchair": "no"
@@ -499,6 +510,7 @@
   "tags": {
     "amenity": "drinking_water",
     "description": "Behind the Toilette house",
+    "man_made": "water_tap",
     "name": "Drinking water"
   }
 },
@@ -555,7 +567,8 @@
   "lat": 54.2473405,
   "lon": 12.2133162,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -601,8 +614,8 @@
 {
   "type": "node",
   "id": 11199805254,
-  "lat": 54.9623061,
-  "lon": 12.2923215,
+  "lat": 54.9622995,
+  "lon": 12.2923289,
   "tags": {
     "drinking_water": "yes",
     "man_made": "water_tap"
@@ -696,11 +709,7 @@
   "lon": 12.1289127,
   "tags": {
     "amenity": "drinking_water",
-    "contact:website": "https://www.nordwasser.de/togo",
-    "covered": "no",
-    "fee": "no",
     "fountain": "bubbler",
-    "name": "Trinkwasserbrunnen",
     "operator": "Nordwasser",
     "seasonal": "yes"
   }
@@ -905,8 +914,10 @@
   "tags": {
     "amenity": "toilets",
     "drinking_water": "yes",
+    "fee": "no",
     "female": "yes",
     "male": "yes",
+    "opening_hours": "Mo-Su,PH 00:00+",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
     "wheelchair": "yes"
@@ -1060,6 +1071,412 @@
   "tags": {
     "amenity": "drinking_water",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13232627480,
+  "lat": 54.1230735,
+  "lon": 12.1681349,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Mo-Sa 06:00-21:00",
+    "operator": "E center Neu-Hinrichsdorf",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13305975799,
+  "lat": 54.0916594,
+  "lon": 12.1441848,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310723,
+  "lat": 54.1219259,
+  "lon": 12.1374618,
+  "tags": {
+    "description": "Toitenwinkel 5",
+    "drilling_depth": "43.00",
+    "drinking_water": "yes",
+    "installation_depth": "40.50",
+    "man_made": "water_well",
+    "operational": "0",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Land Mecklenburg-Vorpommern",
+    "ref": "13003000-024"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310724,
+  "lat": 54.1226663,
+  "lon": 12.1300483,
+  "tags": {
+    "description": "Toitenwinkel 3",
+    "drilling_depth": "46.00",
+    "drinking_water": "yes",
+    "installation_depth": "44.50",
+    "man_made": "water_well",
+    "operational": "0",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "privat",
+    "ref": "13003000-022"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310725,
+  "lat": 54.1219497,
+  "lon": 12.1282764,
+  "tags": {
+    "description": "Toitenwinkel 4",
+    "drilling_depth": "49.00",
+    "drinking_water": "yes",
+    "installation_depth": "48.00",
+    "man_made": "water_well",
+    "operational": "0",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Land Mecklenburg-Vorpommern",
+    "ref": "13003000-023"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310726,
+  "lat": 54.1223974,
+  "lon": 12.1353629,
+  "tags": {
+    "description": "Toitenwinkel 1",
+    "drilling_depth": "50.50",
+    "drinking_water": "yes",
+    "installation_depth": "49.50",
+    "man_made": "water_well",
+    "operational": "0",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Land Mecklenburg-Vorpommern",
+    "ref": "13003000-020"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310727,
+  "lat": 54.1221671,
+  "lon": 12.1317359,
+  "tags": {
+    "description": "Toitenwinkel 2",
+    "drilling_depth": "50.50",
+    "drinking_water": "yes",
+    "installation_depth": "50.00",
+    "man_made": "water_well",
+    "operational": "0",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "privat",
+    "ref": "13003000-021"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310729,
+  "lat": 54.1105589,
+  "lon": 12.1566471,
+  "tags": {
+    "description": "Zum Lebensbaum",
+    "drilling_depth": "32.00",
+    "drinking_water": "yes",
+    "installation_depth": "27.00",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "privat",
+    "ref": "13003000-010"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310730,
+  "lat": 54.1061696,
+  "lon": 12.1468492,
+  "tags": {
+    "description": "Heinrich-Heine-Platz",
+    "drilling_depth": "45.00",
+    "drinking_water": "yes",
+    "installation_depth": "31.50",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-009"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310731,
+  "lat": 54.1028088,
+  "lon": 12.1654938,
+  "tags": {
+    "description": "Gutenbergstraße 80",
+    "drilling_depth": "40.00",
+    "drinking_water": "yes",
+    "installation_depth": "38.00",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-008"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310732,
+  "lat": 54.0843089,
+  "lon": 12.1634281,
+  "tags": {
+    "description": "Kleingartenanlage „Verbindungsweg“",
+    "drilling_depth": "32.00",
+    "drinking_water": "yes",
+    "installation_depth": "32.00",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-014"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310733,
+  "lat": 54.0752349,
+  "lon": 12.1887216,
+  "tags": {
+    "description": "Kleingartenanlage „Am Roggentiner Weg“",
+    "drilling_depth": "40.00",
+    "drinking_water": "yes",
+    "installation_depth": "38.50",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-012"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310734,
+  "lat": 54.0702627,
+  "lon": 12.1062430,
+  "tags": {
+    "description": "Klinikum Südstadt",
+    "drilling_depth": "52.50",
+    "drinking_water": "yes",
+    "installation_depth": "52.00",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-019"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310735,
+  "lat": 54.0637765,
+  "lon": 12.1087384,
+  "tags": {
+    "description": "Kleingartenanlage „Frischer Wind“",
+    "drilling_depth": "31.00",
+    "drinking_water": "yes",
+    "installation_depth": "30.00",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-016"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310736,
+  "lat": 54.0745824,
+  "lon": 12.1231265,
+  "tags": {
+    "description": "Ziolkowskistraße",
+    "drilling_depth": "38.00",
+    "drinking_water": "yes",
+    "installation_depth": "36.00",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-007"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310737,
+  "lat": 54.0847306,
+  "lon": 12.0901774,
+  "tags": {
+    "description": "Kopernikusstraße (Schwimmhalle)",
+    "drilling_depth": "29.30",
+    "drinking_water": "yes",
+    "installation_depth": "29.00",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-006"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310738,
+  "lat": 54.1111300,
+  "lon": 12.0617613,
+  "tags": {
+    "description": "Evershagen-Süd",
+    "drilling_depth": "47.00",
+    "drinking_water": "yes",
+    "installation_depth": "46.00",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-018"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310739,
+  "lat": 54.0986126,
+  "lon": 12.0862340,
+  "tags": {
+    "description": "Kunsthalle",
+    "drilling_depth": "35.50",
+    "drinking_water": "yes",
+    "installation_depth": "32.00",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-005"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310740,
+  "lat": 54.1023261,
+  "lon": 12.0728445,
+  "tags": {
+    "description": "Liningweg",
+    "drilling_depth": "44.50",
+    "drinking_water": "yes",
+    "installation_depth": "41.00",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-004"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310741,
+  "lat": 54.1163792,
+  "lon": 12.0715106,
+  "tags": {
+    "description": "Kleingartenanlage „Uns lütt Eck“",
+    "drilling_depth": "30.00",
+    "drinking_water": "yes",
+    "installation_depth": "28.50",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-013"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310742,
+  "lat": 54.1303497,
+  "lon": 12.0710250,
+  "tags": {
+    "description": "Stephan-Jantzen-Ring",
+    "drilling_depth": "29.00",
+    "drinking_water": "yes",
+    "installation_depth": "27.00",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-011"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310743,
+  "lat": 54.1420650,
+  "lon": 12.0352044,
+  "tags": {
+    "description": "Kleingartenanlage „Binz“",
+    "drilling_depth": "30.00",
+    "drinking_water": "yes",
+    "installation_depth": "28.50",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "privat",
+    "ref": "13003000-017"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310744,
+  "lat": 54.1473569,
+  "lon": 12.0507855,
+  "tags": {
+    "description": "Kleingartenanlage „Burrkäwer“",
+    "drilling_depth": "30.50",
+    "drinking_water": "yes",
+    "installation_depth": "30.50",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-002"
+  }
+},
+{
+  "type": "node",
+  "id": 13672310745,
+  "lat": 54.1507444,
+  "lon": 12.0484080,
+  "tags": {
+    "description": "Kleingartenanlage „Lichtenhagen I“",
+    "drilling_depth": "28.00",
+    "drinking_water": "yes",
+    "installation_depth": "28.00",
+    "man_made": "water_well",
+    "operational": "1",
+    "operator": "Hanse- und Universitätsstadt Rostock",
+    "owner": "Hanse- und Universitätsstadt Rostock",
+    "ref": "13003000-001"
   }
 }
 

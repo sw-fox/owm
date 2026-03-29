@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:06:45Z",
+    "timestamp_osm_base": "2026-03-29T15:14:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -241,6 +241,24 @@
     "access": "yes",
     "drinking_water": "yes",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7486872011,
+  "lat": 55.7931962,
+  "lon": 13.1536596,
+  "tags": {
+    "drinking_water": "yes",
+    "email": "kansli@kavlingegk.se",
+    "fee": "yes",
+    "name": "Åboda",
+    "phone": "+4646736270",
+    "power_supply": "yes",
+    "sanitary_dump_station": "no",
+    "toilets": "yes",
+    "tourism": "caravan_site",
+    "website": "https://kavlingegk.se/"
   }
 },
 {
@@ -614,6 +632,34 @@
     "note": "Outside at the toilet house",
     "operator": "Malmö Stad",
     "water_point": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13410498948,
+  "lat": 55.4933246,
+  "lon": 13.0991830,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13452086362,
+  "lat": 55.5915647,
+  "lon": 13.0146695,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "check_date": "2026-01-13",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "lit": "yes",
+    "man_made": "water_tap",
+    "operator": "VA Syd",
+    "wheelchair": "yes"
   }
 }
 

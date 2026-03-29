@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:02:36Z",
+    "timestamp_osm_base": "2026-03-29T14:55:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -60,6 +60,24 @@
   "lon": 13.0413724,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 577572534,
+  "lat": 49.1433384,
+  "lon": 13.2471314,
+  "tags": {
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "name": "Autocamp Železná Ruda",
+    "phone": "+420602258589",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.campingzeleznaruda.cz/"
   }
 },
 {
@@ -377,7 +395,7 @@
   "lat": 49.3370081,
   "lon": 13.4020758,
   "tags": {
-    "amenity": "drinking_water",
+    "drinking_water": "yes",
     "name": "Úslava",
     "natural": "spring"
   }
@@ -615,7 +633,9 @@
   "lat": 49.3556169,
   "lon": 13.1372835,
   "tags": {
+    "check_date": "2025-09-20",
     "drinking_water": "yes",
+    "ele": "560",
     "name": "Dobrá voda",
     "natural": "spring",
     "source": "Bing;gps"
@@ -674,15 +694,6 @@
     "name": "Studánka",
     "natural": "spring",
     "source": "mavit GPS"
-  }
-},
-{
-  "type": "node",
-  "id": 3801493930,
-  "lat": 49.1657932,
-  "lon": 13.8856485,
-  "tags": {
-    "amenity": "drinking_water"
   }
 },
 {
@@ -962,7 +973,9 @@
   "lon": 13.9201689,
   "tags": {
     "drinking_water": "yes",
+    "foot": "yes",
     "intermittent": "no",
+    "motor_vehicle": "no",
     "name": "Buková studánka",
     "natural": "spring"
   }
@@ -1328,7 +1341,7 @@
   "type": "node",
   "id": 9233804315,
   "lat": 49.5373964,
-  "lon": 13.1573305,
+  "lon": 13.1572683,
   "tags": {
     "access": "yes",
     "drinking_water": "yes",
@@ -1503,6 +1516,7 @@
   "lon": 13.3667619,
   "tags": {
     "amenity": "drinking_water",
+    "fountain": "drinking",
     "source": "survey"
   }
 },
@@ -1544,6 +1558,16 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11187272333,
+  "lat": 49.7610379,
+  "lon": 13.3785899,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
   }
 },
 {
@@ -1878,7 +1902,11 @@
   "lat": 49.7155121,
   "lon": 13.3568459,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "charge": "3 CZK/10 litres",
+    "fee": "yes",
+    "man_made": "water_tap",
+    "opening_hours": "Apr - Oct"
   }
 },
 {
@@ -1911,6 +1939,37 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "description": "veřejný kohoutek s pitnou vodou uvnitř areálu"
+  }
+},
+{
+  "type": "node",
+  "id": 13123770736,
+  "lat": 49.8105869,
+  "lon": 13.7300995,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13163053543,
+  "lat": 49.0163864,
+  "lon": 13.1740132,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "sauberes Quellwasser, offiziell 'kein Trinkwasser'",
+    "drinking_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13461557104,
+  "lat": 49.0143286,
+  "lon": 13.6536187,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
   }
 }
 

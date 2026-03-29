@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:05:42Z",
+    "timestamp_osm_base": "2026-03-29T15:38:13Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -128,11 +128,13 @@
   "tags": {
     "access": "yes",
     "amenity": "toilets",
-    "charge": "0.50 EURO",
+    "charge": "0.50 EUR",
     "check_date:wheelchair": "2023-06-14",
     "drinking_water": "yes",
     "fee": "yes",
+    "opening_hours": "Mo-Su 00:00-00:00",
     "operator": "Stadtreinigung Hamburg",
+    "operator:wikidata": "Q1532474",
     "payment:cash": "yes",
     "payment:contactless": "yes",
     "payment:mastercard": "yes",
@@ -573,8 +575,10 @@
   "tags": {
     "access": "yes",
     "amenity": "toilets",
+    "check_date:opening_hours": "2025-09-13",
     "drinking_water": "yes",
     "fee": "no",
+    "opening_hours:signed": "no",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
     "wheelchair": "yes"
@@ -703,7 +707,6 @@
   "tags": {
     "access": "customers",
     "amenity": "toilets",
-    "check_date:wheelchair": "2023-04-30",
     "drinking_water": "yes",
     "fee": "no",
     "wheelchair": "no"
@@ -736,11 +739,13 @@
   "tags": {
     "access": "yes",
     "amenity": "toilets",
+    "check_date:opening_hours": "2026-03-05",
     "drinking_water": "yes",
     "entrance": "yes",
     "fee": "no",
     "male": "yes",
     "opening_hours": "Jan-Dec: 00:00-24:00",
+    "opening_hours:signed": "no",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
     "wheelchair": "yes"
@@ -1020,7 +1025,8 @@
   "lon": 10.0240361,
   "tags": {
     "amenity": "drinking_water",
-    "fountain": "drinking"
+    "fountain": "drinking",
+    "indoor": "no"
   }
 },
 {
@@ -1031,20 +1037,6 @@
   "tags": {
     "amenity": "drinking_water",
     "waste": "trash"
-  }
-},
-{
-  "type": "node",
-  "id": 8087949359,
-  "lat": 53.8484649,
-  "lon": 10.6768464,
-  "tags": {
-    "amenity": "drinking_water",
-    "drinking_water:refill": "yes",
-    "name": "Stadtbäckerei Junge",
-    "shop": "bakery",
-    "toilets:wheelchair": "yes",
-    "wheelchair": "yes"
   }
 },
 {
@@ -1102,9 +1094,11 @@
     "amenity": "toilets",
     "changing_table": "no",
     "drinking_water": "yes",
+    "fee": "no",
     "female": "yes",
     "male": "yes",
-    "toilets:position": "seated;urinal"
+    "toilets:position": "seated;urinal",
+    "wheelchair": "no"
   }
 },
 {
@@ -1288,17 +1282,6 @@
   "tags": {
     "amenity": "drinking_water",
     "fountain": "bubbler"
-  }
-},
-{
-  "type": "node",
-  "id": 9945485111,
-  "lat": 53.2353503,
-  "lon": 10.4004308,
-  "tags": {
-    "amenity": "drinking_water",
-    "landuse": "basin",
-    "name": "Kneipp Wassertretbecken"
   }
 },
 {
@@ -1765,8 +1748,8 @@
 {
   "type": "node",
   "id": 12994046786,
-  "lat": 53.1613066,
-  "lon": 10.0606841,
+  "lat": 53.1612676,
+  "lon": 10.0606987,
   "tags": {
     "drinking_water": "yes",
     "fee": "yes",
@@ -1866,7 +1849,82 @@
   "lat": 53.5243350,
   "lon": 10.0523929,
   "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13081480342,
+  "lat": 53.3588664,
+  "lon": 10.1954064,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13111017714,
+  "lat": 53.6309621,
+  "lon": 10.0756783,
+  "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13140848352,
+  "lat": 53.2386418,
+  "lon": 10.4349104,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap",
+    "opening_hours": "Apr-Oct 00:00-24:00",
+    "seasonal": "Apr-Oct"
+  }
+},
+{
+  "type": "node",
+  "id": 13142376338,
+  "lat": 53.2817609,
+  "lon": 10.4394270,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13160516331,
+  "lat": 53.5485436,
+  "lon": 10.0258016,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13175188760,
+  "lat": 53.5541139,
+  "lon": 10.0073176,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13670147140,
+  "lat": 53.4187516,
+  "lon": 10.1282773,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 }
 
