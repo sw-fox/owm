@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-02T22:55:22Z",
+    "timestamp_osm_base": "2026-03-29T15:04:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -226,6 +226,7 @@
     195827746
   ],
   "tags": {
+    "denomination": "roman_catholic",
     "landuse": "cemetery",
     "name": "Katholischer Friedhof"
   }
@@ -266,6 +267,7 @@
     195863719
   ],
   "tags": {
+    "denomination": "protestant",
     "landuse": "cemetery",
     "name": "Evangelischer Friedhof"
   }
@@ -416,23 +418,18 @@
   "type": "way",
   "id": 22813607,
   "center": {
-    "lat": 52.4304475,
-    "lon": 10.5767108
+    "lat": 52.4304362,
+    "lon": 10.5767064
   },
   "nodes": [
     245425163,
-    9227862830,
-    9227828930,
-    9227828929,
     245425170,
-    245425171,
     245425173,
     245425177,
     245425163
   ],
   "tags": {
-    "landuse": "cemetery",
-    "name": "Friedhof Isenbüttel"
+    "landuse": "cemetery"
   }
 },
 {
@@ -513,8 +510,8 @@
   "type": "way",
   "id": 23281822,
   "center": {
-    "lat": 52.4694079,
-    "lon": 10.6836879
+    "lat": 52.4693944,
+    "lon": 10.6836832
   },
   "nodes": [
     251986262,
@@ -522,11 +519,11 @@
     251986265,
     312767762,
     2154861215,
-    1600234937,
     1600234938,
     312767766,
     2154861218,
     2154861238,
+    13605189840,
     1600234947,
     251986262
   ],
@@ -881,6 +878,7 @@
     262810163,
     11190636797,
     1789411090,
+    13586875120,
     1789411095,
     1789411098,
     1789411107,
@@ -2298,7 +2296,9 @@
     "barrier": "fence",
     "fence_type": "chain_link",
     "landuse": "cemetery",
-    "operator": "Stadt Burgdorf"
+    "name": "Stadtfriedhof Niedersachsenring",
+    "operator": "Stadt Burgdorf",
+    "wikidata": "Q137369054"
   }
 },
 {
@@ -2362,7 +2362,7 @@
   "id": 28262050,
   "center": {
     "lat": 52.4468786,
-    "lon": 10.8469635
+    "lon": 10.8469832
   },
   "nodes": [
     310384677,
@@ -3749,6 +3749,7 @@
     416960403,
     416960404,
     416960405,
+    13517337555,
     416960406,
     416960403
   ],
@@ -3799,7 +3800,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof Dollbergen",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q137369067"
   }
 },
 {
@@ -3897,7 +3899,7 @@
   "type": "way",
   "id": 36985414,
   "center": {
-    "lat": 52.6370340,
+    "lat": 52.6370316,
     "lon": 10.1125446
   },
   "nodes": [
@@ -3974,7 +3976,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof Hänigsen",
-    "source": "Bing 2012"
+    "source": "Bing 2012",
+    "wikidata": "Q137369095"
   }
 },
 {
@@ -4184,7 +4187,8 @@
     446783747
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wikidata": "Q137375013"
   }
 },
 {
@@ -5687,7 +5691,7 @@
   "type": "way",
   "id": 71598713,
   "center": {
-    "lat": 52.1727055,
+    "lat": 52.1727328,
     "lon": 10.1304414
   },
   "nodes": [
@@ -6268,8 +6272,8 @@
   "type": "way",
   "id": 88641926,
   "center": {
-    "lat": 52.4161536,
-    "lon": 10.5889593
+    "lat": 52.4161398,
+    "lon": 10.5889283
   },
   "nodes": [
     1029272279,
@@ -7157,8 +7161,8 @@
   "type": "way",
   "id": 107188238,
   "center": {
-    "lat": 52.0611840,
-    "lon": 10.1543216
+    "lat": 52.0611856,
+    "lon": 10.1542988
   },
   "nodes": [
     1232363663,
@@ -8163,7 +8167,6 @@
   "tags": {
     "denomination": "lutheran",
     "landuse": "cemetery",
-    "name": "Friedhof",
     "religion": "christian"
   }
 },
@@ -8527,7 +8530,8 @@
     1068063137
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name:signed": "no"
   }
 },
 {
@@ -8993,7 +8997,7 @@
   "id": 160108454,
   "center": {
     "lat": 52.9698051,
-    "lon": 10.5681839
+    "lon": 10.5681752
   },
   "nodes": [
     1721812687,
@@ -9475,8 +9479,8 @@
   "type": "way",
   "id": 170369125,
   "center": {
-    "lat": 52.5016253,
-    "lon": 10.8087699
+    "lat": 52.5016360,
+    "lon": 10.8087599
   },
   "nodes": [
     1815228459,
@@ -9899,8 +9903,8 @@
   "type": "way",
   "id": 183763171,
   "center": {
-    "lat": 52.3736733,
-    "lon": 10.1268686
+    "lat": 52.3736488,
+    "lon": 10.1268659
   },
   "nodes": [
     1941690005,
@@ -9908,7 +9912,6 @@
     1941689788,
     1941689774,
     1941689909,
-    1941689961,
     1941690005
   ],
   "tags": {
@@ -9970,7 +9973,7 @@
   "type": "way",
   "id": 186749184,
   "center": {
-    "lat": 52.3629280,
+    "lat": 52.3629086,
     "lon": 10.5217066
   },
   "nodes": [
@@ -10094,7 +10097,6 @@
   "nodes": [
     2089315773,
     310108737,
-    2089315759,
     2089315635,
     2089315636,
     2089315637,
@@ -10510,15 +10512,18 @@
   "type": "way",
   "id": 209284647,
   "center": {
-    "lat": 52.9867809,
-    "lon": 10.7490765
+    "lat": 52.9867869,
+    "lon": 10.7490665
   },
   "nodes": [
     2195062755,
     2195062757,
     2195062756,
+    5335101759,
+    5335101760,
     2195062760,
     2195062759,
+    5335101762,
     2195062753,
     2195062752,
     2195062754,
@@ -10720,6 +10725,7 @@
     300103956
   ],
   "tags": {
+    "denomination": "baptist",
     "landuse": "cemetery",
     "name": "Baptistischer Friedhof"
   }
@@ -11355,13 +11361,17 @@
   "type": "way",
   "id": 221596700,
   "center": {
-    "lat": 52.6498170,
-    "lon": 10.6605766
+    "lat": 52.6498422,
+    "lon": 10.6605719
   },
   "nodes": [
     2306304551,
-    4161544121,
+    13393039319,
+    13393039320,
+    13393039331,
+    13393039334,
     2306304553,
+    13393200693,
     2306304550,
     2306304552,
     2306304551
@@ -12236,7 +12246,7 @@
   "type": "way",
   "id": 239610586,
   "center": {
-    "lat": 52.2503460,
+    "lat": 52.2503296,
     "lon": 10.6537820
   },
   "nodes": [
@@ -12532,7 +12542,7 @@
     1702168890,
     271026317,
     1701899987,
-    271027204,
+    13473587907,
     1701900027,
     271027205,
     1414277028,
@@ -12574,7 +12584,7 @@
     10269737049,
     10269737048,
     1701899987,
-    271027204,
+    13473587907,
     1701900027
   ],
   "tags": {
@@ -12714,7 +12724,7 @@
     271026335,
     1414277048,
     1414277051,
-    271026339,
+    13473587908,
     1701900222,
     1701900225,
     271026342,
@@ -12737,7 +12747,7 @@
   "nodes": [
     1701900225,
     1701900222,
-    271026339,
+    13473587909,
     1414277051,
     1414277075,
     1701900386,
@@ -15310,6 +15320,25 @@
 },
 {
   "type": "way",
+  "id": 240636855,
+  "center": {
+    "lat": 52.2510092,
+    "lon": 10.8684502
+  },
+  "nodes": [
+    2483574934,
+    2483574757,
+    2483574721,
+    2483574901,
+    2483574934
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Friedhof Schickelsheim"
+  }
+},
+{
+  "type": "way",
   "id": 240720015,
   "center": {
     "lat": 52.2460906,
@@ -16185,7 +16214,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "religion": "christian"
+    "name": "Friedhof Obershagen",
+    "religion": "christian",
+    "wikidata": "Q137374970"
   }
 },
 {
@@ -17117,24 +17148,6 @@
 },
 {
   "type": "way",
-  "id": 303866400,
-  "center": {
-    "lat": 52.0705066,
-    "lon": 10.5918418
-  },
-  "nodes": [
-    3078090698,
-    6092307465,
-    6092307464,
-    6092307462,
-    3078090698
-  ],
-  "tags": {
-    "landuse": "cemetery"
-  }
-},
-{
-  "type": "way",
   "id": 304013784,
   "center": {
     "lat": 52.0697435,
@@ -17177,10 +17190,11 @@
   "id": 304603243,
   "center": {
     "lat": 52.1405442,
-    "lon": 10.6184509
+    "lon": 10.6184550
   },
   "nodes": [
     3091658514,
+    13609321770,
     330544257,
     3091626929,
     3091626926,
@@ -17482,14 +17496,15 @@
     3191548103,
     3191548104,
     1420663554,
+    13674935833,
     3901553953,
     3191548105,
     3901553954,
     3191548103
   ],
   "tags": {
-    "amenity": "grave_yard",
     "denomination": "catholic",
+    "landuse": "cemetery",
     "name": "Katholischer Friedhof",
     "religion": "christian"
   }
@@ -17575,23 +17590,23 @@
   "type": "way",
   "id": 316080517,
   "center": {
-    "lat": 52.3194894,
-    "lon": 10.0543669
+    "lat": 52.3195067,
+    "lon": 10.0543883
   },
   "nodes": [
-    3221904645,
     3221904654,
     10692409324,
     3221904656,
     3221904657,
     3221904649,
     3221904652,
-    6666546385,
     3221904644,
-    3221904645
+    3221904654
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Dolgen",
+    "wikidata": "Q137374851"
   }
 },
 {
@@ -17799,7 +17814,9 @@
     3301051260
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Otze",
+    "wikidata": "Q137369354"
   }
 },
 {
@@ -18256,6 +18273,7 @@
   "tags": {
     "denomination": "protestant",
     "landuse": "cemetery",
+    "name:signed": "no",
     "religion": "christian"
   }
 },
@@ -18276,6 +18294,7 @@
   "tags": {
     "denomination": "catholic",
     "landuse": "cemetery",
+    "name:signed": "no",
     "religion": "christian"
   }
 },
@@ -18646,7 +18665,9 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "religion": "christian"
+    "name": "Friedhof Hämelerwald",
+    "religion": "christian",
+    "wikidata": "Q137369573"
   }
 },
 {
@@ -18874,8 +18895,8 @@
   "type": "way",
   "id": 450883732,
   "center": {
-    "lat": 52.9571346,
-    "lon": 10.6007109
+    "lat": 52.9571293,
+    "lon": 10.6006980
   },
   "nodes": [
     4477871322,
@@ -19351,7 +19372,8 @@
     2897493159
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof"
   }
 },
 {
@@ -19697,7 +19719,7 @@
   "id": 681316859,
   "center": {
     "lat": 52.2216230,
-    "lon": 10.8579108
+    "lon": 10.8579155
   },
   "nodes": [
     318660100,
@@ -19708,7 +19730,8 @@
     318660100
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof"
   }
 },
 {
@@ -20217,39 +20240,6 @@
     "name": "Ruhewald Rittergut Ribbesbüttel",
     "phone": "+49 160 30 39 571",
     "website": "https://ruhewald-ribbesbuettel.de/"
-  }
-},
-{
-  "type": "way",
-  "id": 910404317,
-  "center": {
-    "lat": 52.2669317,
-    "lon": 10.7867716
-  },
-  "nodes": [
-    8452751302,
-    8452751303,
-    8452751304,
-    8452751305,
-    8452751306,
-    8452751307,
-    8452751308,
-    8452751309,
-    8452751310,
-    8452751311,
-    8452751312,
-    8452751313,
-    8452751314,
-    8452751315,
-    8452751316,
-    8452751317,
-    8452751319,
-    8452751302
-  ],
-  "tags": {
-    "amenity": "grave_yard",
-    "denomination": "lutheran",
-    "religion": "christian"
   }
 },
 {
@@ -21010,6 +21000,7 @@
     10202372193
   ],
   "tags": {
+    "denomination": "unaffiliated",
     "landuse": "cemetery",
     "name": "Jüdischer Friedhof",
     "religion": "jewish",
@@ -22395,7 +22386,6 @@
     2978832924,
     2978832926,
     2978832925,
-    9045551701,
     1172767454,
     2978832862,
     2978832855,
@@ -24059,7 +24049,8 @@
     10976036298
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Sant-Katharinen-Kirche"
   }
 },
 {
@@ -24202,7 +24193,8 @@
     11621847161
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name:signed": "no"
   }
 },
 {
@@ -24342,7 +24334,8 @@
     12036756873
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name:signed": "no"
   }
 },
 {
@@ -24673,6 +24666,105 @@
     "landuse": "cemetery",
     "name": "Der Alte Gotteslagersche Kirchhof",
     "wikidata": "Q136566206"
+  }
+},
+{
+  "type": "way",
+  "id": 1455528217,
+  "center": {
+    "lat": 52.3402443,
+    "lon": 10.1831521
+  },
+  "nodes": [
+    13348366484,
+    13348366485,
+    13348366486,
+    13348366487,
+    13348366488,
+    13348366489,
+    13348366484
+  ],
+  "tags": {
+    "denomination": "protestant",
+    "landuse": "cemetery",
+    "name": "Friedhof Vöhrum am Friesenwall",
+    "operator": "Kirchengemeinde Vöhrum-Röhrse",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1458253465,
+  "center": {
+    "lat": 52.2100474,
+    "lon": 10.4649034
+  },
+  "nodes": [
+    13373733858,
+    13373733857,
+    13373733856,
+    13373733855,
+    13373733858
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Friedhof Geitelde",
+    "wikidata": "Q137376002"
+  }
+},
+{
+  "type": "way",
+  "id": 1460304886,
+  "center": {
+    "lat": 52.0705018,
+    "lon": 10.5918423
+  },
+  "nodes": [
+    13393346554,
+    13393346555,
+    13393346556,
+    13393346557,
+    13393346554
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 1472009233,
+  "center": {
+    "lat": 52.4758680,
+    "lon": 10.0392933
+  },
+  "nodes": [
+    13507004736,
+    13507004739,
+    13507004734,
+    13507004735,
+    13507004736
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 1492512635,
+  "center": {
+    "lat": 52.3616881,
+    "lon": 10.4272832
+  },
+  "nodes": [
+    13676992320,
+    13676992319,
+    13676992318,
+    13676992317,
+    13676992320
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Friedhof von Mahrenholtz"
   }
 },
 {

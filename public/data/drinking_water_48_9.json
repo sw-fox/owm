@@ -1,12 +1,28 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:01:36Z",
+    "timestamp_osm_base": "2026-03-29T14:50:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
+{
+  "type": "node",
+  "id": 76887193,
+  "lat": 48.7777259,
+  "lon": 9.1782125,
+  "tags": {
+    "amenity": "drinking_water",
+    "architect": "Reinhard Ferdinand Heinrich Fischer",
+    "architect:wikidata": "Q2140685",
+    "material": "sandstone",
+    "name": "Kanzleibogenbrunnen",
+    "start_date": "1787",
+    "website": "https://www.stiftung-stuttgarter-bruennele.de/pdfs/65.pdf",
+    "wikimedia_commons": "File:Kanzleibogenbrunnen_Stuttgart.jpg"
+  }
+},
 {
   "type": "node",
   "id": 256172687,
@@ -77,6 +93,7 @@
     "amenity": "drinking_water",
     "description": "Öffentlicher Mineralwasser-Trinkbrunnen",
     "name": "Polizeibrunnen",
+    "water_characteristic": "mineral",
     "website": "http://www.stgt.com/brunnen/polizeibrunnen.htm",
     "wheelchair": "no"
   }
@@ -498,10 +515,12 @@
   "lon": 9.2222262,
   "tags": {
     "amenity": "drinking_water",
-    "description": "Öffentlicher Mineralwasser-Trinkbrunnen beim Königsplatz/Kursaal, gespeist vom Wilhelms-Tiefbrunnen (sehr eisenhaltig!)",
+    "description": "Öffentlicher Mineralwasser-Trinkbrunnen beim Königsplatz/Kursaal, gespeist vom Wilhelms-Tiefbrunnen II (sehr eisenhaltig!)",
     "drinking_water": "yes",
     "fountain": "drinking",
     "name": "Lautenschlägerbrunnen",
+    "water_characteristic": "mineral",
+    "website": "https://www.stuttgarterbaeder.de/fileadmin/pdf/Stuttgarter-Mineralwasser.pdf",
     "wikidata": "Q1808584"
   }
 },
@@ -692,18 +711,6 @@
 },
 {
   "type": "node",
-  "id": 418789056,
-  "lat": 48.4068870,
-  "lon": 9.2672594,
-  "tags": {
-    "drinking_water": "yes",
-    "name": "Echazquelle",
-    "natural": "spring",
-    "wikidata": "Q54399498"
-  }
-},
-{
-  "type": "node",
   "id": 428022624,
   "lat": 48.5858577,
   "lon": 9.7973651,
@@ -722,7 +729,9 @@
   "tags": {
     "amenity": "drinking_water",
     "description": "Öffentlicher Mineralwasser-Trinkbrunnen",
-    "name": "Veielbrunnen"
+    "name": "Veielbrunnen",
+    "water_characteristic": "mineral",
+    "website": "https://www.stuttgarterbaeder.de/fileadmin/pdf/Stuttgarter-Mineralwasser.pdf"
   }
 },
 {
@@ -821,20 +830,30 @@
     "natural": "spring",
     "note": "Der Erbsenbrunnen ist KEIN Brunnenschacht. Es ist eine QUELLE, die gefasst ist.",
     "source": "survey",
-    "start_date": "1927"
+    "start_date": "1927",
+    "water_characteristic": "mineral"
   }
 },
 {
   "type": "node",
   "id": 453226553,
-  "lat": 48.7398945,
-  "lon": 9.3079860,
+  "lat": 48.7399011,
+  "lon": 9.3079967,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "bottle": "yes",
     "check_date": "2025-06-28",
+    "cold_water": "no",
     "fee": "no",
-    "fountain": "drinking",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "name": "Maille-Trinkbrunnen",
+    "opening_hours": "24/7",
+    "panoramax": "7ab9110d-e754-4172-9b84-ea4cd7e632de",
+    "room_temperature_water": "yes",
+    "warm_water": "no",
     "wheelchair": "yes"
   }
 },
@@ -866,8 +885,8 @@
 {
   "type": "node",
   "id": 510623439,
-  "lat": 48.1730115,
-  "lon": 9.1488390,
+  "lat": 48.1730343,
+  "lon": 9.1488698,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -1008,19 +1027,6 @@
     "drinking_water": "yes",
     "name": "Rathausbrunnen",
     "operator": "Tiefbauamt Stuttgart"
-  }
-},
-{
-  "type": "node",
-  "id": 704322872,
-  "lat": 48.7734314,
-  "lon": 9.1812398,
-  "tags": {
-    "amenity": "fountain",
-    "drinking_water": "yes",
-    "name": "Nachtwächterbrunnen",
-    "operator": "Tiefbauamt Stuttgart",
-    "wikidata": "Q1552332"
   }
 },
 {
@@ -1740,8 +1746,7 @@
     "caravans": "no",
     "description": "Speziell für Fahrradfahrer. 10€/Nacht",
     "drinking_water": "yes",
-    "name": "Zeltmöglichkeit",
-    "operator": "Biolandhof Walter",
+    "name": "Biolandhof Walter",
     "phone": "+49 7393 6503",
     "power_supply": "yes",
     "shower": "yes",
@@ -1883,9 +1888,11 @@
   "lon": 9.4183596,
   "tags": {
     "amenity": "drinking_water",
+    "fixme": "ist es tatsächlich ein Trinkwasserbrunnen? oder evtl. eher amenity=watering_place für die Pferde? Vor Ort nochmals abgleichen.",
     "fountain": "drinking",
     "name": "Stutenbrunnen",
-    "start_date": "1880"
+    "start_date": "1880",
+    "wikimedia_commons": "File:Der Stutenbrunnen im Innenhof des Haupt- und Landgestüts erinnert an Wilhelm I. und symbolisiert zugleich die Stutenhaltung in Marbach.jpg"
   }
 },
 {
@@ -2065,6 +2072,7 @@
     "description": "Öffentlicher Mineralwasser-Trinkbrunnen",
     "drinking_water": "yes",
     "fee": "no",
+    "fountain": "drinking",
     "name": "Jakobsbrunnen",
     "wheelchair": "limited",
     "wikidata": "Q96277525"
@@ -2093,8 +2101,10 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "check_date": "2025-08-16",
     "description": "Öffentlicher Mineralwasser-Trinkbrunnen",
     "name": "Kellerbrünnele",
+    "operational_status": "out_of_order",
     "operator": "Tiefbauamt Stuttgart",
     "start_date": "1963",
     "url": "http://www.stiftung-stuttgarter-bruennele.de/index.php?SiteContent=stuttgarterbrunnenmehr.php&StuttgarterBrunnenID=178&Seite=2"
@@ -2240,8 +2250,12 @@
   "lat": 48.7968652,
   "lon": 9.7939828,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
+    "fee": "no",
     "man_made": "water_tap",
+    "name": "Trinkbrunnen \"Erdenreich\"",
+    "official_name": "Trinkbrunnen \"Erdenreich\"",
     "operator": "Stadtwerke Schwäbisch Gmünd",
     "wheelchair": "yes"
   }
@@ -2418,11 +2432,13 @@
 {
   "type": "node",
   "id": 3457114771,
-  "lat": 48.1966455,
-  "lon": 9.0583683,
+  "lat": 48.1965391,
+  "lon": 9.0584917,
   "tags": {
     "amenity": "bench",
     "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "Fräuleinbrunnen",
     "natural": "spring"
   }
 },
@@ -2824,11 +2840,11 @@
 {
   "type": "node",
   "id": 3826796179,
-  "lat": 48.7111856,
-  "lon": 9.2578065,
+  "lat": 48.7111865,
+  "lon": 9.2578202,
   "tags": {
-    "drinking_water": "yes",
-    "man_made": "water_well"
+    "amenity": "fountain",
+    "drinking_water": "yes"
   }
 },
 {
@@ -2884,6 +2900,15 @@
     "name": "Froschbrunnen",
     "operator": "Tiefbauamt Stuttgart",
     "website": "https://www.stuttgart.de/item/show/31055"
+  }
+},
+{
+  "type": "node",
+  "id": 3940775948,
+  "lat": 48.7750701,
+  "lon": 9.1758198,
+  "tags": {
+    "amenity": "drinking_water"
   }
 },
 {
@@ -3191,8 +3216,8 @@
 {
   "type": "node",
   "id": 4097771192,
-  "lat": 48.4938108,
-  "lon": 9.3975552,
+  "lat": 48.4937652,
+  "lon": 9.3975174,
   "tags": {
     "amenity": "fountain",
     "drinking_water": "yes",
@@ -3281,8 +3306,13 @@
   "lat": 48.8013395,
   "lon": 9.7879844,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
+    "fee": "no",
     "fountain": "bubbler",
+    "name": "Trinkbrunnen \"Jugendsportplatz am Bahnhof\"",
+    "official_name": "Trinkbrunnen \"Jugendsportplatz am Bahnhof\"",
+    "operator": "Stadt Schwäbisch Gmünd",
     "wheelchair": "yes"
   }
 },
@@ -3391,9 +3421,9 @@
   "tags": {
     "access": "permissive",
     "amenity": "toilets",
-    "description": "werktags von 6 - 18 Uhr",
     "drinking_water": "yes",
     "fee": "no",
+    "opening_hours": "Mo-Fr 06:00-18:00",
     "operator": "Stadt Steinheim",
     "toilets:disposal": "flush"
   }
@@ -3489,7 +3519,13 @@
   "lat": 48.8010019,
   "lon": 9.7933906,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "name": "Trinkbrunnen \"Ledergasse\"",
+    "official_name": "Trinkbrunnen \"Ledergasse\"",
+    "operator": "Stadt Schwäbisch Gmünd",
     "wheelchair": "yes"
   }
 },
@@ -3883,11 +3919,14 @@
     "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
+    "description": "Hat zwei Hähne, beschriftet mit Wilhelmsbrunnen und Wilhelmsbrunnen II, mit unterschiedlicher Bohrtiefe, unterschiedlichem Mineralgehalt und unterschiedlichem Geschmack",
     "drinking_water": "yes",
     "fee": "no",
     "fountain": "drinking",
     "name": "Wilhelmsbrunnen",
-    "operator": "Stadt Stuttgart"
+    "operator": "Stadt Stuttgart",
+    "water_characteristic": "mineral",
+    "website": "https://www.stuttgarterbaeder.de/fileadmin/pdf/Stuttgarter-Mineralwasser.pdf"
   }
 },
 {
@@ -3903,7 +3942,9 @@
     "fee": "no",
     "fountain": "drinking",
     "name": "Gottlieb-Daimler-Quelle",
-    "operator": "Stadt Stuttgart"
+    "operator": "Stadt Stuttgart",
+    "water_characteristic": "mineral",
+    "website": "https://www.stuttgarterbaeder.de/fileadmin/pdf/Stuttgarter-Mineralwasser.pdf"
   }
 },
 {
@@ -4022,8 +4063,13 @@
   "lat": 48.8136570,
   "lon": 9.7746318,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
+    "fee": "no",
     "man_made": "water_tap",
+    "name": "Trinkbrunnen \"Himmelsgarten\"",
+    "official_name": "Trinkbrunnen \"Himmelsgarten\"",
+    "operator": "Stadt Schwäbisch Gmünd",
     "wheelchair": "yes"
   }
 },
@@ -4033,8 +4079,14 @@
   "lat": 48.7995142,
   "lon": 9.7981270,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
     "fountain": "bubbler",
+    "name": "Trinkbrunnen \"Rathaus\"",
+    "official_name": "Trinkbrunnen \"Rathaus\"",
+    "operator": "Stadt Schwäbisch Gmünd",
     "wheelchair": "yes"
   }
 },
@@ -4122,15 +4174,20 @@
   "lat": 48.8003561,
   "lon": 9.7898769,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "man_made": "water_tap"
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Trinkbrunnen \"Remsgarten\"",
+    "official_name": "Trinkbrunnen \"Remsgarten\"",
+    "operator": "Stadt Schwäbisch Gmünd"
   }
 },
 {
   "type": "node",
   "id": 6811895896,
-  "lat": 48.3965843,
-  "lon": 9.9930665,
+  "lat": 48.3965973,
+  "lon": 9.9930601,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -4276,8 +4333,8 @@
 {
   "type": "node",
   "id": 7546942083,
-  "lat": 48.8122040,
-  "lon": 9.6874850,
+  "lat": 48.8122694,
+  "lon": 9.6872568,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -4819,21 +4876,8 @@
   "lon": 9.2632112,
   "tags": {
     "drinking_water": "yes",
-    "man_made": "water_well"
-  }
-},
-{
-  "type": "node",
-  "id": 8904889047,
-  "lat": 48.7210227,
-  "lon": 9.2110787,
-  "tags": {
-    "access": "yes",
-    "amenity": "drinking_water",
-    "bottle": "yes",
-    "fee": "no",
-    "man_made": "water_tap",
-    "wheelchair": "limited"
+    "man_made": "water_well",
+    "wikidata": "Q137630412"
   }
 },
 {
@@ -4881,18 +4925,6 @@
     "unisex": "no",
     "wheelchair": "yes",
     "wikimedia_commons": "File:Public Toilets, Bad Urach, Germania Aug 18, 2021 06-17-32 PM.jpeg"
-  }
-},
-{
-  "type": "node",
-  "id": 9017891051,
-  "lat": 48.5368909,
-  "lon": 9.2829937,
-  "tags": {
-    "amenity": "drinking_water",
-    "fee": "no",
-    "fountain": "bottle_refill",
-    "image": "File:Drinking water dispenser, OUTLETCITY METZINGEN, Metzingen, Germania Aug 18, 2021 07-50-39 PM.jpeg"
   }
 },
 {
@@ -4967,6 +4999,7 @@
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
     "fee": "no",
+    "fountain": "drinking",
     "inscription": "Gestiftet von Ihrer Majestät der Königin Olga von Württemberg - unter Beihilfe der Residenzstadt Stuttgart, errichtet vom Verein für Förderung der Kunst 1890",
     "name": "Galatea-Brunnen",
     "source": "survey",
@@ -5071,13 +5104,22 @@
 {
   "type": "node",
   "id": 9737676462,
-  "lat": 48.7415253,
-  "lon": 9.3036321,
+  "lat": 48.7415192,
+  "lon": 9.3036375,
   "tags": {
     "amenity": "drinking_water",
+    "bottle": "no",
+    "cold_water": "no",
+    "fee": "no",
     "fountain": "bubbler",
-    "name": "Trinkwasserbrunnen am Schelztorturm",
-    "operator": "Stadtwerke Esslingen"
+    "hot_water": "no",
+    "iced_water": "no",
+    "name": "Trinkbrunnen am Schelztor",
+    "opening_hours": "24/7",
+    "operator": "Stadtwerke Esslingen",
+    "panoramax": "a9a7f348-921d-4c5d-9e7a-113a90756258",
+    "room_temperature_water": "yes",
+    "warm_water": "no"
   }
 },
 {
@@ -5397,17 +5439,6 @@
 },
 {
   "type": "node",
-  "id": 10782282406,
-  "lat": 48.8086581,
-  "lon": 9.2236640,
-  "tags": {
-    "amenity": "drinking_water",
-    "fountain": "drinking",
-    "name": "Daimlerquelle"
-  }
-},
-{
-  "type": "node",
   "id": 10892608896,
   "lat": 48.6487480,
   "lon": 9.4495573,
@@ -5550,7 +5581,11 @@
   "lon": 9.7851966,
   "tags": {
     "access": "yes",
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Trinkbrunnen \"Eule Wissenswerkstatt\"",
+    "official_name": "Trinkbrunnen \"Eule Wissenswerkstatt\"",
+    "operator": "Stadt Schwäbisch Gmünd"
   }
 },
 {
@@ -5644,7 +5679,13 @@
   "lat": 48.7978133,
   "lon": 9.8005296,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Trinkbrunnen Zeiselberg",
+    "official_name": "Trinkbrunnen Zeiselberg",
+    "operator": "Stadt Schwäbisch Gmünd",
+    "wheelchair": "limited"
   }
 },
 {
@@ -5664,7 +5705,8 @@
   "lon": 9.6300675,
   "tags": {
     "amenity": "drinking_water",
-    "bottle": "yes"
+    "bottle": "yes",
+    "man_made": "water_tap"
   }
 },
 {
@@ -5823,17 +5865,6 @@
 },
 {
   "type": "node",
-  "id": 11134243521,
-  "lat": 48.6596386,
-  "lon": 9.8170965,
-  "tags": {
-    "amenity": "fountain",
-    "drinking_water": "yes",
-    "fountain": "bottle_refill"
-  }
-},
-{
-  "type": "node",
   "id": 11134892821,
   "lat": 48.8081922,
   "lon": 9.2742830,
@@ -5915,6 +5946,16 @@
     "bottle": "no",
     "fee": "no",
     "name": "Pfarrbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 11171551979,
+  "lat": 48.6596405,
+  "lon": 9.8171053,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
   }
 },
 {
@@ -6106,10 +6147,12 @@
   "lat": 48.7986361,
   "lon": 9.2102290,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
     "description": "Trinkbrunnen Eingangshalle Mineralbad DAS LEUZE",
+    "fee": "no",
     "fountain": "drinking",
-    "last_checked": "2025-08-11",
+    "indoor": "yes",
     "name": "Inselquelle",
     "operator": "Stuttgarter Bäder",
     "water_characteristic": "mineral",
@@ -6189,7 +6232,8 @@
   "lat": 48.7808396,
   "lon": 9.1890683,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -6208,8 +6252,8 @@
 {
   "type": "node",
   "id": 11389529012,
-  "lat": 48.6263013,
-  "lon": 9.3402201,
+  "lat": 48.6262978,
+  "lon": 9.3401490,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -6231,11 +6275,14 @@
     "bottle": "yes",
     "capacity": "1",
     "carbonated": "yes",
+    "charge": "0€",
     "drinking_water": "yes",
     "drinking_water:refill": "yes",
     "fountain": "bottle_refill",
     "indoor": "yes",
-    "level": "4"
+    "level": "5",
+    "note": "DEFEKT!",
+    "wheelchair": "yes"
   }
 },
 {
@@ -6446,6 +6493,7 @@
     "bottle": "yes",
     "fee": "no",
     "fountain": "bubbler",
+    "level": "0",
     "tap": "timed",
     "wheelchair": "yes",
     "wikimedia_commons": "File:Drinking fountain at Tübingen Hbf, Tübingen, Germania Jun 28, 2025 04-41-04 PM.jpeg"
@@ -6749,7 +6797,8 @@
     "description": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
     "fee": "no",
     "name": "Euro-Trinkbrunnen",
-    "operator": "Gemeinde Hemmingen"
+    "operator": "Gemeinde Hemmingen",
+    "wheelchair": "yes"
   }
 },
 {
@@ -6816,6 +6865,7 @@
   "tags": {
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bubbler",
     "level": "0"
   }
 },
@@ -6861,14 +6911,15 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "man_made": "water_tap",
     "wheelchair": "yes"
   }
 },
 {
   "type": "node",
   "id": 12579079632,
-  "lat": 48.2342805,
-  "lon": 9.5192894,
+  "lat": 48.2341206,
+  "lon": 9.5192197,
   "tags": {
     "amenity": "drinking_water",
     "fee": "no"
@@ -6904,9 +6955,16 @@
     "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
+    "cold_water": "no",
     "fee": "no",
+    "fountain": "bubbler",
+    "hot_water": "no",
+    "iced_water": "no",
+    "panoramax": "0fd78e3f-cb8f-4922-a752-ddce65e5588f",
+    "room_temperature_water": "yes",
     "seasonal": "yes",
     "start_date": "2025",
+    "warm_water": "no",
     "wheelchair": "yes"
   }
 },
@@ -6935,7 +6993,12 @@
   "lat": 48.8010001,
   "lon": 9.7891261,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Trinkbrunnen \"Bahnhof\"",
+    "official_name": "Trinkbrunnen \"Bahnhof\"",
+    "operator": "Stadt Schwäbisch Gmünd"
   }
 },
 {
@@ -7029,7 +7092,36 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bubbler",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12818042736,
+  "lat": 48.7760952,
+  "lon": 9.1478172,
+  "tags": {
+    "alt_name": "Paul-Gerhardt Café",
+    "amenity": "cafe",
+    "board_games": "yes",
+    "books": "yes",
+    "drinking_water": "yes",
+    "drinking_water:refill": "yes",
+    "food": "no",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:captive_portal": "yes",
+    "internet_access:fee": "no",
+    "internet_access:password": "yes",
+    "internet_access:ssid": "Gemeinde-West-Gast",
+    "name": "Café plus",
+    "newspapers": "yes",
+    "old_name": "Paul-Gerhardt Café",
+    "opening_hours": "Mo-Fr 09:00-18:00",
+    "outdoor_seating": "yes",
+    "self_service": "yes",
+    "toilets": "yes"
   }
 },
 {
@@ -7073,6 +7165,7 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "fountain": "bubbler",
     "operator": "Gemeinde Wannweil",
     "wheelchair": "yes"
   }
@@ -7213,7 +7306,12 @@
   "lat": 48.7148986,
   "lon": 9.5250958,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "note": "Not sure if this *really* is drinking water",
+    "seasonal": "no",
+    "wheelchair": "yes"
   }
 },
 {
@@ -7222,7 +7320,8 @@
   "lat": 48.9108941,
   "lon": 9.2161024,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
   }
 },
 {
@@ -7251,15 +7350,6 @@
   "tags": {
     "amenity": "drinking_water",
     "indoor": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 12917581842,
-  "lat": 48.7377676,
-  "lon": 9.3097570,
-  "tags": {
-    "amenity": "drinking_water"
   }
 },
 {
@@ -7299,10 +7389,12 @@
 {
   "type": "node",
   "id": 12954977978,
-  "lat": 48.7377716,
-  "lon": 9.3097229,
+  "lat": 48.7377964,
+  "lon": 9.3096365,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Trinkbrunnen am Wehrneckar"
   }
 },
 {
@@ -7354,14 +7446,292 @@
 },
 {
   "type": "node",
-  "id": 13072211856,
-  "lat": 48.3990613,
-  "lon": 9.9837358,
+  "id": 13102993032,
+  "lat": 48.6263301,
+  "lon": 9.3353415,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "panoramax": "3e7c5c21-c716-4126-b341-616545c36348",
+    "room_temperature_water": "yes",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13108506327,
+  "lat": 48.6928815,
+  "lon": 9.1424380,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 13111193011,
+  "lat": 48.4878510,
+  "lon": 9.4374094,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13127659835,
+  "lat": 48.7105855,
+  "lon": 9.4155541,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13132493796,
+  "lat": 48.9398005,
+  "lon": 9.2590464,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13157588937,
+  "lat": 48.8058509,
+  "lon": 9.5271534,
+  "tags": {
+    "amenity": "drinking_water",
+    "fixme": "check location. Links von der Treppe.",
+    "fountain": "bubbler",
+    "handle": "button",
+    "inscription": "In Kooperation mit der Landeswasserversorgung Stuttgart anlässlich der Remstal Gartenschau 2019 errichtet.",
+    "operator": "Stadt Schorndorf"
+  }
+},
+{
+  "type": "node",
+  "id": 13179051863,
+  "lat": 48.7855466,
+  "lon": 9.2854801,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Trinkwasserspender in der westlichen Außenwand"
+  }
+},
+{
+  "type": "node",
+  "id": 13289343235,
+  "lat": 48.4917883,
+  "lon": 9.3942341,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Eugen Brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 13325764070,
+  "lat": 48.7942587,
+  "lon": 9.8246166,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Trinkbrunnen Sonnenhügel",
+    "official_name": "Trinkbrunnen Sonnenhügel",
+    "operator": "Stadt Schwäbisch Gmünd"
+  }
+},
+{
+  "type": "node",
+  "id": 13325764071,
+  "lat": 48.7960026,
+  "lon": 9.8199440,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Trinkbrunnen \"Barnsleyer Straße\"",
+    "official_name": "Trinkbrunnen \"Barnsleyer Straße\"",
+    "operator": "Stadt Schwäbisch Gmünd"
+  }
+},
+{
+  "type": "node",
+  "id": 13325813228,
+  "lat": 48.7961068,
+  "lon": 9.8000618,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Trinkbrunnen \"Sebaldplatz\"",
+    "official_name": "Trinkbrunnen \"Sebaldplatz\"",
+    "operator": "Stadt Schwäbisch Gmünd",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13351121608,
+  "lat": 48.2298649,
+  "lon": 9.8837797,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Stadtwerke Laupheim",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13367069523,
+  "lat": 48.4229322,
+  "lon": 9.9533278,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "dog": "no",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "level": "2",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13369690550,
+  "lat": 48.1184471,
+  "lon": 9.8032011,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "level": "0",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13462831775,
+  "lat": 48.4750299,
+  "lon": 9.2168340,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water": "no",
+    "fee": "no",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13473534145,
+  "lat": 48.4228239,
+  "lon": 9.9552262,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "level": "2",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13479700266,
+  "lat": 48.5366954,
+  "lon": 9.2919018,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "description": "Hinter Selbstbedienungskassen rechts durch die blaue Tür",
+    "drinking_water": "yes",
+    "fee": "no",
+    "level": "0",
+    "operator": "Lidl",
+    "toilets:disposal": "flush",
+    "toilets:hands_drying": "paper_towel",
+    "toilets:handwashing": "yes",
+    "toilets:menstrual_products": "no",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13564484695,
+  "lat": 48.7813424,
+  "lon": 9.1782604,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "Wasserspender. An nordöstlicher Außenseite des Toilettenhäuschens.",
+    "name": "Trinkwasserbrunnen Lautenschlagerstraße"
+  }
+},
+{
+  "type": "node",
+  "id": 13649941053,
+  "lat": 48.7620079,
+  "lon": 9.2686175,
+  "tags": {
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13672844944,
+  "lat": 48.5859856,
+  "lon": 9.4495530,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13672921460,
+  "lat": 48.5857677,
+  "lon": 9.4493029,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13686613701,
+  "lat": 48.6901260,
+  "lon": 9.1957190,
+  "tags": {
+    "addr:housenumber": "161",
+    "addr:street": "Flughafenstraße",
+    "amenity": "drinking_water",
+    "name": "In Terminal 3 around Gate 337"
   }
 }
 

@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-02T22:55:22Z",
+    "timestamp_osm_base": "2026-03-29T15:01:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -187,16 +187,19 @@
   "type": "way",
   "id": 22812456,
   "center": {
-    "lat": 51.4989848,
-    "lon": 10.0139473
+    "lat": 51.4989719,
+    "lon": 10.0139562
   },
   "nodes": [
     245409528,
     245409530,
     5777415141,
     245409531,
+    13613227348,
     5731907166,
     245409532,
+    13613227347,
+    13613227346,
     5731907156,
     245409528
   ],
@@ -296,17 +299,21 @@
   },
   "nodes": [
     5777134531,
+    13609349690,
     5893552567,
     5777134530,
     266624092,
     266624071,
     266624175,
+    13609349689,
+    13609349675,
+    13609349688,
     5777134531
   ],
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof Groß Lengden",
-    "opening_hours": "Apr 1-Oct 31 Mo-Su,PH 07:00-22:00; Nov 1-Mar 31 Mo-Su,PH 08:00-17:00",
+    "opening_hours": "Apr 01-Oct 31 Mo-Su,PH 07:00-22:00; Nov 01-Mar 31 Mo-Su,PH 08:00-17:00",
     "operator": "Gemeinde Gleichen"
   }
 },
@@ -328,6 +335,7 @@
     267034729,
     1969457918,
     1969457911,
+    13291146755,
     267034730,
     1969457912,
     1969457915,
@@ -339,7 +347,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof Herzberg"
+    "name": "Friedhof Herzberg",
+    "name:eo": "Tombejo Hercbergo"
   }
 },
 {
@@ -473,7 +482,7 @@
   "id": 24938327,
   "center": {
     "lat": 51.7732806,
-    "lon": 10.9070221
+    "lon": 10.9069777
   },
   "nodes": [
     55422772,
@@ -489,12 +498,12 @@
     271005660,
     271005662,
     1260048130,
-    271005664,
-    420421465,
     1260048094,
+    13512964440,
     2201383826,
     2205152901,
     8632259709,
+    8632259710,
     1251612434,
     55422772
   ],
@@ -576,15 +585,15 @@
   "type": "way",
   "id": 25740038,
   "center": {
-    "lat": 51.5611423,
-    "lon": 10.5544997
+    "lat": 51.5611389,
+    "lon": 10.5544965
   },
   "nodes": [
     280706888,
     280706890,
-    2128919590,
     280706892,
-    280706894,
+    280706301,
+    280706300,
     280706900,
     280706902,
     280706905,
@@ -638,7 +647,8 @@
     282565413
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Düna"
   }
 },
 {
@@ -685,8 +695,6 @@
     4624903844,
     4601342343,
     285958325,
-    8025328653,
-    8025328659,
     4601342342,
     10246131986,
     10246131983,
@@ -877,7 +885,9 @@
     295466139
   ],
   "tags": {
-    "landuse": "cemetery"
+    "denomination": "protestant",
+    "landuse": "cemetery",
+    "religion": "christian"
   }
 },
 {
@@ -1553,7 +1563,8 @@
   "tags": {
     "denomination": "lutheran",
     "landuse": "cemetery",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q132476346"
   }
 },
 {
@@ -2038,8 +2049,7 @@
     660644714
   ],
   "tags": {
-    "landuse": "cemetery",
-    "name": "Friedhof"
+    "landuse": "cemetery"
   }
 },
 {
@@ -2070,50 +2080,62 @@
   "type": "way",
   "id": 52829074,
   "center": {
-    "lat": 51.0131315,
-    "lon": 10.1640396
+    "lat": 51.0130642,
+    "lon": 10.1640772
   },
   "nodes": [
     669932327,
+    13645967294,
     669932316,
+    13645967295,
     669932331,
     669932329,
+    13645967293,
     669932328,
     669932327
   ],
   "tags": {
+    "heritage": "4",
+    "heritage:operator": "LfDH",
     "landuse": "cemetery",
-    "religion": "jewish"
+    "name": "Jüdischer Friedhof Herleshausen",
+    "religion": "jewish",
+    "wikidata": "Q43161674"
   }
 },
 {
   "type": "way",
   "id": 52829075,
   "center": {
-    "lat": 51.0132044,
-    "lon": 10.1642028
+    "lat": 51.0131879,
+    "lon": 10.1641705
   },
   "nodes": [
     669932313,
     669932314,
-    669932315,
+    13645967292,
     669932323,
-    669932330,
     669932324,
     669932325,
+    13645967291,
+    13645967290,
     669932334,
     669932326,
     669932309,
     669932327,
     669932328,
+    13645967293,
     669932329,
     669932331,
     669932313
   ],
   "tags": {
+    "description": "1543 Gräber von im \"Seuchenlager\" Herleshausen zwischen 1942 und 1945 gestorbenen sowjetischen Kriegsgefangenen",
+    "heritage": "4",
+    "heritage:operator": "LfDH",
     "landuse": "cemetery",
     "name": "Sowjetische Kriegsgräberstätte",
-    "note:de": "1543 Gräber von im \"Seuchenlager\" Herleshausen zwischen 1942 und 1945 gestorbenen sowjetischen Kriegsgefangenen"
+    "wikidata": "Q2305014"
   }
 },
 {
@@ -2164,7 +2186,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof Gispersleben",
-    "website": "https://www.erfurt.de/ef/de/erleben/sehenswertes/friedhoefe/ortsteilfriedhof/108174.html"
+    "website": "https://www.erfurt.de/ef/de/erleben/sehenswertes/friedhoefe/ortsteilfriedhof/108174.html",
+    "wikidata": "Q136934370"
   }
 },
 {
@@ -2203,7 +2226,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof"
+    "name": "Friedhof",
+    "wikidata": "Q136455369"
   }
 },
 {
@@ -2254,8 +2278,7 @@
     738808816
   ],
   "tags": {
-    "landuse": "cemetery",
-    "name": "Friedhof"
+    "landuse": "cemetery"
   }
 },
 {
@@ -2300,7 +2323,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name:signed": "no"
+    "name:signed": "no",
+    "wikidata": "Q134981449"
   }
 },
 {
@@ -2336,7 +2360,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof"
+    "name": "Friedhof",
+    "wikidata": "Q25474237"
   }
 },
 {
@@ -2446,20 +2471,27 @@
   "type": "way",
   "id": 72439857,
   "center": {
-    "lat": 51.3783043,
-    "lon": 10.0929756
+    "lat": 51.3783081,
+    "lon": 10.0929889
   },
   "nodes": [
     860127439,
     1950466371,
     860127428,
     1950466335,
+    13665399997,
+    13665413204,
     1950466358,
     1950466373,
     860127419,
+    13665399992,
+    13665399993,
     860127437,
     1950466364,
+    13665399994,
+    13665399995,
     1950466337,
+    13665413203,
     860127439
   ],
   "tags": {
@@ -2726,6 +2758,7 @@
     919741391,
     919741392,
     919741393,
+    919741449,
     919741390
   ],
   "tags": {
@@ -2930,16 +2963,18 @@
   "type": "way",
   "id": 87593259,
   "center": {
-    "lat": 51.5192850,
-    "lon": 10.0945935
+    "lat": 51.5192797,
+    "lon": 10.0945795
   },
   "nodes": [
     1018936189,
     8202278934,
     1018936183,
     1018936182,
+    13535330824,
     8202278767,
     8202278768,
+    13535330823,
     1018936181,
     8202278935,
     8202278769,
@@ -3061,15 +3096,19 @@
   "type": "way",
   "id": 90581283,
   "center": {
-    "lat": 51.4298578,
-    "lon": 10.0022326
+    "lat": 51.4298649,
+    "lon": 10.0022573
   },
   "nodes": [
     1051186190,
     1051186497,
+    13511773952,
+    13511773953,
     1051185702,
+    13511773954,
     1051186244,
     1051186431,
+    13511773951,
     1051186060,
     1051186190
   ],
@@ -3109,7 +3148,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof Großburschla"
+    "name": "Friedhof Großburschla",
+    "wikidata": "Q132473653"
   }
 },
 {
@@ -3828,7 +3868,7 @@
   "type": "way",
   "id": 108832183,
   "center": {
-    "lat": 51.6809414,
+    "lat": 51.6807699,
     "lon": 10.0978388
   },
   "nodes": [
@@ -3836,9 +3876,6 @@
     1247752700,
     1247752676,
     1247752655,
-    1247752685,
-    1247752682,
-    1247752702,
     1247752658,
     1247752652,
     1247752661,
@@ -4080,7 +4117,8 @@
     1264733680
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wikidata": "Q131374904"
   }
 },
 {
@@ -4265,7 +4303,8 @@
     1343652078
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wikidata": "Q132307813"
   }
 },
 {
@@ -5143,13 +5182,12 @@
   "type": "way",
   "id": 145933921,
   "center": {
-    "lat": 51.5571077,
-    "lon": 10.0608408
+    "lat": 51.5570920,
+    "lon": 10.0607687
   },
   "nodes": [
     1592540273,
     9921644105,
-    9921655420,
     9921644104,
     9921495482,
     1592540298,
@@ -5164,9 +5202,10 @@
     9921655432,
     9921655431,
     9921655430,
-    9921655429,
     3443071619,
+    13596563224,
     3443071618,
+    13596563218,
     3443071617,
     12768166287,
     1592540313,
@@ -5268,7 +5307,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof"
+    "name": "Friedhof",
+    "wikidata": "Q137642468"
   }
 },
 {
@@ -5517,7 +5557,8 @@
     1686997623
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wikidata": "Q132471859"
   }
 },
 {
@@ -6047,14 +6088,16 @@
   "type": "way",
   "id": 170485478,
   "center": {
-    "lat": 51.5285138,
-    "lon": 10.0652136
+    "lat": 51.5285202,
+    "lon": 10.0652184
   },
   "nodes": [
     1816288795,
     1816288816,
+    13587236197,
+    13587242396,
+    13587236198,
     1816288796,
-    1816288807,
     1816288812,
     1816288795
   ],
@@ -6267,8 +6310,8 @@
   "type": "way",
   "id": 175638109,
   "center": {
-    "lat": 51.6066038,
-    "lon": 10.2182461
+    "lat": 51.6065902,
+    "lon": 10.2182427
   },
   "nodes": [
     1862009782,
@@ -6278,11 +6321,15 @@
     1862009689,
     1862009692,
     1862009697,
+    274901856,
+    11191082680,
     1862009782
   ],
   "tags": {
+    "contact:website": "https://www.st-laurentius-gieboldehausen.de/kontakt/",
     "landuse": "cemetery",
-    "name": "Friedhof Gieboldehausen"
+    "name": "Friedhof Gieboldehausen",
+    "operator": "Katholische Kirchengemeinde St. Laurentius Gieboldehausen"
   }
 },
 {
@@ -7483,12 +7530,14 @@
   "type": "way",
   "id": 184473334,
   "center": {
-    "lat": 51.2280155,
+    "lat": 51.2280145,
     "lon": 10.0807263
   },
   "nodes": [
     1949622165,
     1754245451,
+    13587486931,
+    13587486932,
     1754245445,
     1754245453,
     1754245455,
@@ -7512,6 +7561,8 @@
   },
   "nodes": [
     1949669951,
+    13580772596,
+    13580772599,
     1949669932,
     1949669902,
     1949669937,
@@ -7521,7 +7572,7 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof"
+    "name": "Friedhof Pfaffschwende"
   }
 },
 {
@@ -7536,13 +7587,19 @@
     1949669999,
     1949669891,
     1949669871,
+    13580772555,
+    13580772563,
+    13580772557,
     1949669926,
+    13580772558,
     1949670005,
     1949669890,
     1949670013,
     1949669848,
     1949669967,
     1949669996,
+    13580772566,
+    13580772565,
     1949669853
   ],
   "tags": {
@@ -7567,15 +7624,16 @@
     1949689394
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Volkerode"
   }
 },
 {
   "type": "way",
   "id": 184479373,
   "center": {
-    "lat": 51.2517445,
-    "lon": 10.1201310
+    "lat": 51.2517431,
+    "lon": 10.1201234
   },
   "nodes": [
     1949713999,
@@ -7599,15 +7657,25 @@
   "type": "way",
   "id": 184480777,
   "center": {
-    "lat": 51.2531568,
-    "lon": 10.1341405
+    "lat": 51.2530945,
+    "lon": 10.1340869
   },
   "nodes": [
     1949729575,
+    13603480884,
+    13603480883,
+    13603480882,
     1949729605,
     1949729582,
     1949729589,
+    13603480881,
+    13603480880,
+    13603480879,
+    13603480878,
+    13603480877,
+    13603480876,
     1949729599,
+    13603480885,
     1949729575
   ],
   "tags": {
@@ -7631,8 +7699,10 @@
     1950435212
   ],
   "tags": {
+    "denomination": "roman_catholic",
     "landuse": "cemetery",
-    "name": "Friedhof Burgwalde"
+    "name": "Friedhof Burgwalde",
+    "religion": "christian"
   }
 },
 {
@@ -7661,20 +7731,23 @@
   "type": "way",
   "id": 184560523,
   "center": {
-    "lat": 51.3977617,
-    "lon": 10.0520755
+    "lat": 51.3977656,
+    "lon": 10.0520753
   },
   "nodes": [
     1950561049,
     1754715948,
     1754715946,
-    6576348112,
-    1950561047,
+    13685462030,
+    13685462059,
+    13685462031,
     1950561049
   ],
   "tags": {
+    "denomination": "roman_catholic",
     "landuse": "cemetery",
     "name": "Friedhof Schachtebich",
+    "religion": "christian",
     "wikidata": "Q136169190"
   }
 },
@@ -7974,13 +8047,12 @@
   "type": "way",
   "id": 185496718,
   "center": {
-    "lat": 51.3554190,
-    "lon": 10.0447321
+    "lat": 51.3554249,
+    "lon": 10.0447165
   },
   "nodes": [
     1960948156,
     1960948160,
-    6598314729,
     6598314730,
     1960948157,
     1960948155,
@@ -7988,7 +8060,7 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof"
+    "name": "Friedhof Thalwenden"
   }
 },
 {
@@ -8806,7 +8878,8 @@
     2124065513
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wikidata": "Q132473568"
   }
 },
 {
@@ -10302,7 +10375,8 @@
     2403658809
   ],
   "tags": {
-    "amenity": "grave_yard",
+    "denomination": "protestant",
+    "landuse": "cemetery",
     "religion": "christian"
   }
 },
@@ -10679,7 +10753,8 @@
     "denomination": "lutheran",
     "description": "Der Mihlaer Gemeindefriedhof ist der Hauptfriedhof des Ortes. Der Mihlaer Gottesacker um die Kirche war bis zum Ersten Weltkrieg in Nutzung, heute nur noch als Park genutzt.",
     "landuse": "cemetery",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q113576720"
   }
 },
 {
@@ -10896,7 +10971,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof Faulungen"
+    "name": "Friedhof Faulungen",
+    "wikidata": "Q137606148"
   }
 },
 {
@@ -11155,7 +11231,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Ehrenfriedhof",
+    "name": "Kriegsgräberstätte",
+    "old_name": "Ehrenfriedhof",
     "operator": "Volksbund Deutsche Kriegsgräberfürsorge",
     "religion": "christian",
     "wikidata": "Q60203860"
@@ -11544,6 +11621,7 @@
     1272465629,
     1272465513,
     2813871073,
+    13391456909,
     8243043493,
     2813871089,
     3951483687
@@ -11605,7 +11683,7 @@
   "id": 280082898,
   "center": {
     "lat": 51.2949465,
-    "lon": 10.0684423
+    "lon": 10.0684365
   },
   "nodes": [
     2842628073,
@@ -11797,7 +11875,7 @@
   "type": "way",
   "id": 283422205,
   "center": {
-    "lat": 51.4896633,
+    "lat": 51.4896745,
     "lon": 10.2297640
   },
   "nodes": [
@@ -11970,7 +12048,8 @@
     2907349158
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Fuhrbach"
   }
 },
 {
@@ -11995,14 +12074,17 @@
   "type": "way",
   "id": 288269233,
   "center": {
-    "lat": 51.2812570,
-    "lon": 10.1162626
+    "lat": 51.2812349,
+    "lon": 10.1162474
   },
   "nodes": [
     2918275838,
+    13609157546,
+    13609157547,
     2918275840,
     2918275834,
     2918275835,
+    13310722186,
     2918275838
   ],
   "tags": {
@@ -12018,7 +12100,9 @@
   },
   "nodes": [
     2918275807,
+    13570285302,
     2918275809,
+    13570285303,
     2918275811,
     2918275803,
     2918275800,
@@ -12026,7 +12110,8 @@
     2918275807
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Wiesenfeld"
   }
 },
 {
@@ -12068,7 +12153,7 @@
     2928764195,
     1754276959,
     2928764191,
-    11781265604,
+    9694925767,
     11781265602,
     11781265601,
     1754276957,
@@ -12456,11 +12541,13 @@
   "type": "way",
   "id": 297604668,
   "center": {
-    "lat": 51.7453716,
+    "lat": 51.7453737,
     "lon": 10.2896736
   },
   "nodes": [
     3015026233,
+    13393840571,
+    13393840570,
     439727020,
     2094893333,
     7053134110,
@@ -12469,6 +12556,7 @@
     3015026238,
     3015026239,
     3015026240,
+    1751658674,
     3015026233
   ],
   "tags": {
@@ -12612,7 +12700,8 @@
     3128134342
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wikidata": "Q137593430"
   }
 },
 {
@@ -12709,7 +12798,8 @@
     3201133788
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Oberspier"
   }
 },
 {
@@ -12808,7 +12898,8 @@
     3245342917
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wikidata": "Q136031929"
   }
 },
 {
@@ -12847,7 +12938,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q113550503"
   }
 },
 {
@@ -13052,14 +13144,16 @@
   "type": "way",
   "id": 358200193,
   "center": {
-    "lat": 51.6622924,
+    "lat": 51.6623067,
     "lon": 10.6698399
   },
   "nodes": [
     3631612337,
     3631612338,
+    13381484065,
     3631612335,
     3631612332,
+    13381484066,
     3631612333,
     3631612334,
     3631612336,
@@ -13341,18 +13435,32 @@
   "id": 368905765,
   "center": {
     "lat": 51.5256442,
-    "lon": 10.9250618
+    "lon": 10.9250195
   },
   "nodes": [
     3727462740,
+    13428639669,
+    13428639672,
+    13428639671,
+    13428639670,
     3727462736,
+    13428639687,
     3727462735,
+    13428639686,
+    13428639685,
+    13428639684,
+    13428639683,
+    13428639682,
+    13428639676,
     3727462738,
+    13428639668,
     3727462739,
     3727462740
   ],
   "tags": {
-    "landuse": "cemetery"
+    "denomination": "protestant",
+    "landuse": "cemetery",
+    "religion": "christian"
   }
 },
 {
@@ -13561,7 +13669,8 @@
   "tags": {
     "denomination": "protestant",
     "landuse": "cemetery",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q136462746"
   }
 },
 {
@@ -13922,7 +14031,9 @@
     4104350006
   ],
   "tags": {
-    "amenity": "grave_yard"
+    "denomination": "protestant",
+    "landuse": "cemetery",
+    "religion": "christian"
   }
 },
 {
@@ -14054,23 +14165,22 @@
   "type": "way",
   "id": 403024041,
   "center": {
-    "lat": 51.5426393,
-    "lon": 10.8157810
+    "lat": 51.5426521,
+    "lon": 10.8157786
   },
   "nodes": [
     4054124465,
     4054124466,
-    4054124467,
     4054124468,
-    4054124469,
-    4054124508,
     4054124470,
     11131048198,
     4054124471,
     4054124465
   ],
   "tags": {
-    "landuse": "cemetery"
+    "denomination": "protestant",
+    "landuse": "cemetery",
+    "religion": "christian"
   }
 },
 {
@@ -14123,14 +14233,18 @@
   "id": 404869402,
   "center": {
     "lat": 51.5442613,
-    "lon": 10.8810114
+    "lon": 10.8810148
   },
   "nodes": [
-    4071212787,
+    13530083579,
+    13530083582,
+    13530083583,
+    13530083584,
+    13530083581,
     4071212788,
     4071212789,
     4071212790,
-    4071212787
+    13530083579
   ],
   "tags": {
     "denomination": "protestant",
@@ -14156,7 +14270,7 @@
   ],
   "tags": {
     "barrier": "wall",
-    "denomination": "lutheran",
+    "denomination": "protestant",
     "landuse": "cemetery",
     "name": "Evangelischer Friedhof",
     "religion": "christian"
@@ -14227,7 +14341,9 @@
     4120791354
   ],
   "tags": {
-    "landuse": "cemetery"
+    "denomination": "protestant",
+    "landuse": "cemetery",
+    "religion": "christian"
   }
 },
 {
@@ -14251,23 +14367,29 @@
     1037474437
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wikidata": "Q137452674"
   }
 },
 {
   "type": "way",
   "id": 422581199,
   "center": {
-    "lat": 51.3462866,
-    "lon": 10.9338584
+    "lat": 51.3463065,
+    "lon": 10.9338512
   },
   "nodes": [
     4223287661,
     4223287662,
     1577889776,
+    13314454381,
+    13314454380,
     1577889792,
     10844413633,
+    13314454379,
     10844413634,
+    13314454378,
+    13314454377,
     1577889698,
     4223287661
   ],
@@ -14345,7 +14467,8 @@
     4328256887
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof"
   }
 },
 {
@@ -14400,6 +14523,26 @@
 },
 {
   "type": "way",
+  "id": 443580295,
+  "center": {
+    "lat": 51.5772686,
+    "lon": 10.9230171
+  },
+  "nodes": [
+    2958468725,
+    4411381811,
+    2958468724,
+    2958468728,
+    2958468727,
+    2958468725
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
   "id": 443922908,
   "center": {
     "lat": 51.6228011,
@@ -14445,8 +14588,8 @@
   "type": "way",
   "id": 451025187,
   "center": {
-    "lat": 51.8667270,
-    "lon": 10.1036487
+    "lat": 51.8667117,
+    "lon": 10.1035253
   },
   "nodes": [
     4478796535,
@@ -14456,8 +14599,6 @@
     4478796531,
     4478796533,
     4478796536,
-    4478796537,
-    4478796538,
     4478796535
   ],
   "tags": {
@@ -14519,10 +14660,6 @@
   "nodes": [
     4601342343,
     285958325,
-    8025328653,
-    10246227471,
-    8025328659,
-    10246227469,
     4601342342,
     4601342344,
     4601342343
@@ -14807,7 +14944,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof Breitenbach"
+    "name": "Friedhof Breitenbach",
+    "wikidata": "Q137452664"
   }
 },
 {
@@ -15044,7 +15182,8 @@
     5273937553
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wikidata": "Q135034934"
   }
 },
 {
@@ -15093,7 +15232,8 @@
     "image": "https://commons.wikimedia.org/wiki/File:WAK_HALLUNGEN_KIRCHE1.jpg",
     "landuse": "cemetery",
     "name": "Friedhof",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q137443065"
   }
 },
 {
@@ -15672,7 +15812,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Hauptfriedhof"
+    "name": "Hauptfriedhof",
+    "wikidata": "Q137205111"
   }
 },
 {
@@ -15898,7 +16039,8 @@
     6306115543
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name:signed": "no"
   }
 },
 {
@@ -16386,7 +16528,8 @@
     7155995406
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wikidata": "Q132484944"
   }
 },
 {
@@ -16483,7 +16626,8 @@
     "addr:street": "Dorfstraße",
     "addr:suburb": "Spichra",
     "landuse": "cemetery",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q132471963"
   }
 },
 {
@@ -16510,7 +16654,8 @@
     "addr:postcode": "99819",
     "addr:street": "Oberstraße",
     "landuse": "cemetery",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q132471700"
   }
 },
 {
@@ -16534,7 +16679,8 @@
     "addr:postcode": "99817",
     "addr:street": "Am Eichelberg",
     "addr:suburb": "Madelungen",
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wikidata": "Q132476696"
   }
 },
 {
@@ -16902,7 +17048,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Gemeindefriedhof",
-    "religion": "christian"
+    "religion": "christian",
+    "wikidata": "Q131375071"
   }
 },
 {
@@ -17263,7 +17410,8 @@
   "tags": {
     "amenity": "grave_yard",
     "landuse": "cemetery",
-    "name": "Bergfriedhof"
+    "name": "Bergfriedhof",
+    "wikidata": "Q137041210"
   }
 },
 {
@@ -17362,7 +17510,8 @@
     7829228109
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wikidata": "Q137443307"
   }
 },
 {
@@ -17736,8 +17885,8 @@
   "type": "way",
   "id": 949875514,
   "center": {
-    "lat": 51.4578493,
-    "lon": 10.0353269
+    "lat": 51.4578381,
+    "lon": 10.0353229
   },
   "nodes": [
     8793384312,
@@ -20076,6 +20225,138 @@
   "tags": {
     "landuse": "cemetery",
     "wikidata": "Q117301289"
+  }
+},
+{
+  "type": "way",
+  "id": 1480702027,
+  "center": {
+    "lat": 51.2491634,
+    "lon": 10.0981751
+  },
+  "nodes": [
+    13580772558,
+    13580772559,
+    13580772560,
+    13580772561,
+    13580772562,
+    13580772563,
+    13580772557,
+    1949669926,
+    13580772558
+  ],
+  "tags": {
+    "amenity": "grave_yard"
+  }
+},
+{
+  "type": "way",
+  "id": 1480702028,
+  "center": {
+    "lat": 51.2488836,
+    "lon": 10.0983043
+  },
+  "nodes": [
+    13580772564,
+    13580772565,
+    13580772566,
+    13580772567,
+    13580772568,
+    13580772564
+  ],
+  "tags": {
+    "amenity": "grave_yard"
+  }
+},
+{
+  "type": "way",
+  "id": 1483631672,
+  "center": {
+    "lat": 51.2638602,
+    "lon": 10.1262629
+  },
+  "nodes": [
+    13604187965,
+    13604187970,
+    13604187966,
+    13604187967,
+    13604187968,
+    13604187965
+  ],
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Friedhof Lehna"
+  }
+},
+{
+  "type": "way",
+  "id": 1484734059,
+  "center": {
+    "lat": 51.2857086,
+    "lon": 10.0917056
+  },
+  "nodes": [
+    13612998932,
+    13612998933,
+    1417409410,
+    13612998934,
+    13612998932
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 1484734064,
+  "center": {
+    "lat": 51.2871799,
+    "lon": 10.0914855
+  },
+  "nodes": [
+    13612998948,
+    13612998949,
+    13612998950,
+    13612998951,
+    13612998952,
+    13612998953,
+    13612998954,
+    13612998948
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 1484744274,
+  "center": {
+    "lat": 51.0663928,
+    "lon": 10.6139781
+  },
+  "nodes": [
+    13613096113,
+    13613096114,
+    13613096115,
+    8905047571,
+    13613096116,
+    8905047607,
+    8905047606,
+    8905047605,
+    13613096117,
+    11960807136,
+    8905047624,
+    8905047625,
+    8905047626,
+    8905047619,
+    11960807138,
+    11960807137,
+    8905047620,
+    8905047627,
+    13613096113
+  ],
+  "tags": {
+    "landuse": "cemetery"
   }
 },
 {

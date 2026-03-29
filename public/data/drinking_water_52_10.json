@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:04:42Z",
+    "timestamp_osm_base": "2026-03-29T15:04:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -728,12 +728,14 @@
   "tags": {
     "access": "yes",
     "amenity": "toilets",
+    "check_date:opening_hours": "2025-08-23",
     "drinking_water": "yes",
     "fee": "no",
     "opening_hours": "Mo-Sa 07:00-19:00; Su 08:45-19:00",
     "operator": "Stadt Gifhorn",
     "toilets:disposal": "flush",
-    "toilets:position": "seated;urinal"
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
   }
 },
 {
@@ -902,8 +904,8 @@
 {
   "type": "node",
   "id": 4751190123,
-  "lat": 52.3404081,
-  "lon": 10.3593528,
+  "lat": 52.3404269,
+  "lon": 10.3593632,
   "tags": {
     "amenity": "drinking_water",
     "check_date": "2024-07-07",
@@ -954,11 +956,28 @@
 {
   "type": "node",
   "id": 6823756541,
-  "lat": 52.4628444,
-  "lon": 10.6044926,
+  "lat": 52.4628190,
+  "lon": 10.6045210,
   "tags": {
     "drinking_water": "yes",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 7359999879,
+  "lat": 52.8265580,
+  "lon": 10.1081354,
+  "tags": {
+    "drinking_water": "yes",
+    "fee": "no",
+    "internet_access": "no",
+    "name": "Waldschwimmbad",
+    "power_supply": "no",
+    "sanitary_dump_station": "public",
+    "toilets": "no",
+    "tourism": "caravan_site",
+    "wheelchair": "yes"
   }
 },
 {
@@ -1240,6 +1259,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "man_made": "water_tap",
     "wheelchair": "yes"
   }
 },
@@ -1277,6 +1297,7 @@
     "amenity": "drinking_water",
     "fee": "no",
     "fountain": "nasone",
+    "seasonal": "yes",
     "wheelchair": "yes"
   }
 },
@@ -1370,6 +1391,81 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13167765705,
+  "lat": 52.1796457,
+  "lon": 10.5578458,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "operator:type": "university",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13196229833,
+  "lat": 52.8018430,
+  "lon": 10.1036669,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13301666195,
+  "lat": 52.1763938,
+  "lon": 10.5487251,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "description": "Hier können Trinkflaschen aufgefüllt werden",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "yes",
+    "level": "0",
+    "lit": "yes",
+    "name": "Wasserspender",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13436063570,
+  "lat": 52.2646331,
+  "lon": 10.5190142,
+  "tags": {
+    "amenity": "drinking_water",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13566884694,
+  "lat": 52.8753938,
+  "lon": 10.4313585,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Quelle am Jakobsweg",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13631039801,
+  "lat": 52.2674224,
+  "lon": 10.5511840,
+  "tags": {
+    "amenity": "drinking_water",
+    "seasonal": "yes"
   }
 }
 

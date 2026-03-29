@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:02:36Z",
+    "timestamp_osm_base": "2026-03-29T15:31:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -91,6 +91,18 @@
 },
 {
   "type": "node",
+  "id": 592638501,
+  "lat": 50.0064198,
+  "lon": 9.2697297,
+  "tags": {
+    "drinking_water": "yes",
+    "fee": "no",
+    "name": "Preußenborn",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
   "id": 593183737,
   "lat": 50.6551184,
   "lon": 9.2588567,
@@ -130,6 +142,17 @@
 },
 {
   "type": "node",
+  "id": 697321255,
+  "lat": 50.0246534,
+  "lon": 9.3257134,
+  "tags": {
+    "drinkable": "no",
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
   "id": 697358282,
   "lat": 50.3622841,
   "lon": 9.9889455,
@@ -165,18 +188,6 @@
 },
 {
   "type": "node",
-  "id": 885560068,
-  "lat": 50.3955428,
-  "lon": 9.9986349,
-  "tags": {
-    "amenity": "drinking_water",
-    "check_date": "2024-01-03",
-    "description": "Kiliansbrunnen",
-    "name": "Kiliansbrunnen"
-  }
-},
-{
-  "type": "node",
   "id": 910355415,
   "lat": 50.1329250,
   "lon": 9.5517588,
@@ -187,9 +198,10 @@
 {
   "type": "node",
   "id": 946004080,
-  "lat": 50.3119361,
-  "lon": 9.7975559,
+  "lat": 50.3119547,
+  "lon": 9.7975550,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water"
   }
 },
@@ -302,6 +314,16 @@
 },
 {
   "type": "node",
+  "id": 1696909116,
+  "lat": 50.0829999,
+  "lon": 9.3732206,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
   "id": 1806397537,
   "lat": 50.1652025,
   "lon": 9.2601445,
@@ -404,6 +426,7 @@
   "tags": {
     "amenity": "drinking_water",
     "fountain": "drinking",
+    "indoor": "yes",
     "opening_hours": "Apr-Oct Mo-Su 9:00-20:00",
     "wheelchair": "yes"
   }
@@ -416,6 +439,7 @@
   "tags": {
     "amenity": "drinking_water",
     "fountain": "drinking",
+    "indoor": "yes",
     "opening_hours": "Apr-Sep Mo-Su 09:00-20:00; Oct-Mar Mo-Su 09:00-19:00",
     "toilets:wheelchair": "yes",
     "wheelchair": "yes"
@@ -557,15 +581,6 @@
 },
 {
   "type": "node",
-  "id": 3334040752,
-  "lat": 50.0667017,
-  "lon": 9.1634883,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 3526836161,
   "lat": 50.1576637,
   "lon": 9.5283966,
@@ -577,6 +592,17 @@
     "name:de": "Aasmannsbörnche",
     "natural": "spring",
     "waterway": "weir"
+  }
+},
+{
+  "type": "node",
+  "id": 3609611148,
+  "lat": 50.6740168,
+  "lon": 9.7656093,
+  "tags": {
+    "disused:amenity": "fountain",
+    "drinking_water": "yes",
+    "operational_status": "broken"
   }
 },
 {
@@ -605,7 +631,9 @@
   "lat": 50.2312479,
   "lon": 9.3420264,
   "tags": {
+    "bottle": "yes",
     "drinking_water": "yes",
+    "fee": "no",
     "name": "Martinusquelle",
     "natural": "spring"
   }
@@ -775,6 +803,7 @@
   "tags": {
     "amenity": "drinking_water",
     "fountain": "bottle_refill",
+    "indoor": "yes",
     "name": "Wasserspender",
     "wheelchair": "yes"
   }
@@ -906,8 +935,11 @@
   "lat": 50.2212741,
   "lon": 9.3504772,
   "tags": {
+    "bottle": "yes",
     "drinking_water": "yes",
-    "natural": "spring"
+    "fee": "no",
+    "natural": "spring",
+    "opening_hours": "24/7"
   }
 },
 {
@@ -974,15 +1006,6 @@
   "id": 7545773694,
   "lat": 50.8767969,
   "lon": 9.3237764,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
-  "id": 7589860853,
-  "lat": 50.3949663,
-  "lon": 9.9960437,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -1120,6 +1143,17 @@
     "check_date": "2024-11-03",
     "drinking_water": "yes",
     "name": "Grumbachborn",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8253640583,
+  "lat": 50.0310187,
+  "lon": 9.2973706,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Rotborn",
     "natural": "spring"
   }
 },
@@ -1273,16 +1307,6 @@
     "amenity": "drinking_water",
     "capacity": "1",
     "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 9846226816,
-  "lat": 50.6740180,
-  "lon": 9.7656090,
-  "tags": {
-    "amenity": "drinking_water",
-    "fountain": "drinking"
   }
 },
 {
@@ -1652,8 +1676,8 @@
 {
   "type": "node",
   "id": 12080365333,
-  "lat": 50.1484234,
-  "lon": 9.6464835,
+  "lat": 50.1484284,
+  "lon": 9.6464337,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -1751,7 +1775,9 @@
   "lat": 50.6704492,
   "lon": 9.7638166,
   "tags": {
+    "bottle": "yes",
     "drinking_water": "yes",
+    "fee": "no",
     "man_made": "water_well"
   }
 },
@@ -1827,7 +1853,7 @@
   "lon": 9.6803706,
   "tags": {
     "access": "yes",
-    "amenity": "drinking_water",
+    "disused:amenity": "drinking_water",
     "fee": "no",
     "fountain": "bubbler",
     "operator": "Stadt Fulda"
@@ -1852,6 +1878,17 @@
     "amenity": "drinking_water",
     "fountain": "stone_block",
     "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 12772866941,
+  "lat": 50.8719864,
+  "lon": 9.8729704,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_well"
   }
 },
 {
@@ -1900,7 +1937,7 @@
   "lon": 9.6834349,
   "tags": {
     "access": "yes",
-    "amenity": "drinking_water",
+    "disused:amenity": "drinking_water",
     "fee": "no",
     "fountain": "bubbler",
     "operator": "Stadt Fulda",
@@ -1954,16 +1991,8 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bubbler",
     "operator": "Stadt Fulda"
-  }
-},
-{
-  "type": "node",
-  "id": 12990068258,
-  "lat": 50.5533567,
-  "lon": 9.6723325,
-  "tags": {
-    "amenity": "drinking_water"
   }
 },
 {
@@ -1988,6 +2017,88 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13089365014,
+  "lat": 50.2254450,
+  "lon": 9.3485646,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13115117203,
+  "lat": 50.5315949,
+  "lon": 9.6731840,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_works",
+    "operator": "RhönEnergie Fulda"
+  }
+},
+{
+  "type": "node",
+  "id": 13138503437,
+  "lat": 50.0154389,
+  "lon": 9.2834860,
+  "tags": {
+    "covered": "no",
+    "drinking_water": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "support": "wall_mounted",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13191082701,
+  "lat": 50.5490958,
+  "lon": 9.6752815,
+  "tags": {
+    "disused:amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13434555517,
+  "lat": 50.2926313,
+  "lon": 9.1162205,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13618756537,
+  "lat": 50.0085970,
+  "lon": 9.3201542,
+  "tags": {
+    "caravans": "no",
+    "drinking_water": "yes",
+    "name": "Zeltwiese",
+    "power_supply": "yes",
+    "sauna": "no",
+    "swimming_pool": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site"
+  }
+},
+{
+  "type": "node",
+  "id": 13675950722,
+  "lat": 50.5642324,
+  "lon": 9.1031182,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

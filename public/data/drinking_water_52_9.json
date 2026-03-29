@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:04:42Z",
+    "timestamp_osm_base": "2026-03-29T15:04:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -10,8 +10,8 @@
 {
   "type": "node",
   "id": 278358034,
-  "lat": 52.3714361,
-  "lon": 9.7810905,
+  "lat": 52.3713838,
+  "lon": 9.7811257,
   "tags": {
     "amenity": "fountain",
     "check_date": "2023-03-29",
@@ -111,6 +111,8 @@
   "lon": 9.3514414,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-09-24",
+    "fountain": "bubbler",
     "wheelchair": "yes"
   }
 },
@@ -121,6 +123,8 @@
   "lon": 9.3513307,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-09-24",
+    "fountain": "bubbler",
     "wheelchair": "yes"
   }
 },
@@ -368,8 +372,8 @@
 {
   "type": "node",
   "id": 4404873748,
-  "lat": 52.6641127,
-  "lon": 9.4814989,
+  "lat": 52.6641081,
+  "lon": 9.4815322,
   "tags": {
     "amenity": "drinking_water",
     "fee": "yes"
@@ -476,7 +480,8 @@
   "lon": 9.9356342,
   "tags": {
     "amenity": "water_point",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "no"
   }
 },
 {
@@ -486,7 +491,8 @@
   "lon": 9.9346894,
   "tags": {
     "amenity": "water_point",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "no"
   }
 },
 {
@@ -521,6 +527,7 @@
   "lon": 9.5576290,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2026-01-22",
     "drinking_water": "unknown",
     "man_made": "water_tap"
   }
@@ -853,7 +860,9 @@
   "lat": 52.2713551,
   "lon": 9.5669315,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "indoor": "no",
+    "man_made": "water_tap"
   }
 },
 {
@@ -921,6 +930,7 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "fountain": "bubbler",
     "wheelchair": "yes"
   }
 },
@@ -963,8 +973,8 @@
 {
   "type": "node",
   "id": 12199189701,
-  "lat": 52.4260100,
-  "lon": 9.4277690,
+  "lat": 52.4259877,
+  "lon": 9.4277296,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -972,7 +982,8 @@
     "fee": "no",
     "fountain": "drinking",
     "name": "Euro-Trinkbrunnen",
-    "operator": "Avacon Wasser"
+    "operator": "Avacon Wasser",
+    "source": "survey"
   }
 },
 {
@@ -1069,7 +1080,8 @@
   "lat": 52.3913726,
   "lon": 9.7355190,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -1124,6 +1136,142 @@
   "tags": {
     "drinking_water": "yes",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13094040679,
+  "lat": 52.5040877,
+  "lon": 9.6185992,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13094049624,
+  "lat": 52.5035033,
+  "lon": 9.6201524,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13094063092,
+  "lat": 52.5036565,
+  "lon": 9.6188575,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13094065249,
+  "lat": 52.5035097,
+  "lon": 9.6206105,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13094070690,
+  "lat": 52.5036358,
+  "lon": 9.6197312,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13098704704,
+  "lat": 52.4407820,
+  "lon": 9.7360230,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "drinking_fountain",
+    "opening_hours": "Apr-Oct",
+    "operator": "Stadt Langenhagen",
+    "website": "https://www.langenhagen.de/trinkbrunnen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13098714053,
+  "lat": 52.1455614,
+  "lon": 9.5343339,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "landuse": "cemetery",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13123003705,
+  "lat": 52.9327344,
+  "lon": 9.9658898,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13123003706,
+  "lat": 52.9334736,
+  "lon": 9.9655711,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13124404329,
+  "lat": 52.9334807,
+  "lon": 9.9658425,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13124443335,
+  "lat": 52.9336011,
+  "lon": 9.9657661,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13547317894,
+  "lat": 52.5673926,
+  "lon": 9.0256227,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
   }
 }
 

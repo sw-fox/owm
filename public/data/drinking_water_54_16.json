@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:06:45Z",
+    "timestamp_osm_base": "2026-03-29T15:41:13Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -59,7 +59,7 @@
     "drinking_water": "yes",
     "email": "wierzbowadolina@onet.pl",
     "name": "Wierzbowa Dolina",
-    "phone": "94 342 42 42;696 846 666",
+    "phone": "+48 94 342 42 42; +48 696 846 666",
     "shower": "yes",
     "toilets": "yes",
     "tourism": "guest_house",

@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:03:33Z",
+    "timestamp_osm_base": "2026-03-29T15:01:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -27,6 +27,32 @@
     "drinking_water": "yes",
     "name": "Singender Brunnen",
     "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 317427607,
+  "lat": 51.6169909,
+  "lon": 10.4904787,
+  "tags": {
+    "addr:city": "Bad Lauterberg im Harz",
+    "addr:housenumber": "75/77",
+    "addr:postcode": "37431",
+    "addr:street": "Wiesenbek",
+    "capacity:caravans": "50",
+    "capacity:tents": "30",
+    "caravans": "yes",
+    "contact:email": "info@campingwiesenbek.de",
+    "contact:phone": "+49 5524 2510",
+    "contact:website": "https://www.campingwiesenbek.de/",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Campingpark Wiesenbeker Teich",
+    "operator": "Familie Dombrowsky",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "tourism": "camp_site"
   }
 },
 {
@@ -482,6 +508,7 @@
   "tags": {
     "access": "permissive",
     "amenity": "toilets",
+    "check_date": "2026-02-28",
     "drinking_water": "yes",
     "fee": "no",
     "operator": "Wurmbergalm",
@@ -518,7 +545,8 @@
   "tags": {
     "drinking_water": "yes",
     "name": "Kühle Quelle",
-    "natural": "spring"
+    "natural": "spring",
+    "wikidata": "Q137673719"
   }
 },
 {
@@ -536,8 +564,8 @@
 {
   "type": "node",
   "id": 3464908602,
-  "lat": 51.4275589,
-  "lon": 10.3453250,
+  "lat": 51.4275823,
+  "lon": 10.3453082,
   "tags": {
     "access": "customers",
     "amenity": "toilets",
@@ -684,8 +712,8 @@
 {
   "type": "node",
   "id": 5582883624,
-  "lat": 51.7277007,
-  "lon": 10.6108652,
+  "lat": 51.7277264,
+  "lon": 10.6108692,
   "tags": {
     "amenity": "fountain",
     "drinking_water": "no",
@@ -909,8 +937,9 @@
   "lon": 10.7325508,
   "tags": {
     "access": "yes",
+    "disused:man_made": "water_tap",
     "drinking_water": "yes",
-    "man_made": "water_tap"
+    "note": "the water is not available on Aug. 2025"
   }
 },
 {
@@ -1178,8 +1207,8 @@
 {
   "type": "node",
   "id": 10596945700,
-  "lat": 51.3524271,
-  "lon": 10.9479309,
+  "lat": 51.3524264,
+  "lon": 10.9479079,
   "tags": {
     "access": "permit",
     "drinking_water": "yes",
@@ -1322,6 +1351,8 @@
   "lon": 10.7559359,
   "tags": {
     "amenity": "drinking_water",
+    "name": "Wasserhahn auf Friedhof, kein Trinkwasser",
+    "name:en": "Faucet on graveyard, not potable water",
     "seasonal": "yes"
   }
 },
@@ -1600,6 +1631,36 @@
     "toilets:disposal": "flush",
     "toilets:position": "seated",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13191099264,
+  "lat": 51.8569473,
+  "lon": 10.3437801,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13312182731,
+  "lat": 51.3475815,
+  "lon": 10.9450092,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Marktborn",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13589455311,
+  "lat": 51.2294290,
+  "lon": 10.0784709,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

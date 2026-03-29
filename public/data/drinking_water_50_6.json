@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:02:36Z",
+    "timestamp_osm_base": "2026-03-29T15:31:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -27,12 +27,15 @@
   "lat": 50.1602681,
   "lon": 6.8217040,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "check_date": "2024-04-10",
+    "check_date": "2025-10-10",
     "description": "Mineralbrunnen, Eisensäuerling",
     "discharge": "0.01 l/s",
+    "fee": "no",
     "name": "Sauerbrunnen",
-    "natural": "spring"
+    "natural": "spring",
+    "wheelchair": "no"
   }
 },
 {
@@ -43,6 +46,7 @@
   "tags": {
     "alt_name": "Spatzenbrunnen",
     "amenity": "drinking_water",
+    "description": "im Winter abgestellt",
     "fountain": "drinking",
     "image": "File:Spatzenbrunnen, Aachen.jpg",
     "name": "Möschebrunnen",
@@ -92,6 +96,7 @@
     "name": "Hotmannspief",
     "name:de": "Hotmannspief",
     "old_name": "Houpmannspeif",
+    "panoramax": "5f65b608-9802-44be-9407-3c6384730e3c",
     "wikidata": "Q1631192",
     "wikimedia_commons": "Category:Hotmannspief",
     "wikipedia": "de:Hotmannspief"
@@ -176,8 +181,8 @@
 {
   "type": "node",
   "id": 537788726,
-  "lat": 50.1848594,
-  "lon": 6.8330439,
+  "lat": 50.1848841,
+  "lon": 6.8330806,
   "tags": {
     "drinking_water": "yes",
     "name": "Dunaris-Quelle",
@@ -210,6 +215,43 @@
   "lon": 6.9053849,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 778429505,
+  "lat": 50.9370099,
+  "lon": 6.9563876,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Köln",
+    "addr:housenumber": "68-82",
+    "addr:postcode": "50667",
+    "addr:street": "Hohe Straße",
+    "amenity": "library",
+    "check_date:opening_hours": "2026-03-28",
+    "drinking_water": "yes",
+    "hot_water": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "internet_access:password": "no",
+    "internet_access:ssid": "Stadtbibliothek.hotspot.koeln",
+    "level": "-1;0;1;2;3",
+    "name": "Interim der Zentralbibliothek",
+    "opening_hours": "Su,Mo 13:00-18:00, Tu,Th 10:00-20:00, We,Fr,Sa 10:00-18:00; PH off",
+    "opening_hours:service": "We,Fr 10:00-18:00, Tu,Th 10:00-20:00, Sa 10:00-15:00; Su,Mo,PH off",
+    "opening_hours:url": "https://www.stadt-koeln.de/leben-in-koeln/stadtbibliothek/interim-der-zentralbibliothek",
+    "operator": "Stadt Köln",
+    "operator:type": "government",
+    "operator:wikidata": "Q365",
+    "toilets": "yes",
+    "toilets:access": "yes",
+    "toilets:disposal": "flush",
+    "toilets:hands_drying": "paper_towel",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "website": "https://www.stadt-koeln.de/leben-in-koeln/stadtbibliothek/interim-der-zentralbibliothek",
+    "wheelchair": "yes"
   }
 },
 {
@@ -390,6 +432,7 @@
     "charge": "4.00 EUR",
     "description": "Wohnmobil-Wasseranschluß",
     "fee": "yes",
+    "man_made": "water_tap",
     "operator": "Stadt Monschau"
   }
 },
@@ -501,10 +544,11 @@
     "check_date": "2023-08-11",
     "covered": "no",
     "fee": "no",
-    "fountain": "drinking",
     "indoor": "no",
+    "man_made": "water_tap",
+    "note": "In den Wintermonaten abgeschaltet/abgebaut, wird im Frühjahr wieder in Betrieb genommen. Bitte nicht löschen!",
     "operator": "Stadt Aachen",
-    "source": "https://www.aachen.de/de/archiv/archiv_stadt_buerger/archiv_politik_verwaltung/archiv_pressemitteilungen/Trinkbrunnen.html",
+    "seasonal": "yes",
     "wheelchair": "yes"
   }
 },
@@ -621,10 +665,13 @@
   "lat": 50.1491421,
   "lon": 6.8248904,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "check_date": "2024-03-31",
+    "check_date": "2025-10-10",
+    "fee": "no",
     "historic": "heritage",
-    "man_made": "water_well"
+    "man_made": "water_well",
+    "wheelchair": "yes"
   }
 },
 {
@@ -706,7 +753,9 @@
   "lat": 50.1627933,
   "lon": 6.3360670,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-10-20",
+    "fountain": "bubbler"
   }
 },
 {
@@ -737,7 +786,9 @@
   "lon": 6.6550919,
   "tags": {
     "amenity": "drinking_water",
-    "fee": "yes"
+    "check_date": "2025-09-12",
+    "fee": "yes",
+    "man_made": "water_tap"
   }
 },
 {
@@ -814,21 +865,6 @@
     "toilets:position": "seated;urinal",
     "toilets:wheelchair": "yes",
     "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 4159710489,
-  "lat": 50.5467960,
-  "lon": 6.1401792,
-  "tags": {
-    "amenity": "drinking_water",
-    "drinking_water:legal": "no",
-    "inscription": "Source ferrugineuse légèrement chargé en radon",
-    "name": "Pouhon de Herzogenhügel",
-    "natural": "spring",
-    "source": "survey",
-    "water_characteristic": "radon"
   }
 },
 {
@@ -944,8 +980,8 @@
 {
   "type": "node",
   "id": 4474083540,
-  "lat": 50.9230288,
-  "lon": 6.3470594,
+  "lat": 50.9230011,
+  "lon": 6.3471238,
   "tags": {
     "access": "yes",
     "amenity": "toilets",
@@ -1196,7 +1232,7 @@
     "alt_name": "Burgbrunnen",
     "amenity": "drinking_water",
     "bottle": "yes",
-    "description": "Kohlensäurehalziges Mineralwasser",
+    "description": "Kohlensäurehaltiges Mineralwasser",
     "drinking_water": "yes",
     "indoor": "no",
     "name": "Hotzendrees",
@@ -1628,6 +1664,7 @@
     "amenity": "drinking_water",
     "description": "Eher salzig",
     "fee": "no",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Claudius_Therme_water.jpg",
     "man_made": "water_tap",
     "note": "Heilwasser aus der Quelle der Claudius Therme.",
     "operator": "Claudius Therme",
@@ -1793,7 +1830,8 @@
   "lon": 6.4455065,
   "tags": {
     "amenity": "water_point",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "donation"
   }
 },
 {
@@ -2070,7 +2108,7 @@
   "lat": 50.9585940,
   "lon": 6.6099621,
   "tags": {
-    "contact:phone": "+49 2271 751 68846",
+    "contact:phone": "+49 2271 75168846",
     "drinking_water": "yes",
     "man_made": "pumping_station",
     "mechanical_driver": "electric_motor",
@@ -2122,9 +2160,14 @@
   "lat": 50.7896863,
   "lon": 6.1136553,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
     "man_made": "water_tap",
-    "source": "https://www.aachen.de/DE/stadt_buerger/politik_verwaltung/pressemitteilungen/Trinkbrunnen.html"
+    "operator": "Stadt Aachen",
+    "seasonal": "yes"
   }
 },
 {
@@ -2713,15 +2756,6 @@
 },
 {
   "type": "node",
-  "id": 12025417828,
-  "lat": 50.0933781,
-  "lon": 6.8145218,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 12087071103,
   "lat": 50.5494446,
   "lon": 6.2212621,
@@ -2980,8 +3014,8 @@
 {
   "type": "node",
   "id": 12880824006,
-  "lat": 50.8233506,
-  "lon": 6.9609387,
+  "lat": 50.8233361,
+  "lon": 6.9609230,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
@@ -3138,7 +3172,7 @@
   "lat": 50.9400049,
   "lon": 6.9599860,
   "tags": {
-    "amenity": "fountain",
+    "amenity": "drinking_water",
     "fountain": "drinking",
     "wikimedia_commons": "File:Kurt-Hackenberg-Platz Köln, nach Neugestaltung, Mai 2018-0821.jpg"
   }
@@ -3169,6 +3203,127 @@
   "lon": 6.7968236,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13123291714,
+  "lat": 50.6203085,
+  "lon": 6.0914165,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13131628415,
+  "lat": 50.2235411,
+  "lon": 6.6603354,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13155794404,
+  "lat": 50.2564202,
+  "lon": 6.1234258,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "panoramax": "5d39d2af-c8be-4ef0-991b-418c71e67a66",
+    "room_temperature_water": "yes",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13174945473,
+  "lat": 50.8879220,
+  "lon": 6.9243157,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Autohof Eifeltor",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 13272933510,
+  "lat": 50.9511780,
+  "lon": 6.9543256,
+  "tags": {
+    "addr:city": "Köln",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "50670",
+    "addr:street": "Sudermanplatz",
+    "air_conditioning": "no",
+    "check_date": "2026-02-21",
+    "contact:phone": "+49 221 42314693",
+    "contact:website": "https://iglu-gug.org/",
+    "description": "Gemeinsam anders konsumieren - \nSeit 2019 dreht sich hier alles um einen fairen und ressourcenschonenden Konsum, reparieren und selber machen, gemeinsam aktiv werden und eine lebenswerte Zukunft für uns alle.",
+    "drinking_water": "yes",
+    "drinking_water:refill:network": "Refill Deutschland",
+    "image": "https://iglu-gug.org/wp-content/uploads/2022/09/IGLU-gUG_Shopansicht-980x700.jpg",
+    "internet_access": "wlan",
+    "name": "iglu - kiss the inuit",
+    "opening_hours": "Mo-Fr 11:00-18:00; Sa 11:00-16:00",
+    "operator": "iglu gUG",
+    "payment:account_cards": "yes",
+    "payment:cash": "yes",
+    "ref:vatin": "215/5868/1040",
+    "second_hand": "yes",
+    "shop": "charity",
+    "start_date": "2019-06-01",
+    "toilets": "yes",
+    "toilets:menstrual_products": "limited",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13385743189,
+  "lat": 50.8283486,
+  "lon": 6.8980070,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "City Bruehl"
+  }
+},
+{
+  "type": "node",
+  "id": 13385743190,
+  "lat": 50.8276528,
+  "lon": 6.9036189,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "operator": "City Bruehl"
+  }
+},
+{
+  "type": "node",
+  "id": 13604961794,
+  "lat": 50.2683066,
+  "lon": 6.7728349,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 }
 

@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-02T22:52:14Z",
+    "timestamp_osm_base": "2026-03-29T14:49:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1329,8 +1329,8 @@
   "type": "way",
   "id": 139453752,
   "center": {
-    "lat": 48.6501526,
-    "lon": 5.9098566
+    "lat": 48.6501533,
+    "lon": 5.9098633
   },
   "nodes": [
     1528808511,
@@ -1609,6 +1609,8 @@
     1601560015,
     1601560010,
     1601560005,
+    13351525185,
+    13351525172,
     1601560019,
     7500239892,
     1601560034,
@@ -2832,6 +2834,8 @@
     1558645410,
     1558645426,
     518769034,
+    13469216803,
+    13469216804,
     518769033,
     518769032,
     8975443718
@@ -3379,13 +3383,17 @@
   "type": "way",
   "id": 182769328,
   "center": {
-    "lat": 48.7057081,
-    "lon": 5.8472760
+    "lat": 48.7057037,
+    "lon": 5.8472225
   },
   "nodes": [
     1931252706,
+    13440420362,
     1931252703,
+    13440420366,
+    13440420367,
     1931252617,
+    13440420365,
     1931252598,
     1931252665,
     1931252671,
@@ -9424,6 +9432,7 @@
     "image": "File:Neufchateau cimetiere militaire francais.JPG",
     "landuse": "cemetery",
     "name": "Cimetière militaire franco-allemand de Neufchâteau",
+    "ref:FR:MemorialGenWeb": "49800",
     "tomb": "war_grave",
     "website": "https://www.volksbund.de/kriegsgraeberstaette/neufchateau.html",
     "wikidata": "Q20973858"
@@ -9439,6 +9448,7 @@
   "nodes": [
     2133783935,
     2133783932,
+    13577207086,
     2133783931,
     2133783938,
     2133783944,
@@ -15516,6 +15526,7 @@
     8322461251,
     8322461252,
     8322461250,
+    13524589826,
     514419350
   ],
   "tags": {

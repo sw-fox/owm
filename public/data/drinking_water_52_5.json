@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:04:42Z",
+    "timestamp_osm_base": "2026-03-29T15:03:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -25,8 +25,10 @@
     "toilets:wheelchair": "yes",
     "train": "yes",
     "uic_ref": "8400621",
+    "website": "https://www.ns.nl/stationsinformatie/ut/utrecht-centraal",
     "wheelchair": "yes",
     "wikidata": "Q575655",
+    "wikimedia_commons": "Category:Utrecht Central station",
     "wikipedia": "nl:Station Utrecht Centraal",
     "zone": "5000"
   }
@@ -226,7 +228,9 @@
   "lat": 52.3039251,
   "lon": 5.5075778,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "note": "Didn't work at 23-03-2026, probably seasonal",
+    "seasonal": "yes"
   }
 },
 {
@@ -236,6 +240,21 @@
   "lon": 5.2582043,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 1860427707,
+  "lat": 52.1941613,
+  "lon": 5.4405912,
+  "tags": {
+    "caravans": "yes",
+    "contact:website": "https://www.overbos-recreatiepark.nl/",
+    "drinking_water": "yes",
+    "name": "Overbos",
+    "shower": "yes",
+    "tents": "yes",
+    "tourism": "camp_site"
   }
 },
 {
@@ -265,7 +284,7 @@
     "bottle": "yes",
     "fee": "no",
     "fountain": "bottle_refill",
-    "image": "https://commons.wikimedia.org/wiki/File:PWN_Water_point_in_Hoorn.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/PWN_Water_point_in_Hoorn.jpg",
     "opening_hours": "Dec-Feb off",
     "operator": "PWN",
     "operator:short": "PWN",
@@ -314,10 +333,12 @@
   "lon": 5.1286785,
   "tags": {
     "amenity": "drinking_water",
-    "operator": "Vitens/(Jointhepipe?)",
-    "toilets:wheelchair": "yes",
-    "wheelchair": "yes",
-    "wheelchair:description": "Toilet 2,5 x 2,5 m."
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -397,6 +418,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Weesp_water_point.jpg",
     "operator": "PWN",
     "operator:short": "PWN",
     "operator:wikidata": "Q1968432",
@@ -437,8 +459,7 @@
   "lon": 5.9680964,
   "tags": {
     "amenity": "drinking_water",
-    "man_made": "water_tap",
-    "note": "Doesn't function as of 2022-09-10, probably because of construction works, possible be reinstated later"
+    "man_made": "water_tap"
   }
 },
 {
@@ -452,7 +473,8 @@
     "fee": "no",
     "man_made": "water_tap",
     "opening_hours": "24/7",
-    "operator": "Vitens/Jointhepipe",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959",
     "seasonal": "spring;summer;autumn"
   }
 },
@@ -479,7 +501,8 @@
   "lat": 52.0274801,
   "lon": 5.5582754,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-08-25"
   }
 },
 {
@@ -515,7 +538,8 @@
   "lat": 52.0259278,
   "lon": 5.5545080,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill"
   }
 },
 {
@@ -558,7 +582,8 @@
     "check_date": "2022-12-11",
     "fee": "no",
     "man_made": "water_tap",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -587,7 +612,8 @@
   "lon": 5.0116128,
   "tags": {
     "amenity": "drinking_water",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -609,6 +635,22 @@
     "amenity": "drinking_water",
     "check_date": "2023-10-05",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4577410174,
+  "lat": 52.0094674,
+  "lon": 5.9052396,
+  "tags": {
+    "amenity": "toilets",
+    "changing_table": "no",
+    "description": "Toilet is onderdeel van het Openlucht museum en daarmee alleen toegankelijk als het museum open is.",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "wheelchair": "yes"
   }
 },
 {
@@ -749,7 +791,7 @@
     "bottle": "yes",
     "fee": "no",
     "fountain": "bottle_refill",
-    "image": "https://commons.wikimedia.org/wiki/File:PWN_Water_point_marken.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/PWN_Water_point_marken.jpg",
     "operator": "PWN",
     "operator:short": "PWN",
     "operator:wikidata": "Q1968432"
@@ -814,6 +856,7 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
+    "fountain": "drinking",
     "name": "Puble",
     "operator": "Vitens/(Jointhepipe?)",
     "wheelchair": "no"
@@ -822,8 +865,8 @@
 {
   "type": "node",
   "id": 5540717234,
-  "lat": 52.0399605,
-  "lon": 5.3464078,
+  "lat": 52.0399393,
+  "lon": 5.3464075,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -841,10 +884,11 @@
 {
   "type": "node",
   "id": 5578032112,
-  "lat": 52.0872643,
-  "lon": 5.0812452,
+  "lat": 52.0872896,
+  "lon": 5.0812699,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-08-19",
     "operator": "Vitens/(Jointhepipe?)"
   }
 },
@@ -916,15 +960,6 @@
 },
 {
   "type": "node",
-  "id": 5732131277,
-  "lat": 52.1861203,
-  "lon": 5.2335102,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 5777487007,
   "lat": 52.7459694,
   "lon": 5.1861227,
@@ -932,6 +967,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "fountain": "bottle_refill",
     "operator": "N.V. PWN Waterleidingbedrijf Noord-Holland",
     "operator:short": "PWN",
     "operator:wikidata": "Q1968432",
@@ -967,8 +1003,8 @@
 {
   "type": "node",
   "id": 5796119273,
-  "lat": 52.0403369,
-  "lon": 5.4924642,
+  "lat": 52.0403337,
+  "lon": 5.4924645,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -1110,6 +1146,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bottle_refill",
     "operator": "Vitens/(Jointhepipe?)"
   }
 },
@@ -1144,7 +1181,9 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "man_made": "water_tap",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1155,7 +1194,8 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1210,6 +1250,7 @@
   "lat": 52.0290443,
   "lon": 5.1818927,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
     "cold_water": "no",
@@ -1217,11 +1258,15 @@
     "fountain": "bottle_refill",
     "hot_water": "no",
     "iced_water": "no",
+    "not:tourism:artwork": "yes",
     "opening_hours": "24/7",
-    "operator": "Vitens/Jointhepipe",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959",
+    "panoramax": "ea89049b-eff0-40ec-985b-3d42810e438e",
     "room_temperature_water": "yes",
     "seasonal": "spring;summer;autumn",
-    "warm_water": "no"
+    "warm_water": "no",
+    "wheelchair": "yes"
   }
 },
 {
@@ -1238,6 +1283,7 @@
     "hot_water": "no",
     "iced_water": "no",
     "man_made": "water_tap",
+    "not:tourism:artwork": "yes",
     "opening_hours": "24/7",
     "operator": "Vitens",
     "room_temperature_water": "yes",
@@ -1248,8 +1294,8 @@
 {
   "type": "node",
   "id": 6416591585,
-  "lat": 52.0165374,
-  "lon": 5.1779559,
+  "lat": 52.0164635,
+  "lon": 5.1778806,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
@@ -1258,6 +1304,7 @@
     "hot_water": "no",
     "iced_water": "no",
     "man_made": "water_tap",
+    "not:tourism:artwork": "yes",
     "opening_hours": "24/7",
     "operator": "Vitens",
     "room_temperature_water": "yes",
@@ -1274,7 +1321,8 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "man_made": "water_tap",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1297,19 +1345,21 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "man_made": "water_tap",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
   "type": "node",
   "id": 6419257190,
-  "lat": 52.0632614,
-  "lon": 5.1163121,
+  "lat": 52.0633195,
+  "lon": 5.1162428,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
     "man_made": "water_tap",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1321,7 +1371,8 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fountain": "bottle_refill",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1333,7 +1384,8 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "man_made": "water_tap",
-    "operator": "Vitens/Jointhepipe",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959",
     "wheelchair": "yes"
   }
 },
@@ -1359,7 +1411,8 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959",
     "toilets:wheelchair": "no",
     "wheelchair": "yes"
   }
@@ -1372,7 +1425,8 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1383,7 +1437,8 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1394,6 +1449,7 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
+    "fountain": "bubbler",
     "operator": "Vitens",
     "operator:wikidata": "Q1943963"
   }
@@ -1406,7 +1462,8 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959",
     "seasonal": "yes"
   }
 },
@@ -1422,7 +1479,8 @@
     "fountain": "bottle_refill",
     "not:tourism:artwork": "yes",
     "opening_hours": "24/7",
-    "operator": "Vitens/Jointhepipe",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959",
     "panoramax": "a13b3bc5-ff53-4834-80ac-645114943338"
   }
 },
@@ -1432,6 +1490,7 @@
   "lat": 52.0896066,
   "lon": 5.1179884,
   "tags": {
+    "amenity": "fountain",
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
     "historic": "yes",
@@ -1465,7 +1524,8 @@
     "fee": "no",
     "man_made": "water_tap",
     "opening_hours": "24/7",
-    "operator": "Vitens/Jointhepipe",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959",
     "panoramax": "62d8ce7e-4c0b-4424-8fdd-558716a3102b",
     "wheelchair": "yes"
   }
@@ -1493,7 +1553,8 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
-    "operator": "Vitens/Jointhepipe",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959",
     "wheelchair": "yes"
   }
 },
@@ -1508,7 +1569,8 @@
     "image": "https://images.mapillary.com/BX4akNk5EkfrkySs2fHM5I/thumb-2048.jpg",
     "man_made": "water_tap",
     "mapillary": "208063311145774",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1519,18 +1581,25 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
   "type": "node",
   "id": 6425285372,
-  "lat": 52.1169320,
-  "lon": 5.1291154,
+  "lat": 52.1168972,
+  "lon": 5.1290490,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "fee": "no",
+    "indoor": "no",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1541,19 +1610,25 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "fee": "no",
+    "indoor": "no",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
   "type": "node",
   "id": 6425328113,
-  "lat": 52.1164574,
-  "lon": 5.1190774,
+  "lat": 52.1164737,
+  "lon": 5.1190520,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
+    "fee": "no",
+    "indoor": "no",
     "man_made": "water_tap",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1564,8 +1639,11 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
+    "fee": "no",
+    "indoor": "no",
     "man_made": "water_tap",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1576,7 +1654,8 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1587,7 +1666,8 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1600,18 +1680,20 @@
     "bottle": "yes",
     "fee": "no",
     "man_made": "water_tap",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
   "type": "node",
   "id": 6425485095,
-  "lat": 52.1142083,
-  "lon": 5.0801866,
+  "lat": 52.1144508,
+  "lon": 5.0794292,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1624,9 +1706,11 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "indoor": "no",
     "man_made": "water_tap",
     "opening_hours": "24/7",
-    "operator": "Vitens/Jointhepipe",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959",
     "seasonal": "no",
     "wheelchair": "yes"
   }
@@ -1639,7 +1723,10 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "fee": "no",
+    "indoor": "no",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1650,8 +1737,11 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
+    "fee": "no",
     "fountain": "drinking",
-    "operator": "Vitens/Jointhepipe"
+    "indoor": "no",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1665,19 +1755,23 @@
     "fee": "no",
     "man_made": "water_tap",
     "opening_hours": "24/7",
-    "operator": "Vitens/Jointhepipe",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959",
     "seasonal": "no"
   }
 },
 {
   "type": "node",
   "id": 6425741842,
-  "lat": 52.1041219,
-  "lon": 5.1096675,
+  "lat": 52.1040931,
+  "lon": 5.1096512,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1688,7 +1782,10 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "fee": "no",
+    "indoor": "no",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1699,7 +1796,11 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1722,7 +1823,8 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959",
     "seasonal": "yes"
   }
 },
@@ -1734,7 +1836,8 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1757,7 +1860,8 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Vitens/Jointhepipe"
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
   }
 },
 {
@@ -1799,7 +1903,10 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "name": "Join The Pipe",
     "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959",
     "wheelchair": "yes"
   }
 },
@@ -1898,6 +2005,10 @@
     "bottle": "yes",
     "drinking_water": "yes",
     "man_made": "water_tap",
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959",
     "panoramax": "4a53b061-9fd7-4af7-83b7-ba4e90121d17"
   }
 },
@@ -1914,6 +2025,7 @@
     "fountain": "bottle_refill",
     "hot_water": "no",
     "iced_water": "no",
+    "not:tourism:artwork": "yes",
     "opening_hours": "24/7",
     "operator": "Vitens/(Jointhepipe?)",
     "room_temperature_water": "yes",
@@ -2113,7 +2225,10 @@
   "lon": 5.6075904,
   "tags": {
     "amenity": "drinking_water",
-    "name": "Join the Pipe"
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959"
   }
 },
 {
@@ -2137,7 +2252,10 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fountain": "drinking",
-    "name": "Join the Pipe"
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959"
   }
 },
 {
@@ -2189,16 +2307,10 @@
   "lon": 5.6032740,
   "tags": {
     "amenity": "drinking_water",
-    "name": "Join the Pipe"
-  }
-},
-{
-  "type": "node",
-  "id": 7029766441,
-  "lat": 52.3943210,
-  "lon": 5.2811059,
-  "tags": {
-    "amenity": "drinking_water"
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959"
   }
 },
 {
@@ -2272,7 +2384,10 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
-    "operator": "Join the Pipe"
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959"
   }
 },
 {
@@ -2305,7 +2420,10 @@
   "tags": {
     "amenity": "drinking_water",
     "fountain": "drinking",
-    "operator": "Join The Pipe"
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959"
   }
 },
 {
@@ -2335,7 +2453,10 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "operator": "Join The Pipe"
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959"
   }
 },
 {
@@ -2410,7 +2531,10 @@
     "bottle": "yes",
     "fee": "no",
     "fountain": "drinking",
-    "operator": "Join the Pipe",
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959",
     "wheelchair": "yes"
   }
 },
@@ -2539,7 +2663,8 @@
   "lat": 52.1104866,
   "lon": 5.1250951,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -2596,7 +2721,7 @@
     "bottle": "yes",
     "fee": "no",
     "fountain": "bottle_refill",
-    "operator": "N.V. PWN Waterleidingbedrijf Noord-Holland",
+    "operator": "PWN",
     "operator:short": "PWN",
     "operator:wikidata": "Q1968432",
     "source": "gps",
@@ -2612,6 +2737,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Weesp_water_point_train_station.jpg",
     "operator": "PWN",
     "operator:short": "PWN",
     "operator:wikidata": "Q1968432",
@@ -2854,6 +2980,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "drinking",
     "wheelchair": "yes"
   }
 },
@@ -2894,7 +3021,10 @@
     "bottle": "yes",
     "fee": "no",
     "man_made": "water_tap",
-    "name": "Join the Pipe"
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959"
   }
 },
 {
@@ -2917,7 +3047,8 @@
   "lat": 52.0622497,
   "lon": 5.7614827,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -3012,6 +3143,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "man_made": "water_tap",
     "wheelchair": "yes"
   }
 },
@@ -3099,6 +3231,7 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
+    "fountain": "bottle_refill",
     "panoramax": "acf5aa7f-1170-4248-bee6-27dfa86b1497"
   }
 },
@@ -3153,22 +3286,38 @@
     "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
+    "cold_water": "no",
     "drinking_water": "yes",
     "fee": "no",
-    "man_made": "water_tap"
+    "fountain": "bottle_refill",
+    "hot_water": "no",
+    "iced_water": "no",
+    "not:tourism:artwork": "yes",
+    "opening_hours": "24/7",
+    "room_temperature_water": "yes",
+    "seasonal": "no",
+    "warm_water": "no"
   }
 },
 {
   "type": "node",
   "id": 9469773384,
-  "lat": 52.0173897,
-  "lon": 5.7266587,
+  "lat": 52.0173798,
+  "lon": 5.7267646,
   "tags": {
-    "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
+    "cold_water": "no",
     "drinking_water": "yes",
-    "fee": "no"
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "hot_water": "no",
+    "iced_water": "no",
+    "not:tourism:artwork": "yes",
+    "opening_hours": "24/7",
+    "room_temperature_water": "yes",
+    "seasonal": "yes",
+    "warm_water": "no"
   }
 },
 {
@@ -3242,6 +3391,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "drinking_water": "yes",
+    "fee": "no",
     "man_made": "water_tap"
   }
 },
@@ -3411,7 +3561,10 @@
   "lon": 5.6071980,
   "tags": {
     "amenity": "drinking_water",
-    "name": "Join the Pipe"
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959"
   }
 },
 {
@@ -3450,6 +3603,7 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
+    "fountain": "bottle_refill",
     "panoramax": "d6fb1376-90a1-43c2-b429-6181dfeb3054"
   }
 },
@@ -3858,21 +4012,25 @@
 {
   "type": "node",
   "id": 11994550605,
-  "lat": 52.0960469,
-  "lon": 5.0685515,
+  "lat": 52.0960991,
+  "lon": 5.0685354,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "indoor": "no"
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "no",
+    "opening_hours": "24/7"
   }
 },
 {
   "type": "node",
   "id": 12006993838,
-  "lat": 52.1558289,
-  "lon": 5.3854334,
+  "lat": 52.1557916,
+  "lon": 5.3854511,
   "tags": {
-    "access": "public",
+    "access": "yes",
     "drinking_water": "yes",
     "man_made": "water_tap"
   }
@@ -3934,6 +4092,9 @@
   "lon": 5.0941929,
   "tags": {
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "no",
     "man_made": "water_tap"
   }
 },
@@ -3947,7 +4108,10 @@
     "amenity": "drinking_water",
     "drinking_water": "yes",
     "man_made": "water_tap",
-    "operator": "Join The Pipe"
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959"
   }
 },
 {
@@ -4134,6 +4298,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "man_made": "water_tap",
     "wheelchair": "yes"
   }
 },
@@ -4246,18 +4411,6 @@
 },
 {
   "type": "node",
-  "id": 12168309803,
-  "lat": 52.0239983,
-  "lon": 5.2453016,
-  "tags": {
-    "access": "yes",
-    "amenity": "drinking_water",
-    "fee": "no",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 12177439649,
   "lat": 52.3761841,
   "lon": 5.7838169,
@@ -4304,6 +4457,7 @@
     "bottle": "yes",
     "fee": "no",
     "fountain": "bottle_refill",
+    "indoor": "no",
     "opening_hours": "24/7",
     "seasonal": "no"
   }
@@ -4344,7 +4498,10 @@
     "bottle": "yes",
     "drinking_water": "yes",
     "fee": "no",
-    "operator": "Join the Pipe",
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959",
     "wheelchair": "yes"
   }
 },
@@ -4505,7 +4662,8 @@
   "lat": 52.0696012,
   "lon": 5.1043710,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -4568,8 +4726,11 @@
   "lon": 5.4761071,
   "tags": {
     "amenity": "drinking_water",
-    "name": "Drinkwater",
-    "operator": "jointhepipe"
+    "fountain": "drinking",
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959"
   }
 },
 {
@@ -4619,6 +4780,283 @@
     "amenity": "drinking_water",
     "fee": "no",
     "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13075718745,
+  "lat": 52.8997929,
+  "lon": 5.0202630,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13075749824,
+  "lat": 52.8988730,
+  "lon": 5.0205953,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13075750591,
+  "lat": 52.8987508,
+  "lon": 5.0212207,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13076151594,
+  "lat": 52.1188456,
+  "lon": 5.8827074,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "note": "Kraan zit tegen de muur aan",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13103895694,
+  "lat": 52.0239988,
+  "lon": 5.2453131,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13124467967,
+  "lat": 52.0339044,
+  "lon": 5.8675102,
+  "tags": {
+    "amenity": "drinking_water",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13127616380,
+  "lat": 52.0318133,
+  "lon": 5.6784855,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "hot_water": "no",
+    "iced_water": "no",
+    "not:tourism:artwork": "yes",
+    "opening_hours": "24/7",
+    "room_temperature_water": "yes",
+    "seasonal": "no",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13135060125,
+  "lat": 52.0068386,
+  "lon": 5.8445940,
+  "tags": {
+    "amenity": "drinking_water",
+    "note": "Betreft een buitenkraan op een paal bij het tankstation.",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13154804844,
+  "lat": 52.2894626,
+  "lon": 5.9685556,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13165704354,
+  "lat": 52.0337043,
+  "lon": 5.0891653,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13203234838,
+  "lat": 52.1031169,
+  "lon": 5.7719853,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13208636190,
+  "lat": 52.0327398,
+  "lon": 5.1678362,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "Mo-Fr 08:00-17:00; PH off",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13227221604,
+  "lat": 52.1159179,
+  "lon": 5.0923190,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "indoor": "no",
+    "man_made": "water_tap",
+    "operator": "Vitens;Join The Pipe",
+    "operator:wikidata": "Q1943963;Q138113959"
+  }
+},
+{
+  "type": "node",
+  "id": 13301931682,
+  "lat": 52.0159351,
+  "lon": 5.0407276,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13318675293,
+  "lat": 52.1749816,
+  "lon": 5.4033946,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "indoor": "no",
+    "lit": "no",
+    "operator": "NS",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13369994338,
+  "lat": 52.3380752,
+  "lon": 5.5321305,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13426170837,
+  "lat": 52.0164985,
+  "lon": 5.2466731,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13470220270,
+  "lat": 52.0057199,
+  "lon": 5.9302218,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959",
+    "seasonal": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13521884806,
+  "lat": 52.6641761,
+  "lon": 5.6026401,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13627027617,
+  "lat": 52.1456939,
+  "lon": 5.2904000,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13660786936,
+  "lat": 52.1736301,
+  "lon": 5.3127318,
+  "tags": {
+    "description": "Metselwerk met houten afdak en vergulde granaatappel",
+    "drinking_water": "yes",
+    "heritage": "yes",
+    "heritage:operator": "gemeente_soest",
+    "historic": "yes",
+    "man_made": "water_well",
+    "name": "Dorpspomp",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 13669248201,
+  "lat": 52.3941996,
+  "lon": 5.2778521,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2026-03-22",
+    "name": "NS watertap",
+    "operator": "NS"
   }
 }
 

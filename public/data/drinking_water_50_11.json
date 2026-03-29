@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:03:33Z",
+    "timestamp_osm_base": "2026-03-29T14:58:27Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -78,6 +78,7 @@
     "indoor": "no",
     "loc_name": "Trinkbrunnen am Bartholomäusturm",
     "operator": "Stadt Erfurt",
+    "operator:wikidata": "Q1729",
     "wheelchair": "no"
   }
 },
@@ -96,6 +97,7 @@
     "man_made": "water_well",
     "name": "Trinkwasserbrunnen",
     "operator": "Stadt Erfurt",
+    "operator:wikidata": "Q1729",
     "pump": "manual",
     "wheelchair": "yes"
   }
@@ -157,10 +159,9 @@
 {
   "type": "node",
   "id": 304489033,
-  "lat": 50.9187100,
-  "lon": 11.5923999,
+  "lat": 50.9187278,
+  "lon": 11.5924697,
   "tags": {
-    "created_by": "Potlatch 0.10e",
     "drinking_water": "yes",
     "natural": "spring"
   }
@@ -178,6 +179,7 @@
     "fountain": "bubbler",
     "loc_name": "Trinkbrunnen am Anger",
     "operator": "Stadt Erfurt",
+    "operator:wikidata": "Q1729",
     "wheelchair": "yes"
   }
 },
@@ -280,6 +282,19 @@
 },
 {
   "type": "node",
+  "id": 472654850,
+  "lat": 50.0572088,
+  "lon": 11.6809650,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Funkquelle_Bad_Berneck.jpg/450px-Funkquelle_Bad_Berneck.jpg",
+    "name": "Funkquelle;Funkbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
   "id": 477011005,
   "lat": 50.6053625,
   "lon": 11.0369840,
@@ -290,10 +305,10 @@
 {
   "type": "node",
   "id": 494094386,
-  "lat": 50.8793089,
-  "lon": 11.2855421,
+  "lat": 50.8792954,
+  "lon": 11.2855299,
   "tags": {
-    "alt_name": "Kneipp-Anlage Dambach",
+    "alt_name": "Kneipp-Anlage Dambachsgrund",
     "drinking_water": "yes",
     "name": "Carl-Friedrich-Quelle",
     "natural": "spring"
@@ -312,12 +327,26 @@
 },
 {
   "type": "node",
+  "id": 697315634,
+  "lat": 50.8529546,
+  "lon": 11.6223656,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
   "id": 701178260,
   "lat": 50.8364630,
   "lon": 11.1798753,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "lit": "yes"
+    "fee": "no",
+    "lit": "yes",
+    "operator": "Wasserversorgungszweckverband Weimar",
+    "pump": "electrical_pump"
   }
 },
 {
@@ -459,6 +488,7 @@
   "tags": {
     "amenity": "drinking_water",
     "check_date": "2023-08-03",
+    "intermittent": "yes",
     "name": "Pumperhiebbrunnen",
     "natural": "spring"
   }
@@ -486,15 +516,6 @@
     "name": "Wohmobilparkplatz Wunsiedel",
     "power_supply": "yes",
     "tourism": "caravan_site"
-  }
-},
-{
-  "type": "node",
-  "id": 1673179196,
-  "lat": 50.9416274,
-  "lon": 11.6155984,
-  "tags": {
-    "amenity": "drinking_water"
   }
 },
 {
@@ -592,22 +613,13 @@
 },
 {
   "type": "node",
-  "id": 1976826828,
-  "lat": 50.0568826,
-  "lon": 11.6821352,
-  "tags": {
-    "amenity": "fountain",
-    "drinking_water": "yes",
-    "name": "Funkbrunnen"
-  }
-},
-{
-  "type": "node",
   "id": 2041817391,
   "lat": 50.9115535,
   "lon": 11.8721220,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-12-02",
+    "man_made": "water_tap"
   }
 },
 {
@@ -653,6 +665,7 @@
     "fountain": "bubbler",
     "loc_name": "Trinkbrunnen am Fischmarkt",
     "operator": "Stadt Erfurt",
+    "operator:wikidata": "Q1729",
     "wheelchair": "yes"
   }
 },
@@ -755,7 +768,8 @@
     "drinking_water": "yes",
     "fee": "no",
     "toilets:disposal": "flush",
-    "toilets:position": "seated;urinal"
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
   }
 },
 {
@@ -765,6 +779,17 @@
   "lon": 11.9280057,
   "tags": {
     "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4037213914,
+  "lat": 50.9163480,
+  "lon": 11.9222689,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
     "natural": "spring"
   }
 },
@@ -969,15 +994,6 @@
 },
 {
   "type": "node",
-  "id": 4880109522,
-  "lat": 50.4443155,
-  "lon": 11.3805279,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 4888374643,
   "lat": 50.5012936,
   "lon": 11.1536674,
@@ -1000,7 +1016,9 @@
   "lat": 50.6441736,
   "lon": 11.3601000,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-10-19",
+    "fountain": "bubbler"
   }
 },
 {
@@ -1101,24 +1119,9 @@
 },
 {
   "type": "node",
-  "id": 5803130953,
-  "lat": 50.9677445,
-  "lon": 11.0257050,
-  "tags": {
-    "addr:city": "Erfurt",
-    "addr:housenumber": "21",
-    "addr:postcode": "99084",
-    "addr:street": "Puschkinstraße",
-    "amenity": "drinking_water",
-    "opening_hours": "Mo 12:00-18:00; Tu-Fr 09:00-19:00; Sa-Su 09:30-18:00",
-    "operator": "Café Puschkin"
-  }
-},
-{
-  "type": "node",
   "id": 5803145517,
-  "lat": 50.9768371,
-  "lon": 11.0317890,
+  "lat": 50.9768675,
+  "lon": 11.0317702,
   "tags": {
     "addr:city": "Erfurt",
     "addr:housenumber": "28",
@@ -1160,7 +1163,7 @@
   "lat": 50.9773520,
   "lon": 11.0136294,
   "tags": {
-    "amenity": "drinking_water",
+    "disused:amenity": "drinking_water",
     "fountain": "bubbler"
   }
 },
@@ -1226,12 +1229,15 @@
 {
   "type": "node",
   "id": 6549415366,
-  "lat": 50.8794796,
-  "lon": 11.2846220,
+  "lat": 50.8794511,
+  "lon": 11.2845768,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
     "description": "Handpumpe",
+    "fee": "no",
     "man_made": "water_well",
+    "operator": "Wasserversrorgungszweckverband Weimar",
     "pump": "manual"
   }
 },
@@ -1373,7 +1379,8 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
-    "operator": "Stadt Kranichfeld",
+    "operator": "Wasserversorgungszweckverband Weimar",
+    "pump": "electrical_pump",
     "wheelchair": "yes"
   }
 },
@@ -1401,6 +1408,7 @@
     "indoor": "no",
     "loc_name": "Trinkbrunnen am alten Angerbrunnen",
     "operator": "Stadt Erfurt",
+    "operator:wikidata": "Q1729",
     "wheelchair": "limited"
   }
 },
@@ -1642,6 +1650,7 @@
     "amenity": "drinking_water",
     "fee": "no",
     "fountain": "bottle_refill",
+    "indoor": "yes",
     "opening_hours": "Mo-Sa 08:00-20:00; PH off",
     "operator": "dm-drogerie markt GmbH + Co. KG",
     "wheelchair": "yes"
@@ -1706,6 +1715,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "indoor": "no",
+    "man_made": "water_tap",
     "name": "Trinkwasserbrunnen",
     "wheelchair": "no"
   }
@@ -1745,6 +1755,7 @@
     "fountain": "bubbler",
     "loc_name": "Trinkbrunnen am Anger 1",
     "operator": "Stadt Erfurt",
+    "operator:wikidata": "Q1729",
     "wheelchair": "yes"
   }
 },
@@ -1982,6 +1993,7 @@
     "fountain": "bubbler",
     "loc_name": "Trinkbrunnen auf dem Petersberg",
     "operator": "Stadt Erfurt",
+    "operator:wikidata": "Q1729",
     "wheelchair": "yes"
   }
 },
@@ -2073,7 +2085,9 @@
     "amenity": "drinking_water",
     "fee": "no",
     "loc_name": "Trinkbrunnen auf dem Domplatz",
+    "man_made": "water_tap",
     "operator": "Stadt Erfurt",
+    "operator:wikidata": "Q1729",
     "wheelchair": "yes"
   }
 },
@@ -2099,15 +2113,6 @@
   "id": 12174676600,
   "lat": 50.2166849,
   "lon": 11.8732572,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
-  "id": 12184183543,
-  "lat": 50.1844220,
-  "lon": 11.9232562,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -2241,7 +2246,8 @@
   "lat": 50.2618750,
   "lon": 11.9308143,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -2255,16 +2261,6 @@
     "drinking_water": "yes",
     "fee": "no",
     "note": "new toilets from 2025"
-  }
-},
-{
-  "type": "node",
-  "id": 12893446068,
-  "lat": 50.4934113,
-  "lon": 11.2581554,
-  "tags": {
-    "amenity": "drinking_water",
-    "name": "Trinkwasser"
   }
 },
 {
@@ -2321,10 +2317,120 @@
 {
   "type": "node",
   "id": 13052867093,
-  "lat": 50.9274164,
-  "lon": 11.5855049,
+  "lat": 50.9273885,
+  "lon": 11.5854506,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler",
+    "man_made": "drinking_fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 13074929990,
+  "lat": 50.9908695,
+  "lon": 11.3262118,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "drinking",
+    "operator": "Wasserversorgungszweckverband Weimar",
+    "pump": "powered",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13086465648,
+  "lat": 50.7451681,
+  "lon": 11.6361182,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Prositquelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13269696055,
+  "lat": 50.7597802,
+  "lon": 11.5256210,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13280968496,
+  "lat": 50.9186172,
+  "lon": 11.5924802,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13392166678,
+  "lat": 50.4574495,
+  "lon": 11.6938151,
+  "tags": {
+    "addr:city": "Bad Lobenstein",
+    "addr:housenumber": "79",
+    "addr:postcode": "07356",
+    "addr:street": "Saaldorf",
+    "bbq": "yes",
+    "cabins": "yes",
+    "capacity:pitches": "8",
+    "description": "Der „Ferienpark Obere Saale Saaldorf“ liegt idyllisch mitten in der Natur Thüringens am größten Stausee Deutschlands, der Bleilochtalsperre gelegen. Angrenzend an den Campingplatz liegt malerisch eingebettet im Herzen des Ferienparks ein Badeteich.",
+    "dog": "yes",
+    "drinking_water": "yes",
+    "kitchen": "yes",
+    "leisure": "swinning_area",
+    "name": "Campingplatz Feriendorf Saaldorf",
+    "opening_hours": "Apr 30-Dec 30",
+    "operator": "Sven Nicklas",
+    "phone": "+4916096814111",
+    "playground": "yes",
+    "power_supply": "yes",
+    "reservation": "phone",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://campingplatz-ferienpark-saaldorf.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 13482255774,
+  "lat": 50.9296552,
+  "lon": 11.5914192,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "level": "0",
+    "note:access": "Momentan Tür nur mit thoska öffenbar",
+    "operator": "Friedrich-Schiller-Universität Jena",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13512189850,
+  "lat": 50.4661687,
+  "lon": 11.1719949,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 }
 

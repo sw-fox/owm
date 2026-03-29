@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:02:36Z",
+    "timestamp_osm_base": "2026-03-29T14:56:20Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -20,12 +20,12 @@
 {
   "type": "node",
   "id": 310901067,
-  "lat": 49.6080813,
-  "lon": 16.0272447,
+  "lat": 49.6081370,
+  "lon": 16.0274605,
   "tags": {
     "drinking_water": "yes",
     "intermittent": "no",
-    "name": "Barborka a Vitulka",
+    "name": "Barborka",
     "natural": "spring"
   }
 },
@@ -61,9 +61,9 @@
   "lat": 49.1966194,
   "lon": 16.6057724,
   "tags": {
-    "amenity": "drinking_water",
     "bottle": "yes",
-    "check_date": "2021-09-13",
+    "check_date": "2026-01-20",
+    "demolished:amenity": "drinking_water",
     "fountain": "bubbler",
     "operator": "BVK",
     "source": "bing:orto"
@@ -366,8 +366,8 @@
 {
   "type": "node",
   "id": 1277021353,
-  "lat": 49.0554550,
-  "lon": 16.6351923,
+  "lat": 49.0554546,
+  "lon": 16.6351673,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -815,6 +815,8 @@
   "lon": 16.0352089,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-09-03",
+    "fountain": "drinking",
     "name": "Svratka"
   }
 },
@@ -846,7 +848,9 @@
   "lat": 49.4878513,
   "lon": 16.6601475,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-10-12",
+    "fountain": "bubbler"
   }
 },
 {
@@ -977,6 +981,7 @@
   "lon": 16.1410977,
   "tags": {
     "amenity": "drinking_water",
+    "fee": "no",
     "name": "Mojžíšova studánka"
   }
 },
@@ -1189,8 +1194,8 @@
 {
   "type": "node",
   "id": 3152753576,
-  "lat": 49.1912524,
-  "lon": 16.6055974,
+  "lat": 49.1912936,
+  "lon": 16.6057274,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "no",
@@ -1278,8 +1283,8 @@
 {
   "type": "node",
   "id": 3521868019,
-  "lat": 49.5631692,
-  "lon": 16.3049622,
+  "lat": 49.5632253,
+  "lon": 16.3048123,
   "tags": {
     "description": "velmi vydatný pramen",
     "drinking_water": "yes",
@@ -1324,8 +1329,8 @@
 {
   "type": "node",
   "id": 3683481344,
-  "lat": 49.1907079,
-  "lon": 16.6060262,
+  "lat": 49.1906534,
+  "lon": 16.6060558,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "no",
@@ -1520,6 +1525,7 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "no",
+    "man_made": "water_tap",
     "operator": "ÚMČ Brno-Líšeň",
     "start_date": "2014"
   }
@@ -1644,6 +1650,7 @@
     "intermittent": "yes",
     "name": "Vlčí studánka",
     "natural": "spring",
+    "ref": "1680",
     "start_date": "2024",
     "website": "https://www.estudanky.eu/129-vlci-studanka"
   }
@@ -1959,6 +1966,18 @@
 },
 {
   "type": "node",
+  "id": 5018212060,
+  "lat": 49.9142874,
+  "lon": 16.4908902,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "yes",
+    "name": "Karlova studánka",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
   "id": 5053020726,
   "lat": 49.3009156,
   "lon": 16.6550834,
@@ -2226,6 +2245,7 @@
   "tags": {
     "amenity": "drinking_water",
     "check_date": "2025-05-21",
+    "indoor": "no",
     "man_made": "water_tap"
   }
 },
@@ -2697,7 +2717,7 @@
   "lon": 16.6019989,
   "tags": {
     "amenity": "toilets",
-    "check_date:opening_hours": "2024-11-30",
+    "check_date:opening_hours": "2026-01-03",
     "drinking_water": "yes",
     "fee": "no",
     "opening_hours": "Mo-Su 07:00-18:00",
@@ -2978,7 +2998,8 @@
   "lat": 49.2087610,
   "lon": 16.6821298,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -2987,7 +3008,8 @@
   "lat": 49.2081436,
   "lon": 16.6820064,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
   }
 },
 {
@@ -3338,6 +3360,174 @@
   "tags": {
     "drinking_water": "yes",
     "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13075587812,
+  "lat": 49.2440405,
+  "lon": 16.5709915,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13075606014,
+  "lat": 49.2249339,
+  "lon": 16.6379533,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13105833352,
+  "lat": 49.7562544,
+  "lon": 16.6643336,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13112049131,
+  "lat": 49.6178535,
+  "lon": 16.0517769,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13144189102,
+  "lat": 49.1936035,
+  "lon": 16.6017117,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "operator": "Veřejná zeleň města Brna",
+    "operator:short": "VZMB",
+    "operator:wikidata": "Q118583570",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13164590601,
+  "lat": 49.1933714,
+  "lon": 16.5936350,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13164590605,
+  "lat": 49.1940180,
+  "lon": 16.5922938,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13169136273,
+  "lat": 49.6192985,
+  "lon": 16.5265862,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13169136274,
+  "lat": 49.9320431,
+  "lon": 16.2532385,
+  "tags": {
+    "amenity": "drinking_water",
+    "description": "water tap close to church"
+  }
+},
+{
+  "type": "node",
+  "id": 13184734628,
+  "lat": 49.3302542,
+  "lon": 16.2375501,
+  "tags": {
+    "amenity": "drinking_water",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13306906086,
+  "lat": 49.1526694,
+  "lon": 16.4931726,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13319507808,
+  "lat": 49.7582393,
+  "lon": 16.6646395,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13319507809,
+  "lat": 49.7582462,
+  "lon": 16.6636229,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13395967779,
+  "lat": 49.8794726,
+  "lon": 16.7584433,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13647037138,
+  "lat": 49.2417890,
+  "lon": 16.5738113,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fountain": "bottle_refill;bubbler"
   }
 }
 

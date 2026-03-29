@@ -1,12 +1,35 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:05:42Z",
+    "timestamp_osm_base": "2026-03-29T15:05:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
+{
+  "type": "node",
+  "id": 60848456,
+  "lat": 52.5307772,
+  "lon": 13.4708382,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "14",
+    "addr:postcode": "10369",
+    "addr:street": "Anton-Saefkow-Platz",
+    "amenity": "library",
+    "check_date:opening_hours": "2025-03-04",
+    "contact:phone": "+4930902963773",
+    "drinking_water": "yes",
+    "name": "Anton-Saefkow-Bibliothek",
+    "opening_hours": "Sa 09:00-18:00; Mo,Tu 09:00-19:00; We 13:00-19:00; Th,Fr 09:00-18:00",
+    "toilets:access": "yes",
+    "website": "http://www.berlin.de/ba-lichtenberg/auf-einen-blick/buergerservice/bildung/artikel.298020.php",
+    "wheelchair": "yes",
+    "wikidata": "Q28738330"
+  }
+},
 {
   "type": "node",
   "id": 257372882,
@@ -307,7 +330,6 @@
     "colour": "#35412E",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Charlottenburg Witzlebenplatz 1 Wasserpumpe-002.jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
     "panoramax:0": "74c46473-488b-4a72-9f19-cf3a549ec351",
@@ -315,6 +337,7 @@
     "pump:status": "ok",
     "pump:style": "Lauchhammer",
     "ref": "114",
+    "wikimedia_commons": "File:Charlottenburg Witzlebenplatz 1 Wasserpumpe-002.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Charlottenburg-Wilmersdorf"
   }
 },
@@ -329,13 +352,13 @@
     "colour": "#35412E",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Westend Kranzallee Wasserpumpe 76.jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
     "pump": "manual",
     "pump:status": "ok",
     "pump:style": "Borsig",
     "ref": "76",
+    "wikimedia_commons": "File:Westend Kranzallee Wasserpumpe 76.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Charlottenburg-Wilmersdorf"
   }
 },
@@ -396,12 +419,12 @@
     "colour": "#35412E",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Charlottenburg Schlüterstraße Wasserpumpe.jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
     "pump": "manual",
     "pump:style": "Rümmler",
     "ref": "86",
+    "wikimedia_commons": "File:Charlottenburg Schlüterstraße Wasserpumpe.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Charlottenburg-Wilmersdorf"
   }
 },
@@ -471,16 +494,16 @@
     "colour": "#35412E",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Str.brunnen Kreuzberg Lausitzer Platz.jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
     "official_ref": "Kr012",
-    "operator": "Land",
+    "operator": "Land Berlin",
     "pump": "manual",
     "pump:status": "ok",
     "pump:style": "Lauchhammer",
     "ref": "12",
     "start_date": "1985",
+    "wikimedia_commons": "File:Str.brunnen Kreuzberg Lausitzer Platz.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
   }
 },
@@ -514,8 +537,9 @@
     "access": "yes",
     "amenity": "toilets",
     "changing_table": "yes",
+    "charge": "1 EUR",
     "drinking_water": "yes",
-    "fee": "no",
+    "fee": "yes",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
     "toilets:wheelchair": "yes",
@@ -552,18 +576,19 @@
     "covered": "no",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Str.brunnen Kreuzberg Segitzdamm.jpg",
     "man_made": "water_well",
     "material": "metal",
     "network": "Berliner Straßenbrunnen",
     "official_ref": "Kr080",
-    "operator": "Bund",
+    "operator": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+    "operator:wikidata": "Q1005427",
     "pump": "manual",
     "pump:status": "ok",
     "pump:style": "Wolf 2",
     "ref": "80",
     "source": "survey",
     "start_date": "1977",
+    "wikimedia_commons": "File:Str.brunnen Kreuzberg Segitzdamm.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
   }
 },
@@ -577,15 +602,15 @@
     "check_date": "2021-05-20",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Straßenbrunnen 58 Nostitzstraße Kreuzberg.jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
     "official_ref": "Kr058",
-    "operator": "Land",
+    "operator": "Land Berlin",
     "pump": "manual",
     "pump:status": "ok",
     "pump:style": "Lauchhammer",
     "ref": "58",
+    "wikimedia_commons": "File:Straßenbrunnen 58 Nostitzstraße Kreuzberg.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
   }
 },
@@ -796,9 +821,12 @@
   "lat": 52.4247840,
   "lon": 13.0501402,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
     "fountain": "bubbler",
-    "wheelchair": "bad"
+    "opening_hours": "05:00 - 23:00",
+    "operator": "Volkspark Potsdam",
+    "wheelchair": "yes"
   }
 },
 {
@@ -1004,12 +1032,12 @@
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
     "emergency": "drinking_water",
-    "image": "File:Wilmersdorf Babelsberger Straße Wasserpumpe 51-001.jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
     "pump": "manual",
     "pump:style": "Borsig",
     "ref": "51",
+    "wikimedia_commons": "File:Wilmersdorf Babelsberger Straße Wasserpumpe 51-001.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Charlottenburg-Wilmersdorf"
   }
 },
@@ -1034,12 +1062,14 @@
     "drink:espresso": "served",
     "drink:filter_coffee": "served",
     "drinking_water": "yes",
+    "indoor_seating": "yes",
     "internet_access": "wlan",
     "internet_access:fee": "no",
     "microroasting": "yes",
     "name": "The Barn",
     "opening_hours": "Mo-Fr 08:30-18:00; Sa-Su 10:00-18:00",
     "outdoor_seating": "yes",
+    "payment:cash": "no",
     "payment:credit_cards": "yes",
     "payment:debit_cards": "yes",
     "stroller": "no",
@@ -1206,7 +1236,7 @@
     "emergency": "drinking_water",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
-    "operator": "Land",
+    "operator": "Land Berlin",
     "pump": "manual",
     "pump:status": "ok",
     "pump:style": "FSH-L",
@@ -1226,14 +1256,14 @@
     "colour": "gray",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Wedding Triftstraße Wasserpumpe.jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
-    "operator": "Land",
+    "operator": "Land Berlin",
     "pump": "manual",
     "pump:status": "out_of_order",
     "pump:style": "Wolf",
     "ref": "270",
+    "wikimedia_commons": "File:Wedding Triftstraße Wasserpumpe.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
   }
 },
@@ -1248,14 +1278,14 @@
     "colour": "gray",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Wedding Sprengelstraße Wasserpumpe-001.jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
-    "operator": "Land",
+    "operator": "Land Berlin",
     "pump": "manual",
     "pump:status": "ok",
     "pump:style": "Wolf",
     "ref": "230",
+    "wikimedia_commons": "File:Wedding Sprengelstraße Wasserpumpe-001.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
   }
 },
@@ -1270,14 +1300,14 @@
     "colour": "#35412E",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Wedding Sparrplatz Wasserpumpe 244.jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
-    "operator": "Land",
+    "operator": "Land Berlin",
     "pump": "manual",
     "pump:status": "broken",
     "pump:style": "Wolf",
     "ref": "244",
+    "wikimedia_commons": "File:Wedding Sparrplatz Wasserpumpe 244.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
   }
 },
@@ -1358,12 +1388,17 @@
     "access": "yes",
     "amenity": "toilets",
     "changing_table": "yes",
+    "charge": "1 Eur",
+    "check_date": "2026-01-01",
     "drinking_water": "yes",
     "emergency": "defibrillator",
     "fee": "yes",
     "female": "yes",
     "indoor": "yes",
     "male": "yes",
+    "payment:apple_pay": "yes",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
     "wheelchair": "yes"
@@ -1412,12 +1447,12 @@
     "addr:full": "Fasanenstraße 6",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Charlottenburg Fasanenstraße Wasserpumpe-001.jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
     "pump": "manual",
     "pump:style": "Rümmler",
     "ref": "44",
+    "wikimedia_commons": "File:Charlottenburg Fasanenstraße Wasserpumpe-001.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Charlottenburg-Wilmersdorf"
   }
 },
@@ -1695,16 +1730,17 @@
     "colour": "#35412E",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Str.brunnen Kreuzberg Paul-Lincke-Ufer 37.jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
     "official_ref": "Kr062",
-    "operator": "Bund",
+    "operator": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+    "operator:wikidata": "Q1005427",
     "pump": "manual",
     "pump:status": "ok",
     "pump:style": "Wolf 2",
     "ref": "62",
     "start_date": "2004",
+    "wikimedia_commons": "File:Str.brunnen Kreuzberg Paul-Lincke-Ufer 37.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
   }
 },
@@ -1851,6 +1887,7 @@
     "email": "kontakt@maritim-marienwerder.de",
     "image": "http://www.maritim-marienwerder.de/images/maritim09-big.jpg",
     "leisure": "marina",
+    "name": "Bootsanleger Marienwerder",
     "phone": "+49 3335 31397; +49 172 1546214",
     "power_supply": "yes",
     "seamark:harbour:category": "marina",
@@ -2346,8 +2383,8 @@
 {
   "type": "node",
   "id": 5043072467,
-  "lat": 52.5110405,
-  "lon": 13.4018100,
+  "lat": 52.5110324,
+  "lon": 13.4017636,
   "tags": {
     "access": "yes",
     "addr:floor": "0",
@@ -2426,39 +2463,6 @@
 },
 {
   "type": "node",
-  "id": 5445605321,
-  "lat": 52.6800190,
-  "lon": 13.8506123,
-  "tags": {
-    "addr:city": "Werneuchen OT Tiefensee",
-    "addr:housenumber": "1",
-    "addr:postcode": "16356",
-    "addr:street": "Schmiedeweg",
-    "capacity": "150",
-    "capacity:caravans": "64",
-    "caravans": "yes",
-    "drinking_water": "yes",
-    "dryer": "yes",
-    "email": "info@country-camping.de",
-    "fee": "yes",
-    "name": "Country Camping Berlin",
-    "operator": "Felix Voß",
-    "payment:girocard": "yes",
-    "phone": "+493339890514",
-    "power_supply": "yes",
-    "sanitary_dump_station": "yes",
-    "shower": "yes",
-    "tents": "yes",
-    "toilets": "no",
-    "tourism": "camp_site",
-    "washing_machine": "yes",
-    "website": "https://www.country-camping.de/",
-    "wheelchair": "yes",
-    "wikidata": "Q123194466"
-  }
-},
-{
-  "type": "node",
   "id": 5577964223,
   "lat": 52.9779330,
   "lon": 13.7536280,
@@ -2499,15 +2503,15 @@
     "addr:full": "Edelweißstraße 42",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Straßenbrunnen49 Wilhelmsruh Edelweißstraße (2).jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
     "official_ref": "STRB03Pa049",
-    "operator": "Land",
+    "operator": "Land Berlin",
     "pump": "manual",
     "pump:style": "modern",
     "ref": "49",
     "start_date": "~1970",
+    "wikimedia_commons": "File:Straßenbrunnen49 Wilhelmsruh Edelweißstraße (2).jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Pankow"
   }
 },
@@ -2556,6 +2560,7 @@
     "fee": "no",
     "female": "yes",
     "male": "yes",
+    "opening_hours": "Mo-Su,PH 09:00-18:30",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
     "unisex": "no",
@@ -2565,12 +2570,15 @@
 {
   "type": "node",
   "id": 5814732183,
-  "lat": 52.5079564,
-  "lon": 13.3901489,
+  "lat": 52.5079674,
+  "lon": 13.3901552,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
     "fountain": "bubbler",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
     "panoramax": "28d5987a-3e74-4233-9897-20ba3d88f8be",
     "wheelchair": "limited"
   }
@@ -2589,8 +2597,8 @@
 {
   "type": "node",
   "id": 5853401781,
-  "lat": 52.4957227,
-  "lon": 13.3736186,
+  "lat": 52.4957248,
+  "lon": 13.3736379,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
@@ -2827,7 +2835,7 @@
     "cash_withdrawal:purchase_required": "yes",
     "cash_withdrawal:type": "checkout",
     "changing_table": "yes",
-    "check_date:opening_hours": "2021-04-28",
+    "check_date:opening_hours": "2025-08-30",
     "contact:phone": "+49 331 585 65590",
     "contact:website": "https://www.dm.de/",
     "door": "sliding",
@@ -3122,11 +3130,13 @@
     "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
+    "colour": "blue",
     "covered": "no",
     "fee": "no",
     "fountain": "bubbler",
     "indoor": "no",
     "lit": "no",
+    "material": "metal",
     "opening_hours": "24/7",
     "operator": "Berliner Wasserbetriebe",
     "operator:short": "BWB",
@@ -3270,14 +3280,14 @@
     "colour": "gray",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Wedding Ostender Straße Wasserpumpe 254.jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
-    "operator": "Land",
+    "operator": "Land Berlin",
     "pump": "manual",
     "pump:status": "ok",
     "pump:style": "Wolf",
     "ref": "254",
+    "wikimedia_commons": "File:Wedding Ostender Straße Wasserpumpe 254.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
   }
 },
@@ -3303,11 +3313,12 @@
     "description": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
     "fee": "no",
     "fountain": "bubbler",
+    "opening_hours": "May-Oct: open",
     "operator": "Berliner Wasserbetriebe",
     "operator:short": "BWB",
     "operator:wikidata": "Q821856",
     "operator:wikipedia": "de:Berliner Wasserbetriebe",
-    "wheelchair": "yes"
+    "wheelchair": "limited"
   }
 },
 {
@@ -3437,6 +3448,7 @@
     "access": "customers",
     "amenity": "toilets",
     "changing_table": "yes",
+    "check_date": "2025-11-29",
     "drinking_water": "yes",
     "fee": "no",
     "female": "yes",
@@ -3563,7 +3575,7 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "check_date": "2022-09-12",
+    "check_date": "2026-01-25",
     "colour": "blue",
     "fee": "no",
     "fountain": "bubbler",
@@ -3661,14 +3673,14 @@
     "colour": "gray",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Straßenbrunnen Gesundbrunnen 273 Gartenstraße am Gartenplatz (4).jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
-    "operator": "Land",
+    "operator": "Land Berlin",
     "pump": "manual",
     "pump:status": "ok",
     "pump:style": "Wolf",
     "ref": "273",
+    "wikimedia_commons": "File:Straßenbrunnen Gesundbrunnen 273 Gartenstraße am Gartenplatz (4).jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
   }
 },
@@ -3683,15 +3695,15 @@
     "colour": "gray",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Gesundbrunnen Kösliner Straße Wasserpumpe.jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
     "official_ref": "268",
-    "operator": "Land",
+    "operator": "Land Berlin",
     "pump": "manual",
     "pump:status": "ok",
     "pump:style": "Wolf",
     "ref": "none",
+    "wikimedia_commons": "File:Gesundbrunnen Kösliner Straße Wasserpumpe.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
   }
 },
@@ -3706,14 +3718,14 @@
     "colour": "gray",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Wedding Lütticher Straße Wasserpumpe 229.jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
-    "operator": "Land",
+    "operator": "Land Berlin",
     "pump": "manual",
     "pump:status": "ok",
     "pump:style": "Wolf",
     "ref": "229",
+    "wikimedia_commons": "File:Wedding Lütticher Straße Wasserpumpe 229.jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
   }
 },
@@ -3753,13 +3765,13 @@
     "colour": "#35412E",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Straßenbrunnen4-Moabit-AltMoabit (1).jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
     "pump": "manual",
     "pump:status": "ok",
     "pump:style": "Rümmler",
     "ref": "4",
+    "wikimedia_commons": "File:Straßenbrunnen4-Moabit-AltMoabit (1).jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
   }
 },
@@ -3773,13 +3785,13 @@
     "colour": "#35412E",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Straßenbrunnen102 Staaken Maulbeerallee Baluschekweg (6).jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
-    "operator": "Land",
+    "operator": "Land Berlin",
     "pump": "manual",
     "pump:style": "FSH-L",
     "ref": "102",
+    "wikimedia_commons": "File:Straßenbrunnen102 Staaken Maulbeerallee Baluschekweg (6).jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Spandau"
   }
 },
@@ -3794,7 +3806,6 @@
     "colour": "#35412E",
     "drinking_water": "yes",
     "emergency": "drinking_water",
-    "image": "File:Straßenbrunnen207-Langohrzeile-Frohnau (1).jpg",
     "man_made": "water_well",
     "mapillary": "379804111092383",
     "network": "Berliner Straßenbrunnen",
@@ -3802,6 +3813,7 @@
     "pump:status": "ok",
     "pump:style": "modern",
     "ref": "207",
+    "wikimedia_commons": "File:Straßenbrunnen207-Langohrzeile-Frohnau (1).jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
   }
 },
@@ -3817,13 +3829,13 @@
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
     "emergency": "drinking_water",
-    "image": "File:Straßenbrunnen168 Heiligensee Hennigsdorfer Straße (5).jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
-    "operator": "Land",
+    "operator": "Land Berlin",
     "pump": "manual",
     "pump:style": "modern",
     "ref": "168",
+    "wikimedia_commons": "File:Straßenbrunnen168 Heiligensee Hennigsdorfer Straße (5).jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
   }
 },
@@ -3838,14 +3850,14 @@
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
     "emergency": "drinking_water",
-    "image": "File:Straßenbrunnen56 Heiligensee Hennigsdorfer Str Kurzebracker Weg (1).jpg",
     "man_made": "water_well",
     "network": "Berliner Straßenbrunnen",
-    "operator": "Land",
+    "operator": "Land Berlin",
     "pump": "manual",
     "pump:status": "missing_beam",
     "pump:style": "FSH-L",
     "ref": "56",
+    "wikimedia_commons": "File:Straßenbrunnen56 Heiligensee Hennigsdorfer Str Kurzebracker Weg (1).jpg",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
   }
 },
@@ -3896,16 +3908,17 @@
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
     "emergency": "drinking_water",
-    "image": "File:Straßenbrunnen14 Rahnsdorf Fangschleuser Püttbergeweg(2).JPG",
     "man_made": "water_well",
     "mapillary": "214461317894710",
     "network": "Berliner Straßenbrunnen",
     "official_ref": "K014",
-    "operator": "Bund",
+    "operator": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+    "operator:wikidata": "Q1005427",
     "pump": "manual",
     "pump:status": "ok",
     "pump:style": "FSH-L",
     "ref": "14",
+    "wikimedia_commons": "File:Straßenbrunnen14 Rahnsdorf Fangschleuser Püttbergeweg(2).JPG",
     "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Treptow-Köpenick"
   }
 },
@@ -3984,13 +3997,17 @@
 {
   "type": "node",
   "id": 7476527096,
-  "lat": 52.5632727,
-  "lon": 13.3614592,
+  "lat": 52.5632879,
+  "lon": 13.3614081,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
     "colour": "blue",
-    "fountain": "bubbler"
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "operator": "Berliner Wasserbetriebe"
   }
 },
 {
@@ -4054,8 +4071,17 @@
   "lon": 13.4448018,
   "tags": {
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
     "fountain": "bubbler",
-    "name": "Wasserspender"
+    "hot_water": "no",
+    "iced_water": "no",
+    "name": "Wasserspender",
+    "opening_hours": "24/7",
+    "panoramax": "3af10014-5045-4379-bb11-c31fce2d3aa9",
+    "room_temperature_water": "yes",
+    "warm_water": "no"
   }
 },
 {
@@ -4136,6 +4162,7 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "drinking_water:seasonal": "yes",
     "fee": "no",
     "fountain": "bubbler",
     "operator": "Berliner Wasserbetriebe",
@@ -4262,7 +4289,16 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "fountain": "bubbler"
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "panoramax": "44fc5373-914a-4fa3-95a6-c24058815688",
+    "room_temperature_water": "yes",
+    "warm_water": "no"
   }
 },
 {
@@ -4305,6 +4341,7 @@
     "fountain": "bubbler",
     "indoor": "no",
     "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
     "operator:wikidata": "Q821856",
     "operator:wikipedia": "de:Berliner Wasserbetriebe",
     "wheelchair": "yes",
@@ -4621,7 +4658,8 @@
     "operator": "Berliner Wasserbetriebe",
     "operator:short": "BWB",
     "operator:wikidata": "Q821856",
-    "seasonal": "April-Oktober"
+    "seasonal": "April-Oktober",
+    "wheelchair": "no"
   }
 },
 {
@@ -4851,8 +4889,10 @@
   "lat": 52.4965686,
   "lon": 13.3779714,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
+    "colour": "blue",
     "fee": "no",
     "fountain": "bubbler",
     "operator": "Berliner Wasserbetriebe",
@@ -5022,8 +5062,8 @@
 {
   "type": "node",
   "id": 8989776961,
-  "lat": 52.5051116,
-  "lon": 13.3017304,
+  "lat": 52.5051043,
+  "lon": 13.3016888,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "no",
@@ -5042,8 +5082,8 @@
 {
   "type": "node",
   "id": 8990450123,
-  "lat": 52.5167751,
-  "lon": 13.3860303,
+  "lat": 52.5167780,
+  "lon": 13.3860318,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -5428,7 +5468,7 @@
     "internet_access": "wlan",
     "internet_access:fee": "no",
     "name": "Hotel - Pension Schäfer",
-    "phone:mobile": "+49 0157 78512013",
+    "phone:mobile": "+49 1577 8512013",
     "power_supply": "yes",
     "smoking": "no",
     "stars": "3",
@@ -5488,6 +5528,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "indoor": "no",
     "man_made": "water_tap"
   }
 },
@@ -5546,6 +5587,8 @@
     "fountain": "bubbler",
     "indoor": "no",
     "level": "0",
+    "lit": "no",
+    "material": "metal",
     "operator": "Berliner Wasserbetriebe",
     "operator:short": "BWB",
     "operator:wikidata": "Q821856"
@@ -5721,6 +5764,7 @@
     "operator:short": "BWB",
     "operator:wikidata": "Q821856",
     "seasonal": "yes",
+    "wheelchair": "no",
     "wikimedia_commons": "File:Berlin Ahrensfelder Platz Trinkwasserbrunnen.jpg"
   }
 },
@@ -5951,6 +5995,8 @@
   "lon": 13.4027480,
   "tags": {
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
     "fountain": "bubbler",
     "wikimedia_commons": "File:Bubbler Mauerpark, Berlin, Germany Aug 21, 2023 03-13-11 PM.jpeg"
   }
@@ -5979,7 +6025,8 @@
     "operator": "Berliner Wasserbetriebe",
     "operator:short": "BWB",
     "operator:wikidata": "Q821856",
-    "wheelchair": "no"
+    "wheelchair": "no",
+    "wikidata": "Q135965022"
   }
 },
 {
@@ -6008,7 +6055,7 @@
     "covered": "no",
     "description": "Trinkbrunnen",
     "drinking_water": "yes",
-    "fee": "yes",
+    "fee": "no",
     "fountain": "bubbler",
     "indoor": "no",
     "level": "0",
@@ -6459,7 +6506,8 @@
   "lat": 52.4821725,
   "lon": 13.4936827,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
   }
 },
 {
@@ -6547,6 +6595,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "drinking_water": "yes",
+    "indoor": "no",
     "man_made": "water_tap"
   }
 },
@@ -7131,8 +7180,8 @@
 {
   "type": "node",
   "id": 11443085441,
-  "lat": 52.5063429,
-  "lon": 13.2856250,
+  "lat": 52.5063391,
+  "lon": 13.2856289,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -7318,6 +7367,7 @@
   "tags": {
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bubbler",
     "operator": "Berliner Wasserbetriebe",
     "operator:short": "BWB",
     "operator:wikidata": "Q821856",
@@ -7333,6 +7383,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "bubbler",
     "operator": "Berliner Wasserbetriebe",
     "operator:short": "BWB",
     "operator:wikidata": "Q821856",
@@ -7425,8 +7476,8 @@
 {
   "type": "node",
   "id": 12066085958,
-  "lat": 52.4935532,
-  "lon": 13.3333101,
+  "lat": 52.4935826,
+  "lon": 13.3333108,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -7471,7 +7522,8 @@
   "lat": 52.7548407,
   "lon": 13.2478970,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "drinking"
   }
 },
 {
@@ -7589,8 +7641,10 @@
   "lat": 52.5609014,
   "lon": 13.3785805,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "fountain": "bubbler"
+    "fountain": "bubbler",
+    "seasonal": "yes"
   }
 },
 {
@@ -7609,10 +7663,16 @@
 {
   "type": "node",
   "id": 12512660847,
-  "lat": 52.5449733,
-  "lon": 13.4373626,
+  "lat": 52.5449004,
+  "lon": 13.4374094,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "yes"
   }
 },
 {
@@ -7636,7 +7696,9 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "fountain": "bottle_refill",
     "indoor": "yes",
+    "level": "1",
     "wheelchair": "yes"
   }
 },
@@ -7646,8 +7708,11 @@
   "lat": 52.5142534,
   "lon": 13.3926775,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "fountain": "bubbler"
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "April-October: open"
   }
 },
 {
@@ -7856,8 +7921,8 @@
 {
   "type": "node",
   "id": 12997010901,
-  "lat": 52.5403027,
-  "lon": 13.4021237,
+  "lat": 52.5403191,
+  "lon": 13.4020834,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -7888,7 +7953,8 @@
   "lon": 13.2207758,
   "tags": {
     "access": "private",
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill"
   }
 },
 {
@@ -7948,15 +8014,6 @@
 },
 {
   "type": "node",
-  "id": 13033902669,
-  "lat": 52.5402834,
-  "lon": 13.4020780,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 13034174269,
   "lat": 52.4037778,
   "lon": 13.0237628,
@@ -7976,10 +8033,240 @@
 },
 {
   "type": "node",
-  "id": 13063865303,
-  "lat": 52.5403027,
-  "lon": 13.4021108,
+  "id": 13108707901,
+  "lat": 52.3850365,
+  "lon": 13.1079641,
   "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "operator": "toom Baumarkt GmbH",
+    "operator:type": "business",
+    "operator:wikidata": "Q2442970",
+    "operator:wikipedia": "de:toom Baumarkt",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13125177942,
+  "lat": 52.5724412,
+  "lon": 13.3851468,
+  "tags": {
+    "addr:floor": "0",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "level": "0",
+    "lit": "no",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13125177963,
+  "lat": 52.5711064,
+  "lon": 13.3867624,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13125177968,
+  "lat": 52.5703793,
+  "lon": 13.3886537,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13125177969,
+  "lat": 52.5700871,
+  "lon": 13.3881889,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13125177972,
+  "lat": 52.5698873,
+  "lon": 13.3885423,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13125177974,
+  "lat": 52.5701258,
+  "lon": 13.3888769,
+  "tags": {
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13144165261,
+  "lat": 52.3585984,
+  "lon": 13.0064285,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13148721375,
+  "lat": 52.5299729,
+  "lon": 13.1876903,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "covered": "no",
+    "fee": "no",
+    "operator": "Berliner Wasserbetriebe",
+    "operator:short": "BWB",
+    "operator:wikidata": "Q821856",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13167755015,
+  "lat": 52.5082867,
+  "lon": 13.3741229,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "dog": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13192527450,
+  "lat": 52.5583707,
+  "lon": 13.3786714,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fountain": "bubbler",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13285848050,
+  "lat": 52.5071069,
+  "lon": 13.3578225,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13308076074,
+  "lat": 52.5402353,
+  "lon": 13.4897206,
+  "tags": {
+    "access": "yes",
+    "colour": "blue",
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "material": "metal",
+    "operator": "BWB"
+  }
+},
+{
+  "type": "node",
+  "id": 13308401501,
+  "lat": 52.4634062,
+  "lon": 13.3829154,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13357770461,
+  "lat": 52.6823991,
+  "lon": 13.6047425,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13420586631,
+  "lat": 52.5685338,
+  "lon": 13.4020335,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "indoor": "yes",
+    "level": "1",
+    "note": "Neben dem Fahrstuhl"
+  }
+},
+{
+  "type": "node",
+  "id": 13453331633,
+  "lat": 52.6225030,
+  "lon": 13.4846289,
+  "tags": {
+    "amenity": "drinking_water",
+    "disused": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13536837037,
+  "lat": 52.5155520,
+  "lon": 13.4615938,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 13686479401,
+  "lat": 52.4607371,
+  "lon": 13.3238535,
+  "tags": {
+    "addr:housenumber": "20",
+    "addr:street": "Schloßstraße",
     "amenity": "drinking_water"
   }
 }

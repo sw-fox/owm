@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:01:36Z",
+    "timestamp_osm_base": "2026-03-29T14:50:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -65,6 +65,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "description": "Gusseiserner Trinkbrunnen",
+    "fountain": "drinking",
     "heritage": "4",
     "heritage:operator": "BLfD",
     "name": "Trinkbrunnen Senkelbach",
@@ -78,14 +79,32 @@
 },
 {
   "type": "node",
+  "id": 332404760,
+  "lat": 48.8921129,
+  "lon": 10.9926346,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "note": "Open only from March/April until October/November, please ask local authorities for open times",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "operator": "Gemeinde Solnhofen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 334752619,
-  "lat": 48.7988548,
-  "lon": 10.1042196,
+  "lat": 48.7988485,
+  "lon": 10.1042248,
   "tags": {
     "drinking_water": "yes",
     "ele": "529",
     "name": "Langertbrunnen",
-    "natural": "spring"
+    "natural": "spring",
+    "wikipedia": "de:Karstquellenweg#Langertbrunnen_(7)"
   }
 },
 {
@@ -132,7 +151,8 @@
     "amenity": "drinking_water",
     "fee": "no",
     "image": "https://commons.wikimedia.org/wiki/File:Eichertbr%C3%BCnnle_im_Wolfertstal.jpg",
-    "name": "Eichertbrünnle"
+    "name": "Eichertbrünnle",
+    "wikipedia": "de:Karstquellenweg#Eichertbrünnele"
   }
 },
 {
@@ -214,6 +234,38 @@
     "natural": "spring",
     "start_date": "1898",
     "wikidata": "Q114674827"
+  }
+},
+{
+  "type": "node",
+  "id": 475275626,
+  "lat": 48.9561298,
+  "lon": 10.9115281,
+  "tags": {
+    "addr:city": "Treuchtlingen",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "91757",
+    "addr:street": "Heinrich-Aurnhammer-Straße",
+    "bottle": "yes",
+    "check_date": "2023-12-08",
+    "description": "Sie wollen mehr wissen über Treuchtlingen, haben Fragen oder möchten Anregungen geben? Das Service-Team der Kur- und Touristinformation freut sich, Ihnen helfen zu können. Sie finden uns im Herzen von Treuchtlingen im historischen Stadtschloss. Um Ihren B",
+    "drinking_water": "yes",
+    "email": "tourismus@treuchtlingen.de",
+    "fax": "+49 9142 960066",
+    "image": "https://www.tourismus-treuchtlingen.de/data/thumbs/img/6562673_stadtschloss_treuchtlingen.jpg",
+    "information": "office",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Kur- und Touristinformation",
+    "name:en": "Tourist Information",
+    "opening_hours": "Mo-Fr 09:00-12:00, Mo-Fr 13:00-17:00, Sa 09:00-13:00",
+    "operator": "Stadt Treuchtlingen",
+    "phone": "+49 9142 960060",
+    "toilets": "yes",
+    "tourism": "information",
+    "website": "https://www.tourismus-treuchtlingen.de/",
+    "wheelchair": "yes"
   }
 },
 {
@@ -312,11 +364,15 @@
 {
   "type": "node",
   "id": 790043412,
-  "lat": 48.3956282,
-  "lon": 10.0007957,
+  "lat": 48.3955655,
+  "lon": 10.0008324,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "check_date": "2021-09-01",
+    "button_operated": "no",
+    "capacity": "1",
+    "check_date": "2025-08-24",
+    "description": "Strahl geht senkrecht nach oben",
     "fee": "no",
     "fountain": "bubbler",
     "seasonal": "spring;summer;autumn",
@@ -341,6 +397,7 @@
   "lon": 10.6819780,
   "tags": {
     "amenity": "drinking_water",
+    "mapillary": "3263261307212460",
     "name": "Ganghofer Quelle",
     "natural": "spring"
   }
@@ -498,7 +555,8 @@
     "bottle": "yes",
     "description": "Trinkbrunnenauf dem Holbeinplatz",
     "fountain": "drinking",
-    "operator": "Stadt Augsburg, Hochbauamt"
+    "operator": "Stadt Augsburg, Hochbauamt",
+    "wheelchair": "yes"
   }
 },
 {
@@ -888,8 +946,8 @@
 {
   "type": "node",
   "id": 2399331591,
-  "lat": 48.1726255,
-  "lon": 10.4749244,
+  "lat": 48.1726354,
+  "lon": 10.4748495,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -912,6 +970,21 @@
 },
 {
   "type": "node",
+  "id": 2419804922,
+  "lat": 48.9555610,
+  "lon": 10.9105224,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours": "Mo-Fr 08:00-12:00, Do 13:30-18:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 2518240781,
   "lat": 48.3509288,
   "lon": 10.8675187,
@@ -930,8 +1003,8 @@
 {
   "type": "node",
   "id": 2541263966,
-  "lat": 48.3702797,
-  "lon": 10.8969868,
+  "lat": 48.3702065,
+  "lon": 10.8970179,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
@@ -967,6 +1040,21 @@
     "note": "Gestiftet von der Stadtwerke Augsburg Wasser GmbH und dem Tiefbauamt der Stadt Augsburg",
     "operator": "Stadt Augsburg, Hochbauamt",
     "start_date": "2011"
+  }
+},
+{
+  "type": "node",
+  "id": 3028369978,
+  "lat": 48.8920720,
+  "lon": 10.9927628,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "male": "yes",
+    "note": "Open only from March/April until October/November, please ask local authorities for open times",
+    "opening_hours": "Mo-Su 09:00-17:00"
   }
 },
 {
@@ -1045,7 +1133,9 @@
   "lat": 48.0199115,
   "lon": 10.5911537,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2026-03-13",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1557,6 +1647,15 @@
 },
 {
   "type": "node",
+  "id": 4795753179,
+  "lat": 48.0045424,
+  "lon": 10.1782400,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
   "id": 4913101049,
   "lat": 48.7720685,
   "lon": 10.0952854,
@@ -1564,7 +1663,8 @@
     "drinking_water": "yes",
     "name": "Kocherursprung",
     "natural": "spring",
-    "wikidata": "Q1499403"
+    "wikidata": "Q1499403",
+    "wikipedia": "de:Ursprung des Schwarzen Kochers"
   }
 },
 {
@@ -1635,7 +1735,7 @@
   "tags": {
     "access": "yes",
     "amenity": "water_point",
-    "description": "Wassertankstelle für Wohnmobile",
+    "description": "Wassertankstelle für Wohnmobile (1€ 50 ltr Stand 12/2025)",
     "drinking_water": "yes",
     "fee": "yes"
   }
@@ -1724,6 +1824,21 @@
     "note": "Der Ulrichsbrunnen befindet sich auf dem gemeinsamen Kirchhof zwischen der katholischen Basilika St. Ulrich und Afra und Evangelisch St. Ulrich. Gesponsert wird der Brunnen von den Stadtwerken Augsburg, die das Wasser bereitstellen.",
     "operator": "Katholisches Stadtpfarramt St. Ulrich und Afra",
     "start_date": "2017"
+  }
+},
+{
+  "type": "node",
+  "id": 5905228685,
+  "lat": 48.4646265,
+  "lon": 10.2033545,
+  "tags": {
+    "drinking_water": "yes",
+    "fee": "no",
+    "internet_access": "no",
+    "name": "Schwarzfelder Hof",
+    "toilets": "yes",
+    "tourism": "caravan_site",
+    "website": "https://www.schwarzfelder-hof.de/"
   }
 },
 {
@@ -1884,18 +1999,20 @@
     "ele": "520",
     "intermittent": "yes",
     "name": "Neubrunnen",
-    "natural": "spring"
+    "natural": "spring",
+    "wikipedia": "de:Karstquellenweg#Neubrunnen_(9)"
   }
 },
 {
   "type": "node",
   "id": 7507014271,
-  "lat": 48.8023906,
-  "lon": 10.1104815,
+  "lat": 48.8024085,
+  "lon": 10.1104841,
   "tags": {
     "drinking_water": "yes",
     "name": "Obere Schlachtquelle",
-    "natural": "spring"
+    "natural": "spring",
+    "wikipedia": "de:Karstquellenweg#Obere_Schlachtquelle_(7a)"
   }
 },
 {
@@ -2042,6 +2159,7 @@
     "access": "customers",
     "amenity": "drinking_water",
     "fee": "yes",
+    "man_made": "water_tap",
     "payment:coins": "yes"
   }
 },
@@ -2142,7 +2260,8 @@
     "drinking_water": "yes",
     "intermittent": "no",
     "name": "Luggenlohbrunnnen",
-    "natural": "spring"
+    "natural": "spring",
+    "wikipedia": "de:Karstquellenweg#Luggenlohbrunnen_(10)"
   }
 },
 {
@@ -2264,15 +2383,6 @@
 },
 {
   "type": "node",
-  "id": 9193642049,
-  "lat": 48.0368309,
-  "lon": 10.7270430,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 9259492814,
   "lat": 48.0251953,
   "lon": 10.5308596,
@@ -2333,8 +2443,8 @@
 {
   "type": "node",
   "id": 9621499481,
-  "lat": 48.3788975,
-  "lon": 10.8567527,
+  "lat": 48.3789068,
+  "lon": 10.8566952,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -2444,15 +2554,6 @@
   "id": 9934044172,
   "lat": 48.1018906,
   "lon": 10.5614915,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
-  "id": 9934051995,
-  "lat": 48.0002404,
-  "lon": 10.8340930,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -2857,8 +2958,8 @@
 {
   "type": "node",
   "id": 12025331451,
-  "lat": 48.6557461,
-  "lon": 10.8017043,
+  "lat": 48.6558394,
+  "lon": 10.8016716,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -2878,7 +2979,14 @@
   "lat": 48.9346852,
   "lon": 10.9736859,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Trinkbrunnen \"Zum Goldenen Hirschen\"",
+    "opening_hours": "24/7"
   }
 },
 {
@@ -3297,6 +3405,143 @@
     "amenity": "drinking_water",
     "fountain": "drinking",
     "name": "Adelheidquelle"
+  }
+},
+{
+  "type": "node",
+  "id": 13075683571,
+  "lat": 48.4617725,
+  "lon": 10.2694172,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "lit": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13092672165,
+  "lat": 48.8656151,
+  "lon": 10.1000579,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13110127418,
+  "lat": 48.5846388,
+  "lon": 10.2109270,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13176967701,
+  "lat": 48.4648648,
+  "lon": 10.6548328,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13180362959,
+  "lat": 48.6563932,
+  "lon": 10.8014703,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13180447635,
+  "lat": 48.7499086,
+  "lon": 10.5774947,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13236677481,
+  "lat": 48.9561044,
+  "lon": 10.9089601,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Trinkbrunnen Partnerschaftsplatz Treuchtlingen",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 13245670937,
+  "lat": 48.9347129,
+  "lon": 10.9745268,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Trinkwasserbrunnen am Rathaus",
+    "opening_hours": "24/7",
+    "operator": "Stadt Pappenheim",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13245670938,
+  "lat": 48.9327236,
+  "lon": 10.9736320,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water:seasonal": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "name": "Trinkbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 13320483623,
+  "lat": 48.4906756,
+  "lon": 10.8575140,
+  "tags": {
+    "amenity": "drinking_water",
+    "dog": "yes",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13320494253,
+  "lat": 48.4643810,
+  "lon": 10.8676469,
+  "tags": {
+    "amenity": "drinking_water",
+    "dog": "yes",
+    "drinking_water": "yes",
+    "fountain": "bubbler",
+    "man_made": "water_tap"
   }
 }
 

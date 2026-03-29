@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-02T22:53:19Z",
+    "timestamp_osm_base": "2026-03-29T14:52:14Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -66,6 +66,8 @@
     154999199,
     154999201,
     154999202,
+    13299160624,
+    13299160627,
     9181967534,
     313214173,
     313214175,
@@ -170,8 +172,10 @@
     401439295,
     401439296,
     401439297,
+    13533653160,
     401439298,
     6390177608,
+    13533653161,
     1879138711,
     1251728853,
     1251728888,
@@ -1515,7 +1519,8 @@
   "tags": {
     "landuse": "cemetery",
     "religion": "christian",
-    "source": "plan.at 2009"
+    "source": "plan.at 2009",
+    "wikidata": "Q37787039"
   }
 },
 {
@@ -4507,7 +4512,8 @@
     1356987483
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wikidata": "Q128796264"
   }
 },
 {
@@ -4833,7 +4839,9 @@
     1472092143
   ],
   "tags": {
-    "landuse": "cemetery"
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
   }
 },
 {
@@ -5659,7 +5667,9 @@
     1627080867
   ],
   "tags": {
-    "landuse": "cemetery"
+    "denomination": "roman_catholic",
+    "landuse": "cemetery",
+    "religion": "christian"
   }
 },
 {
@@ -5774,7 +5784,8 @@
     1705754016
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wikidata": "Q128797247"
   }
 },
 {
@@ -5904,7 +5915,8 @@
     1780108282
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "religion": "christian"
   }
 },
 {
@@ -6070,7 +6082,9 @@
     1953245793
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "name": "Friedhof Bad Großpertholz",
+    "religion": "christian"
   }
 },
 {
@@ -6165,6 +6179,7 @@
   "tags": {
     "denomination": "catholic",
     "landuse": "cemetery",
+    "name": "Friedhof LK-Mauer",
     "religion": "christian"
   }
 },
@@ -6808,6 +6823,7 @@
     2434015552,
     2434015565,
     2434015547,
+    13370016285,
     1367624777
   ],
   "tags": {
@@ -6868,7 +6884,8 @@
     "historic": "memorial",
     "landuse": "cemetery",
     "memorial": "war_memorial",
-    "name": "památník obětem Transportu smrti"
+    "name": "památník obětem Transportu smrti",
+    "wikidata": "Q38040654"
   }
 },
 {
@@ -7001,6 +7018,7 @@
   ],
   "tags": {
     "landuse": "cemetery",
+    "name": "Friedhof Strengberg",
     "religion": "christian"
   }
 },
@@ -7496,7 +7514,7 @@
   "id": 293187005,
   "center": {
     "lat": 48.6870930,
-    "lon": 14.5772820
+    "lon": 14.5772722
   },
   "nodes": [
     2967570286,
@@ -7815,6 +7833,7 @@
   ],
   "tags": {
     "landuse": "cemetery",
+    "name": "Friedhof St. Peter/ Au",
     "religion": "christian"
   }
 },
@@ -7954,7 +7973,8 @@
   "tags": {
     "landuse": "cemetery",
     "name": "Friedhof Arbesbach",
-    "source": "geoimage.at"
+    "source": "geoimage.at",
+    "wikidata": "Q128796266"
   }
 },
 {
@@ -8837,6 +8857,7 @@
   },
   "nodes": [
     5428309989,
+    13386531504,
     5428309988,
     5428309987,
     5428309982,
@@ -8847,7 +8868,8 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "name": "Friedhof Stephanshart"
+    "name": "Friedhof Stephanshart",
+    "religion": "christian"
   }
 },
 {
@@ -10163,7 +10185,7 @@
   "type": "relation",
   "id": 1403415,
   "center": {
-    "lat": 48.6136770,
+    "lat": 48.6136713,
     "lon": 14.3127616
   },
   "members": [

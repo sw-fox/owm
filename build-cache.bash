@@ -39,16 +39,24 @@ for ((i=south; i<=north; i++)); do
         );out center;"
 
         # Send the request using curl and save to json
-        curl -X POST https://overpass-api.de/api/interpreter \
+        response=$(curl -s -X POST https://overpass-api.de/api/interpreter \
             -H "Content-Type: application/x-www-form-urlencoded; charset=UTF-8" \
-            --data-urlencode "data=${query1}" \
-            -o "./public/data/drinking_water_${i}_${j}.json" &
+            --data-urlencode "data=${query1}")
+        if printf '%s' "$response" | sed -e 's/^[[:space:]]*//' | grep -q '^{'; then
+            echo "$response" > "./public/data/drinking_water_${i}_${j}.json"
+        else
+            echo "Invalid JSON response, not saving."
+        fi
 
         # Send the request using curl and save to json
-        curl -X POST https://overpass-api.de/api/interpreter \
+        response=$(curl -s -X POST https://overpass-api.de/api/interpreter \
             -H "Content-Type: application/x-www-form-urlencoded; charset=UTF-8" \
-            --data-urlencode "data=${query2}" \
-            -o "./public/data/cemetery_${i}_${j}.json"
+            --data-urlencode "data=${query2}")
+        if printf '%s' "$response" | sed -e 's/^[[:space:]]*//' | grep -q '^{'; then
+            echo "$response" > "./public/data/cemetery_${i}_${j}.json"
+        else
+            echo "Invalid JSON response, not saving."
+        fi
     done
 done
 

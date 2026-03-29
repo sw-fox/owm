@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-02T22:55:22Z",
+    "timestamp_osm_base": "2026-03-29T15:02:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -374,15 +374,15 @@
   "type": "way",
   "id": 24276071,
   "center": {
-    "lat": 51.0838754,
-    "lon": 14.4500963
+    "lat": 51.0838746,
+    "lon": 14.4500809
   },
   "nodes": [
     2361696239,
     2361696236,
     1036484704,
-    262845643,
-    262845696,
+    13387042882,
+    13387042880,
     262845699,
     2361696245,
     6052738576,
@@ -485,17 +485,26 @@
     3727494584
   ],
   "tags": {
+    "boundary": "protected_area",
     "denomination": "evangelical",
+    "description": "Friedhof mit Einzeldenkmalen",
     "email": "pfarramt@bruedergemeine-niesky.de",
+    "heritage": "4",
+    "heritage:operator": "lfd",
+    "image": "https://commons.wikimedia.org/wiki/File:Niesky - Am Gottesacker - Gottesacker 01 ies.jpg",
     "landuse": "cemetery",
+    "lfd:criteria": "Friedhof",
     "name": "Gottesacker",
     "operator": "Evangelische Brüdergemeine Niesky",
+    "operator:type": "religious",
     "phone": "+49 3588 202995",
+    "protect_class": "22",
+    "ref:lfd": "09269354",
     "religion": "christian",
     "start_date": "1743-04-12",
     "website": "https://niesky.ebu.de/erkundungen/gottesacker",
     "wikidata": "Q49419790",
-    "wikimedia_commons": "File:Niesky_-_Am_Gottesacker_-_Gottesacker_01_ies.jpg"
+    "wikimedia_commons": "Category:Gottesacker der Brüdergemeinde Niesky"
   }
 },
 {
@@ -732,18 +741,22 @@
   "id": 25928620,
   "center": {
     "lat": 51.0570679,
-    "lon": 14.5024095
+    "lon": 14.5024457
   },
   "nodes": [
     282836023,
+    13319023718,
     1386586313,
+    13319023717,
+    13319023716,
     282836031,
     912504921,
     282836034,
     282836042,
     282836045,
     282836048,
-    1386586314,
+    13319023728,
+    13319023731,
     282836023
   ],
   "tags": {
@@ -755,11 +768,12 @@
   "id": 26564189,
   "center": {
     "lat": 51.2298582,
-    "lon": 14.8933026
+    "lon": 14.8933032
   },
   "nodes": [
     291208264,
     291208258,
+    13504825375,
     2083169251,
     3309231007,
     291211951,
@@ -773,8 +787,8 @@
     291208264
   ],
   "tags": {
+    "description": "Gemeindefriedhof",
     "landuse": "cemetery",
-    "name": "Gemeindefriedhof",
     "religion": "christian"
   }
 },
@@ -1077,19 +1091,21 @@
   "type": "way",
   "id": 32138846,
   "center": {
-    "lat": 51.1797544,
-    "lon": 14.9375525
+    "lat": 51.1796909,
+    "lon": 14.9375150
   },
   "nodes": [
     7301308210,
     360788995,
     9997891888,
     9997891887,
-    9997891894,
     360788989,
-    7295167095,
+    13329110979,
+    13329110977,
     360788991,
     11610888175,
+    13329110969,
+    13329110970,
     360788993,
     7301308210
   ],
@@ -1106,19 +1122,17 @@
     "lon": 14.5958196
   },
   "nodes": [
-    364747267,
     364744874,
     12122849271,
     364744863,
     364744868,
-    669062902,
-    364747267
+    364744874
   ],
   "tags": {
     "denomination": "lutheran",
+    "description": "Friedhof Baruth",
+    "description:hsb": "Bartski kěrchow",
     "landuse": "cemetery",
-    "name": "Friedhof Baruth",
-    "name:hsb": "Bartski kěrchow",
     "religion": "christian",
     "wikidata": "Q91617011"
   }
@@ -1160,7 +1174,10 @@
     "barrier": "wall",
     "denomination": "protestant",
     "landuse": "cemetery",
-    "religion": "christian"
+    "name": "Friedhof Kollm",
+    "name:hsb": "Chołmjanski kěrchow",
+    "religion": "christian",
+    "wikidata": "Q125373502"
   }
 },
 {
@@ -1305,10 +1322,16 @@
     430936058
   ],
   "tags": {
+    "heritage": "4",
+    "heritage:operator": "lfd",
+    "image": "https://commons.wikimedia.org/wiki/File:Neschwitz - Hauptstraße - Friedhof 10 ies.jpg",
     "landuse": "cemetery",
     "name:hsb": "Njeswačanski kěrchow",
+    "ref:lfd": "09304034",
     "religion": "christian",
-    "wikidata": "Q49407552"
+    "start_date": "1810",
+    "wikidata": "Q49407552",
+    "wikimedia_commons": "Category:Friedhof Neschwitz"
   }
 },
 {
@@ -1475,6 +1498,10 @@
     12137336773,
     12137336774,
     12137336772,
+    13592212539,
+    13592212538,
+    13592212535,
+    13592212541,
     501904351,
     12137336775,
     501904352
@@ -1516,24 +1543,27 @@
   "id": 42043152,
   "center": {
     "lat": 51.1427135,
-    "lon": 14.8804521
+    "lon": 14.8804587
   },
   "nodes": [
     521966842,
     9171781094,
     521966852,
+    13611824824,
     521966860,
     11360602439,
     521966876,
     9171781084,
     11360602440,
     9171781085,
+    13611824825,
     521966905,
     11360602441,
     9171781093,
     9171781092,
     2158271542,
     9171781086,
+    13611824827,
     521966928,
     9171781109,
     9171781087,
@@ -1545,8 +1575,8 @@
   ],
   "tags": {
     "denomination": "protestant",
+    "description": "Friedhof Markersdorf",
     "landuse": "cemetery",
-    "name": "Friedhof Markersdorf",
     "religion": "christian"
   }
 },
@@ -1817,7 +1847,7 @@
   "type": "way",
   "id": 48807215,
   "center": {
-    "lat": 51.1328699,
+    "lat": 51.1328567,
     "lon": 14.4063005
   },
   "nodes": [
@@ -1832,9 +1862,9 @@
   ],
   "tags": {
     "denomination": "protestant",
+    "description": "Friedhof Obergurig",
+    "description:hsb": "Hornjohórčanski kěrchow",
     "landuse": "cemetery",
-    "name": "Friedhof Obergurig",
-    "name:hsb": "Hornjohórčanski kěrchow",
     "religion": "christian",
     "wikidata": "Q91617016"
   }
@@ -1852,7 +1882,9 @@
     626966501,
     1425448764,
     1425448785,
+    13462724828,
     6152100211,
+    13462724829,
     626966502,
     1363823003,
     1363823009,
@@ -1866,7 +1898,10 @@
     1363822994
   ],
   "tags": {
-    "landuse": "cemetery"
+    "heritage": "4",
+    "heritage:operator": "lfd",
+    "landuse": "cemetery",
+    "ref:lfd": "09303909"
   }
 },
 {
@@ -2235,16 +2270,19 @@
   "type": "way",
   "id": 56158074,
   "center": {
-    "lat": 51.1194094,
-    "lon": 14.1404000
+    "lat": 51.1194098,
+    "lon": 14.1404071
   },
   "nodes": [
     2915013254,
     704798029,
     704798031,
     704798032,
+    13288953775,
     704798033,
+    13288953776,
     704798044,
+    13288953777,
     2915013252,
     2915013255,
     2915013256,
@@ -2254,8 +2292,7 @@
     2915013254
   ],
   "tags": {
-    "amenity": "grave_yard",
-    "barrier": "wall",
+    "landuse": "cemetery",
     "religion": "christian"
   }
 },
@@ -2745,9 +2782,9 @@
     1008104348
   ],
   "tags": {
+    "description": "Friedhof Malschwitz",
+    "description:hsb": "Malešanski kěrchow",
     "landuse": "cemetery",
-    "name": "Friedhof Malschwitz",
-    "name:hsb": "Malešanski kěrchow",
     "religion": "christian",
     "wikidata": "Q49408705"
   }
@@ -2868,9 +2905,9 @@
   ],
   "tags": {
     "denomination": "catholic",
+    "description": "Friedhof Radibor",
+    "description:hsb": "Radworski kěrchow",
     "landuse": "cemetery",
-    "name": "Friedhof Radibor",
-    "name:hsb": "Radworski kěrchow",
     "religion": "christian",
     "wikidata": "Q62053793"
   }
@@ -3314,7 +3351,7 @@
   "id": 118915682,
   "center": {
     "lat": 51.0498446,
-    "lon": 14.6053537
+    "lon": 14.6053869
   },
   "nodes": [
     686671304,
@@ -3337,11 +3374,13 @@
   "id": 118946781,
   "center": {
     "lat": 51.0425724,
-    "lon": 14.1167526
+    "lon": 14.1167580
   },
   "nodes": [
     1337159336,
     1639501918,
+    13326635382,
+    13326635381,
     1639501907,
     1337159253,
     1337159439,
@@ -3349,6 +3388,8 @@
     1337159389,
     1639501875,
     1337159309,
+    13326635380,
+    8840214191,
     1337159212,
     10652355540,
     1337159412,
@@ -3361,7 +3402,7 @@
     "addr:city": "Langenwolmsdorf",
     "addr:postcode": "01833",
     "addr:street": "Bergstraße",
-    "amenity": "grave_yard",
+    "landuse": "cemetery",
     "religion": "christian"
   }
 },
@@ -3381,7 +3422,7 @@
   ],
   "tags": {
     "amenity": "grave_yard",
-    "name": "unbekannte Soldaten"
+    "description": "unbekannte Soldaten"
   }
 },
 {
@@ -3455,6 +3496,7 @@
     4672331733,
     1366959274,
     1366959275,
+    8361989938,
     1366959276,
     1366959277,
     1366959265
@@ -3744,37 +3786,6 @@
   "tags": {
     "description": "Friedhof Taubenheim",
     "landuse": "cemetery"
-  }
-},
-{
-  "type": "way",
-  "id": 130789245,
-  "center": {
-    "lat": 51.0830478,
-    "lon": 14.4518823
-  },
-  "nodes": [
-    1439592609,
-    11939132632,
-    11939132626,
-    11939132630,
-    11939132629,
-    262845666,
-    262845667,
-    262845669,
-    262845677,
-    1035877331,
-    1439592596,
-    1439592594,
-    1439592592,
-    1439592590,
-    1439592588,
-    1439592585,
-    1439592609
-  ],
-  "tags": {
-    "landuse": "cemetery",
-    "religion": "christian"
   }
 },
 {
@@ -4142,8 +4153,10 @@
     1534497394
   ],
   "tags": {
-    "description": "Friedhof Melaune",
+    "denomination": "protestant",
+    "description": "Friedhof Melaune (Evangelische Kirche)",
     "landuse": "cemetery",
+    "religion": "christian",
     "wikidata": "Q125373508"
   }
 },
@@ -4973,9 +4986,9 @@
     1730835026
   ],
   "tags": {
+    "description": "Friedhof Uhyst",
+    "description:hsb": "Delnjowujězdźanski kěrchow",
     "landuse": "cemetery",
-    "name": "Friedhof Uhyst",
-    "name:hsb": "Delnjowujězdźanski kěrchow",
     "wikidata": "Q91616944"
   }
 },
@@ -4990,7 +5003,7 @@
     1732884838,
     1732884842,
     1732884840,
-    1732884844,
+    13456263379,
     10221554245,
     1732884839,
     1732884841,
@@ -4999,7 +5012,7 @@
     1732884838
   ],
   "tags": {
-    "amenity": "grave_yard",
+    "landuse": "cemetery",
     "religion": "christian"
   }
 },
@@ -5479,42 +5492,6 @@
 },
 {
   "type": "way",
-  "id": 170786483,
-  "center": {
-    "lat": 51.2264347,
-    "lon": 14.0583958
-  },
-  "nodes": [
-    1819303232,
-    1819303234,
-    1819303252,
-    1819303236,
-    1819303204,
-    13246513019,
-    1819303202,
-    12963830598,
-    1819303189,
-    1139931741,
-    1139931773,
-    13202962974,
-    1139931759,
-    1139931810,
-    12963837603,
-    12222088160,
-    1819303185,
-    1819303191,
-    1819303193,
-    1819303195,
-    1819303228,
-    1819303230,
-    1819303232
-  ],
-  "tags": {
-    "landuse": "cemetery"
-  }
-},
-{
-  "type": "way",
   "id": 170811817,
   "center": {
     "lat": 51.9210538,
@@ -5811,16 +5788,16 @@
   "type": "way",
   "id": 173051858,
   "center": {
-    "lat": 51.5015332,
-    "lon": 14.6239526
+    "lat": 51.5015535,
+    "lon": 14.6239555
   },
   "nodes": [
     11373289051,
-    12183887412,
     214688602,
     214688613,
     12178051988,
     12178051985,
+    13401497882,
     12178051989,
     12178051986,
     12178051987,
@@ -5828,7 +5805,10 @@
   ],
   "tags": {
     "landuse": "cemetery",
-    "religion": "christian"
+    "religion": "christian",
+    "wheelchair": "yes",
+    "wikidata": "Q125373541",
+    "wikimedia_commons": "Category:Friedhof Weißwasser"
   }
 },
 {
@@ -5927,12 +5907,11 @@
   "id": 173343303,
   "center": {
     "lat": 51.1240657,
-    "lon": 14.8526360
+    "lon": 14.8526450
   },
   "nodes": [
     1841783148,
     1841783150,
-    1841783153,
     1841783142,
     1841783156,
     1841783159,
@@ -5969,7 +5948,7 @@
   "type": "way",
   "id": 173487592,
   "center": {
-    "lat": 51.4407450,
+    "lat": 51.4408794,
     "lon": 14.2856794
   },
   "nodes": [
@@ -5980,7 +5959,10 @@
     1842889205,
     620477875,
     1842889213,
-    1842889218,
+    7962922529,
+    7962922531,
+    7962922532,
+    12157336368,
     620477876,
     259792700,
     1842889219,
@@ -6000,8 +5982,7 @@
     "name": "Waldfriedhof",
     "name:hsb": "Lěsne pohrjebnišćo",
     "operator:type": "public",
-    "operator:wikidata": "Q14904",
-    "url": "https://www.hoyerswerda.de/wp-content/uploads///formulare%20internetseite/Geschäftskreis%20Bürgermeister/33_FB%20Bürgeramt/33_2_FG%20öffentl%20Sicherheit%20u%20Ordnung/33_21_%20FD%20öffentl%20Sicherheit%20u%20Ordnung%20_Friedhö/4_Friedhofsverwaltung/Formu"
+    "operator:wikidata": "Q14904"
   }
 },
 {
@@ -6088,6 +6069,7 @@
     11405092796,
     2663346402,
     1459910885,
+    13327969688,
     1846595206
   ],
   "tags": {
@@ -6156,6 +6138,7 @@
   ],
   "tags": {
     "landuse": "cemetery",
+    "name:signed": "no",
     "religion": "christian"
   }
 },
@@ -6252,29 +6235,27 @@
   "type": "way",
   "id": 174188012,
   "center": {
-    "lat": 51.4238526,
-    "lon": 14.2293565
+    "lat": 51.4238268,
+    "lon": 14.2294173
   },
   "nodes": [
     1765698618,
-    1341480409,
-    4975706609,
-    1341479042,
-    2111550132,
-    4975766122,
+    13685111133,
+    13685111134,
+    13685111135,
+    13685111136,
+    13685111137,
     4975766121,
     2111550128,
     1765698591,
     1765637026,
-    2111550130,
     1765698618
   ],
   "tags": {
+    "description": "Friedhof Neida",
     "landuse": "cemetery",
-    "name": "Friedhof Neida",
     "operator:type": "public",
-    "operator:wikidata": "Q14904",
-    "url": "https://www.hoyerswerda.de/wp-content/uploads///formulare%20internetseite/Geschäftskreis%20Bürgermeister/33_FB%20Bürgeramt/33_2_FG%20öffentl%20Sicherheit%20u%20Ordnung/33_21_%20FD%20öffentl%20Sicherheit%20u%20Ordnung%20_Friedhö/4_Friedhofsverwaltung/Formu"
+    "operator:wikidata": "Q14904"
   }
 },
 {
@@ -6457,18 +6438,19 @@
   "type": "way",
   "id": 176478133,
   "center": {
-    "lat": 51.5171950,
+    "lat": 51.5171948,
     "lon": 14.1759003
   },
   "nodes": [
-    1869960667,
     1869960670,
     1869960671,
     1869960672,
-    9296833687,
+    5579922479,
     9296833686,
-    1869960668,
-    1869960667
+    13513910342,
+    9285144210,
+    9285144211,
+    1869960670
   ],
   "tags": {
     "landuse": "cemetery"
@@ -6519,8 +6501,8 @@
     12791593050,
     12791593049,
     1876430096,
-    1876430098,
-    1876430106,
+    13322618054,
+    13322618059,
     7890764453,
     12800898962,
     12800898963,
@@ -6810,9 +6792,9 @@
     1200081443
   ],
   "tags": {
+    "description": "Friedhof Reichwalde",
+    "description:hsb": "Rychwałdski kěrchow",
     "landuse": "cemetery",
-    "name": "Friedhof Reichwalde",
-    "name:hsb": "Rychwałdski kěrchow",
     "religion": "christian",
     "wikidata": "Q104533878"
   }
@@ -7174,10 +7156,12 @@
   "id": 183794276,
   "center": {
     "lat": 51.9140884,
-    "lon": 14.6527600
+    "lon": 14.6527418
   },
   "nodes": [
     1942050175,
+    13408913357,
+    13408913358,
     8456297139,
     1942050176,
     8456297137,
@@ -7228,7 +7212,7 @@
   "nodes": [
     1944634265,
     1944634266,
-    4174610985,
+    13648016306,
     1944634257,
     4174613111,
     1944634256,
@@ -8320,8 +8304,8 @@
   ],
   "tags": {
     "amenity": "grave_yard",
+    "description": "Sowjetischer Ehrenfriedhof",
     "historic": "memorial",
-    "name": "Sowjetischer Ehrenfriedhof",
     "wheelchair": "yes"
   }
 },
@@ -8568,23 +8552,24 @@
   "type": "way",
   "id": 225369293,
   "center": {
-    "lat": 51.0021621,
-    "lon": 14.9927181
+    "lat": 51.0021746,
+    "lon": 14.9926947
   },
   "nodes": [
-    2333589411,
-    2333589416,
-    2333589408,
-    2333589407,
-    2341535031,
-    2341535039,
-    2341535076,
     2341535042,
-    2333589411
+    13641437056,
+    2341535076,
+    13641437055,
+    2341535039,
+    2341535031,
+    13641437054,
+    2333589411,
+    2341535042
   ],
   "tags": {
     "barrier": "wall",
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "source": "cuzk:zabaged"
   }
 },
 {
@@ -8827,7 +8812,13 @@
     2441241987
   ],
   "tags": {
-    "landuse": "cemetery"
+    "heritage": "4",
+    "heritage:operator": "lfd",
+    "landuse": "cemetery",
+    "ref:lfd": "09303042",
+    "start_date": "1885",
+    "wikidata": "Q49389708",
+    "wikimedia_commons": "Category:Nordfriedhof (Bad Muskau)"
   }
 },
 {
@@ -8979,10 +8970,10 @@
     2454421036
   ],
   "tags": {
+    "description": "Jüdischer Friedhof",
     "heritage": "4",
     "heritage:operator": "lfd",
     "landuse": "cemetery",
-    "name": "Jüdischer Friedhof",
     "ref:lfd": "09281906",
     "religion": "jewish",
     "wikidata": "Q1716234",
@@ -9169,8 +9160,8 @@
     2516051530
   ],
   "tags": {
+    "description": "Friedhof Altdöbern",
     "landuse": "cemetery",
-    "name": "Friedhof Altdöbern",
     "religion": "christian"
   }
 },
@@ -9527,12 +9518,14 @@
   "type": "way",
   "id": 259587668,
   "center": {
-    "lat": 51.4045334,
-    "lon": 14.3324072
+    "lat": 51.4045630,
+    "lon": 14.3325173
   },
   "nodes": [
     2650180527,
     2650180532,
+    13481880841,
+    13481880840,
     2650180526,
     3220731769,
     2650180523,
@@ -9596,8 +9589,6 @@
     "lon": 14.1678700
   },
   "nodes": [
-    2673013474,
-    410081400,
     2673013472,
     1667136555,
     1667136549,
@@ -9607,7 +9598,8 @@
     2673013475,
     410545958,
     252557254,
-    2673013474
+    13291503142,
+    2673013472
   ],
   "tags": {
     "denomination": "lutheran",
@@ -9718,6 +9710,7 @@
     "description": "Friedhof Wilthen",
     "description:hsb": "Wjelećanski kěrchow",
     "landuse": "cemetery",
+    "religion": "christian",
     "wikidata": "Q101403610"
   }
 },
@@ -10353,9 +10346,9 @@
     3578180052
   ],
   "tags": {
+    "description": "Friedhof Milkel",
+    "description:hsb": "Minakałski kěrchow",
     "landuse": "cemetery",
-    "name": "Friedhof Milkel",
-    "name:hsb": "Minakałski kěrchow",
     "wikidata": "Q62053920"
   }
 },
@@ -10442,16 +10435,16 @@
     "lon": 14.9233609
   },
   "nodes": [
-    3638945899,
+    1288863346,
     7301293601,
     7301293602,
     3638945906,
-    3638945905,
+    1288863410,
     13092652727,
     3638945900,
     3638945898,
     3638945897,
-    3638945899
+    1288863346
   ],
   "tags": {
     "landuse": "cemetery",
@@ -10476,6 +10469,7 @@
     3644669076,
     3644669097,
     3644669032,
+    13470717510,
     3644669015,
     3644668832,
     2509485647,
@@ -10483,7 +10477,7 @@
     3644668811
   ],
   "tags": {
-    "amenity": "grave_yard"
+    "landuse": "cemetery"
   }
 },
 {
@@ -10572,7 +10566,7 @@
   "type": "way",
   "id": 368917835,
   "center": {
-    "lat": 51.2855453,
+    "lat": 51.2855461,
     "lon": 14.8264851
   },
   "nodes": [
@@ -10583,6 +10577,7 @@
     886131966,
     3727575324,
     3727685071,
+    13672385662,
     3727685072,
     3727575525,
     3727575323,
@@ -10590,8 +10585,17 @@
     3727575318
   ],
   "tags": {
+    "boundary": "protected_area",
+    "description": "Waldfriedhof (Kommunaler Friedhof) mit Einzeldenkmalen",
+    "heritage": "4",
+    "heritage:operator": "lfd",
     "landuse": "cemetery",
-    "name": "Waldfriedhof"
+    "name": "Waldfriedhof",
+    "operator": "Stadt Niesky",
+    "protect_class": "22",
+    "ref:lfd": "09303212",
+    "religion": "christian",
+    "start_date": "~1900"
   }
 },
 {
@@ -11120,8 +11124,8 @@
   "type": "way",
   "id": 413070084,
   "center": {
-    "lat": 51.0452620,
-    "lon": 14.0691616
+    "lat": 51.0452672,
+    "lon": 14.0691581
   },
   "nodes": [
     4144021410,
@@ -11129,7 +11133,9 @@
     4144021411,
     7171816336,
     4144021402,
+    13665778875,
     4144021412,
+    13665778876,
     4144021399,
     4144021408,
     4144021405,
@@ -11137,6 +11143,8 @@
     4144021400,
     4144021403,
     4144021407,
+    13665778874,
+    13665778873,
     4144021410
   ],
   "tags": {
@@ -11569,16 +11577,17 @@
   "type": "way",
   "id": 447895381,
   "center": {
-    "lat": 51.5524732,
-    "lon": 14.7833401
+    "lat": 51.5524743,
+    "lon": 14.7833371
   },
   "nodes": [
-    4449563520,
+    2310187964,
     4449563521,
     4449563272,
+    13648482717,
     4449563273,
     4449563519,
-    4449563520
+    2310187964
   ],
   "tags": {
     "landuse": "cemetery"
@@ -11670,8 +11679,8 @@
     4536084951,
     4536084960,
     11911583293,
-    4536084957,
-    1827603009,
+    13359694945,
+    13359694947,
     4536084952,
     4536084949
   ],
@@ -12176,7 +12185,7 @@
     5265826306,
     4795035698,
     5265826312,
-    13011727955,
+    13602969221,
     457459827,
     912570320,
     5265826303,
@@ -12924,7 +12933,8 @@
     10910945413
   ],
   "tags": {
-    "landuse": "cemetery"
+    "landuse": "cemetery",
+    "wheelchair": "no"
   }
 },
 {
@@ -13324,19 +13334,19 @@
   "type": "way",
   "id": 697199481,
   "center": {
-    "lat": 51.4536755,
-    "lon": 14.1871354
+    "lat": 51.4536631,
+    "lon": 14.1871320
   },
   "nodes": [
-    6402698335,
-    6402698334,
-    6402698333,
+    13324854945,
     6548177658,
     6548177657,
     6548177656,
     6548177655,
     6402698336,
-    6402698335
+    13324854944,
+    13324854943,
+    13324854945
   ],
   "tags": {
     "historic": "memorial",
@@ -13366,7 +13376,7 @@
   "type": "way",
   "id": 700519857,
   "center": {
-    "lat": 51.5300814,
+    "lat": 51.5300876,
     "lon": 14.6587631
   },
   "nodes": [
@@ -13377,9 +13387,9 @@
     6578495463
   ],
   "tags": {
-    "landuse": "cemetery",
-    "name": "Friedhof Gablenz",
-    "name:hsb": "Jabłońske pohrjebnišćo"
+    "description": "Friedhof Gablenz",
+    "description:hsb": "Jabłońske pohrjebnišćo",
+    "landuse": "cemetery"
   }
 },
 {
@@ -13450,8 +13460,8 @@
   "type": "way",
   "id": 735003207,
   "center": {
-    "lat": 51.0175046,
-    "lon": 14.8656490
+    "lat": 51.0174903,
+    "lon": 14.8656347
   },
   "nodes": [
     6883713900,
@@ -13460,23 +13470,18 @@
     11240022712,
     6883713903,
     6883713904,
+    7061052115,
     6883713905,
     11240022721,
     6883713906,
+    6883728414,
     6883713907,
+    7061052113,
+    11297602304,
     6883713908,
-    6883713909,
-    6883713910,
-    6883713911,
-    6883713912,
-    6883713913,
-    6883713914,
-    6883713915,
-    6883713916,
-    6883713917,
-    6883713918,
-    6883713919,
+    6883728422,
     6883713920,
+    6883728420,
     6883713921,
     6883728419,
     6883713922,
@@ -14364,58 +14369,6 @@
 },
 {
   "type": "way",
-  "id": 1004397355,
-  "center": {
-    "lat": 51.2774419,
-    "lon": 14.0539951
-  },
-  "nodes": [
-    81403580,
-    420286179,
-    420286173,
-    445042431,
-    445042436,
-    1511898991,
-    445035518,
-    3912977176,
-    445042427,
-    445042428,
-    420286167,
-    420286158,
-    420286151,
-    933176154,
-    9752915445,
-    1265263573,
-    9752915444,
-    9752915446,
-    1194290380,
-    12629287558,
-    9267269057,
-    420286112,
-    1511898986,
-    1511898988,
-    1511898990,
-    420286080,
-    9267269058,
-    3950270601,
-    1214477210,
-    81403580
-  ],
-  "tags": {
-    "addr:city": "Kamenz",
-    "addr:country": "DE",
-    "addr:postcode": "01917",
-    "addr:street": "Lückersdorfer Landstraße",
-    "contact:email": "info@friedwald.de",
-    "contact:phone": "+49 6155 848-100",
-    "contact:website": "https://www.friedwald.de/waldbestattung-kamenz",
-    "landuse": "cemetery",
-    "name": "FriedWald Kamenz",
-    "source": "www.zaehle.de;https://www.friedwald.de/waldbestattung-kamenz"
-  }
-},
-{
-  "type": "way",
   "id": 1027652573,
   "center": {
     "lat": 51.3717191,
@@ -14564,6 +14517,7 @@
     1383530407,
     10059386324,
     1383530455,
+    13506805684,
     1383530465
   ],
   "tags": {
@@ -14880,8 +14834,8 @@
     12612715697
   ],
   "tags": {
+    "description": "Domherrengräber",
     "landuse": "cemetery",
-    "name": "Domherrengräber",
     "religion": "christian"
   }
 },
@@ -15024,6 +14978,218 @@
   }
 },
 {
+  "type": "way",
+  "id": 1449661798,
+  "center": {
+    "lat": 51.1524013,
+    "lon": 14.9876542
+  },
+  "nodes": [
+    4700063700,
+    4700063696,
+    4700063697,
+    281669183,
+    281669230,
+    281669185,
+    4700063702,
+    281669186,
+    13296744089,
+    13296744090,
+    13296773403,
+    13296773402,
+    13296773401,
+    13296744100,
+    13296773404,
+    13296744099,
+    13296744098,
+    13296744091,
+    13296744097,
+    13296744096,
+    13296744092,
+    13296744093,
+    13296744095,
+    13296744094,
+    4700060691,
+    4700060698,
+    4700060696,
+    4700060690,
+    281669228,
+    281669229,
+    4700062965,
+    4700062956,
+    4700062955,
+    4700062964,
+    4700062962,
+    4700062952,
+    4700062958,
+    4700062963,
+    4700062967,
+    4700062966,
+    4700062968,
+    4700062969,
+    4700063690,
+    4700063691,
+    4700063693,
+    4700063692,
+    4700063694,
+    4700063699,
+    4700063700
+  ],
+  "tags": {
+    "amenity": "grave_yard"
+  }
+},
+{
+  "type": "way",
+  "id": 1453147932,
+  "center": {
+    "lat": 51.0423560,
+    "lon": 14.1168834
+  },
+  "nodes": [
+    13326635373,
+    13326635374,
+    13326635375,
+    13326635376,
+    13326635377,
+    13326635378,
+    13326635373
+  ],
+  "tags": {
+    "amenity": "grave_yard",
+    "historic": "memorial",
+    "name": "Sammelgrab der Opfer des Luftangriffs vom 19.04.1945",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1455135469,
+  "center": {
+    "lat": 51.8475436,
+    "lon": 14.8533094
+  },
+  "nodes": [
+    13344446100,
+    13344446099,
+    13344446098,
+    13344446097,
+    13344446100
+  ],
+  "tags": {
+    "denomination": "protestant",
+    "heritage": "2",
+    "heritage:operator": "nid",
+    "landuse": "cemetery",
+    "name": "cmentarz ewangelicki",
+    "nid:inscription_date": "1994-10-01",
+    "nid:website": "https://zabytek.pl/pl/obiekty/zabytek?inspire_id=PL.1.9.ZIPOZ.NID_E_08_CM.36265&rejestr=ewidencja-zabytkow",
+    "ref:inspire": "PL.1.9.ZIPOZ.NID_E_08_CM.36265",
+    "ref:nid": "KC - Karta cmentarza z 1994-10-01",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1455761856,
+  "center": {
+    "lat": 51.3319139,
+    "lon": 14.9680665
+  },
+  "nodes": [
+    11502484374,
+    11502484375,
+    13351253671,
+    11502484376,
+    13351253668,
+    13351253670,
+    11502484377,
+    13351253667,
+    11502484378,
+    11502484379,
+    13351253655,
+    13351253654,
+    13351253653,
+    13351253652,
+    13351253651,
+    13351253650,
+    13351253649,
+    13351253648,
+    13351253647,
+    11502484373,
+    13351253656,
+    11502484374
+  ],
+  "tags": {
+    "description": "Sowjetischer Ehrenfriedhof",
+    "historic": "memorial",
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 1456062682,
+  "center": {
+    "lat": 51.2264347,
+    "lon": 14.0587217
+  },
+  "nodes": [
+    1819303232,
+    1819303234,
+    1819303252,
+    13353818334,
+    13353818333,
+    13353818332,
+    13353818331,
+    1819303966,
+    1819303965,
+    1819303960,
+    1819303959,
+    13353818330,
+    13353818327,
+    1139931773,
+    13202962974,
+    1139931759,
+    1139931810,
+    12963837603,
+    12222088160,
+    1819303185,
+    1819303191,
+    1819303193,
+    1819303195,
+    1819303228,
+    1819303230,
+    1819303232
+  ],
+  "tags": {
+    "landuse": "cemetery"
+  }
+},
+{
+  "type": "way",
+  "id": 1465601167,
+  "center": {
+    "lat": 51.3380116,
+    "lon": 14.9847664
+  },
+  "nodes": [
+    13442426433,
+    13442426434,
+    13442426435,
+    13442426436,
+    13442426433
+  ],
+  "tags": {
+    "denomination": "evangelical",
+    "description:de": "Ehemaliger Friedhof Tormersdorf",
+    "description:payment": "Dawny cmentarz Tormersdorf",
+    "historic:civilization": "modern",
+    "landuse": "cemetery",
+    "name": "Dawny cmentarz Tormersdorf",
+    "religion": "christian"
+  }
+},
+{
   "type": "relation",
   "id": 10757749,
   "center": {
@@ -15083,7 +15249,7 @@
     "email": "info@friedwald.de",
     "landuse": "cemetery",
     "name": "Friedwald Markersdorf",
-    "phone": "+49 6155 848-100",
+    "phone": "+49 6155 848100",
     "type": "multipolygon"
   }
 },

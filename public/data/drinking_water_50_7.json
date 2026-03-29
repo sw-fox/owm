@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:02:36Z",
+    "timestamp_osm_base": "2026-03-29T14:57:26Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -278,15 +278,6 @@
 },
 {
   "type": "node",
-  "id": 581694731,
-  "lat": 50.7104162,
-  "lon": 7.1751742,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 586964263,
   "lat": 50.6628629,
   "lon": 7.1868675,
@@ -536,7 +527,8 @@
   "lon": 7.1265359,
   "tags": {
     "amenity": "drinking_water",
-    "check_date": "2023-06-14"
+    "check_date": "2023-06-14",
+    "man_made": "water_tap"
   }
 },
 {
@@ -558,7 +550,8 @@
   "lat": 50.7032688,
   "lon": 7.1217942,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-12-05"
   }
 },
 {
@@ -571,16 +564,6 @@
     "name": "Leonorenquelle",
     "natural": "spring",
     "seasonal": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 946840269,
-  "lat": 50.8150564,
-  "lon": 7.2695503,
-  "tags": {
-    "amenity": "drinking_water",
-    "man_made": "water_tap"
   }
 },
 {
@@ -898,6 +881,20 @@
 },
 {
   "type": "node",
+  "id": 1674801024,
+  "lat": 50.0821441,
+  "lon": 7.2073048,
+  "tags": {
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Holländischer Hof",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "tourism": "caravan_site"
+  }
+},
+{
+  "type": "node",
   "id": 1744443745,
   "lat": 50.8590826,
   "lon": 7.9407807,
@@ -1165,17 +1162,6 @@
 },
 {
   "type": "node",
-  "id": 2447118252,
-  "lat": 50.7104144,
-  "lon": 7.1102142,
-  "tags": {
-    "amenity": "drinking_water",
-    "name": "Gastro Consult Mietkoch24.de",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
   "id": 2464834299,
   "lat": 50.0565441,
   "lon": 7.5811031,
@@ -1403,7 +1389,7 @@
     "seasonal": "no",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
-    "wheelchair": "yes"
+    "wheelchair": "no"
   }
 },
 {
@@ -1733,11 +1719,18 @@
     "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
+    "cold_water": "no",
     "covered": "no",
     "fee": "no",
+    "hot_water": "no",
+    "iced_water": "no",
     "indoor": "no",
     "lit": "yes",
     "man_made": "water_tap",
+    "opening_hours": "24/7",
+    "room_temperature_water": "yes",
+    "seasonal": "no",
+    "warm_water": "no",
     "wheelchair": "yes"
   }
 },
@@ -1762,11 +1755,11 @@
 {
   "type": "node",
   "id": 4774096232,
-  "lat": 50.3088185,
-  "lon": 7.5985458,
+  "lat": 50.3087790,
+  "lon": 7.5987875,
   "tags": {
     "access": "customers",
-    "disused:amenity": "toilets",
+    "amenity": "toilets",
     "drinking_water": "yes",
     "fee": "no",
     "female": "yes",
@@ -2192,6 +2185,16 @@
 },
 {
   "type": "node",
+  "id": 6612512016,
+  "lat": 50.5578065,
+  "lon": 7.2192572,
+  "tags": {
+    "amenity": "fountain",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 6681970557,
   "lat": 50.5405892,
   "lon": 7.0968599,
@@ -2255,6 +2258,7 @@
     "description": "WC Wickeltisch Rollstuhl-WC Damen Herren",
     "drinking_water": "yes",
     "fee": "yes",
+    "opening_hours": "24/7",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
     "unisex": "yes",
@@ -2275,6 +2279,7 @@
     "drinking_water": "yes",
     "fee": "no",
     "male": "yes",
+    "opening_hours": "24/7",
     "toilets:disposal": "flush",
     "toilets:position": "urinal",
     "unisex": "yes",
@@ -2284,12 +2289,24 @@
 {
   "type": "node",
   "id": 7415084516,
-  "lat": 50.7356760,
-  "lon": 7.0982730,
+  "lat": 50.7356620,
+  "lon": 7.0982783,
   "tags": {
     "amenity": "drinking_water",
     "fountain": "bubbler",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7529224773,
+  "lat": 50.8060409,
+  "lon": 7.9366656,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Venus-Charlottenbrunnen",
+    "natural": "spring"
   }
 },
 {
@@ -2442,7 +2459,8 @@
   "lat": 50.0858758,
   "lon": 7.2070108,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -2451,7 +2469,8 @@
   "lat": 50.0835369,
   "lon": 7.2069836,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -2509,8 +2528,8 @@
 {
   "type": "node",
   "id": 8792023800,
-  "lat": 50.6923410,
-  "lon": 7.5818508,
+  "lat": 50.6923261,
+  "lon": 7.5818548,
   "tags": {
     "drinking_water": "yes",
     "natural": "spring"
@@ -2940,11 +2959,13 @@
     "bottle": "yes",
     "capacity": "1",
     "covered": "no",
+    "description": "Vorwiegend an warmen bis heißen Tagen in Betrieb.",
     "fee": "no",
-    "fountain": "bubbler",
+    "fountain": "drinking",
     "indoor": "no",
-    "opening_hours": "24/7",
     "operator": "RheinEnergie",
+    "operator:wikidata": "Q2147629",
+    "seasonal": "yes",
     "website": "https://www.stadt-koeln.de/politik-und-verwaltung/presse/mitteilungen/22136/index.html",
     "wheelchair": "yes"
   }
@@ -3028,6 +3049,23 @@
     "drinking_water": "yes",
     "man_made": "water_tap",
     "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9967755568,
+  "lat": 50.3300144,
+  "lon": 7.9133610,
+  "tags": {
+    "caravans": "no",
+    "drinking_water": "yes",
+    "name": "Gasthof zum Lahntal",
+    "power_supply": "yes",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.gasthofzumlahntal.de/camping/"
   }
 },
 {
@@ -3230,6 +3268,7 @@
   "tags": {
     "access": "yes",
     "charge": "29 EUR/day",
+    "check_date": "2025-09-06",
     "drinking_water": "yes",
     "fee": "yes",
     "internet_access": "wlan",
@@ -3254,7 +3293,9 @@
     "dog": "yes",
     "fee": "no",
     "man_made": "water_tap",
-    "operator": "Wahnbachtalsperrenverband"
+    "name": "Bibendi 2",
+    "operator": "Wahnbachtalsperrenverband",
+    "start_date": "2002-07-27"
   }
 },
 {
@@ -3430,10 +3471,9 @@
 {
   "type": "node",
   "id": 11128560736,
-  "lat": 50.5487747,
-  "lon": 7.1540780,
+  "lat": 50.5487845,
+  "lon": 7.1541015,
   "tags": {
-    "access": "private",
     "amenity": "drinking_water",
     "man_made": "water_tap",
     "website": "https://www.aw-wiki.de/index.php/Mineralwasser-Zapfstelle_Bad_Neuenahr"
@@ -3707,12 +3747,15 @@
 {
   "type": "node",
   "id": 12010116863,
-  "lat": 50.7357103,
-  "lon": 7.0963908,
+  "lat": 50.7357229,
+  "lon": 7.0963459,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
+    "fee": "no",
     "fountain": "bubbler",
-    "indoor": "no"
+    "indoor": "no",
+    "wheelchair": "yes"
   }
 },
 {
@@ -3722,6 +3765,7 @@
   "lon": 7.2145978,
   "tags": {
     "amenity": "drinking_water",
+    "fountain": "bubbler",
     "indoor": "no"
   }
 },
@@ -4216,6 +4260,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "fountain": "bottle_refill",
     "indoor": "yes",
     "lit": "yes",
     "note": "Located at the Departures floor, next to the toilet entrance, and in front of gate 61",
@@ -4225,8 +4270,8 @@
 {
   "type": "node",
   "id": 12842580988,
-  "lat": 50.8145052,
-  "lon": 7.1638876,
+  "lat": 50.8144959,
+  "lon": 7.1637441,
   "tags": {
     "amenity": "drinking_water",
     "fountain": "bubbler"
@@ -4270,8 +4315,8 @@
 {
   "type": "node",
   "id": 12997985802,
-  "lat": 50.3974771,
-  "lon": 7.6127977,
+  "lat": 50.3973939,
+  "lon": 7.6129325,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -4385,6 +4430,190 @@
   "tags": {
     "amenity": "drinking_water",
     "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13089573769,
+  "lat": 50.3870264,
+  "lon": 7.2719998,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13097929658,
+  "lat": 50.8106048,
+  "lon": 7.9470144,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Langgrube Brunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 13116681409,
+  "lat": 50.0216810,
+  "lon": 7.0792125,
+  "tags": {
+    "access": "customers",
+    "backcountry": "no",
+    "camp_site": "basic",
+    "capacity:tents": "2",
+    "caravans": "no",
+    "charge": "15.00 EUR",
+    "drinking_water": "yes",
+    "email": "ortsbuergermeister@ortsgemeinde-bengel.de",
+    "fee": "yes",
+    "fireplace": "yes",
+    "name": "Unter den Obstbäumen",
+    "openfire": "yes",
+    "power_supply": "no",
+    "reservation": "required",
+    "shower": "yes",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.ortsgemeinde-bengel.de/verzeichnis/visitenkarte.php?mandat=254493",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13165091323,
+  "lat": 50.6213318,
+  "lon": 7.0230834,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Wahnbachtalsperrenverband",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13240627623,
+  "lat": 50.3606102,
+  "lon": 7.6148593,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13265055826,
+  "lat": 50.3062498,
+  "lon": 7.3118293,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13278105958,
+  "lat": 50.4396790,
+  "lon": 7.4002800,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13299207995,
+  "lat": 50.7694097,
+  "lon": 7.3080231,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "covered": "no",
+    "fee": "no",
+    "fountain": "bubbler",
+    "indoor": "no",
+    "level": "0",
+    "lit": "yes",
+    "man_made": "water_tap",
+    "operator": "Stadtwerke Hennef",
+    "start_date": "2025-11",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13420796425,
+  "lat": 50.7044927,
+  "lon": 7.1215142,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13420808605,
+  "lat": 50.7048089,
+  "lon": 7.1220347,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13446595892,
+  "lat": 50.5158460,
+  "lon": 7.2032227,
+  "tags": {
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "name": "Toilette"
+  }
+},
+{
+  "type": "node",
+  "id": 13529358880,
+  "lat": 50.6693502,
+  "lon": 7.1612650,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13529363069,
+  "lat": 50.6691052,
+  "lon": 7.1621395,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13529363077,
+  "lat": 50.6690804,
+  "lon": 7.1616019,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13532251782,
+  "lat": 50.7192867,
+  "lon": 7.1058573,
+  "tags": {
+    "disused:waterway": "water_point",
+    "drinking_water": "yes",
+    "fixme": "Vielleicht noch herausfinden, ob es gegebenenfalls Saisonale Öffnungszeiten gibt oder ob das Ding kaputt ist.",
+    "note": "Am 7. Februar vorgefunden: außer Betrieb."
   }
 }
 

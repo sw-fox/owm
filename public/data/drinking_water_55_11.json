@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:06:45Z",
+    "timestamp_osm_base": "2026-03-29T15:14:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -62,8 +62,8 @@
 {
   "type": "node",
   "id": 1739259478,
-  "lat": 55.3546420,
-  "lon": 11.3906155,
+  "lat": 55.3546500,
+  "lon": 11.3905875,
   "tags": {
     "amenity": "drinking_water"
   }
@@ -402,8 +402,10 @@
   "lon": 11.8317367,
   "tags": {
     "amenity": "toilets",
+    "charge": "5 DKK",
     "drinking_water": "yes",
-    "fee:amount": "Customers (Spisestedet or Røgeri) free, else DKR 5",
+    "fee": "yes",
+    "fee:conditional": "no @ customers",
     "wheelchair": "yes"
   }
 },
@@ -671,7 +673,8 @@
   "lon": 11.8469655,
   "tags": {
     "amenity": "water_point",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "no"
   }
 },
 {
@@ -745,7 +748,8 @@
     "bottle": "yes",
     "covered": "no",
     "fee": "no",
-    "indoor": "no"
+    "indoor": "no",
+    "man_made": "water_tap"
   }
 },
 {
@@ -943,6 +947,27 @@
 },
 {
   "type": "node",
+  "id": 12443620556,
+  "lat": 55.9850627,
+  "lon": 11.9482821,
+  "tags": {
+    "access": "yes",
+    "camp_site": "standard",
+    "caravans": "no",
+    "dog": "leashed",
+    "drinking_water": "yes",
+    "picnic_table": "yes",
+    "power_supply": "no",
+    "shower": "no",
+    "static_caravans": "no",
+    "tents": "yes",
+    "toilets": "yes",
+    "tourism": "camp_site",
+    "website": "https://udinaturen.dk/shelter/135029"
+  }
+},
+{
+  "type": "node",
   "id": 12623802751,
   "lat": 55.6062465,
   "lon": 11.5814509,
@@ -1006,6 +1031,35 @@
     "access": "yes",
     "drinking_water": "yes",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13108826119,
+  "lat": 55.3259298,
+  "lon": 11.1316308,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13131613490,
+  "lat": 55.9371652,
+  "lon": 11.9054514,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13233018585,
+  "lat": 55.9152876,
+  "lon": 11.6709516,
+  "tags": {
+    "amenity": "water_point",
+    "drinking_water": "yes"
   }
 }
 

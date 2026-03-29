@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-02T22:56:22Z",
+    "timestamp_osm_base": "2026-03-29T15:15:43Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -246,6 +246,7 @@
   "tags": {
     "denomination": "lutheran",
     "landuse": "cemetery",
+    "name": "Transval Kyrkogård",
     "religion": "christian",
     "wikidata": "Q115302661"
   }
@@ -1556,14 +1557,16 @@
   "type": "way",
   "id": 202843981,
   "center": {
-    "lat": 55.9310687,
-    "lon": 14.0230360
+    "lat": 55.9310772,
+    "lon": 14.0229827
   },
   "nodes": [
     2127818941,
     2127818943,
     2127818940,
     2127818939,
+    571794366,
+    13591019320,
     2127818941
   ],
   "tags": {
@@ -1801,7 +1804,7 @@
   "tags": {
     "amenity": "grave_yard",
     "denomination": "lutheran",
-    "religion": "caodaism"
+    "religion": "christian"
   }
 },
 {

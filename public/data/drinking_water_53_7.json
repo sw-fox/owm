@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:05:42Z",
+    "timestamp_osm_base": "2026-03-29T15:07:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -16,6 +16,29 @@
     "drinking_water": "yes",
     "man_made": "water_well",
     "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 655350032,
+  "lat": 53.2240331,
+  "lon": 7.4201909,
+  "tags": {
+    "addr:city": "Leer",
+    "addr:housenumber": "14 - 16",
+    "addr:postcode": "26789",
+    "addr:street": "Marinastraße",
+    "capacity": "20",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Ems-Marina-Camping",
+    "power_supply": "yes",
+    "sanitary_dump_station": "yes",
+    "shower": "yes",
+    "toilets": "yes",
+    "tourism": "caravan_site",
+    "website": "https://ems-marina-camping.de/",
+    "wheelchair": "limited"
   }
 },
 {
@@ -105,6 +128,7 @@
     "power_supply": "yes",
     "sanitary_dump_station": "yes",
     "tents": "no",
+    "toilets": "no",
     "tourism": "caravan_site",
     "wheelchair": "yes"
   }
@@ -486,6 +510,7 @@
     "fee": "no",
     "female": "yes",
     "male": "yes",
+    "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-19:00",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
     "toilets:wheelchair": "yes",
@@ -633,7 +658,7 @@
     "drink:wine": "yes",
     "drinking_water": "yes",
     "name": "Kleine Pause bei Moritz",
-    "phone": "+49 (0) 4489 941090",
+    "phone": "+49 4489 941090",
     "picnic_table": "yes",
     "restaurant": "type:de=weinausschankhütte",
     "toilets": "yes",
@@ -644,8 +669,8 @@
 {
   "type": "node",
   "id": 7997468740,
-  "lat": 53.1393399,
-  "lon": 7.0355684,
+  "lat": 53.1393315,
+  "lon": 7.0354678,
   "tags": {
     "amenity": "drinking_water",
     "man_made": "water_tap",
@@ -676,8 +701,8 @@
 {
   "type": "node",
   "id": 8951093386,
-  "lat": 53.0277897,
-  "lon": 7.1084245,
+  "lat": 53.0277866,
+  "lon": 7.1084424,
   "tags": {
     "amenity": "drinking_water",
     "drinking_water": "yes",
@@ -721,16 +746,6 @@
   "id": 9139502915,
   "lat": 53.6806324,
   "lon": 7.4831832,
-  "tags": {
-    "amenity": "water_point",
-    "drinking_water": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 9139502916,
-  "lat": 53.6806965,
-  "lon": 7.4822428,
   "tags": {
     "amenity": "water_point",
     "drinking_water": "yes"
@@ -967,6 +982,7 @@
   "lon": 7.0061461,
   "tags": {
     "amenity": "drinking_water",
+    "dog": "yes",
     "fountain": "bubbler"
   }
 },
@@ -980,6 +996,21 @@
     "drinking_water": "yes",
     "man_made": "water_tap",
     "operator": "Kurverwaltung Wamgerooge"
+  }
+},
+{
+  "type": "node",
+  "id": 12138491659,
+  "lat": 53.7655300,
+  "lon": 7.6954935,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point",
+    "covered": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "lit": "yes",
+    "opening_hours": "24/7"
   }
 },
 {
@@ -1003,7 +1034,8 @@
   "tags": {
     "amenity": "drinking_water",
     "fee": "no",
-    "indoor": "yes"
+    "indoor": "yes",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1024,7 +1056,8 @@
   "lon": 7.4804118,
   "tags": {
     "amenity": "water_point",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "no"
   }
 },
 {
@@ -1064,7 +1097,8 @@
   "lon": 7.4816488,
   "tags": {
     "amenity": "water_point",
-    "drinking_water": "yes"
+    "drinking_water": "yes",
+    "fee": "no"
   }
 },
 {

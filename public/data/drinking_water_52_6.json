@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:04:42Z",
+    "timestamp_osm_base": "2026-03-29T15:03:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -65,9 +65,11 @@
     "bottle": "yes",
     "indoor": "yes",
     "level": "0",
-    "name": "Join the Pipe",
+    "name": "Join The Pipe",
     "operational_status": "broken",
-    "website": "https://join-the-pipe.org/nl"
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959"
   }
 },
 {
@@ -242,6 +244,9 @@
     "description": "Sponsored by Gemeente Zutphen & Woonwinkel Bella Tinta",
     "man_made": "water_tap",
     "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959",
     "start_date": "11-07-2013",
     "website": "https://join-the-pipe.org/nl"
   }
@@ -288,8 +293,8 @@
 {
   "type": "node",
   "id": 3756251706,
-  "lat": 52.1963939,
-  "lon": 6.1010056,
+  "lat": 52.1963742,
+  "lon": 6.1009996,
   "tags": {
     "amenity": "toilets",
     "drinking_water": "yes",
@@ -375,11 +380,18 @@
 {
   "type": "node",
   "id": 4178692801,
-  "lat": 52.2071808,
-  "lon": 6.2979959,
+  "lat": 52.2072075,
+  "lon": 6.2979364,
   "tags": {
-    "amenity": "water_point",
-    "drinking_water": "yes"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "drinking_water": "yes",
+    "fee": "no",
+    "opening_hours": "24/7",
+    "operator": "Waternet",
+    "operator:wikidata": "Q2137469",
+    "seasonal": "no"
   }
 },
 {
@@ -395,20 +407,12 @@
 },
 {
   "type": "node",
-  "id": 4261368489,
-  "lat": 52.7593115,
-  "lon": 6.2315626,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 4429677703,
   "lat": 52.4380507,
   "lon": 6.0889281,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -432,6 +436,28 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 4682292048,
+  "lat": 52.1516646,
+  "lon": 6.0936167,
+  "tags": {
+    "addr:city": "Voorst",
+    "addr:housenumber": "27",
+    "addr:postcode": "7383RK",
+    "addr:street": "Gravenstraat",
+    "caravan_site": "motorhome_stopover",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "name": "Camperplaats Voorst",
+    "power_supply": "yes",
+    "source": "BAG",
+    "source:date": "2017-02-12",
+    "toilets": "yes",
+    "tourism": "caravan_site",
+    "website": "https://www.camperplaatsvoorst.nl"
   }
 },
 {
@@ -474,10 +500,11 @@
 {
   "type": "node",
   "id": 4802307646,
-  "lat": 52.4749689,
-  "lon": 6.0665951,
+  "lat": 52.4749158,
+  "lon": 6.0664771,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -513,7 +540,8 @@
   "lat": 52.4568815,
   "lon": 6.0770961,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -622,6 +650,9 @@
   "tags": {
     "amenity": "drinking_water",
     "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959",
     "website": "https://www.join-the-pipe.org/"
   }
 },
@@ -718,8 +749,8 @@
 {
   "type": "node",
   "id": 5624342753,
-  "lat": 52.2438417,
-  "lon": 6.8527140,
+  "lat": 52.2442835,
+  "lon": 6.8518798,
   "tags": {
     "access": "permissive",
     "amenity": "drinking_water",
@@ -779,8 +810,8 @@
 {
   "type": "node",
   "id": 5804166411,
-  "lat": 52.2623847,
-  "lon": 6.7948836,
+  "lat": 52.2623778,
+  "lon": 6.7948816,
   "tags": {
     "amenity": "drinking_water",
     "check_date": "2025-02-27",
@@ -805,10 +836,15 @@
 {
   "type": "node",
   "id": 5928165853,
-  "lat": 52.5122435,
-  "lon": 6.0959436,
+  "lat": 52.5122054,
+  "lon": 6.0959611,
   "tags": {
-    "amenity": "drinking_water"
+    "access": "yes",
+    "amenity": "drinking_water",
+    "check_date": "2025-12-18",
+    "description": "out of service.",
+    "fee": "no",
+    "wheelchair": "yes"
   }
 },
 {
@@ -817,9 +853,12 @@
   "lat": 52.1431256,
   "lon": 6.1961274,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
     "description": "drinkwaterpunt Vitens",
-    "man_made": "water_tap"
+    "fee": "no",
+    "man_made": "water_tap",
+    "wheelchair": "yes"
   }
 },
 {
@@ -835,8 +874,8 @@
 {
   "type": "node",
   "id": 6051686485,
-  "lat": 52.2052864,
-  "lon": 6.0006382,
+  "lat": 52.2052508,
+  "lon": 6.0007291,
   "tags": {
     "access": "yes",
     "addr:city": "Apeldoorn",
@@ -995,22 +1034,6 @@
 },
 {
   "type": "node",
-  "id": 6695759345,
-  "lat": 52.7855957,
-  "lon": 6.9002285,
-  "tags": {
-    "amenity": "toilets",
-    "drinking_water": "yes",
-    "fee": "no",
-    "female": "yes",
-    "male": "yes",
-    "toilets:disposal": "flush",
-    "toilets:position": "seated;urinal",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 6707570929,
   "lat": 52.8524405,
   "lon": 6.7508512,
@@ -1126,7 +1149,7 @@
     "drinking_water": "yes",
     "fee": "no",
     "gender_segregated": "no",
-    "toilets:hand_drying": "paper_towel",
+    "toilets:hands_drying": "paper_towel",
     "toilets:handwashing": "yes",
     "toilets:hot_water": "yes",
     "toilets:paper_supplied": "yes",
@@ -1152,7 +1175,7 @@
     "lit": "yes",
     "supervised": "no",
     "toilets:disposal": "flush",
-    "toilets:hand_drying": "no",
+    "toilets:hands_drying": "no",
     "toilets:handwashing": "yes",
     "toilets:hot_water": "yes",
     "toilets:paper_supplied": "yes",
@@ -1180,7 +1203,7 @@
     "lit": "yes",
     "supervised": "no",
     "toilets:disposal": "flush",
-    "toilets:hand_drying": "no",
+    "toilets:hands_drying": "no",
     "toilets:handwashing": "yes",
     "toilets:hot_water": "yes",
     "toilets:paper_supplied": "yes",
@@ -1208,7 +1231,7 @@
     "lit": "yes",
     "supervised": "no",
     "toilets:disposal": "flush",
-    "toilets:hand_drying": "no",
+    "toilets:hands_drying": "no",
     "toilets:handwashing": "yes",
     "toilets:hot_water": "yes",
     "toilets:paper_supplied": "yes",
@@ -1230,7 +1253,7 @@
     "fee": "no",
     "indoor": "no",
     "supervised": "no",
-    "toilets:hand_drying": "no",
+    "toilets:hands_drying": "no",
     "toilets:handwashing": "yes",
     "toilets:position": "seated;urinal",
     "wheelchair": "no"
@@ -1271,7 +1294,10 @@
   "tags": {
     "amenity": "drinking_water",
     "fountain": "drinking",
-    "name": "Join the Pipe"
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959"
   }
 },
 {
@@ -1318,6 +1344,9 @@
     "note": "source used with permission from WMD",
     "opening_hours": "24/7",
     "operator": "WMD Drents drinkwater",
+    "operator:type": "public",
+    "operator:wikidata": "Q63152976",
+    "operator:wikipedia": "nl:WMD Drinkwater",
     "panoramax": "69e250ca-672b-458d-8a33-c0f9c5f6422d",
     "source": "https://wmd.nl/wmd/wmd-watertap/",
     "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/",
@@ -1358,6 +1387,9 @@
     "man_made": "water_tap",
     "note": "source used with permission from WMD",
     "operator": "WMD Drents drinkwater",
+    "operator:type": "public",
+    "operator:wikidata": "Q63152976",
+    "operator:wikipedia": "nl:WMD Drinkwater",
     "source": "https://wmd.nl/wmd/wmd-watertap/"
   }
 },
@@ -1376,6 +1408,9 @@
     "man_made": "water_tap",
     "note": "source used with permission from WMD",
     "operator": "WMD Drents drinkwater",
+    "operator:type": "public",
+    "operator:wikidata": "Q63152976",
+    "operator:wikipedia": "nl:WMD Drinkwater",
     "source": "https://wmd.nl/wmd/wmd-watertap/"
   }
 },
@@ -1393,6 +1428,9 @@
     "note": "source used with permission from WMD; Only available outside winter",
     "opening_hours": "24/7",
     "operator": "WMD Drents drinkwater",
+    "operator:type": "public",
+    "operator:wikidata": "Q63152976",
+    "operator:wikipedia": "nl:WMD Drinkwater",
     "panoramax": "4ee957ae-d8b3-4e4c-abaa-b02bb22f451d",
     "seasonal": "spring;summer;autumn",
     "source": "https://wmd.nl/wmd/wmd-watertap/"
@@ -1416,7 +1454,8 @@
   "lat": 52.0447146,
   "lon": 6.1021359,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1460,6 +1499,7 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no",
+    "man_made": "water_tap",
     "operator": "Nederlandse Spoorwegen",
     "operator:wikidata": "Q23076",
     "wheelchair": "yes"
@@ -1530,7 +1570,10 @@
   "tags": {
     "amenity": "drinking_water",
     "fountain": "drinking",
-    "operator": "Join the Pipe",
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959",
     "wheelchair": "yes"
   }
 },
@@ -1727,6 +1770,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
+    "man_made": "water_tap",
     "operator": "Vitens",
     "operator:wikidata": "Q1943963",
     "wheelchair": "yes"
@@ -1966,6 +2010,9 @@
     "indoor": "no",
     "man_made": "water_tap",
     "operator": "WMD Drents drinkwater",
+    "operator:type": "public",
+    "operator:wikidata": "Q63152976",
+    "operator:wikipedia": "nl:WMD Drinkwater",
     "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
   }
 },
@@ -1975,6 +2022,7 @@
   "lat": 52.0294999,
   "lon": 6.0219486,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
     "covered": "no",
@@ -2146,21 +2194,6 @@
   "id": 8919101109,
   "lat": 52.3793007,
   "lon": 6.5907841,
-  "tags": {
-    "access": "yes",
-    "amenity": "toilets",
-    "drinking_water": "yes",
-    "fee": "no",
-    "female": "yes",
-    "male": "yes",
-    "opening_hours": "jul-aug: sunrise-sunset"
-  }
-},
-{
-  "type": "node",
-  "id": 8919101110,
-  "lat": 52.3812965,
-  "lon": 6.5873623,
   "tags": {
     "access": "yes",
     "amenity": "toilets",
@@ -2496,6 +2529,9 @@
     "indoor": "no",
     "man_made": "water_tap",
     "operator": "WMD Drents drinkwater",
+    "operator:type": "public",
+    "operator:wikidata": "Q63152976",
+    "operator:wikipedia": "nl:WMD Drinkwater",
     "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
   }
 },
@@ -2532,6 +2568,9 @@
     "indoor": "no",
     "man_made": "water_tap",
     "operator": "WMD Drents drinkwater",
+    "operator:type": "public",
+    "operator:wikidata": "Q63152976",
+    "operator:wikipedia": "nl:WMD Drinkwater",
     "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
   }
 },
@@ -2550,6 +2589,9 @@
     "indoor": "no",
     "man_made": "water_tap",
     "operator": "WMD Drents drinkwater",
+    "operator:type": "public",
+    "operator:wikidata": "Q63152976",
+    "operator:wikipedia": "nl:WMD Drinkwater",
     "source:url": "https://wmd.nl/wmd/in-de-samenleving/wmd-watertap/"
   }
 },
@@ -2739,7 +2781,9 @@
   "lon": 6.8480800,
   "tags": {
     "amenity": "drinking_water",
-    "bottle": "yes"
+    "bottle": "yes",
+    "check_date": "2026-03-10",
+    "fountain": "drinking"
   }
 },
 {
@@ -2760,7 +2804,10 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
-    "operator": "Join the Pipe",
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959",
     "wheelchair": "yes"
   }
 },
@@ -2786,7 +2833,10 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "fee": "no",
-    "name": "Join the Pipe",
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959",
     "wheelchair": "yes"
   }
 },
@@ -3554,6 +3604,7 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "operator": "Nederlandse spoorwegen",
+    "operator:wikidata": "Q23076",
     "wheelchair": "yes"
   }
 },
@@ -3692,8 +3743,8 @@
 {
   "type": "node",
   "id": 12012414781,
-  "lat": 52.3866395,
-  "lon": 6.0381972,
+  "lat": 52.3866592,
+  "lon": 6.0381407,
   "tags": {
     "amenity": "drinking_water",
     "man_made": "water_tap"
@@ -5299,9 +5350,15 @@
   "lat": 52.1426759,
   "lon": 6.1985964,
   "tags": {
-    "drinking_water": "yes",
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
     "man_made": "water_tap",
-    "name": "Join the Pipe"
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959",
+    "wheelchair": "yes"
   }
 },
 {
@@ -5310,9 +5367,13 @@
   "lat": 52.1418475,
   "lon": 6.1907093,
   "tags": {
+    "amenity": "drinking_water",
     "drinking_water": "yes",
     "man_made": "water_tap",
-    "name": "Join the Pipe"
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959"
   }
 },
 {
@@ -5361,9 +5422,13 @@
   "lat": 52.1346127,
   "lon": 6.2296586,
   "tags": {
+    "amenity": "drinking_water",
     "drinking_water": "yes",
     "man_made": "water_tap",
-    "name": "Join the Pipe"
+    "name": "Join The Pipe",
+    "operator": "Join The Pipe",
+    "operator:website": "https://join-the-pipe.org",
+    "operator:wikidata": "Q138113959"
   }
 },
 {
@@ -5511,8 +5576,11 @@
   "lat": 52.0357413,
   "lon": 6.8231214,
   "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
     "drinking_water": "yes",
-    "man_made": "water_tap"
+    "fee": "no",
+    "operator": "Stadt Vreden"
   }
 },
 {
@@ -5536,7 +5604,8 @@
   "lon": 6.7945306,
   "tags": {
     "amenity": "drinking_water",
-    "bottle": "yes"
+    "bottle": "yes",
+    "man_made": "water_tap"
   }
 },
 {
@@ -5587,6 +5656,122 @@
   "tags": {
     "amenity": "water_point",
     "drinking_water": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13125418956,
+  "lat": 52.2049932,
+  "lon": 6.0073248,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "material": "metal",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 13159420034,
+  "lat": 52.5284563,
+  "lon": 6.1803735,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13175635128,
+  "lat": 52.1834284,
+  "lon": 6.4141823,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13175663824,
+  "lat": 52.1151557,
+  "lon": 6.5233818,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2025-09-25",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13366695203,
+  "lat": 52.2279237,
+  "lon": 6.8847789,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes",
+    "cold_water": "no",
+    "fee": "no",
+    "fountain": "water_tap",
+    "hot_water": "no",
+    "iced_water": "no",
+    "opening_hours": "24/7",
+    "room_temperature_water": "yes",
+    "warm_water": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13372227651,
+  "lat": 52.9713343,
+  "lon": 6.7875757,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13421198702,
+  "lat": 52.1461632,
+  "lon": 6.1937250,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "man_made": "water_tap",
+    "operator": "JoinThePipe"
+  }
+},
+{
+  "type": "node",
+  "id": 13430496927,
+  "lat": 52.1994259,
+  "lon": 6.8543892,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13534166761,
+  "lat": 52.1333364,
+  "lon": 6.2047211,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13556537760,
+  "lat": 52.2176345,
+  "lon": 6.8976962,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill",
+    "wheelchair": "yes"
   }
 }
 

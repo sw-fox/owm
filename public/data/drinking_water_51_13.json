@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:04:42Z",
+    "timestamp_osm_base": "2026-03-29T15:34:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -40,7 +40,7 @@
     "toilets:disposal": "flush",
     "toilets:handwashing": "yes",
     "toilets:paper_supplied": "yes",
-    "toilets:position": "seated; urinal",
+    "toilets:position": "seated;urinal",
     "toilets:wheelchair": "yes",
     "wheelchair": "yes"
   }
@@ -411,8 +411,8 @@
 {
   "type": "node",
   "id": 3069880200,
-  "lat": 51.1215060,
-  "lon": 13.1189400,
+  "lat": 51.1214883,
+  "lon": 13.1189293,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -436,7 +436,8 @@
   "lat": 51.1038997,
   "lon": 13.6539250,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-12-10"
   }
 },
 {
@@ -463,6 +464,23 @@
   "lon": 13.5695581,
   "tags": {
     "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 3907800889,
+  "lat": 51.1732465,
+  "lon": 13.6980138,
+  "tags": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
   }
 },
 {
@@ -556,7 +574,7 @@
     "toilets:disposal": "flush",
     "toilets:handwashing": "yes",
     "toilets:paper_supplied": "yes",
-    "toilets:position": "seated; urinal",
+    "toilets:position": "seated;urinal",
     "wheelchair": "no"
   }
 },
@@ -874,6 +892,7 @@
     "lit": "yes",
     "name": "DB Drewag 2x",
     "operator": "Deutsche Bahn",
+    "seasonal": "yes",
     "wheelchair": "yes",
     "wikidata": "Q126088627"
   }
@@ -889,17 +908,6 @@
     "description": "Trinkwasser zur Selbstentnahme, im Winter außer Betrieb (Objekt wird abgebaut)",
     "fee": "no",
     "opening_hours": "May-Oct: Mo-Su 00:00-24:00"
-  }
-},
-{
-  "type": "node",
-  "id": 9831062544,
-  "lat": 51.5194268,
-  "lon": 13.9999458,
-  "tags": {
-    "amenity": "drinking_water",
-    "name": "Busverkehr Gerd Schmidt GmbH",
-    "website": "https://www.fahrschuleschmidt.de/"
   }
 },
 {
@@ -984,7 +992,9 @@
   "lon": 13.7146457,
   "tags": {
     "amenity": "drinking_water",
-    "fee": "yes"
+    "check_date": "2025-10-07",
+    "fee": "yes",
+    "man_made": "water_tap"
   }
 },
 {
@@ -1156,8 +1166,8 @@
 {
   "type": "node",
   "id": 11961182496,
-  "lat": 51.0847559,
-  "lon": 13.7282007,
+  "lat": 51.0847667,
+  "lon": 13.7281929,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -1445,6 +1455,150 @@
     "access": "yes",
     "amenity": "drinking_water",
     "fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13092294559,
+  "lat": 51.0605592,
+  "lon": 13.6284423,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Podemuser Ring (Podemus)",
+    "amenity": "drinking_water",
+    "name": "Trinkwasser",
+    "opening_hours": "Sa 08:00-16:00; Mo-Fr 09:00-19:00",
+    "phone": "+49 351 6587950",
+    "website": "https://refill-deutschland.de"
+  }
+},
+{
+  "type": "node",
+  "id": 13094347834,
+  "lat": 51.1473418,
+  "lon": 13.1254732,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "VEOLIA",
+    "ref": "Brunnen 2"
+  }
+},
+{
+  "type": "node",
+  "id": 13094347835,
+  "lat": 51.1479059,
+  "lon": 13.1261933,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "VEOLIA",
+    "ref": "Brunnen 1"
+  }
+},
+{
+  "type": "node",
+  "id": 13094347836,
+  "lat": 51.1471081,
+  "lon": 13.1247511,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "VEOLIA"
+  }
+},
+{
+  "type": "node",
+  "id": 13094347837,
+  "lat": 51.1468157,
+  "lon": 13.1242766,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "VEOLIA",
+    "ref": "Brunnen 5"
+  }
+},
+{
+  "type": "node",
+  "id": 13094347838,
+  "lat": 51.1464018,
+  "lon": 13.1239685,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "VEOLIA",
+    "ref": "Brunnen 6"
+  }
+},
+{
+  "type": "node",
+  "id": 13094347839,
+  "lat": 51.1462034,
+  "lon": 13.1237396,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "VEOLIA",
+    "ref": "Brunnen 8"
+  }
+},
+{
+  "type": "node",
+  "id": 13094921585,
+  "lat": 51.1396999,
+  "lon": 13.1091046,
+  "tags": {
+    "access": "no",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "VEOLIA"
+  }
+},
+{
+  "type": "node",
+  "id": 13110646251,
+  "lat": 51.1623566,
+  "lon": 13.4723525,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13167341901,
+  "lat": 51.5134460,
+  "lon": 13.6997153,
+  "tags": {
+    "amenity": "drinking_water",
+    "operator": "öffentlich"
+  }
+},
+{
+  "type": "node",
+  "id": 13360289920,
+  "lat": 51.8597644,
+  "lon": 13.9923003,
+  "tags": {
+    "access": "private",
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 13415718748,
+  "lat": 51.1610857,
+  "lon": 13.4697840,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 

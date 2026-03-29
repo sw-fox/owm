@@ -1,8 +1,8 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T12:02:36Z",
+    "timestamp_osm_base": "2026-03-29T14:54:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -92,6 +92,7 @@
   "lon": 8.7053142,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-08-31",
     "historic": "memorial",
     "inscription": "Turn- und Sportverein Handschusheim 1886 e.V. * In Dankbarkeit und Treue seinen gefallenen Mitgliedern und allen gefallenen von Handschusheim * Weltkriege 1914-1918 1939-1945",
     "material": "stone",
@@ -101,7 +102,8 @@
     "note": "Wegweiserstein siehe https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1108929494/heidelberg/Objektdatenbank/67/PDF/67_pdf_flyer_wegweisersteine_lay_03.pdf und https://geoweb.heidelberg.de/geoportal/geodaten/Wegweisersteine/WWSListe.html",
     "ref": "III25a",
     "source": "https://westnordost.de/p/67774.jpg",
-    "water": "no"
+    "water": "no",
+    "wikimedia_commons": "File:Turnerbrunnen Heidelberg.jpg"
   }
 },
 {
@@ -139,17 +141,6 @@
 },
 {
   "type": "node",
-  "id": 268066477,
-  "lat": 49.4237949,
-  "lon": 8.7309611,
-  "tags": {
-    "amenity": "drinking_water",
-    "natural": "spring",
-    "source:geometry": "HiRes aerial imagery"
-  }
-},
-{
-  "type": "node",
   "id": 268260128,
   "lat": 49.8227065,
   "lon": 8.6575148,
@@ -165,12 +156,14 @@
   "lon": 8.6996439,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-08-31",
     "ele": "261",
     "name": "Schneeberg",
     "natural": "spring",
     "note": "Wegweiserstein siehe https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1108929494/heidelberg/Objektdatenbank/67/PDF/67_pdf_flyer_wegweisersteine_lay_03.pdf und https://geoweb.heidelberg.de/geoportal/geodaten/Wegweisersteine/WWSListe.html",
     "ref": "III27d",
-    "start_date": "1910"
+    "start_date": "1910",
+    "wikimedia_commons": "File:Schneeberg Heidelberg.jpg"
   }
 },
 {
@@ -223,19 +216,6 @@
 },
 {
   "type": "node",
-  "id": 276353047,
-  "lat": 49.3696474,
-  "lon": 8.7091898,
-  "tags": {
-    "amenity": "drinking_water",
-    "name": "Schweinsbrunnen",
-    "note": "Wegweiserstein siehe https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1108929494/heidelberg/Objektdatenbank/67/PDF/67_pdf_flyer_wegweisersteine_lay_03.pdf und https://geoweb.heidelberg.de/geoportal/geodaten/Wegweisersteine/WWSListe.html",
-    "ref": "IV09a",
-    "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
   "id": 278392335,
   "lat": 49.1890346,
   "lon": 8.0377493,
@@ -251,23 +231,6 @@
   "lon": 8.0365588,
   "tags": {
     "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
-  "id": 279252235,
-  "lat": 49.0099381,
-  "lon": 8.3976014,
-  "tags": {
-    "amenity": "fountain",
-    "artist_name": "Karl Ulrich Nuss",
-    "bottle": "yes",
-    "drinking_water": "yes",
-    "karlsruhe_brunnen_ref": "22",
-    "name": "Waldbrunnen",
-    "note": "Kaiserstr./Waldstr.",
-    "panoramax": "52a2c746-e82b-4080-a3c5-48ee5529ae57",
-    "start_date": "1984"
   }
 },
 {
@@ -327,7 +290,7 @@
   "lat": 49.0122184,
   "lon": 8.3708294,
   "tags": {
-    "amenity": "drinking_water",
+    "disused:amenity": "drinking_water",
     "fountain": "drinking",
     "karlsruhe_brunnen_ref": "39",
     "name": "Siegfriedbrunnen",
@@ -438,6 +401,7 @@
     "amenity": "drinking_water",
     "artist_name": "Friedrich Beichel",
     "drinking_water": "yes",
+    "fee": "no",
     "fountain": "drinking",
     "image": "File:Indianerbrunnen_02_(fcm).jpg",
     "karlsruhe_brunnen_ref": "75",
@@ -464,19 +428,16 @@
 },
 {
   "type": "node",
-  "id": 279252368,
-  "lat": 49.0085418,
-  "lon": 8.3898649,
+  "id": 279252391,
+  "lat": 49.0461529,
+  "lon": 8.4453297,
   "tags": {
-    "artist_name": "W. Strieder; F. W. Volke",
-    "disused:amenity": "drinking_water",
+    "amenity": "fountain",
     "drinking_water": "yes",
-    "historic": "memorial",
-    "karlsruhe_brunnen_ref": "135",
-    "memorial": "obelisk",
-    "name": "Großherzog-Leopold-Denkmal",
-    "note": "Leopoldplatz/Schulhof",
-    "start_date": "1888"
+    "karlsruhe_brunnen_ref": "172",
+    "lit": "no",
+    "name": "Trinkbrunnen Berliner Modell",
+    "note": "Europäische Schule, Waldstadt"
   }
 },
 {
@@ -618,20 +579,27 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "check_date": "2023-05-29",
+    "cold_water": "no",
+    "colour": "green",
     "covered": "no",
     "fee": "no",
     "fountain": "bubbler",
+    "hot_water": "no",
+    "iced_water": "no",
     "indoor": "no",
     "note": "historische Wasserzapfstelle",
     "opening_hours": "Apr-Oct: 24/7",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no",
     "wheelchair": "no"
   }
 },
 {
   "type": "node",
   "id": 320669483,
-  "lat": 49.4692374,
-  "lon": 8.7504191,
+  "lat": 49.4692330,
+  "lon": 8.7504259,
   "tags": {
     "drinking_water": "yes",
     "name": "Brunnen am Forsthausweg",
@@ -656,10 +624,14 @@
   "lat": 49.4157261,
   "lon": 8.7004521,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
+    "check_date": "2025-08-31",
+    "fee": "no",
     "natural": "spring",
     "wheelchair": "no",
-    "wheelchair:description": "Weg dahin nur über eine Treppe erreichbar (27 Stufen) - oder über eine Wiese"
+    "wheelchair:description": "Weg dahin nur über eine Treppe erreichbar (27 Stufen) - oder über eine Wiese",
+    "wikimedia_commons": "File:Trinkwasserquelle Philosophenweg Heidelberg.jpg"
   }
 },
 {
@@ -788,6 +760,7 @@
   "lon": 8.7105891,
   "tags": {
     "amenity": "drinking_water",
+    "fee": "no",
     "fountain": "drinking",
     "name": "Schwefelquelle"
   }
@@ -857,10 +830,14 @@
   "lat": 49.4157681,
   "lon": 8.7006398,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
+    "check_date": "2025-08-31",
+    "fee": "no",
     "natural": "spring",
     "wheelchair": "no",
-    "wheelchair:description": "Weg dahin nur über eine Treppe erreichbar (27 Stufen) - oder über eine Wiese"
+    "wheelchair:description": "Weg dahin nur über eine Treppe erreichbar (27 Stufen) - oder über eine Wiese",
+    "wikimedia_commons": "File:Trinkwasserquelle 2 Philosophenweg Heidelberg.jpg"
   }
 },
 {
@@ -931,6 +908,7 @@
   "lon": 8.7105044,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-08-31",
     "description": "1701",
     "drinking_water": "yes",
     "intermittent": "no",
@@ -938,7 +916,8 @@
     "natural": "spring",
     "note": "Wegweiserstein siehe https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1108929494/heidelberg/Objektdatenbank/67/PDF/67_pdf_flyer_wegweisersteine_lay_03.pdf und https://geoweb.heidelberg.de/geoportal/geodaten/Wegweisersteine/WWSListe.html",
     "ref": "III08a",
-    "source:position": "HiRes aerial imagery"
+    "source:position": "HiRes aerial imagery",
+    "wikimedia_commons": "File:Buchbrunnen Heidelberg.jpg"
   }
 },
 {
@@ -1009,7 +988,7 @@
     "name": "Münchelbrunnen",
     "natural": "spring",
     "note": "Wegweiserstein siehe https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1108929494/heidelberg/Objektdatenbank/67/PDF/67_pdf_flyer_wegweisersteine_lay_03.pdf und https://geoweb.heidelberg.de/geoportal/geodaten/Wegweisersteine/WWSListe.html",
-    "ref": "K43d",
+    "ref": "K43c;K43d",
     "source:position": "HiRes aerial imagery",
     "start_date": "1905"
   }
@@ -1112,10 +1091,12 @@
   "lon": 8.7157120,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-08-31",
     "name": "Strangwasenbrunnen",
     "natural": "spring",
     "note": "Wegweiserstein siehe https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1108929494/heidelberg/Objektdatenbank/67/PDF/67_pdf_flyer_wegweisersteine_lay_03.pdf und https://geoweb.heidelberg.de/geoportal/geodaten/Wegweisersteine/WWSListe.html",
-    "ref": "III11c"
+    "ref": "III11c",
+    "wikimedia_commons": "File:Strangwasenbrunnen Heidelberg.jpg"
   }
 },
 {
@@ -1184,16 +1165,6 @@
     "amenity": "fountain",
     "drinking_water": "yes",
     "note": "functional only in summer"
-  }
-},
-{
-  "type": "node",
-  "id": 615411032,
-  "lat": 49.1285640,
-  "lon": 8.5987475,
-  "tags": {
-    "amenity": "fountain",
-    "drinking_water": "yes"
   }
 },
 {
@@ -1321,6 +1292,7 @@
   "lon": 8.6592848,
   "tags": {
     "amenity": "drinking_water",
+    "fountain": "drinking",
     "name": "Eysenbach-Brunnen"
   }
 },
@@ -1421,8 +1393,8 @@
     "brand": "wikidata=Q104814416",
     "changing_table": "yes",
     "charge": "1.00 EUR",
-    "check_date": "2024-12-08",
-    "check_date:opening_hours": "2024-12-08",
+    "check_date": "2026-02-25",
+    "check_date:opening_hours": "2026-02-25",
     "drinking_water": "yes",
     "fee": "yes",
     "indoor": "yes",
@@ -1679,8 +1651,11 @@
   "lon": 8.3710421,
   "tags": {
     "amenity": "drinking_water",
+    "bottle": "yes",
+    "fee": "no",
     "man_made": "water_tap",
     "name": "Trinkbrunnen Günther-Klotz-Anlage",
+    "operational_status": "closed",
     "start_date": "2007",
     "wheelchair": "yes"
   }
@@ -1700,7 +1675,9 @@
   "lat": 49.8129300,
   "lon": 8.6487700,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "check_date": "2025-10-12",
+    "fountain": "drinking"
   }
 },
 {
@@ -2073,7 +2050,8 @@
   "lon": 8.8449053,
   "tags": {
     "amenity": "drinking_water",
-    "indoor": "no"
+    "indoor": "no",
+    "man_made": "water_tap"
   }
 },
 {
@@ -2083,8 +2061,11 @@
   "lon": 8.7287116,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-08-31",
     "fee": "no",
-    "name": "Dörr-Brunnen"
+    "name": "Dörrbrunnen",
+    "natural": "spring",
+    "wikimedia_commons": "File:Dörrbrunnen Weisser Stein Heidelberg.jpg"
   }
 },
 {
@@ -2246,9 +2227,11 @@
   "lon": 8.6999285,
   "tags": {
     "amenity": "drinking_water",
+    "check_date": "2025-09-18",
     "drinking_water": "conditional",
     "name": "Eleonoren-Brunnen",
-    "natural": "spring"
+    "natural": "spring",
+    "refitted": "yes"
   }
 },
 {
@@ -2260,6 +2243,7 @@
     "access": "yes",
     "alt_name": "Darmbachquelle",
     "amenity": "drinking_water",
+    "check_date": "2025-09-18",
     "drinking_water": "yes",
     "fee": "no",
     "fixme": "ich meine inscription wäre 1837",
@@ -2268,6 +2252,7 @@
     "name": "Darmquelle",
     "natural": "spring",
     "note": "Source for drinking water quality: https://www.p-stadtkultur.de/das-wasserquartett/",
+    "refitted": "yes",
     "wheelchair": "no"
   }
 },
@@ -2454,16 +2439,6 @@
 },
 {
   "type": "node",
-  "id": 2101491615,
-  "lat": 49.6731042,
-  "lon": 8.5454211,
-  "tags": {
-    "amenity": "drinking_water",
-    "fountain": "drinking"
-  }
-},
-{
-  "type": "node",
   "id": 2126483540,
   "lat": 49.3658757,
   "lon": 8.0788096,
@@ -2501,14 +2476,15 @@
     "lit": "yes",
     "operator": "Stadtwerke Heidelberg",
     "outdoor": "yes",
-    "wheelchair": "yes"
+    "wheelchair": "yes",
+    "wikidata": "Q131425388"
   }
 },
 {
   "type": "node",
   "id": 2312869138,
-  "lat": 49.4043506,
-  "lon": 8.8923498,
+  "lat": 49.4042315,
+  "lon": 8.8923260,
   "tags": {
     "amenity": "drinking_water",
     "description": "1962",
@@ -2522,7 +2498,9 @@
   "lon": 8.6154223,
   "tags": {
     "amenity": "drinking_water",
-    "fee": "yes"
+    "check_date": "2025-10-14",
+    "fee": "yes",
+    "man_made": "water_tap"
   }
 },
 {
@@ -2606,15 +2584,6 @@
 },
 {
   "type": "node",
-  "id": 2472053511,
-  "lat": 49.0435819,
-  "lon": 8.5260017,
-  "tags": {
-    "amenity": "drinking_water"
-  }
-},
-{
-  "type": "node",
   "id": 2476314054,
   "lat": 49.2974780,
   "lon": 8.9203198,
@@ -2626,8 +2595,8 @@
 {
   "type": "node",
   "id": 2478942490,
-  "lat": 49.4103728,
-  "lon": 8.7354227,
+  "lat": 49.4103191,
+  "lon": 8.7354113,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -2834,12 +2803,16 @@
     "amenity": "toilets",
     "brand": "rail & fresh",
     "changing_table": "yes",
+    "charge": "1.00 EUR",
     "drinking_water": "yes",
-    "fee": "EUR 1.00",
+    "fee": "yes",
     "female": "yes",
     "male": "yes",
     "opening_hours": "24/7",
     "operator": "Hering",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
     "toilets:disposal": "flush",
     "toilets:handwashing": "yes",
     "website": "https://www.wc-fresh.com/standort/neustadt-an-der-weinstrasse-hauptbahnhof/",
@@ -2858,6 +2831,7 @@
     "historic": "yes",
     "image": "http://commons.wikimedia.org/wiki/File:Brunnen_Wassersch%C3%B6pfender_Knabe_KA_2012.JPG",
     "name": "Wasserschöpfender Knabe",
+    "operational_status": "broken",
     "source": "survey",
     "start_date": "1905"
   }
@@ -2883,15 +2857,6 @@
     "name": "Moselbrunnen",
     "natural": "spring",
     "start_date": "1896"
-  }
-},
-{
-  "type": "node",
-  "id": 2743734926,
-  "lat": 49.7417037,
-  "lon": 8.7074961,
-  "tags": {
-    "amenity": "drinking_water"
   }
 },
 {
@@ -3494,6 +3459,7 @@
     "amenity": "drinking_water",
     "artist_name": "Friedrich Ratzel",
     "drinking_water": "yes",
+    "fee": "no",
     "fountain": "drinking",
     "name": "Pelikanbrunnen",
     "start_date": "1908"
@@ -3517,6 +3483,7 @@
   "tags": {
     "amenity": "drinking_water",
     "fee": "no",
+    "fountain": "drinking",
     "indoor": "no",
     "start_date": "1869"
   }
@@ -3579,7 +3546,9 @@
     "charge": "0,10 € pro Liter",
     "covered": "yes",
     "description": "Kostenpflichtig 0,1€ / Liter",
-    "fee": "yes"
+    "fee": "yes",
+    "man_made": "water_tap",
+    "payment:cash": "yes"
   }
 },
 {
@@ -3652,7 +3621,9 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
+    "check_date": "2025-12-25",
     "fee": "no",
+    "man_made": "water_tap",
     "wheelchair": "limited"
   }
 },
@@ -3665,17 +3636,6 @@
     "drinking_water": "yes",
     "drinking_water:legal": "yes",
     "man_made": "water_well"
-  }
-},
-{
-  "type": "node",
-  "id": 4297031166,
-  "lat": 49.6631126,
-  "lon": 8.9889006,
-  "tags": {
-    "amenity": "drinking_water",
-    "check_date": "2022-10-12",
-    "fee": "yes"
   }
 },
 {
@@ -3733,6 +3693,7 @@
     "female": "yes",
     "level": "-1",
     "male": "yes",
+    "opening_hours": "24/7",
     "operator": "Stadt Karlsruhe",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
@@ -4526,12 +4487,14 @@
   "tags": {
     "access": "yes",
     "amenity": "toilets",
+    "check_date:opening_hours": "2025-12-13",
     "description": "Toilette im Waldpark",
     "drinking_water": "yes",
     "fee": "no",
     "female": "yes",
     "male": "yes",
     "name": "Toilette im Waldpark",
+    "opening_hours:signed": "no",
     "operator": "Stadt Ladenburg",
     "toilets:disposal": "flush",
     "toilets:position": "seated;urinal",
@@ -5033,6 +4996,19 @@
 },
 {
   "type": "node",
+  "id": 8731126528,
+  "lat": 49.4581226,
+  "lon": 8.8708585,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "name": "Drachenbrunnen",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
   "id": 8789522029,
   "lat": 49.9302343,
   "lon": 8.0384383,
@@ -5097,7 +5073,7 @@
   "type": "node",
   "id": 8956783307,
   "lat": 49.1932696,
-  "lon": 8.1009780,
+  "lon": 8.1009563,
   "tags": {
     "drinking_water": "yes",
     "man_made": "water_tap"
@@ -5205,8 +5181,12 @@
   "lat": 49.5115291,
   "lon": 8.6582127,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "fountain": "drinking"
+    "fee": "no",
+    "fountain": "drinking",
+    "image": "https://web.archive.org/web/20251119102803/https://streetcomplete.app/p/261886.jpg",
+    "name": "Gassefest-Brunnen 1988"
   }
 },
 {
@@ -5283,7 +5263,9 @@
   "lat": 49.0063686,
   "lon": 8.3386579,
   "tags": {
-    "amenity": "drinking_water"
+    "drinking_water": "yes",
+    "drinking_water:legal": "unsigned",
+    "man_made": "water_tap"
   }
 },
 {
@@ -5293,6 +5275,7 @@
   "lon": 8.4110120,
   "tags": {
     "amenity": "drinking_water",
+    "fee": "no",
     "fountain": "bubbler",
     "source": "Planunterlagen Berlinerplatz Stadt Karlsruhe",
     "wheelchair": "yes"
@@ -5602,19 +5585,6 @@
 },
 {
   "type": "node",
-  "id": 9838386744,
-  "lat": 49.9874989,
-  "lon": 8.2759373,
-  "tags": {
-    "amenity": "drinking_water",
-    "indoor": "yes",
-    "name": "Refill-Station",
-    "operator": "Phoenix-Apotheke",
-    "website": "https://refill-deutschland.de/mainz/"
-  }
-},
-{
-  "type": "node",
   "id": 9882903941,
   "lat": 49.4961745,
   "lon": 8.4732203,
@@ -5839,7 +5809,11 @@
     "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
-    "fountain": "bubbler"
+    "fee": "no",
+    "fountain": "bubbler",
+    "opening_hours": "24/7",
+    "panoramax": "728409ab-d8d1-48d5-ab54-d8d9287b28ee",
+    "panoramax:0": "d59c0d0d-8f15-4183-bb85-f03a8e8f0ef4"
   }
 },
 {
@@ -5945,6 +5919,8 @@
     "covered": "no",
     "fee": "no",
     "indoor": "no",
+    "man_made": "water_well",
+    "pump": "manual",
     "wheelchair": "yes"
   }
 },
@@ -6004,8 +5980,8 @@
   "lon": 8.4038188,
   "tags": {
     "access": "yes",
-    "amenity": "toilets",
     "charge": "0,50€",
+    "disused:amenity": "drinking_water",
     "drinking_water": "yes",
     "fee": "yes",
     "female": "yes",
@@ -6095,7 +6071,8 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "fee": "no"
+    "fee": "no",
+    "wheelchair": "limited"
   }
 },
 {
@@ -6106,7 +6083,8 @@
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
-    "fee": "no"
+    "fee": "no",
+    "wheelchair": "limited"
   }
 },
 {
@@ -6121,66 +6099,9 @@
 },
 {
   "type": "node",
-  "id": 10799087104,
-  "lat": 49.9930439,
-  "lon": 8.2473887,
-  "tags": {
-    "access": "yes",
-    "amenity": "drinking_water",
-    "fee": "no"
-  }
-},
-{
-  "type": "node",
   "id": 10799106141,
   "lat": 49.9954025,
   "lon": 8.2487071,
-  "tags": {
-    "access": "yes",
-    "amenity": "drinking_water",
-    "fee": "no",
-    "man_made": "water_tap"
-  }
-},
-{
-  "type": "node",
-  "id": 10799106142,
-  "lat": 49.9944389,
-  "lon": 8.2490333,
-  "tags": {
-    "access": "yes",
-    "amenity": "drinking_water",
-    "fee": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 10799109505,
-  "lat": 49.9950335,
-  "lon": 8.2479873,
-  "tags": {
-    "access": "yes",
-    "amenity": "drinking_water",
-    "fee": "no",
-    "man_made": "water_tap"
-  }
-},
-{
-  "type": "node",
-  "id": 10799116213,
-  "lat": 49.9942148,
-  "lon": 8.2498658,
-  "tags": {
-    "access": "yes",
-    "amenity": "drinking_water",
-    "fee": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 10799116214,
-  "lat": 49.9939767,
-  "lon": 8.2517809,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
@@ -6421,7 +6342,7 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
-    "check_date": "2023-07-09",
+    "check_date": "2025-09-18",
     "fee": "no",
     "fountain": "bubbler",
     "indoor": "no",
@@ -6441,8 +6362,8 @@
 {
   "type": "node",
   "id": 11049852835,
-  "lat": 49.4038832,
-  "lon": 8.7273779,
+  "lat": 49.4038740,
+  "lon": 8.7273862,
   "tags": {
     "access": "yes",
     "drinking_water": "yes",
@@ -6497,6 +6418,7 @@
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
+    "man_made": "water_tap",
     "panoramax": "a355394f-bcc0-434f-a122-fc753ca27220"
   }
 },
@@ -6547,9 +6469,14 @@
   "lat": 49.8791208,
   "lon": 8.6517683,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
+    "colour": "green",
     "drinking_water": "yes",
-    "fountain": "bottle_refill"
+    "fee": "no",
+    "fountain": "bottle_refill",
+    "note": "Historische Zapfstelle",
+    "wheelchair": "no"
   }
 },
 {
@@ -6634,9 +6561,11 @@
   "lon": 8.6338069,
   "tags": {
     "access": "yes",
-    "amenity": "toilets",
+    "amenity": "drinking_water",
+    "bottle": "yes",
     "drinking_water": "yes",
     "fee": "no",
+    "opening_hours": "24/7",
     "toilets:disposal": "flush",
     "unisex": "yes"
   }
@@ -6674,12 +6603,18 @@
   "lon": 8.6517703,
   "tags": {
     "amenity": "drinking_water",
+    "cold_water": "no",
     "covered": "no",
     "fee": "no",
     "fountain": "bottle_refill",
+    "hot_water": "no",
+    "iced_water": "no",
     "indoor": "no",
     "lit": "yes",
-    "opening_hours": "Apr-Oct: 24/7"
+    "opening_hours": "Apr-Oct: 24/7",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no"
   }
 },
 {
@@ -6800,8 +6735,8 @@
 {
   "type": "node",
   "id": 11853717189,
-  "lat": 49.9182920,
-  "lon": 8.3411432,
+  "lat": 49.9183030,
+  "lon": 8.3411575,
   "tags": {
     "amenity": "drinking_water",
     "bottle": "yes",
@@ -6882,6 +6817,7 @@
   "lat": 49.9623862,
   "lon": 8.9528917,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
     "covered": "no",
@@ -6889,6 +6825,8 @@
     "fountain": "drinking",
     "indoor": "no",
     "info": "Nur in der frostfreien Jahreszeit installiert!",
+    "operator": "Stadt Babenhausen",
+    "seasonal": "spring;summer;autumn",
     "wheelchair": "yes"
   }
 },
@@ -6916,8 +6854,11 @@
   "lat": 49.4956030,
   "lon": 8.4725547,
   "tags": {
+    "access": "yes",
     "amenity": "drinking_water",
-    "fountain": "bubbler"
+    "fee": "no",
+    "fountain": "bubbler",
+    "operator": "Stadt Mannheim"
   }
 },
 {
@@ -6969,7 +6910,9 @@
   "lat": 49.0087970,
   "lon": 8.3836677,
   "tags": {
-    "amenity": "drinking_water"
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "pump": "manual"
   }
 },
 {
@@ -7041,18 +6984,11 @@
     "access": "yes",
     "check_date": "2024-09-03",
     "drinking_water": "yes",
+    "fee": "no",
     "man_made": "water_tap",
-    "material": "metal"
-  }
-},
-{
-  "type": "node",
-  "id": 12157650667,
-  "lat": 49.2190568,
-  "lon": 8.6341042,
-  "tags": {
-    "amenity": "fountain",
-    "drinking_water": "yes"
+    "material": "metal",
+    "opening_hours": "Apr-Oct: 24/7;",
+    "seasonal": "spring;summer;autumn"
   }
 },
 {
@@ -7494,16 +7430,6 @@
 },
 {
   "type": "node",
-  "id": 12358541056,
-  "lat": 49.9964181,
-  "lon": 8.2483809,
-  "tags": {
-    "amenity": "drinking_water",
-    "fee": "no"
-  }
-},
-{
-  "type": "node",
   "id": 12369571055,
   "lat": 49.4030052,
   "lon": 8.6737651,
@@ -7588,16 +7514,23 @@
 {
   "type": "node",
   "id": 12629212325,
-  "lat": 49.8707103,
-  "lon": 8.6546169,
+  "lat": 49.8707215,
+  "lon": 8.6546026,
   "tags": {
     "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
+    "cold_water": "no",
     "covered": "no",
     "fee": "no",
     "fountain": "bubbler",
+    "hot_water": "no",
+    "iced_water": "no",
     "indoor": "no",
+    "opening_hours": "Apr-Oct: 24/7",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no",
     "wheelchair": "yes"
   }
 },
@@ -7718,10 +7651,17 @@
     "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
+    "cold_water": "no",
     "covered": "no",
     "fee": "no",
     "fountain": "bubbler",
+    "hot_water": "no",
+    "iced_water": "no",
     "image": "https://img.echo-online.de/lokales/darmstadt/dk5ggb-Trinkwasserspender-Darmstadt/alternates/WIDE_960/Trinkwasserspender%20Darmstadt.webp",
+    "opening_hours": "Apr-Oct: 24/7;",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no",
     "wheelchair": "yes"
   }
 },
@@ -7826,6 +7766,83 @@
   "tags": {
     "amenity": "drinking_water",
     "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 12695689289,
+  "lat": 49.0075877,
+  "lon": 8.3381142,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "unsigned",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12695689293,
+  "lat": 49.0070503,
+  "lon": 8.3380665,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "unsigned",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12695689296,
+  "lat": 49.0074344,
+  "lon": 8.3384763,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "unsigned",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12695709657,
+  "lat": 49.0069037,
+  "lon": 8.3387880,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "unsigned",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12695709665,
+  "lat": 49.0064761,
+  "lon": 8.3379594,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "unsigned",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12695709666,
+  "lat": 49.0063228,
+  "lon": 8.3375683,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "unsigned",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 12695709667,
+  "lat": 49.0067662,
+  "lon": 8.3380719,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "unsigned",
+    "man_made": "water_tap"
   }
 },
 {
@@ -8319,6 +8336,7 @@
   "lon": 8.4038463,
   "tags": {
     "amenity": "drinking_water",
+    "fountain": "drinking",
     "name": "Ludwigsbrunnen"
   }
 },
@@ -8372,11 +8390,19 @@
     "amenity": "drinking_water",
     "bottle": "yes",
     "capacity": "1",
+    "cold_water": "no",
     "covered": "no",
     "fee": "no",
     "fountain": "bubbler",
+    "hot_water": "no",
+    "iced_water": "no",
     "indoor": "no",
+    "level": "0",
+    "opening_hours": "Apr-Oct: 24/7",
     "operator": "Stadt Darmstadt",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no",
     "wheelchair": "yes"
   }
 },
@@ -8499,8 +8525,8 @@
 {
   "type": "node",
   "id": 12956766744,
-  "lat": 49.8606531,
-  "lon": 8.6823419,
+  "lat": 49.8606800,
+  "lon": 8.6823379,
   "tags": {
     "access": "yes",
     "addr:floor": "0",
@@ -8512,7 +8538,9 @@
     "indoor": "no",
     "level": "0",
     "lit": "no",
+    "opening_hours": "Apr-Oct: 24/7;",
     "operator": "TU Darmstadt",
+    "seasonal": "spring;summer;autumn",
     "wheelchair": "yes"
   }
 },
@@ -8698,9 +8726,17 @@
     "access": "yes",
     "amenity": "drinking_water",
     "bottle": "yes",
+    "cold_water": "no",
     "covered": "no",
     "fee": "no",
+    "fountain": "bubbler",
+    "hot_water": "no",
+    "iced_water": "no",
     "indoor": "no",
+    "opening_hours": "Apr-Oct: 24/7",
+    "room_temperature_water": "yes",
+    "seasonal": "spring;summer;autumn",
+    "warm_water": "no",
     "wheelchair": "yes"
   }
 },
@@ -8820,7 +8856,8 @@
     "amenity": "drinking_water",
     "check_date": "2025-08-09",
     "indoor": "no",
-    "lit": "no"
+    "lit": "no",
+    "man_made": "water_tap"
   }
 },
 {
@@ -8840,6 +8877,267 @@
   "tags": {
     "drinking_water": "yes",
     "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13075852152,
+  "lat": 49.5131276,
+  "lon": 8.7439572,
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13095919038,
+  "lat": 49.3688594,
+  "lon": 8.5810253,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "operator": "Gemeinde Oftersheim"
+  }
+},
+{
+  "type": "node",
+  "id": 13109269884,
+  "lat": 49.3845408,
+  "lon": 8.5704983,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13110635928,
+  "lat": 49.5652635,
+  "lon": 8.1679566,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13123990644,
+  "lat": 49.6116472,
+  "lon": 8.6451498,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "note": "Position evtl. um einige Meter falsch.",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13151047382,
+  "lat": 49.4610211,
+  "lon": 8.5999461,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13152580572,
+  "lat": 49.0013738,
+  "lon": 8.5254843,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13164594809,
+  "lat": 49.4872487,
+  "lon": 8.4659375,
+  "tags": {
+    "access": "yes",
+    "amenity": "drinking_water",
+    "fee": "no",
+    "fountain": "bubbler"
+  }
+},
+{
+  "type": "node",
+  "id": 13175832504,
+  "lat": 49.3540549,
+  "lon": 8.1366471,
+  "tags": {
+    "amenity": "fountain",
+    "fountain": "drinking"
+  }
+},
+{
+  "type": "node",
+  "id": 13175917631,
+  "lat": 49.3538148,
+  "lon": 8.1355142,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13183612835,
+  "lat": 49.2255642,
+  "lon": 8.5185312,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 13232726702,
+  "lat": 49.0914817,
+  "lon": 8.4279496,
+  "tags": {
+    "amenity": "fountain",
+    "artist_name": "Werner Pokorny",
+    "artwork_type": "sculpture",
+    "drinking_water": "yes",
+    "material": "wood;sandstone",
+    "name": "Scheckenäckerbrunnen",
+    "start_date": "1990",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 13274651521,
+  "lat": 49.0110075,
+  "lon": 8.4169592,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 13283626622,
+  "lat": 49.6004290,
+  "lon": 8.4636675,
+  "tags": {
+    "drinking_water": "yes",
+    "drinking_water:legal": "yes",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13285154632,
+  "lat": 49.5660626,
+  "lon": 8.1633601,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_tap"
+  }
+},
+{
+  "type": "node",
+  "id": 13345436236,
+  "lat": 49.3898636,
+  "lon": 8.6867168,
+  "tags": {
+    "access": "permissive",
+    "amenity": "toilets",
+    "description": "Only accessible while Tegut is open. On Sundays, it's accessible through the back door of the bakery, which is usually open to allow access to the toilets and Packstation.",
+    "drinking_water": "yes",
+    "fee": "no",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "opening_hours": "Mo-Sa 07:00-22:00; Su,PH 07:30-15:00",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13437770841,
+  "lat": 49.1153089,
+  "lon": 8.2423587,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13437770843,
+  "lat": 49.1157417,
+  "lon": 8.2422914,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13437770845,
+  "lat": 49.1153831,
+  "lon": 8.2426552,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13437770846,
+  "lat": 49.1157551,
+  "lon": 8.2430224,
+  "tags": {
+    "amenity": "drinking_water",
+    "bottle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13564419395,
+  "lat": 49.8099442,
+  "lon": 8.6028331,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13601890838,
+  "lat": 49.0109679,
+  "lon": 8.4169690,
+  "tags": {
+    "amenity": "drinking_water",
+    "fountain": "bottle_refill"
+  }
+},
+{
+  "type": "node",
+  "id": 13666776965,
+  "lat": 49.0796676,
+  "lon": 8.0653568,
+  "tags": {
+    "amenity": "drinking_water"
   }
 }
 
